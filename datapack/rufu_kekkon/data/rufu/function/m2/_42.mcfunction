@@ -1,0 +1,1 @@
+give @s minecraft:iron_sword[custom_name={text:"🔪 万能ナイフ",color:"white",bold:true,italic:false},lore=[{text:"小麦・サトウキビ・花を刈れる",color:"gray",italic:false},{text:"牛も豚もこれで",color:"gray",italic:false}],custom_data={rufu_m:1b},unbreakable={},can_break={blocks:["minecraft:wheat","minecraft:sugar_cane","#minecraft:small_flowers"]}] 1

@@ -1,0 +1,20 @@
+{
+  "pack": {
+    "description": [
+      {
+        "text": "恋 ～結婚の試練～ ",
+        "color": "light_purple",
+        "bold": true
+      },
+      {
+        "text": "by Rufu / MC 26.3",
+        "color": "gray"
+      }
+    ],
+    "min_format": [
+      121,
+      0
+    ],
+    "max_format": 130
+  }
+}

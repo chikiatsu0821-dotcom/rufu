@@ -1,0 +1,14 @@
+fill 126 65 208 130 71 208 minecraft:air strict
+fill 126 64 209 130 64 214 minecraft:air strict
+fill 126 65 208 130 65 208 minecraft:spruce_slab[type=bottom] strict
+fill 126 64 208 130 64 208 minecraft:spruce_planks strict
+fill 126 66 209 130 66 209 minecraft:spruce_slab[type=bottom] strict
+fill 126 65 209 130 65 209 minecraft:spruce_planks strict
+fill 126 67 210 130 67 210 minecraft:spruce_slab[type=bottom] strict
+fill 126 66 210 130 66 210 minecraft:spruce_planks strict
+fill 126 68 211 130 68 211 minecraft:spruce_slab[type=bottom] strict
+fill 126 67 211 130 67 211 minecraft:spruce_planks strict
+fill 126 69 212 130 69 212 minecraft:spruce_slab[type=bottom] strict
+fill 126 68 212 130 68 212 minecraft:spruce_planks strict
+playsound minecraft:block.chain.place master @a 128 68 208 2 0.5
+playsound minecraft:block.piston.contract master @a 128 68 208 2 0.5

@@ -1,0 +1,6 @@
+clear @s minecraft:carrot_on_a_stick[custom_data~{rufu_remote:"next"}]
+clear @s minecraft:carrot_on_a_stick[custom_data~{rufu_remote:"again"}]
+clear @s minecraft:carrot_on_a_stick[custom_data~{rufu_remote:"redo"}]
+give @s minecraft:carrot_on_a_stick[custom_name={text:"▶ 次へ",color:"green",bold:true,italic:false},lore=[{text:"右クリック：次の段階へ進む",color:"gray",italic:false},{text:"るふ専用リモコン",color:"gray",italic:false}],custom_data={rufu_remote:"next"},item_model="minecraft:lime_dye",enchantment_glint_override=true,unbreakable={}] 1
+give @s minecraft:carrot_on_a_stick[custom_name={text:"↻ もう一回",color:"yellow",bold:true,italic:false},lore=[{text:"右クリック：今の段階をもう一度",color:"gray",italic:false},{text:"るふ専用リモコン",color:"gray",italic:false}],custom_data={rufu_remote:"again"},item_model="minecraft:yellow_dye",enchantment_glint_override=true,unbreakable={}] 1
+give @s minecraft:carrot_on_a_stick[custom_name={text:"⟲ やり直し",color:"red",bold:true,italic:false},lore=[{text:"右クリック：今のミッションを最初から",color:"gray",italic:false},{text:"（トラブル用・リトライ回数は増えない）",color:"gray",italic:false},{text:"るふ専用リモコン",color:"gray",italic:false}],custom_data={rufu_remote:"redo"},item_model="minecraft:red_dye",enchantment_glint_override=true,unbreakable={}] 1

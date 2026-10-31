@@ -1,0 +1,3 @@
+summon minecraft:firework_rocket 124.5 66 70.5 {LifeTime:20,FireworksItem:{id:"minecraft:firework_rocket",count:1,components:{fireworks:{flight_duration:1,explosions:[{shape:"large_ball",colors:[I;16740277,16777215],fade_colors:[I;16765416],has_trail:true,has_twinkle:true}]}}},Tags:["rufu_fw"]}
+summon minecraft:firework_rocket 132.5 66 70.5 {LifeTime:20,FireworksItem:{id:"minecraft:firework_rocket",count:1,components:{fireworks:{flight_duration:1,explosions:[{shape:"large_ball",colors:[I;16740277,16777215],fade_colors:[I;16765416],has_trail:true,has_twinkle:true}]}}},Tags:["rufu_fw"]}
+execute as @a at @s run playsound minecraft:entity.villager.celebrate master @s ~ ~ ~ 1 1.3

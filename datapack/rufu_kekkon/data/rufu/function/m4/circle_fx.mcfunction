@@ -1,0 +1,16 @@
+particle minecraft:end_rod 200.00 81.1 89.50 0 0.2 0 0.01 1
+particle minecraft:end_rod 199.66 81.1 91.22 0 0.2 0 0.01 1
+particle minecraft:end_rod 198.68 81.1 92.68 0 0.2 0 0.01 1
+particle minecraft:end_rod 197.22 81.1 93.66 0 0.2 0 0.01 1
+particle minecraft:end_rod 195.50 81.1 94.00 0 0.2 0 0.01 1
+particle minecraft:end_rod 193.78 81.1 93.66 0 0.2 0 0.01 1
+particle minecraft:end_rod 192.32 81.1 92.68 0 0.2 0 0.01 1
+particle minecraft:end_rod 191.34 81.1 91.22 0 0.2 0 0.01 1
+particle minecraft:end_rod 191.00 81.1 89.50 0 0.2 0 0.01 1
+particle minecraft:end_rod 191.34 81.1 87.78 0 0.2 0 0.01 1
+particle minecraft:end_rod 192.32 81.1 86.32 0 0.2 0 0.01 1
+particle minecraft:end_rod 193.78 81.1 85.34 0 0.2 0 0.01 1
+particle minecraft:end_rod 195.50 81.1 85.00 0 0.2 0 0.01 1
+particle minecraft:end_rod 197.22 81.1 85.34 0 0.2 0 0.01 1
+particle minecraft:end_rod 198.68 81.1 86.32 0 0.2 0 0.01 1
+particle minecraft:end_rod 199.66 81.1 87.78 0 0.2 0 0.01 1

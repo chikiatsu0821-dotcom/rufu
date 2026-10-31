@@ -1,0 +1,1 @@
+give @s minecraft:wooden_shovel[custom_name={text:"🪏 宝さがしスコップ",color:"yellow",italic:false},lore=[{text:"地面の×印（荒い土）を掘れる",color:"gray",italic:false},{text:"丘には宝箱が3つ埋まっている",color:"gray",italic:false}],custom_data={rufu_m:1b},unbreakable={},can_break={blocks:"minecraft:coarse_dirt"}] 1
