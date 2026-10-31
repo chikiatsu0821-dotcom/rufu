@@ -1,55 +1,3 @@
-fill 199 59 43 200 59 43 minecraft:mud strict
-setblock 199 59 44 minecraft:mud strict
-fill 200 59 46 201 59 46 minecraft:mud strict
-setblock 200 59 211 minecraft:mud strict
-fill 200 59 214 201 59 214 minecraft:mud strict
-setblock 201 59 208 minecraft:mud strict
-fill 201 59 210 202 59 210 minecraft:mud strict
-setblock 202 59 213 minecraft:mud strict
-setblock 203 59 42 minecraft:mud strict
-setblock 203 59 46 minecraft:mud strict
-setblock 203 59 208 minecraft:mud strict
-fill 204 59 209 205 59 209 minecraft:mud strict
-setblock 204 59 212 minecraft:mud strict
-fill 205 59 41 205 59 43 minecraft:mud strict
-fill 205 59 210 207 59 210 minecraft:mud strict
-setblock 205 59 211 minecraft:mud strict
-setblock 206 59 213 minecraft:mud strict
-fill 207 59 42 207 59 43 minecraft:mud strict
-setblock 207 59 208 minecraft:mud strict
-setblock 208 59 41 minecraft:mud strict
-setblock 208 59 43 minecraft:mud strict
-setblock 208 59 213 minecraft:mud strict
-setblock 209 59 42 minecraft:mud strict
-setblock 209 59 45 minecraft:mud strict
-fill 209 59 208 209 59 209 minecraft:mud strict
-setblock 209 59 214 minecraft:mud strict
-setblock 210 59 210 minecraft:mud strict
-setblock 211 59 42 minecraft:mud strict
-fill 211 59 45 216 59 45 minecraft:mud strict
-setblock 211 59 47 minecraft:mud strict
-fill 211 59 212 212 59 212 minecraft:mud strict
-setblock 212 59 46 minecraft:mud strict
-fill 212 59 210 212 59 211 minecraft:mud strict
-setblock 212 59 214 minecraft:mud strict
-setblock 214 59 44 minecraft:mud strict
-setblock 214 59 209 minecraft:mud strict
-setblock 215 59 47 minecraft:mud strict
-setblock 215 59 211 minecraft:mud strict
-fill 215 59 214 216 59 214 minecraft:mud strict
-fill 216 59 210 217 59 210 minecraft:mud strict
-fill 217 59 42 218 59 42 minecraft:mud strict
-fill 217 59 43 217 59 44 minecraft:mud strict
-setblock 218 59 41 minecraft:mud strict
-setblock 218 59 45 minecraft:mud strict
-fill 219 59 43 219 59 44 minecraft:mud strict
-fill 219 59 211 220 59 211 minecraft:mud strict
-fill 221 59 41 221 59 43 minecraft:mud strict
-setblock 223 59 43 minecraft:mud strict
-setblock 224 59 44 minecraft:mud strict
-setblock 224 59 54 minecraft:mud strict
-setblock 224 59 58 minecraft:mud strict
-fill 224 59 60 226 59 60 minecraft:mud strict
 fill 224 59 64 224 59 65 minecraft:mud strict
 fill 224 59 71 224 59 72 minecraft:mud strict
 fill 224 59 74 224 59 75 minecraft:mud strict
@@ -433,15 +381,6 @@ fill 185 67 227 185 67 228 minecraft:oak_leaves[persistent=true] strict
 fill 186 67 228 187 67 228 minecraft:oak_leaves[persistent=true] strict
 setblock 187 67 217 minecraft:oak_leaves[persistent=true] strict
 setblock 187 67 227 minecraft:oak_leaves[persistent=true] strict
-fill 22 68 246 24 68 246 minecraft:oak_leaves[persistent=true] strict
-fill 23 68 244 24 68 245 minecraft:oak_leaves[persistent=true] strict
-fill 23 68 247 27 68 247 minecraft:oak_leaves[persistent=true] strict
-fill 23 68 248 25 68 248 minecraft:oak_leaves[persistent=true] strict
-setblock 25 68 243 minecraft:oak_leaves[persistent=true] strict
-fill 25 68 245 27 68 245 minecraft:oak_leaves[persistent=true] strict
-setblock 25 68 249 minecraft:oak_leaves[persistent=true] strict
-fill 26 68 244 27 68 244 minecraft:oak_leaves[persistent=true] strict
-setblock 27 68 248 minecraft:oak_leaves[persistent=true] strict
 fill 36 68 178 40 68 178 minecraft:oak_leaves[persistent=true] strict
 fill 36 68 179 37 68 179 minecraft:oak_leaves[persistent=true] strict
 fill 37 68 177 39 68 177 minecraft:oak_leaves[persistent=true] strict
@@ -539,19 +478,6 @@ setblock 222 68 237 minecraft:oak_leaves[persistent=true] strict
 fill 235 68 235 237 68 235 minecraft:oak_leaves[persistent=true] strict
 fill 235 68 236 235 68 237 minecraft:oak_leaves[persistent=true] strict
 setblock 237 68 236 minecraft:oak_leaves[persistent=true] strict
-fill 22 69 245 28 69 245 minecraft:oak_leaves[persistent=true] strict
-fill 22 69 246 24 69 247 minecraft:oak_leaves[persistent=true] strict
-fill 23 69 244 27 69 244 minecraft:oak_leaves[persistent=true] strict
-fill 23 69 248 24 69 248 minecraft:oak_leaves[persistent=true] strict
-fill 24 69 243 25 69 243 minecraft:oak_leaves[persistent=true] strict
-fill 24 69 249 26 69 249 minecraft:oak_leaves[persistent=true] strict
-setblock 25 69 247 minecraft:oak_leaves[persistent=true] strict
-fill 26 68 246 28 69 246 minecraft:oak_leaves[persistent=true] strict
-fill 26 69 248 27 69 248 minecraft:oak_leaves[persistent=true] strict
-fill 27 69 247 28 69 247 minecraft:oak_leaves[persistent=true] strict
-fill 33 69 223 35 69 223 minecraft:oak_leaves[persistent=true] strict
-fill 33 69 224 33 69 225 minecraft:oak_leaves[persistent=true] strict
-fill 34 69 225 35 69 225 minecraft:oak_leaves[persistent=true] strict
 fill 35 69 94 37 69 94 minecraft:oak_leaves[persistent=true] strict
 fill 36 69 92 40 69 93 minecraft:oak_leaves[persistent=true] strict
 fill 36 69 95 40 69 96 minecraft:oak_leaves[persistent=true] strict
@@ -668,23 +594,8 @@ setblock 236 69 219 minecraft:oak_leaves[persistent=true] strict
 setblock 236 69 223 minecraft:oak_leaves[persistent=true] strict
 fill 236 68 237 237 69 237 minecraft:oak_leaves[persistent=true] strict
 fill 237 69 236 238 69 236 minecraft:oak_leaves[persistent=true] strict
-fill 23 70 244 23 70 247 minecraft:oak_leaves[persistent=true] strict
-fill 24 70 245 27 70 246 minecraft:oak_leaves[persistent=true] strict
-fill 24 70 247 24 70 248 minecraft:oak_leaves[persistent=true] strict
-fill 25 70 243 25 70 244 minecraft:oak_leaves[persistent=true] strict
-fill 25 70 248 27 70 248 minecraft:oak_leaves[persistent=true] strict
-setblock 25 70 249 minecraft:oak_leaves[persistent=true] strict
-fill 26 70 244 27 70 244 minecraft:oak_leaves[persistent=true] strict
-fill 26 70 247 27 70 247 minecraft:oak_leaves[persistent=true] strict
-setblock 28 70 246 minecraft:oak_leaves[persistent=true] strict
-fill 32 70 224 32 70 225 minecraft:oak_leaves[persistent=true] strict
-fill 33 70 223 36 70 223 minecraft:oak_leaves[persistent=true] strict
-fill 33 70 225 36 70 225 minecraft:oak_leaves[persistent=true] strict
-fill 34 70 222 35 70 222 minecraft:oak_leaves[persistent=true] strict
-fill 34 70 226 35 70 226 minecraft:oak_leaves[persistent=true] strict
 fill 35 70 93 41 70 93 minecraft:oak_leaves[persistent=true] strict
 fill 35 70 94 37 70 95 minecraft:oak_leaves[persistent=true] strict
-fill 35 69 224 35 70 224 minecraft:oak_leaves[persistent=true] strict
 fill 36 70 92 38 70 92 minecraft:oak_leaves[persistent=true] strict
 fill 36 70 96 40 70 96 minecraft:oak_leaves[persistent=true] strict
 fill 37 70 91 39 70 91 minecraft:oak_leaves[persistent=true] strict
@@ -770,13 +681,7 @@ setblock 234 70 225 minecraft:oak_leaves[persistent=true] strict
 fill 235 70 224 237 70 224 minecraft:oak_leaves[persistent=true] strict
 fill 235 70 235 237 70 237 minecraft:oak_leaves[persistent=true] strict
 fill 236 70 223 237 70 223 minecraft:oak_leaves[persistent=true] strict
-fill 24 71 246 24 71 247 minecraft:oak_leaves[persistent=true] strict
-fill 25 71 245 26 71 245 minecraft:oak_leaves[persistent=true] strict
-fill 25 71 247 25 71 248 minecraft:oak_leaves[persistent=true] strict
-fill 26 71 246 27 71 246 minecraft:oak_leaves[persistent=true] strict
-fill 33 71 223 34 71 225 minecraft:oak_leaves[persistent=true] strict
 fill 35 71 94 41 71 94 minecraft:oak_leaves[persistent=true] strict
-fill 35 71 224 35 71 225 minecraft:oak_leaves[persistent=true] strict
 fill 36 71 92 40 71 92 minecraft:oak_leaves[persistent=true] strict
 fill 36 71 93 37 71 93 minecraft:oak_leaves[persistent=true] strict
 fill 37 71 95 38 71 96 minecraft:oak_leaves[persistent=true] strict
@@ -900,7 +805,6 @@ fill 136 65 248 136 68 248 minecraft:oak_log[axis=y] strict
 fill 175 65 222 175 68 222 minecraft:oak_log[axis=y] strict
 fill 184 65 217 184 68 217 minecraft:oak_log[axis=y] strict
 fill 186 65 227 186 68 227 minecraft:oak_log[axis=y] strict
-fill 25 65 246 25 69 246 minecraft:oak_log[axis=y] strict
 fill 70 65 235 70 69 235 minecraft:oak_log[axis=y] strict
 fill 104 65 70 104 69 70 minecraft:oak_log[axis=y] strict
 fill 138 65 250 138 69 250 minecraft:oak_log[axis=y] strict
@@ -908,7 +812,6 @@ fill 166 65 252 166 69 252 minecraft:oak_log[axis=y] strict
 fill 172 65 249 172 69 249 minecraft:oak_log[axis=y] strict
 fill 219 65 237 219 69 237 minecraft:oak_log[axis=y] strict
 fill 236 65 236 236 69 236 minecraft:oak_log[axis=y] strict
-fill 34 65 224 34 70 224 minecraft:oak_log[axis=y] strict
 fill 38 65 94 38 70 94 minecraft:oak_log[axis=y] strict
 fill 58 65 56 58 70 56 minecraft:oak_log[axis=y] strict
 fill 68 65 88 68 70 88 minecraft:oak_log[axis=y] strict
@@ -1198,5 +1101,102 @@ setblock 193 95 86 minecraft:orange_poplar_leaves[persistent=true] strict
 fill 194 95 75 196 95 75 minecraft:orange_poplar_leaves[persistent=true] strict
 fill 194 95 82 198 95 82 minecraft:orange_poplar_leaves[persistent=true] strict
 fill 196 95 83 196 95 84 minecraft:orange_poplar_leaves[persistent=true] strict
+fill 197 95 86 198 95 86 minecraft:orange_poplar_leaves[persistent=true] strict
+fill 198 95 75 198 95 76 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 198 95 80 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 200 95 75 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 200 95 82 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 201 95 76 minecraft:orange_poplar_leaves[persistent=true] strict
+fill 201 95 78 202 95 78 minecraft:orange_poplar_leaves[persistent=true] strict
+fill 201 95 80 203 95 80 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 201 95 85 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 203 95 79 minecraft:orange_poplar_leaves[persistent=true] strict
+fill 188 96 76 189 96 76 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 188 96 80 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 189 96 79 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 189 96 81 minecraft:orange_poplar_leaves[persistent=true] strict
+fill 190 96 74 190 96 75 minecraft:orange_poplar_leaves[persistent=true] strict
+fill 190 96 82 190 96 84 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 191 96 83 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 191 96 85 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 192 96 74 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 192 96 82 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 193 96 75 minecraft:orange_poplar_leaves[persistent=true] strict
+fill 193 96 77 195 96 77 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 193 96 79 minecraft:orange_poplar_leaves[persistent=true] strict
+fill 193 96 81 195 96 81 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 193 96 83 minecraft:orange_poplar_leaves[persistent=true] strict
+fill 193 96 85 194 96 85 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 193 96 87 minecraft:orange_poplar_leaves[persistent=true] strict
+fill 194 96 73 196 96 73 minecraft:orange_poplar_leaves[persistent=true] strict
+fill 194 96 76 195 96 76 minecraft:orange_poplar_leaves[persistent=true] strict
+fill 194 95 80 194 96 80 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 194 96 84 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 195 96 72 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 195 96 86 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 196 96 82 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 197 96 78 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 197 96 83 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 197 96 85 minecraft:orange_poplar_leaves[persistent=true] strict
+fill 198 96 74 199 96 74 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 198 96 75 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 198 96 77 minecraft:orange_poplar_leaves[persistent=true] strict
+fill 198 96 81 199 96 81 minecraft:orange_poplar_leaves[persistent=true] strict
+fill 199 96 76 200 96 76 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 199 96 80 minecraft:orange_poplar_leaves[persistent=true] strict
+fill 199 96 82 201 96 82 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 200 96 73 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 200 96 78 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 200 96 86 minecraft:orange_poplar_leaves[persistent=true] strict
+fill 201 96 77 202 96 77 minecraft:orange_poplar_leaves[persistent=true] strict
+fill 201 96 79 201 96 80 minecraft:orange_poplar_leaves[persistent=true] strict
+fill 202 96 78 203 96 78 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 202 96 83 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 203 96 76 minecraft:orange_poplar_leaves[persistent=true] strict
+fill 203 95 82 203 96 82 minecraft:orange_poplar_leaves[persistent=true] strict
+fill 188 97 78 188 97 80 minecraft:orange_poplar_leaves[persistent=true] strict
+fill 189 97 77 190 97 77 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 190 97 74 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 190 97 83 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 190 97 85 minecraft:orange_poplar_leaves[persistent=true] strict
+fill 191 96 73 191 97 73 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 191 97 86 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 192 97 75 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 192 97 77 minecraft:orange_poplar_leaves[persistent=true] strict
+fill 192 97 80 192 97 81 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 192 97 84 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 193 97 74 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 193 97 85 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 194 97 73 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 194 97 75 minecraft:orange_poplar_leaves[persistent=true] strict
+fill 194 97 82 194 97 83 minecraft:orange_poplar_leaves[persistent=true] strict
+fill 194 97 86 196 97 86 minecraft:orange_poplar_leaves[persistent=true] strict
+fill 195 96 78 195 97 78 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 195 97 81 minecraft:orange_poplar_leaves[persistent=true] strict
+fill 195 97 84 195 97 85 minecraft:orange_poplar_leaves[persistent=true] strict
+fill 196 97 73 196 97 74 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 196 97 85 minecraft:orange_poplar_leaves[persistent=true] strict
+fill 197 97 72 198 97 72 minecraft:orange_poplar_leaves[persistent=true] strict
+fill 197 97 74 197 97 75 minecraft:orange_poplar_leaves[persistent=true] strict
+fill 197 97 82 198 97 82 minecraft:orange_poplar_leaves[persistent=true] strict
+fill 198 97 76 200 97 76 minecraft:orange_poplar_leaves[persistent=true] strict
+fill 198 97 86 200 97 86 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 199 97 73 minecraft:orange_poplar_leaves[persistent=true] strict
+fill 199 96 83 199 97 83 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 200 97 74 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 200 97 77 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 200 97 82 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 200 97 84 minecraft:orange_poplar_leaves[persistent=true] strict
+fill 201 97 78 201 97 79 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 201 97 81 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 201 97 83 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 201 97 85 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 202 97 82 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 189 98 76 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 189 98 78 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 190 98 75 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 190 98 80 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 191 98 81 minecraft:orange_poplar_leaves[persistent=true] strict
+setblock 192 98 76 minecraft:orange_poplar_leaves[persistent=true] strict
 bossbar set rufu:build value 75
 schedule function rufu:build/p75 1t

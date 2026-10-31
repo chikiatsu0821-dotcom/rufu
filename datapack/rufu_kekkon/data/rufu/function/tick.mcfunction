@@ -8,6 +8,7 @@ execute as @a[scores={rufu.judge=1..}] run function rufu:annoy/judge
 execute if score #seq rufu matches 1.. run function rufu:seq/tick
 execute if score #ev rufu matches 1.. run function rufu:ev/tick
 function rufu:npc/tick
+execute if score #step rufu matches ..2 run function rufu:hall/tick
 execute as @e[type=interaction,tag=rufu_click] if data entity @s interaction run function rufu:click/got
 execute as @e[type=interaction,tag=rufu_click] if data entity @s attack run function rufu:click/got_attack
 execute if score #mission rufu matches 1 run function rufu:m1/tick

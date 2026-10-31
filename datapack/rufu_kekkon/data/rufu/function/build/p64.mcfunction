@@ -1,84 +1,3 @@
-setblock 26 59 75 minecraft:clay strict
-setblock 26 59 77 minecraft:clay strict
-setblock 26 59 80 minecraft:clay strict
-setblock 26 59 85 minecraft:clay strict
-setblock 26 59 87 minecraft:clay strict
-fill 26 59 100 27 59 100 minecraft:clay strict
-fill 26 59 102 27 59 102 minecraft:clay strict
-fill 26 59 109 27 59 109 minecraft:clay strict
-setblock 26 59 114 minecraft:clay strict
-fill 26 59 116 26 59 117 minecraft:clay strict
-setblock 26 59 122 minecraft:clay strict
-setblock 26 59 124 minecraft:clay strict
-setblock 26 59 132 minecraft:clay strict
-setblock 26 59 138 minecraft:clay strict
-fill 26 59 148 26 59 149 minecraft:clay strict
-fill 26 59 154 27 59 154 minecraft:clay strict
-setblock 26 59 157 minecraft:clay strict
-setblock 26 59 164 minecraft:clay strict
-fill 26 59 172 27 59 173 minecraft:clay strict
-setblock 26 59 178 minecraft:clay strict
-fill 26 59 191 26 59 192 minecraft:clay strict
-setblock 26 59 194 minecraft:clay strict
-fill 26 59 200 27 59 200 minecraft:clay strict
-setblock 26 59 212 minecraft:clay strict
-fill 26 59 214 28 59 214 minecraft:clay strict
-setblock 27 59 43 minecraft:clay strict
-setblock 27 59 47 minecraft:clay strict
-setblock 27 59 54 minecraft:clay strict
-fill 27 59 57 27 59 59 minecraft:clay strict
-setblock 27 59 63 minecraft:clay strict
-setblock 27 59 71 minecraft:clay strict
-fill 27 59 86 28 59 86 minecraft:clay strict
-setblock 27 59 90 minecraft:clay strict
-fill 27 59 117 27 59 120 minecraft:clay strict
-setblock 27 59 123 minecraft:clay strict
-fill 27 59 130 27 59 131 minecraft:clay strict
-fill 27 59 134 28 59 134 minecraft:clay strict
-fill 27 59 140 29 59 140 minecraft:clay strict
-setblock 27 59 141 minecraft:clay strict
-fill 27 59 143 29 59 143 minecraft:clay strict
-setblock 27 59 147 minecraft:clay strict
-setblock 27 59 153 minecraft:clay strict
-setblock 27 59 156 minecraft:clay strict
-fill 27 59 160 28 59 160 minecraft:clay strict
-setblock 27 59 163 minecraft:clay strict
-setblock 27 59 171 minecraft:clay strict
-setblock 27 59 175 minecraft:clay strict
-setblock 27 59 177 minecraft:clay strict
-setblock 27 59 180 minecraft:clay strict
-setblock 27 59 182 minecraft:clay strict
-fill 27 59 184 28 59 184 minecraft:clay strict
-fill 27 59 188 28 59 188 minecraft:clay strict
-setblock 27 59 189 minecraft:clay strict
-setblock 27 59 193 minecraft:clay strict
-fill 27 59 197 27 59 199 minecraft:clay strict
-setblock 27 59 203 minecraft:clay strict
-fill 27 59 210 28 59 210 minecraft:clay strict
-setblock 27 59 213 minecraft:clay strict
-setblock 28 59 41 minecraft:clay strict
-setblock 28 59 61 minecraft:clay strict
-setblock 28 59 64 minecraft:clay strict
-fill 28 59 70 29 59 70 minecraft:clay strict
-fill 28 59 74 30 59 74 minecraft:clay strict
-setblock 28 59 76 minecraft:clay strict
-setblock 28 59 78 minecraft:clay strict
-setblock 28 59 81 minecraft:clay strict
-setblock 28 59 93 minecraft:clay strict
-setblock 28 59 96 minecraft:clay strict
-setblock 28 59 114 minecraft:clay strict
-fill 28 59 118 28 59 119 minecraft:clay strict
-fill 28 59 127 28 59 128 minecraft:clay strict
-fill 28 59 142 29 59 142 minecraft:clay strict
-setblock 28 59 149 minecraft:clay strict
-setblock 28 59 158 minecraft:clay strict
-setblock 28 59 167 minecraft:clay strict
-fill 28 59 170 30 59 170 minecraft:clay strict
-setblock 28 59 174 minecraft:clay strict
-setblock 28 59 179 minecraft:clay strict
-setblock 28 59 202 minecraft:clay strict
-setblock 28 59 211 minecraft:clay strict
-setblock 29 59 43 minecraft:clay strict
 setblock 29 59 45 minecraft:clay strict
 setblock 29 59 54 minecraft:clay strict
 setblock 29 59 65 minecraft:clay strict
@@ -1198,5 +1117,86 @@ setblock 106 64 199 minecraft:cobblestone strict
 setblock 106 64 201 minecraft:cobblestone strict
 setblock 107 64 91 minecraft:cobblestone strict
 fill 107 64 94 108 64 94 minecraft:cobblestone strict
+fill 107 64 116 108 64 116 minecraft:cobblestone strict
+setblock 107 64 119 minecraft:cobblestone strict
+setblock 107 64 126 minecraft:cobblestone strict
+setblock 107 64 137 minecraft:cobblestone strict
+fill 107 64 148 108 64 148 minecraft:cobblestone strict
+fill 107 64 181 117 64 181 minecraft:cobblestone strict
+fill 107 64 182 107 64 190 minecraft:cobblestone strict
+setblock 108 64 92 minecraft:cobblestone strict
+fill 108 64 124 108 64 125 minecraft:cobblestone strict
+fill 108 64 190 134 64 190 minecraft:cobblestone strict
+setblock 109 64 105 minecraft:cobblestone strict
+fill 109 64 108 109 64 109 minecraft:cobblestone strict
+setblock 109 64 114 minecraft:cobblestone strict
+setblock 109 64 120 minecraft:cobblestone strict
+setblock 109 64 129 minecraft:cobblestone strict
+setblock 109 64 149 minecraft:cobblestone strict
+setblock 109 64 202 minecraft:cobblestone strict
+setblock 110 64 94 minecraft:cobblestone strict
+setblock 110 64 107 minecraft:cobblestone strict
+setblock 110 64 109 minecraft:cobblestone strict
+setblock 110 64 111 minecraft:cobblestone strict
+setblock 110 64 115 minecraft:cobblestone strict
+setblock 110 64 121 minecraft:cobblestone strict
+fill 110 64 126 110 64 127 minecraft:cobblestone strict
+setblock 110 64 150 minecraft:cobblestone strict
+fill 110 64 201 111 64 201 minecraft:cobblestone strict
+setblock 111 64 91 minecraft:cobblestone strict
+fill 111 64 103 112 64 103 minecraft:cobblestone strict
+setblock 111 64 105 minecraft:cobblestone strict
+setblock 111 64 137 minecraft:cobblestone strict
+fill 111 64 197 111 64 198 minecraft:cobblestone strict
+setblock 111 64 203 minecraft:cobblestone strict
+fill 112 64 90 113 64 90 minecraft:cobblestone strict
+fill 112 64 93 113 64 93 minecraft:cobblestone strict
+setblock 112 64 112 minecraft:cobblestone strict
+fill 112 64 133 113 64 133 minecraft:cobblestone strict
+setblock 112 64 134 minecraft:cobblestone strict
+setblock 113 64 110 minecraft:cobblestone strict
+setblock 113 64 131 minecraft:cobblestone strict
+setblock 113 64 136 minecraft:cobblestone strict
+fill 113 64 148 113 64 150 minecraft:cobblestone strict
+setblock 114 64 102 minecraft:cobblestone strict
+setblock 114 64 138 minecraft:cobblestone strict
+setblock 115 64 104 minecraft:cobblestone strict
+setblock 115 64 106 minecraft:cobblestone strict
+fill 115 64 136 116 64 136 minecraft:cobblestone strict
+fill 116 64 103 117 64 103 minecraft:cobblestone strict
+fill 117 64 92 117 64 93 minecraft:cobblestone strict
+setblock 117 64 106 minecraft:cobblestone strict
+fill 117 64 139 118 64 139 minecraft:cobblestone strict
+fill 117 64 182 123 64 189 minecraft:cobblestone strict
+setblock 118 64 137 minecraft:cobblestone strict
+setblock 118 64 150 minecraft:cobblestone strict
+fill 118 64 164 118 64 165 minecraft:cobblestone strict
+fill 118 64 177 118 64 180 minecraft:cobblestone strict
+setblock 119 64 93 minecraft:cobblestone strict
+setblock 119 64 102 minecraft:cobblestone strict
+setblock 119 64 104 minecraft:cobblestone strict
+setblock 119 64 106 minecraft:cobblestone strict
+setblock 119 64 140 minecraft:cobblestone strict
+setblock 119 64 149 minecraft:cobblestone strict
+fill 119 64 165 126 64 165 minecraft:cobblestone strict
+setblock 119 64 166 minecraft:cobblestone strict
+fill 119 64 179 120 64 179 minecraft:cobblestone strict
+setblock 119 64 180 minecraft:cobblestone strict
+fill 120 64 163 124 64 163 minecraft:cobblestone strict
+fill 120 64 177 123 64 177 minecraft:cobblestone strict
+setblock 121 64 102 minecraft:cobblestone strict
+fill 121 64 137 121 64 138 minecraft:cobblestone strict
+fill 121 64 148 122 64 148 minecraft:cobblestone strict
+fill 121 64 151 123 64 151 minecraft:cobblestone strict
+fill 121 64 178 122 64 178 minecraft:cobblestone strict
+setblock 122 64 91 minecraft:cobblestone strict
+fill 122 64 139 122 64 140 minecraft:cobblestone strict
+fill 122 64 152 124 64 152 minecraft:cobblestone strict
+fill 122 64 153 123 64 153 minecraft:cobblestone strict
+fill 122 64 166 123 64 166 minecraft:cobblestone strict
+setblock 123 64 92 minecraft:cobblestone strict
+fill 123 64 95 124 64 95 minecraft:cobblestone strict
+setblock 123 64 98 minecraft:cobblestone strict
+setblock 123 64 100 minecraft:cobblestone strict
 bossbar set rufu:build value 65
 schedule function rufu:build/p65 1t

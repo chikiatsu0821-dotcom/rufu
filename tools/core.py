@@ -91,6 +91,8 @@ SPEAKERS = {
                 bg=argb(225, 228, 240, 255), fg="#1f3f7a"),
     "hinata": dict(name="ひなた", color="#ffd34d", sound="entity.allay.ambient_with_item", pitch=1.6,
                    bg=argb(225, 255, 249, 225), fg="#7a5a00"),
+    "q": dict(name="？？？", color="gold", sound="entity.allay.ambient_without_item", pitch=1.1,
+              bg=argb(225, 255, 236, 246), fg="#7a1f5c"),
     "hero": dict(name="主人公", color="green", sound=None, pitch=1.0, bg=0, fg="white"),
     "all3": dict(name="3人", color="#ffb3d9", sound="entity.allay.ambient_with_item", pitch=1.45,
                  bg=argb(225, 255, 236, 246), fg="#7a1f5c"),
@@ -127,6 +129,16 @@ def gsound(snd, vol=1, pitch=1):
     return f"execute as @a at @s run playsound minecraft:{snd} master @s ~ ~ ~ {vol} {pitch}"
 
 
+NB = "@e[type=marker,tag=rufu_namebox,limit=1]"
+
+
+def speaker_label(who, suffix=""):
+    sp = SPEAKERS[who]
+    if who == "heroine":
+        return [{"selector": NB, "color": sp["color"], "bold": True}, T(suffix, color=sp["color"], bold=True)]
+    return [T(sp["name"] + suffix, color=sp["color"], bold=True)]
+
+
 def say(who, text, dur=90, big=False, sub_title=True, chat=True, pitch=None):
     """NPC line: speech bubble + subtitle + chat log + voice."""
     sp = SPEAKERS[who]
@@ -137,10 +149,10 @@ def say(who, text, dur=90, big=False, sub_title=True, chat=True, pitch=None):
                    f"{{text:{snbt(comp_line)},background:{sp['bg']}}}")
         out.append(f"scoreboard players set @e[type=text_display,tag=rufu_bub_{who}] rufu.bt {dur}")
     if chat:
-        out.append(tellraw("@a", T(f"{sp['name']}", color=sp["color"], bold=True), T("「" + text + "」", color="white")))
+        out.append(tellraw("@a", *speaker_label(who), T("「" + text + "」", color="white")))
     if sub_title:
         out.append("title @a times 3 %d 8" % max(20, dur - 10))
-        out.append(f"title @a subtitle {snbt(T('', extra=[T(sp['name'] + '：', color=sp['color'], bold=True), T('「' + text + '」', color='white')]))}")
+        out.append(f"title @a subtitle {snbt(T('', extra=speaker_label(who, '：') + [T('「' + text + '」', color='white')]))}")
         out.append(f"title @a title {snbt(T(text, color=sp['color'], bold=True)) if big else snbt(T(''))}")
     if sp["sound"]:
         out.append(f"execute as @e[tag=rufu_npc_{who}] at @s run playsound minecraft:{sp['sound']} voice @a ~ ~ ~ 1.4 {pitch or sp['pitch']}")
@@ -281,6 +293,7 @@ def npc_spawn(who, x, y, z, yaw=0.0, outfit="casual", name=None, skin=None, tags
     out = [f"kill @e[tag=rufu_part_{who}]",
            f"summon minecraft:mannequin {x} {y} {z} {snbt(nbt)}"]
     if who == "heroine":
+        out.append(f"data modify entity @e[type=mannequin,tag=rufu_npc_heroine,limit=1] CustomName set from entity {NB} CustomName")
         out.append(f"summon minecraft:interaction {x} {y} {z} "
                    f"{snbt({'Tags': ['rufu_click', 'rufu_hit_heroine', 'rufu_part_heroine'], 'width': f_(0.95), 'height': f_(2.05), 'response': True})}")
     return out

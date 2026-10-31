@@ -1,3 +1,1108 @@
+fill 192 94 73 193 94 73 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 192 94 80 194 94 80 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 192 94 85 199 94 85 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 192 94 86 196 94 86 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 193 94 74 194 94 74 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 193 94 76 193 94 77 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 193 94 79 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 193 94 82 195 94 82 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 194 94 75 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 195 94 72 195 94 73 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 195 94 77 195 94 78 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 196 94 73 197 94 74 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 196 94 81 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 196 94 84 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 197 94 78 197 94 80 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 197 94 82 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 198 94 74 200 94 74 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 198 94 76 199 94 76 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 198 94 83 198 94 84 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 199 94 73 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 199 94 75 201 94 75 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 199 94 77 199 94 78 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 199 94 80 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 199 94 86 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 200 94 81 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 200 94 83 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 201 94 77 201 94 80 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 202 94 78 202 94 80 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 203 94 80 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 188 95 79 190 95 79 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 189 95 75 189 95 76 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 189 94 81 189 95 82 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 189 95 84 190 95 84 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 190 95 76 190 95 78 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 190 95 82 190 95 83 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 190 95 85 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 191 95 83 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 192 95 76 194 95 76 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 192 95 77 192 95 81 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 192 95 84 192 95 86 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 193 95 72 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 193 95 74 199 95 74 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 193 95 75 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 193 95 79 194 95 79 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 193 95 82 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 193 95 85 194 95 85 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 193 95 87 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 194 95 73 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 194 95 77 203 95 77 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 194 95 83 195 95 83 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 194 95 86 196 95 86 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 195 95 72 198 95 72 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 195 95 81 203 95 81 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 195 95 84 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 196 95 73 200 95 73 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 196 95 76 197 95 76 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 196 95 78 200 95 78 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 196 95 85 200 95 85 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 197 93 75 197 95 75 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 197 95 79 200 95 79 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 197 95 80 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 197 95 83 202 95 83 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 197 95 84 198 95 84 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 199 95 75 199 95 76 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 199 94 82 199 95 82 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 200 95 76 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 200 95 80 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 200 95 84 201 95 84 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 201 95 74 201 95 75 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 202 95 75 202 95 76 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 202 95 79 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 202 93 82 202 95 82 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 203 95 78 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 188 96 79 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 188 96 82 189 96 82 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 189 96 75 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 189 96 77 192 96 78 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 189 95 80 190 96 80 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 189 96 83 189 96 84 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 190 96 76 193 96 76 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 190 96 79 192 96 79 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 190 96 81 192 96 81 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 191 95 74 191 96 75 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 191 96 82 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 191 96 84 193 96 84 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 191 96 86 194 96 86 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 192 96 73 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 192 96 75 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 192 96 83 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 192 96 85 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 193 96 74 196 96 74 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 193 96 78 194 96 78 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 193 96 82 195 96 82 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 194 96 75 197 96 75 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 194 96 79 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 194 96 83 196 96 83 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 194 96 87 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 195 96 84 202 96 84 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 195 96 85 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 196 96 76 198 96 76 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 196 96 77 197 96 77 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 196 96 78 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 196 96 81 197 96 81 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 196 96 86 199 96 86 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 197 96 73 199 96 73 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 197 96 79 197 96 80 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 197 96 82 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 197 96 87 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 198 96 78 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 199 96 75 201 96 75 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 199 96 77 200 96 77 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 199 96 79 200 96 79 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 199 96 85 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 200 96 74 201 96 74 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 200 96 80 200 96 81 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 201 96 76 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 201 96 81 203 96 81 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 202 96 79 203 96 79 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 202 96 80 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 203 96 77 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 188 97 76 196 97 76 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 189 97 79 193 97 79 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 189 97 80 191 97 80 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 189 97 82 193 97 82 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 189 97 83 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 190 97 75 191 97 75 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 190 97 78 193 97 78 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 190 97 81 191 97 81 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 190 97 84 191 97 84 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 191 97 74 192 97 74 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 191 97 77 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 191 97 83 193 97 83 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 191 97 85 192 97 85 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 192 97 72 192 97 73 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 192 97 86 192 97 87 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 193 97 73 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 193 97 75 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 193 97 77 199 97 77 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 193 95 80 193 97 80 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 194 97 72 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 194 97 74 195 97 74 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 194 97 81 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 194 97 84 194 97 85 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 194 97 87 196 97 87 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 195 97 73 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 195 97 75 196 97 75 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 195 97 79 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 195 97 82 196 97 83 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 196 96 72 196 97 72 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 196 97 78 200 97 78 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 196 97 80 197 97 81 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 196 97 84 197 97 84 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 197 97 73 198 97 73 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 197 97 79 200 97 79 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 197 97 83 198 97 83 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 197 97 85 197 97 86 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 198 97 74 199 97 75 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 198 97 81 199 97 81 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 199 97 72 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 199 97 80 203 97 80 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 199 97 82 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 199 97 85 200 97 85 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 199 97 87 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 200 97 73 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 200 97 75 202 97 75 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 200 96 83 200 97 83 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 201 97 74 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 201 97 76 203 97 77 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 201 97 82 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 201 97 84 202 97 84 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 202 97 78 202 97 79 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 202 97 81 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 202 97 83 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 203 97 79 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 203 97 82 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 188 98 78 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 188 98 83 191 98 83 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 189 98 77 191 98 77 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 189 98 80 189 98 82 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 190 98 78 192 98 78 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 190 98 81 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 190 98 84 193 98 84 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 191 98 74 194 98 75 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 191 98 76 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 191 98 80 192 98 80 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 191 98 82 198 98 82 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 191 98 85 191 98 86 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 192 98 72 194 98 73 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 192 98 79 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 192 98 81 195 98 81 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 192 98 87 194 98 87 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 193 98 76 194 98 76 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 193 98 85 193 98 86 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 194 98 77 194 98 80 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 194 98 83 195 98 83 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 195 98 73 196 98 73 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 195 98 75 199 98 75 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 195 98 78 197 98 78 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 195 98 80 196 98 80 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 195 98 84 201 98 84 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 196 98 74 200 98 74 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 196 98 79 197 98 79 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 196 98 86 196 98 87 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 197 98 72 198 98 72 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 197 98 76 197 98 77 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 197 98 81 202 98 81 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 197 98 83 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 197 98 85 198 98 85 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 198 98 77 199 98 77 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 198 98 80 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 198 98 86 199 98 86 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 199 98 76 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 199 98 78 199 98 79 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 199 98 83 200 98 83 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 200 98 80 201 98 80 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 200 98 82 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 201 98 75 201 98 78 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 202 98 76 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 203 98 79 203 98 80 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 188 99 82 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 189 99 75 189 99 76 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 189 99 78 193 99 78 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 189 98 79 190 99 79 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 190 99 74 193 99 74 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 190 99 77 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 190 99 82 192 99 83 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 190 99 84 191 99 84 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 191 99 73 192 99 73 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 191 99 75 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 191 99 80 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 191 99 86 192 99 86 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 192 99 76 193 99 76 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 192 99 77 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 192 99 81 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 192 99 85 193 99 85 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 193 99 75 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 193 99 80 196 99 80 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 193 99 84 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 194 99 79 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 194 99 81 196 99 81 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 194 99 82 195 99 83 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 194 99 86 196 99 87 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 195 99 73 196 99 75 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 195 99 77 195 99 78 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 195 99 84 195 99 85 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 196 99 78 196 99 79 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 196 99 83 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 196 99 85 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 197 99 75 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 198 98 73 199 99 73 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 198 99 76 198 99 77 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 198 99 79 198 99 81 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 198 99 83 199 99 84 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 198 99 85 198 99 87 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 199 99 77 199 99 78 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 199 99 80 199 99 82 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 200 99 74 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 200 99 79 201 99 79 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 200 99 81 200 99 82 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 200 99 84 201 99 84 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 200 98 85 200 99 85 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 201 99 75 202 99 76 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 201 99 77 201 99 78 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 202 98 78 202 99 78 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 203 99 77 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 203 99 80 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 189 100 76 189 100 80 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 190 100 75 193 100 75 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 190 100 78 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 190 100 80 192 100 81 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 190 100 82 191 100 83 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 191 100 77 194 100 77 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 191 100 79 203 100 79 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 191 100 84 194 100 84 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 191 100 85 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 192 100 74 195 100 74 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 192 100 76 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 193 100 78 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 193 100 81 195 100 81 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 193 100 85 198 100 85 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 194 100 80 196 100 80 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 194 100 86 199 100 86 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 195 100 78 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 195 100 87 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 196 99 72 196 100 72 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 196 100 76 198 100 77 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 196 100 84 200 100 84 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 197 100 74 200 100 74 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 197 100 81 199 100 81 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 197 100 82 198 100 82 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 198 100 75 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 198 100 80 199 100 80 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 199 100 73 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 199 100 78 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 200 100 75 201 100 77 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 200 100 82 200 100 83 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 201 100 80 201 100 81 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 202 100 76 202 100 78 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 202 99 81 202 100 81 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 189 101 80 189 101 82 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 190 101 77 190 101 79 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 191 101 75 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 191 101 79 191 101 80 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 191 101 82 192 101 82 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 191 101 83 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 192 101 76 192 101 77 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 192 101 81 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 192 101 84 198 101 84 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 193 101 73 193 101 75 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 193 101 77 196 101 77 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 194 101 75 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 194 101 80 195 101 81 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 194 101 85 197 101 85 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 194 101 86 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 195 100 73 196 101 73 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 195 101 78 197 101 78 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 195 101 79 196 101 79 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 195 100 82 195 101 83 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 196 101 74 197 101 76 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 196 101 81 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 196 101 83 199 101 83 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 196 101 86 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 197 101 82 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 198 101 73 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 198 101 75 199 101 77 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 198 101 80 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 199 101 78 200 101 78 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 199 101 81 201 101 82 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 199 101 85 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 200 101 77 201 101 77 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 200 101 79 201 101 80 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 201 99 83 201 101 83 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 202 101 80 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 202 101 82 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 190 102 78 191 102 80 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 190 101 81 190 102 81 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 191 102 83 192 102 83 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 192 102 76 195 102 76 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 192 102 80 192 102 82 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 192 102 84 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 193 102 75 194 102 75 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 193 102 77 193 102 79 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 193 102 81 193 102 82 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 194 102 84 195 102 84 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 195 102 74 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 195 102 77 195 102 79 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 195 102 83 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 195 102 85 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 196 102 80 199 102 80 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 196 102 82 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 197 102 74 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 197 102 76 198 102 77 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 197 102 79 200 102 79 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 197 102 85 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 198 102 78 199 102 78 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 198 102 81 198 102 82 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 199 102 75 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 199 102 82 200 102 82 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 200 102 83 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 201 102 78 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 201 102 81 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 192 103 77 192 103 79 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 193 103 81 193 103 83 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 194 103 76 194 103 77 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 194 103 79 197 103 79 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 194 102 80 194 103 80 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 194 102 82 194 103 82 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 195 102 81 196 103 81 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 196 103 78 197 103 78 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 196 103 80 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 197 103 76 198 103 76 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 197 102 83 197 103 83 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 198 103 77 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 198 103 80 199 103 80 minecraft:yellow_poplar_leaves[persistent=true] strict
+setblock 199 103 79 minecraft:yellow_poplar_leaves[persistent=true] strict
+fill 35 69 106 35 69 108 minecraft:yellow_terracotta strict
+fill 35 69 110 35 69 112 minecraft:yellow_terracotta strict
+fill 35 69 153 35 69 155 minecraft:yellow_terracotta strict
+fill 36 69 105 38 69 105 minecraft:yellow_terracotta strict
+fill 36 69 116 38 69 116 minecraft:yellow_terracotta strict
+fill 36 69 152 38 69 152 minecraft:yellow_terracotta strict
+fill 36 69 158 38 69 158 minecraft:yellow_terracotta strict
+fill 40 69 105 42 69 105 minecraft:yellow_terracotta strict
+fill 40 69 116 42 69 116 minecraft:yellow_terracotta strict
+fill 40 69 152 42 69 152 minecraft:yellow_terracotta strict
+fill 40 69 158 42 69 158 minecraft:yellow_terracotta strict
+fill 44 69 152 46 69 152 minecraft:yellow_terracotta strict
+fill 44 69 158 46 69 158 minecraft:yellow_terracotta strict
+fill 45 69 106 46 69 108 minecraft:yellow_terracotta strict
+fill 45 69 110 46 69 110 minecraft:yellow_terracotta strict
+fill 45 69 112 46 69 112 minecraft:yellow_terracotta strict
+setblock 46 69 111 minecraft:yellow_terracotta strict
+fill 47 69 105 48 69 105 minecraft:yellow_terracotta strict
+fill 47 69 116 48 69 116 minecraft:yellow_terracotta strict
+fill 48 69 153 48 69 155 minecraft:yellow_terracotta strict
+fill 52 69 105 53 69 105 minecraft:yellow_terracotta strict
+fill 52 69 116 53 69 116 minecraft:yellow_terracotta strict
+fill 55 69 105 57 69 105 minecraft:yellow_terracotta strict
+fill 55 69 116 57 69 116 minecraft:yellow_terracotta strict
+fill 59 69 106 59 69 108 minecraft:yellow_terracotta strict
+fill 59 69 110 59 69 112 minecraft:yellow_terracotta strict
+fill 69 69 150 69 69 152 minecraft:yellow_terracotta strict
+fill 69 69 154 69 69 156 minecraft:yellow_terracotta strict
+fill 70 69 149 72 69 149 minecraft:yellow_terracotta strict
+fill 70 69 158 72 69 158 minecraft:yellow_terracotta strict
+fill 74 69 149 76 69 149 minecraft:yellow_terracotta strict
+fill 74 69 158 76 69 158 minecraft:yellow_terracotta strict
+fill 78 69 149 80 69 149 minecraft:yellow_terracotta strict
+fill 78 69 158 80 69 158 minecraft:yellow_terracotta strict
+fill 84 69 150 84 69 152 minecraft:yellow_terracotta strict
+fill 84 69 154 84 69 156 minecraft:yellow_terracotta strict
+fill 95 69 178 95 69 180 minecraft:yellow_terracotta strict
+fill 95 69 182 95 69 184 minecraft:yellow_terracotta strict
+fill 95 69 186 95 69 188 minecraft:yellow_terracotta strict
+fill 96 69 177 98 69 177 minecraft:yellow_terracotta strict
+fill 98 69 79 98 69 81 minecraft:yellow_terracotta strict
+fill 98 69 83 98 69 85 minecraft:yellow_terracotta strict
+fill 99 69 53 99 69 55 minecraft:yellow_terracotta strict
+fill 99 69 57 99 69 59 minecraft:yellow_terracotta strict
+fill 99 69 61 99 69 63 minecraft:yellow_terracotta strict
+fill 99 69 78 101 69 78 minecraft:yellow_terracotta strict
+fill 99 69 89 101 69 89 minecraft:yellow_terracotta strict
+fill 99 69 128 99 69 130 minecraft:yellow_terracotta strict
+fill 99 69 132 99 69 134 minecraft:yellow_terracotta strict
+fill 100 69 52 102 69 52 minecraft:yellow_terracotta strict
+fill 100 69 64 102 69 64 minecraft:yellow_terracotta strict
+fill 100 69 127 102 69 127 minecraft:yellow_terracotta strict
+fill 100 69 136 102 69 136 minecraft:yellow_terracotta strict
+fill 100 69 177 102 69 177 minecraft:yellow_terracotta strict
+fill 100 69 190 102 69 190 minecraft:yellow_terracotta strict
+fill 102 69 192 102 69 194 minecraft:yellow_terracotta strict
+fill 103 69 191 105 69 191 minecraft:yellow_terracotta strict
+fill 103 69 196 105 69 196 minecraft:yellow_terracotta strict
+fill 104 69 52 106 69 52 minecraft:yellow_terracotta strict
+fill 104 69 64 106 69 64 minecraft:yellow_terracotta strict
+fill 104 69 127 106 69 127 minecraft:yellow_terracotta strict
+fill 104 69 136 106 69 136 minecraft:yellow_terracotta strict
+fill 104 69 190 105 69 190 minecraft:yellow_terracotta strict
+setblock 105 69 79 minecraft:yellow_terracotta strict
+setblock 105 69 81 minecraft:yellow_terracotta strict
+fill 105 69 83 105 69 85 minecraft:yellow_terracotta strict
+fill 106 69 178 107 69 178 minecraft:yellow_terracotta strict
+fill 106 69 179 106 69 180 minecraft:yellow_terracotta strict
+fill 106 69 182 106 69 184 minecraft:yellow_terracotta strict
+fill 106 69 186 106 69 188 minecraft:yellow_terracotta strict
+fill 107 69 152 107 69 154 minecraft:yellow_terracotta strict
+fill 107 69 156 107 69 158 minecraft:yellow_terracotta strict
+fill 107 69 164 107 69 166 minecraft:yellow_terracotta strict
+fill 107 69 168 107 69 170 minecraft:yellow_terracotta strict
+fill 107 69 173 107 69 174 minecraft:yellow_terracotta strict
+fill 107 69 176 107 69 177 minecraft:yellow_terracotta strict
+fill 107 69 191 109 69 191 minecraft:yellow_terracotta strict
+fill 107 69 196 109 69 196 minecraft:yellow_terracotta strict
+fill 108 69 52 110 69 52 minecraft:yellow_terracotta strict
+fill 108 69 64 110 69 64 minecraft:yellow_terracotta strict
+fill 108 69 128 108 69 130 minecraft:yellow_terracotta strict
+fill 108 69 132 108 69 134 minecraft:yellow_terracotta strict
+fill 108 69 151 110 69 151 minecraft:yellow_terracotta strict
+fill 108 69 162 108 69 163 minecraft:yellow_terracotta strict
+fill 109 69 163 110 69 163 minecraft:yellow_terracotta strict
+setblock 110 69 162 minecraft:yellow_terracotta strict
+fill 111 69 142 111 69 144 minecraft:yellow_terracotta strict
+fill 111 69 192 111 69 194 minecraft:yellow_terracotta strict
+fill 112 69 53 112 69 55 minecraft:yellow_terracotta strict
+fill 112 69 57 112 69 59 minecraft:yellow_terracotta strict
+fill 112 69 61 112 69 63 minecraft:yellow_terracotta strict
+fill 112 69 141 114 69 141 minecraft:yellow_terracotta strict
+fill 112 69 147 114 69 147 minecraft:yellow_terracotta strict
+fill 112 69 151 114 69 151 minecraft:yellow_terracotta strict
+fill 112 69 162 114 69 163 minecraft:yellow_terracotta strict
+setblock 112 69 180 minecraft:yellow_terracotta strict
+setblock 114 69 180 minecraft:yellow_terracotta strict
+fill 116 69 141 118 69 141 minecraft:yellow_terracotta strict
+fill 116 69 147 118 69 147 minecraft:yellow_terracotta strict
+fill 116 69 151 118 69 151 minecraft:yellow_terracotta strict
+fill 116 69 162 118 69 162 minecraft:yellow_terracotta strict
+setblock 116 69 163 minecraft:yellow_terracotta strict
+fill 117 69 164 117 69 166 minecraft:yellow_terracotta strict
+fill 117 69 168 117 69 170 minecraft:yellow_terracotta strict
+fill 117 69 172 117 69 174 minecraft:yellow_terracotta strict
+fill 117 69 176 117 69 178 minecraft:yellow_terracotta strict
+fill 120 69 152 120 69 154 minecraft:yellow_terracotta strict
+fill 120 69 156 120 69 158 minecraft:yellow_terracotta strict
+fill 122 69 142 122 69 144 minecraft:yellow_terracotta strict
+fill 134 69 142 134 69 144 minecraft:yellow_terracotta strict
+fill 135 69 141 137 69 141 minecraft:yellow_terracotta strict
+fill 135 69 147 137 69 147 minecraft:yellow_terracotta strict
+fill 139 69 141 141 69 141 minecraft:yellow_terracotta strict
+fill 139 69 147 141 69 147 minecraft:yellow_terracotta strict
+fill 145 69 142 145 69 144 minecraft:yellow_terracotta strict
+fill 150 69 162 150 69 164 minecraft:yellow_terracotta strict
+fill 150 69 166 150 69 168 minecraft:yellow_terracotta strict
+fill 151 69 161 153 69 161 minecraft:yellow_terracotta strict
+setblock 151 69 169 minecraft:yellow_terracotta strict
+setblock 153 69 169 minecraft:yellow_terracotta strict
+fill 155 69 161 157 69 161 minecraft:yellow_terracotta strict
+setblock 155 69 169 minecraft:yellow_terracotta strict
+setblock 157 69 169 minecraft:yellow_terracotta strict
+fill 161 69 162 161 69 164 minecraft:yellow_terracotta strict
+fill 161 69 166 161 69 168 minecraft:yellow_terracotta strict
+fill 107 69 160 107 70 160 minecraft:yellow_terracotta strict
+fill 35 70 106 35 71 106 minecraft:yellow_terracotta strict
+fill 35 70 108 35 71 108 minecraft:yellow_terracotta strict
+fill 35 70 110 35 71 110 minecraft:yellow_terracotta strict
+fill 35 70 112 35 71 112 minecraft:yellow_terracotta strict
+fill 35 69 114 35 71 115 minecraft:yellow_terracotta strict
+fill 35 70 153 35 71 153 minecraft:yellow_terracotta strict
+fill 35 70 155 35 71 155 minecraft:yellow_terracotta strict
+fill 35 69 157 35 71 157 minecraft:yellow_terracotta strict
+fill 36 70 105 36 71 105 minecraft:yellow_terracotta strict
+fill 36 70 116 36 71 116 minecraft:yellow_terracotta strict
+fill 36 70 152 36 71 152 minecraft:yellow_terracotta strict
+fill 36 70 158 36 71 158 minecraft:yellow_terracotta strict
+fill 38 70 105 38 71 105 minecraft:yellow_terracotta strict
+fill 38 70 116 38 71 116 minecraft:yellow_terracotta strict
+fill 38 70 152 38 71 152 minecraft:yellow_terracotta strict
+fill 38 70 158 38 71 158 minecraft:yellow_terracotta strict
+fill 40 70 105 40 71 105 minecraft:yellow_terracotta strict
+fill 40 70 116 40 71 116 minecraft:yellow_terracotta strict
+fill 40 70 152 40 71 152 minecraft:yellow_terracotta strict
+fill 40 70 158 40 71 158 minecraft:yellow_terracotta strict
+fill 42 70 105 42 71 105 minecraft:yellow_terracotta strict
+fill 42 70 116 42 71 116 minecraft:yellow_terracotta strict
+fill 42 70 152 42 71 152 minecraft:yellow_terracotta strict
+fill 42 70 158 42 71 158 minecraft:yellow_terracotta strict
+fill 44 69 105 44 71 105 minecraft:yellow_terracotta strict
+fill 44 69 116 44 71 116 minecraft:yellow_terracotta strict
+fill 44 70 152 44 71 152 minecraft:yellow_terracotta strict
+fill 44 70 158 44 71 158 minecraft:yellow_terracotta strict
+fill 45 69 114 46 71 115 minecraft:yellow_terracotta strict
+fill 46 70 106 46 71 106 minecraft:yellow_terracotta strict
+fill 46 70 108 46 71 108 minecraft:yellow_terracotta strict
+fill 46 70 110 46 71 110 minecraft:yellow_terracotta strict
+fill 46 70 112 46 71 112 minecraft:yellow_terracotta strict
+fill 46 70 152 46 71 152 minecraft:yellow_terracotta strict
+fill 46 70 158 46 71 158 minecraft:yellow_terracotta strict
+fill 47 70 105 47 71 105 minecraft:yellow_terracotta strict
+fill 47 70 116 47 71 116 minecraft:yellow_terracotta strict
+fill 48 70 153 48 71 153 minecraft:yellow_terracotta strict
+fill 48 70 155 48 71 155 minecraft:yellow_terracotta strict
+fill 48 69 157 48 71 157 minecraft:yellow_terracotta strict
+fill 53 70 105 53 71 105 minecraft:yellow_terracotta strict
+fill 53 70 116 53 71 116 minecraft:yellow_terracotta strict
+fill 55 70 105 55 71 105 minecraft:yellow_terracotta strict
+fill 55 70 116 55 71 116 minecraft:yellow_terracotta strict
+fill 57 70 105 57 71 105 minecraft:yellow_terracotta strict
+fill 57 70 116 57 71 116 minecraft:yellow_terracotta strict
+fill 59 70 106 59 71 106 minecraft:yellow_terracotta strict
+fill 59 70 108 59 71 108 minecraft:yellow_terracotta strict
+fill 59 70 110 59 71 110 minecraft:yellow_terracotta strict
+fill 59 70 112 59 71 112 minecraft:yellow_terracotta strict
+fill 59 69 114 59 71 115 minecraft:yellow_terracotta strict
+fill 69 70 150 69 71 150 minecraft:yellow_terracotta strict
+fill 69 70 152 69 71 152 minecraft:yellow_terracotta strict
+fill 69 70 154 69 71 154 minecraft:yellow_terracotta strict
+fill 69 70 156 69 71 156 minecraft:yellow_terracotta strict
+fill 70 70 149 70 71 149 minecraft:yellow_terracotta strict
+fill 70 70 158 70 71 158 minecraft:yellow_terracotta strict
+fill 72 70 149 72 71 149 minecraft:yellow_terracotta strict
+fill 72 70 158 72 71 158 minecraft:yellow_terracotta strict
+fill 74 70 149 74 71 149 minecraft:yellow_terracotta strict
+fill 74 70 158 74 71 158 minecraft:yellow_terracotta strict
+fill 76 70 149 76 71 149 minecraft:yellow_terracotta strict
+fill 76 70 158 76 71 158 minecraft:yellow_terracotta strict
+fill 78 70 149 78 71 149 minecraft:yellow_terracotta strict
+fill 78 70 158 78 71 158 minecraft:yellow_terracotta strict
+fill 80 70 149 80 71 149 minecraft:yellow_terracotta strict
+fill 80 70 158 80 71 158 minecraft:yellow_terracotta strict
+fill 82 69 149 83 71 149 minecraft:yellow_terracotta strict
+fill 82 69 158 83 71 158 minecraft:yellow_terracotta strict
+fill 84 70 150 84 71 150 minecraft:yellow_terracotta strict
+fill 84 70 152 84 71 152 minecraft:yellow_terracotta strict
+fill 84 70 154 84 71 154 minecraft:yellow_terracotta strict
+fill 84 70 156 84 71 156 minecraft:yellow_terracotta strict
+fill 95 70 178 95 71 178 minecraft:yellow_terracotta strict
+fill 95 70 180 95 71 180 minecraft:yellow_terracotta strict
+fill 95 70 182 95 71 182 minecraft:yellow_terracotta strict
+fill 95 70 184 95 71 184 minecraft:yellow_terracotta strict
+fill 95 70 186 95 71 186 minecraft:yellow_terracotta strict
+fill 95 70 188 95 71 188 minecraft:yellow_terracotta strict
+fill 96 70 177 96 71 177 minecraft:yellow_terracotta strict
+fill 96 69 190 96 71 190 minecraft:yellow_terracotta strict
+fill 98 70 79 98 71 79 minecraft:yellow_terracotta strict
+fill 98 70 81 98 71 81 minecraft:yellow_terracotta strict
+fill 98 70 83 98 71 83 minecraft:yellow_terracotta strict
+fill 98 70 85 98 71 85 minecraft:yellow_terracotta strict
+fill 98 69 87 98 71 88 minecraft:yellow_terracotta strict
+fill 98 70 177 98 71 177 minecraft:yellow_terracotta strict
+fill 98 69 190 98 71 190 minecraft:yellow_terracotta strict
+fill 99 70 53 99 71 53 minecraft:yellow_terracotta strict
+fill 99 70 55 99 71 55 minecraft:yellow_terracotta strict
+fill 99 70 57 99 71 57 minecraft:yellow_terracotta strict
+fill 99 70 59 99 71 59 minecraft:yellow_terracotta strict
+fill 99 70 61 99 71 61 minecraft:yellow_terracotta strict
+fill 99 70 63 99 71 63 minecraft:yellow_terracotta strict
+fill 99 70 78 99 71 78 minecraft:yellow_terracotta strict
+fill 99 70 89 99 71 89 minecraft:yellow_terracotta strict
+fill 99 70 128 99 71 128 minecraft:yellow_terracotta strict
+fill 99 70 130 99 71 130 minecraft:yellow_terracotta strict
+fill 99 70 132 99 71 132 minecraft:yellow_terracotta strict
+fill 99 70 134 99 71 134 minecraft:yellow_terracotta strict
+fill 100 70 52 100 71 52 minecraft:yellow_terracotta strict
+fill 100 70 64 100 71 64 minecraft:yellow_terracotta strict
+fill 100 70 127 100 71 127 minecraft:yellow_terracotta strict
+fill 100 70 136 100 71 136 minecraft:yellow_terracotta strict
+fill 100 70 177 100 71 177 minecraft:yellow_terracotta strict
+fill 100 70 190 100 71 190 minecraft:yellow_terracotta strict
+fill 101 70 78 101 71 78 minecraft:yellow_terracotta strict
+fill 101 70 89 101 71 89 minecraft:yellow_terracotta strict
+fill 102 70 52 102 71 52 minecraft:yellow_terracotta strict
+fill 102 70 64 102 71 64 minecraft:yellow_terracotta strict
+fill 102 70 127 102 71 127 minecraft:yellow_terracotta strict
+fill 102 70 136 102 71 136 minecraft:yellow_terracotta strict
+fill 102 70 177 102 71 177 minecraft:yellow_terracotta strict
+fill 102 70 190 102 71 190 minecraft:yellow_terracotta strict
+fill 102 70 192 102 71 192 minecraft:yellow_terracotta strict
+fill 102 70 194 102 71 194 minecraft:yellow_terracotta strict
+fill 103 69 78 104 71 78 minecraft:yellow_terracotta strict
+fill 103 69 89 104 71 89 minecraft:yellow_terracotta strict
+fill 103 70 191 103 71 191 minecraft:yellow_terracotta strict
+fill 103 70 196 103 71 196 minecraft:yellow_terracotta strict
+fill 104 70 52 104 71 52 minecraft:yellow_terracotta strict
+fill 104 70 64 104 71 64 minecraft:yellow_terracotta strict
+fill 104 70 127 104 71 127 minecraft:yellow_terracotta strict
+fill 104 70 136 104 71 136 minecraft:yellow_terracotta strict
+fill 104 69 177 105 71 177 minecraft:yellow_terracotta strict
+fill 104 70 190 104 71 190 minecraft:yellow_terracotta strict
+fill 105 70 83 105 71 83 minecraft:yellow_terracotta strict
+fill 105 70 85 105 71 85 minecraft:yellow_terracotta strict
+fill 105 69 87 105 71 88 minecraft:yellow_terracotta strict
+fill 105 70 191 105 71 191 minecraft:yellow_terracotta strict
+fill 105 70 196 105 71 196 minecraft:yellow_terracotta strict
+fill 106 70 52 106 71 52 minecraft:yellow_terracotta strict
+fill 106 70 64 106 71 64 minecraft:yellow_terracotta strict
+fill 106 70 127 106 71 127 minecraft:yellow_terracotta strict
+fill 106 70 136 106 71 136 minecraft:yellow_terracotta strict
+fill 106 70 178 106 71 178 minecraft:yellow_terracotta strict
+fill 106 70 180 106 71 180 minecraft:yellow_terracotta strict
+fill 106 70 182 106 71 182 minecraft:yellow_terracotta strict
+fill 106 70 184 106 71 184 minecraft:yellow_terracotta strict
+fill 106 70 186 106 71 186 minecraft:yellow_terracotta strict
+fill 106 70 188 106 71 188 minecraft:yellow_terracotta strict
+fill 107 70 156 107 71 156 minecraft:yellow_terracotta strict
+fill 107 70 158 107 71 158 minecraft:yellow_terracotta strict
+fill 107 71 160 107 71 161 minecraft:yellow_terracotta strict
+fill 107 70 164 107 71 164 minecraft:yellow_terracotta strict
+fill 107 70 166 107 71 166 minecraft:yellow_terracotta strict
+fill 107 70 168 107 71 168 minecraft:yellow_terracotta strict
+fill 107 70 170 107 71 170 minecraft:yellow_terracotta strict
+setblock 107 71 172 minecraft:yellow_terracotta strict
+fill 107 70 174 107 71 174 minecraft:yellow_terracotta strict
+fill 107 70 176 107 71 176 minecraft:yellow_terracotta strict
+fill 107 70 191 107 71 191 minecraft:yellow_terracotta strict
+fill 107 70 196 107 71 196 minecraft:yellow_terracotta strict
+fill 108 70 52 108 71 52 minecraft:yellow_terracotta strict
+fill 108 70 64 108 71 64 minecraft:yellow_terracotta strict
+fill 108 70 128 108 71 128 minecraft:yellow_terracotta strict
+fill 108 70 130 108 71 130 minecraft:yellow_terracotta strict
+fill 108 70 132 108 71 132 minecraft:yellow_terracotta strict
+fill 108 70 134 108 71 134 minecraft:yellow_terracotta strict
+fill 108 70 151 108 71 151 minecraft:yellow_terracotta strict
+fill 108 70 163 108 71 163 minecraft:yellow_terracotta strict
+fill 108 69 180 108 71 180 minecraft:yellow_terracotta strict
+fill 109 70 191 109 71 191 minecraft:yellow_terracotta strict
+fill 109 70 196 109 71 196 minecraft:yellow_terracotta strict
+fill 110 70 52 110 71 52 minecraft:yellow_terracotta strict
+fill 110 70 64 110 71 64 minecraft:yellow_terracotta strict
+fill 110 70 151 110 71 151 minecraft:yellow_terracotta strict
+fill 110 70 163 110 71 163 minecraft:yellow_terracotta strict
+fill 110 69 180 110 71 180 minecraft:yellow_terracotta strict
+fill 111 70 142 111 71 142 minecraft:yellow_terracotta strict
+fill 111 70 144 111 71 144 minecraft:yellow_terracotta strict
+fill 111 69 146 111 71 146 minecraft:yellow_terracotta strict
+fill 111 70 192 111 71 192 minecraft:yellow_terracotta strict
+fill 111 70 194 111 71 194 minecraft:yellow_terracotta strict
+fill 112 70 53 112 71 53 minecraft:yellow_terracotta strict
+fill 112 70 55 112 71 55 minecraft:yellow_terracotta strict
+fill 112 70 57 112 71 57 minecraft:yellow_terracotta strict
+fill 112 70 59 112 71 59 minecraft:yellow_terracotta strict
+fill 112 70 61 112 71 61 minecraft:yellow_terracotta strict
+fill 112 70 63 112 71 63 minecraft:yellow_terracotta strict
+fill 112 70 141 112 71 141 minecraft:yellow_terracotta strict
+fill 112 70 147 112 71 147 minecraft:yellow_terracotta strict
+fill 112 70 151 112 71 151 minecraft:yellow_terracotta strict
+fill 112 70 163 112 71 163 minecraft:yellow_terracotta strict
+fill 114 70 141 114 71 141 minecraft:yellow_terracotta strict
+fill 114 70 147 114 71 147 minecraft:yellow_terracotta strict
+fill 114 70 151 114 71 151 minecraft:yellow_terracotta strict
+fill 114 70 163 114 71 163 minecraft:yellow_terracotta strict
+fill 116 70 141 116 71 141 minecraft:yellow_terracotta strict
+fill 116 70 147 116 71 147 minecraft:yellow_terracotta strict
+fill 116 70 151 116 71 151 minecraft:yellow_terracotta strict
+fill 116 70 162 116 71 163 minecraft:yellow_terracotta strict
+fill 116 69 180 116 71 180 minecraft:yellow_terracotta strict
+fill 117 70 164 117 71 164 minecraft:yellow_terracotta strict
+fill 117 70 166 117 71 166 minecraft:yellow_terracotta strict
+fill 117 70 168 117 71 168 minecraft:yellow_terracotta strict
+fill 117 70 170 117 71 170 minecraft:yellow_terracotta strict
+fill 117 70 172 117 71 172 minecraft:yellow_terracotta strict
+fill 117 70 174 117 71 174 minecraft:yellow_terracotta strict
+fill 117 70 176 117 71 176 minecraft:yellow_terracotta strict
+fill 117 70 178 117 71 178 minecraft:yellow_terracotta strict
+fill 118 70 141 118 71 141 minecraft:yellow_terracotta strict
+fill 118 70 147 118 71 147 minecraft:yellow_terracotta strict
+fill 118 70 151 118 71 151 minecraft:yellow_terracotta strict
+fill 118 70 162 118 71 162 minecraft:yellow_terracotta strict
+fill 120 69 141 121 71 141 minecraft:yellow_terracotta strict
+fill 120 69 147 121 71 147 minecraft:yellow_terracotta strict
+fill 120 70 152 120 71 152 minecraft:yellow_terracotta strict
+fill 120 70 154 120 71 154 minecraft:yellow_terracotta strict
+fill 120 70 156 120 71 156 minecraft:yellow_terracotta strict
+fill 120 70 158 120 71 158 minecraft:yellow_terracotta strict
+fill 120 69 160 120 71 161 minecraft:yellow_terracotta strict
+fill 122 70 142 122 71 142 minecraft:yellow_terracotta strict
+fill 122 70 144 122 71 144 minecraft:yellow_terracotta strict
+fill 122 69 146 122 71 146 minecraft:yellow_terracotta strict
+fill 134 70 142 134 71 142 minecraft:yellow_terracotta strict
+fill 134 70 144 134 71 144 minecraft:yellow_terracotta strict
+fill 134 69 146 134 71 146 minecraft:yellow_terracotta strict
+fill 135 70 141 135 71 141 minecraft:yellow_terracotta strict
+fill 135 70 147 135 71 147 minecraft:yellow_terracotta strict
+fill 137 70 141 137 71 141 minecraft:yellow_terracotta strict
+fill 137 70 147 137 71 147 minecraft:yellow_terracotta strict
+fill 139 70 141 139 71 141 minecraft:yellow_terracotta strict
+fill 139 70 147 139 71 147 minecraft:yellow_terracotta strict
+fill 141 70 141 141 71 141 minecraft:yellow_terracotta strict
+fill 141 70 147 141 71 147 minecraft:yellow_terracotta strict
+fill 143 69 141 144 71 141 minecraft:yellow_terracotta strict
+fill 143 69 147 144 71 147 minecraft:yellow_terracotta strict
+fill 145 70 142 145 71 142 minecraft:yellow_terracotta strict
+fill 145 70 144 145 71 144 minecraft:yellow_terracotta strict
+fill 145 69 146 145 71 146 minecraft:yellow_terracotta strict
+fill 150 70 162 150 71 162 minecraft:yellow_terracotta strict
+fill 150 70 164 150 71 164 minecraft:yellow_terracotta strict
+fill 150 70 166 150 71 166 minecraft:yellow_terracotta strict
+fill 150 70 168 150 71 168 minecraft:yellow_terracotta strict
+fill 151 70 161 151 71 161 minecraft:yellow_terracotta strict
+fill 153 70 161 153 71 161 minecraft:yellow_terracotta strict
+fill 155 70 161 155 71 161 minecraft:yellow_terracotta strict
+fill 157 70 161 157 71 161 minecraft:yellow_terracotta strict
+fill 159 69 161 160 71 161 minecraft:yellow_terracotta strict
+fill 159 69 169 160 71 169 minecraft:yellow_terracotta strict
+fill 161 70 162 161 71 162 minecraft:yellow_terracotta strict
+fill 161 70 164 161 71 164 minecraft:yellow_terracotta strict
+fill 161 70 166 161 71 166 minecraft:yellow_terracotta strict
+fill 161 70 168 161 71 168 minecraft:yellow_terracotta strict
+fill 35 73 105 39 73 105 minecraft:yellow_terracotta strict
+fill 35 73 116 39 73 116 minecraft:yellow_terracotta strict
+fill 35 73 152 35 73 154 minecraft:yellow_terracotta strict
+fill 35 73 156 35 73 158 minecraft:yellow_terracotta strict
+fill 41 73 105 46 73 105 minecraft:yellow_terracotta strict
+fill 41 73 116 46 73 116 minecraft:yellow_terracotta strict
+fill 48 73 152 48 73 154 minecraft:yellow_terracotta strict
+fill 48 73 156 48 73 158 minecraft:yellow_terracotta strict
+fill 59 73 105 59 73 109 minecraft:yellow_terracotta strict
+fill 59 73 112 59 73 116 minecraft:yellow_terracotta strict
+fill 69 73 149 69 73 152 minecraft:yellow_terracotta strict
+fill 69 73 155 69 73 158 minecraft:yellow_terracotta strict
+fill 84 73 149 84 73 152 minecraft:yellow_terracotta strict
+fill 84 73 155 84 73 158 minecraft:yellow_terracotta strict
+fill 95 73 177 99 73 177 minecraft:yellow_terracotta strict
+fill 95 73 190 99 73 190 minecraft:yellow_terracotta strict
+fill 98 73 79 98 73 81 minecraft:yellow_terracotta strict
+fill 98 73 83 98 73 85 minecraft:yellow_terracotta strict
+fill 99 73 52 99 73 57 minecraft:yellow_terracotta strict
+fill 99 73 59 99 73 64 minecraft:yellow_terracotta strict
+fill 99 73 78 101 73 78 minecraft:yellow_terracotta strict
+fill 99 73 89 101 73 89 minecraft:yellow_terracotta strict
+fill 99 73 128 99 73 130 minecraft:yellow_terracotta strict
+fill 99 73 132 99 73 134 minecraft:yellow_terracotta strict
+fill 100 73 127 102 73 127 minecraft:yellow_terracotta strict
+fill 100 73 136 102 73 136 minecraft:yellow_terracotta strict
+fill 102 73 177 106 73 177 minecraft:yellow_terracotta strict
+fill 102 73 190 103 73 190 minecraft:yellow_terracotta strict
+fill 102 73 192 102 73 194 minecraft:yellow_terracotta strict
+fill 103 73 191 105 73 191 minecraft:yellow_terracotta strict
+fill 103 73 196 105 73 196 minecraft:yellow_terracotta strict
+fill 104 73 127 106 73 127 minecraft:yellow_terracotta strict
+fill 104 73 136 106 73 136 minecraft:yellow_terracotta strict
+fill 105 73 190 106 73 190 minecraft:yellow_terracotta strict
+fill 107 73 152 107 73 154 minecraft:yellow_terracotta strict
+fill 107 73 156 107 73 157 minecraft:yellow_terracotta strict
+fill 107 73 172 107 73 174 minecraft:yellow_terracotta strict
+fill 107 73 191 109 73 191 minecraft:yellow_terracotta strict
+fill 107 73 196 109 73 196 minecraft:yellow_terracotta strict
+fill 108 73 128 108 73 130 minecraft:yellow_terracotta strict
+fill 108 73 132 108 73 134 minecraft:yellow_terracotta strict
+fill 108 73 151 110 73 151 minecraft:yellow_terracotta strict
+fill 108 73 162 110 73 163 minecraft:yellow_terracotta strict
+fill 111 73 141 111 73 143 minecraft:yellow_terracotta strict
+fill 111 73 145 111 73 147 minecraft:yellow_terracotta strict
+fill 111 73 192 111 73 194 minecraft:yellow_terracotta strict
+fill 112 73 52 112 73 57 minecraft:yellow_terracotta strict
+fill 112 73 59 112 73 64 minecraft:yellow_terracotta strict
+fill 112 73 151 114 73 151 minecraft:yellow_terracotta strict
+fill 112 73 162 114 73 163 minecraft:yellow_terracotta strict
+fill 116 73 151 118 73 151 minecraft:yellow_terracotta strict
+fill 116 73 162 118 73 162 minecraft:yellow_terracotta strict
+setblock 116 73 163 minecraft:yellow_terracotta strict
+fill 117 73 164 117 73 166 minecraft:yellow_terracotta strict
+fill 117 73 168 117 73 170 minecraft:yellow_terracotta strict
+fill 117 73 172 117 73 174 minecraft:yellow_terracotta strict
+fill 117 73 176 117 73 178 minecraft:yellow_terracotta strict
+fill 120 73 152 120 73 154 minecraft:yellow_terracotta strict
+fill 120 73 156 120 73 158 minecraft:yellow_terracotta strict
+fill 122 73 141 122 73 143 minecraft:yellow_terracotta strict
+fill 122 73 145 122 73 147 minecraft:yellow_terracotta strict
+fill 134 73 141 134 73 143 minecraft:yellow_terracotta strict
+fill 134 73 145 134 73 147 minecraft:yellow_terracotta strict
+fill 145 73 141 145 73 143 minecraft:yellow_terracotta strict
+fill 145 73 145 145 73 147 minecraft:yellow_terracotta strict
+fill 150 73 162 150 73 164 minecraft:yellow_terracotta strict
+fill 150 73 166 150 73 168 minecraft:yellow_terracotta strict
+fill 151 73 161 153 73 161 minecraft:yellow_terracotta strict
+fill 155 73 161 157 73 161 minecraft:yellow_terracotta strict
+fill 161 73 162 161 73 164 minecraft:yellow_terracotta strict
+fill 161 73 166 161 73 168 minecraft:yellow_terracotta strict
+fill 35 74 153 35 74 154 minecraft:yellow_terracotta strict
+fill 35 74 156 35 74 157 minecraft:yellow_terracotta strict
+fill 36 74 105 39 74 105 minecraft:yellow_terracotta strict
+fill 36 74 116 39 74 116 minecraft:yellow_terracotta strict
+fill 41 74 105 44 74 105 minecraft:yellow_terracotta strict
+fill 41 74 116 44 74 116 minecraft:yellow_terracotta strict
+fill 46 73 106 46 74 109 minecraft:yellow_terracotta strict
+fill 46 73 112 46 74 115 minecraft:yellow_terracotta strict
+fill 48 74 153 48 74 154 minecraft:yellow_terracotta strict
+fill 48 74 156 48 74 157 minecraft:yellow_terracotta strict
+fill 59 74 106 59 74 109 minecraft:yellow_terracotta strict
+fill 59 74 112 59 74 115 minecraft:yellow_terracotta strict
+fill 69 74 150 69 74 152 minecraft:yellow_terracotta strict
+fill 69 74 155 69 74 157 minecraft:yellow_terracotta strict
+fill 84 74 150 84 74 152 minecraft:yellow_terracotta strict
+fill 84 74 155 84 74 157 minecraft:yellow_terracotta strict
+fill 96 74 177 99 74 177 minecraft:yellow_terracotta strict
+fill 99 74 53 99 74 57 minecraft:yellow_terracotta strict
+fill 99 74 59 99 74 63 minecraft:yellow_terracotta strict
+fill 102 74 177 105 74 177 minecraft:yellow_terracotta strict
+fill 111 74 142 111 74 143 minecraft:yellow_terracotta strict
+fill 111 74 145 111 74 146 minecraft:yellow_terracotta strict
+fill 112 74 53 112 74 57 minecraft:yellow_terracotta strict
+fill 112 74 59 112 74 63 minecraft:yellow_terracotta strict
+fill 122 74 142 122 74 143 minecraft:yellow_terracotta strict
+fill 122 74 145 122 74 146 minecraft:yellow_terracotta strict
+fill 134 74 142 134 74 143 minecraft:yellow_terracotta strict
+fill 134 74 145 134 74 146 minecraft:yellow_terracotta strict
+fill 145 74 142 145 74 143 minecraft:yellow_terracotta strict
+fill 145 74 145 145 74 146 minecraft:yellow_terracotta strict
+setblock 35 75 154 minecraft:yellow_terracotta strict
+setblock 35 75 156 minecraft:yellow_terracotta strict
+fill 37 75 105 39 75 105 minecraft:yellow_terracotta strict
+fill 37 75 116 39 75 116 minecraft:yellow_terracotta strict
+fill 41 75 105 43 75 105 minecraft:yellow_terracotta strict
+fill 41 75 116 43 75 116 minecraft:yellow_terracotta strict
+fill 46 75 107 46 75 109 minecraft:yellow_terracotta strict
+fill 46 75 112 46 75 114 minecraft:yellow_terracotta strict
+setblock 48 75 154 minecraft:yellow_terracotta strict
+setblock 48 75 156 minecraft:yellow_terracotta strict
+fill 59 75 107 59 75 109 minecraft:yellow_terracotta strict
+fill 59 75 112 59 75 114 minecraft:yellow_terracotta strict
+fill 69 75 151 69 75 152 minecraft:yellow_terracotta strict
+fill 69 75 155 69 75 156 minecraft:yellow_terracotta strict
+fill 84 75 151 84 75 152 minecraft:yellow_terracotta strict
+fill 84 75 155 84 75 156 minecraft:yellow_terracotta strict
+fill 97 75 177 99 75 177 minecraft:yellow_terracotta strict
+fill 97 74 190 97 75 190 minecraft:yellow_terracotta strict
+fill 98 74 79 98 75 79 minecraft:yellow_terracotta strict
+fill 98 74 81 98 75 81 minecraft:yellow_terracotta strict
+fill 98 74 83 98 75 83 minecraft:yellow_terracotta strict
+fill 98 74 85 98 75 85 minecraft:yellow_terracotta strict
+fill 98 73 87 98 75 88 minecraft:yellow_terracotta strict
+fill 99 75 54 99 75 57 minecraft:yellow_terracotta strict
+fill 99 75 59 99 75 62 minecraft:yellow_terracotta strict
+fill 99 74 78 99 75 78 minecraft:yellow_terracotta strict
+fill 99 74 89 99 75 89 minecraft:yellow_terracotta strict
+fill 99 74 128 99 75 128 minecraft:yellow_terracotta strict
+fill 99 74 130 99 75 130 minecraft:yellow_terracotta strict
+fill 99 74 132 99 75 132 minecraft:yellow_terracotta strict
+fill 99 74 134 99 75 134 minecraft:yellow_terracotta strict
+fill 99 74 190 99 75 190 minecraft:yellow_terracotta strict
+fill 100 74 127 100 75 127 minecraft:yellow_terracotta strict
+fill 100 74 136 100 75 136 minecraft:yellow_terracotta strict
+fill 101 74 78 101 75 78 minecraft:yellow_terracotta strict
+fill 101 74 89 101 75 89 minecraft:yellow_terracotta strict
+fill 102 74 127 102 75 127 minecraft:yellow_terracotta strict
+fill 102 74 136 102 75 136 minecraft:yellow_terracotta strict
+fill 102 75 177 104 75 177 minecraft:yellow_terracotta strict
+fill 102 74 190 102 75 190 minecraft:yellow_terracotta strict
+fill 102 74 192 102 75 192 minecraft:yellow_terracotta strict
+fill 102 74 194 102 75 194 minecraft:yellow_terracotta strict
+fill 103 73 78 104 75 78 minecraft:yellow_terracotta strict
+fill 103 73 89 104 75 89 minecraft:yellow_terracotta strict
+fill 103 74 191 103 75 191 minecraft:yellow_terracotta strict
+fill 103 74 196 103 75 196 minecraft:yellow_terracotta strict
+fill 104 74 127 104 75 127 minecraft:yellow_terracotta strict
+fill 104 74 136 104 75 136 minecraft:yellow_terracotta strict
+setblock 104 75 190 minecraft:yellow_terracotta strict
+fill 105 74 79 105 75 79 minecraft:yellow_terracotta strict
+fill 105 74 81 105 75 81 minecraft:yellow_terracotta strict
+fill 105 74 83 105 75 83 minecraft:yellow_terracotta strict
+fill 105 74 85 105 75 85 minecraft:yellow_terracotta strict
+fill 105 74 87 105 75 88 minecraft:yellow_terracotta strict
+fill 105 74 191 105 75 191 minecraft:yellow_terracotta strict
+fill 105 74 196 105 75 196 minecraft:yellow_terracotta strict
+fill 106 74 127 106 75 127 minecraft:yellow_terracotta strict
+fill 106 74 136 106 75 136 minecraft:yellow_terracotta strict
+fill 107 74 156 107 75 156 minecraft:yellow_terracotta strict
+fill 107 74 158 107 75 158 minecraft:yellow_terracotta strict
+fill 107 74 160 107 75 161 minecraft:yellow_terracotta strict
+fill 107 74 164 107 75 164 minecraft:yellow_terracotta strict
+fill 107 74 166 107 75 166 minecraft:yellow_terracotta strict
+fill 107 74 168 107 75 168 minecraft:yellow_terracotta strict
+setblock 107 75 170 minecraft:yellow_terracotta strict
+fill 107 74 172 107 75 172 minecraft:yellow_terracotta strict
+fill 107 74 174 107 75 174 minecraft:yellow_terracotta strict
+setblock 107 75 176 minecraft:yellow_terracotta strict
+fill 107 74 178 107 75 178 minecraft:yellow_terracotta strict
+fill 107 74 191 107 75 191 minecraft:yellow_terracotta strict
+fill 107 74 196 107 75 196 minecraft:yellow_terracotta strict
+fill 108 74 128 108 75 128 minecraft:yellow_terracotta strict
+fill 108 74 130 108 75 130 minecraft:yellow_terracotta strict
+fill 108 74 132 108 75 132 minecraft:yellow_terracotta strict
+fill 108 74 134 108 75 134 minecraft:yellow_terracotta strict
+fill 108 74 151 108 75 151 minecraft:yellow_terracotta strict
+fill 108 74 163 108 75 163 minecraft:yellow_terracotta strict
+fill 108 74 180 108 75 180 minecraft:yellow_terracotta strict
+fill 109 74 191 109 75 191 minecraft:yellow_terracotta strict
+fill 109 74 196 109 75 196 minecraft:yellow_terracotta strict
+fill 110 74 151 110 75 151 minecraft:yellow_terracotta strict
+fill 110 74 163 110 75 163 minecraft:yellow_terracotta strict
+fill 110 74 180 110 75 180 minecraft:yellow_terracotta strict
+setblock 111 75 143 minecraft:yellow_terracotta strict
+setblock 111 75 145 minecraft:yellow_terracotta strict
+fill 111 74 192 111 75 192 minecraft:yellow_terracotta strict
+fill 111 74 194 111 75 194 minecraft:yellow_terracotta strict
+fill 112 75 54 112 75 57 minecraft:yellow_terracotta strict
+fill 112 75 59 112 75 62 minecraft:yellow_terracotta strict
+fill 112 74 151 112 75 151 minecraft:yellow_terracotta strict
+fill 112 74 163 112 75 163 minecraft:yellow_terracotta strict
+fill 112 74 180 112 75 180 minecraft:yellow_terracotta strict
+fill 114 74 151 114 75 151 minecraft:yellow_terracotta strict
+fill 114 74 163 114 75 163 minecraft:yellow_terracotta strict
+fill 114 74 180 114 75 180 minecraft:yellow_terracotta strict
+fill 116 74 151 116 75 151 minecraft:yellow_terracotta strict
+fill 116 74 162 116 75 163 minecraft:yellow_terracotta strict
+fill 116 74 180 116 75 180 minecraft:yellow_terracotta strict
+fill 117 74 164 117 75 164 minecraft:yellow_terracotta strict
+fill 117 74 166 117 75 166 minecraft:yellow_terracotta strict
+fill 117 74 168 117 75 168 minecraft:yellow_terracotta strict
+fill 117 74 170 117 75 170 minecraft:yellow_terracotta strict
+fill 117 74 172 117 75 172 minecraft:yellow_terracotta strict
+fill 117 74 174 117 75 174 minecraft:yellow_terracotta strict
+fill 117 74 176 117 75 176 minecraft:yellow_terracotta strict
+fill 117 74 178 117 75 178 minecraft:yellow_terracotta strict
+fill 118 74 151 118 75 151 minecraft:yellow_terracotta strict
+fill 118 74 162 118 75 162 minecraft:yellow_terracotta strict
+fill 120 74 152 120 75 152 minecraft:yellow_terracotta strict
+fill 120 74 154 120 75 154 minecraft:yellow_terracotta strict
+fill 120 74 156 120 75 156 minecraft:yellow_terracotta strict
+fill 120 74 158 120 75 158 minecraft:yellow_terracotta strict
+fill 120 73 160 120 75 161 minecraft:yellow_terracotta strict
+setblock 122 75 143 minecraft:yellow_terracotta strict
+setblock 122 75 145 minecraft:yellow_terracotta strict
+setblock 134 75 143 minecraft:yellow_terracotta strict
+setblock 134 75 145 minecraft:yellow_terracotta strict
+setblock 145 75 143 minecraft:yellow_terracotta strict
+setblock 145 75 145 minecraft:yellow_terracotta strict
+fill 150 74 162 150 75 162 minecraft:yellow_terracotta strict
+fill 150 74 164 150 75 164 minecraft:yellow_terracotta strict
+fill 150 74 166 150 75 166 minecraft:yellow_terracotta strict
+fill 150 74 168 150 75 168 minecraft:yellow_terracotta strict
+fill 151 74 161 151 75 161 minecraft:yellow_terracotta strict
+fill 151 74 169 151 75 169 minecraft:yellow_terracotta strict
+fill 153 74 161 153 75 161 minecraft:yellow_terracotta strict
+fill 153 74 169 153 75 169 minecraft:yellow_terracotta strict
+fill 155 74 161 155 75 161 minecraft:yellow_terracotta strict
+fill 155 74 169 155 75 169 minecraft:yellow_terracotta strict
+fill 157 74 161 157 75 161 minecraft:yellow_terracotta strict
+fill 157 74 169 157 75 169 minecraft:yellow_terracotta strict
+fill 159 73 161 160 75 161 minecraft:yellow_terracotta strict
+fill 159 74 169 160 75 169 minecraft:yellow_terracotta strict
+fill 161 74 162 161 75 162 minecraft:yellow_terracotta strict
+fill 161 74 164 161 75 164 minecraft:yellow_terracotta strict
+fill 161 74 166 161 75 166 minecraft:yellow_terracotta strict
+fill 161 74 168 161 75 168 minecraft:yellow_terracotta strict
+fill 38 76 105 39 76 105 minecraft:yellow_terracotta strict
+fill 38 76 116 39 76 116 minecraft:yellow_terracotta strict
+fill 41 76 105 42 76 105 minecraft:yellow_terracotta strict
+fill 41 76 116 42 76 116 minecraft:yellow_terracotta strict
+fill 46 76 108 46 76 109 minecraft:yellow_terracotta strict
+fill 46 76 112 46 76 113 minecraft:yellow_terracotta strict
+fill 59 76 108 59 76 109 minecraft:yellow_terracotta strict
+fill 59 76 112 59 76 113 minecraft:yellow_terracotta strict
+setblock 69 76 152 minecraft:yellow_terracotta strict
+setblock 69 76 155 minecraft:yellow_terracotta strict
+setblock 84 76 152 minecraft:yellow_terracotta strict
+setblock 84 76 155 minecraft:yellow_terracotta strict
+fill 98 76 177 99 76 177 minecraft:yellow_terracotta strict
+fill 98 76 190 99 76 190 minecraft:yellow_terracotta strict
+fill 99 76 55 99 76 57 minecraft:yellow_terracotta strict
+fill 99 76 59 99 76 61 minecraft:yellow_terracotta strict
+fill 102 76 177 103 76 177 minecraft:yellow_terracotta strict
+fill 102 76 190 103 76 190 minecraft:yellow_terracotta strict
+fill 112 76 55 112 76 57 minecraft:yellow_terracotta strict
+fill 112 76 59 112 76 61 minecraft:yellow_terracotta strict
+setblock 39 77 105 minecraft:yellow_terracotta strict
+setblock 39 77 116 minecraft:yellow_terracotta strict
+setblock 41 77 105 minecraft:yellow_terracotta strict
+setblock 41 77 116 minecraft:yellow_terracotta strict
+setblock 46 77 109 minecraft:yellow_terracotta strict
+setblock 46 77 112 minecraft:yellow_terracotta strict
+setblock 59 77 109 minecraft:yellow_terracotta strict
+setblock 59 77 112 minecraft:yellow_terracotta strict
+fill 98 77 78 100 77 78 minecraft:yellow_terracotta strict
+fill 98 77 89 100 77 89 minecraft:yellow_terracotta strict
+fill 99 77 56 99 77 57 minecraft:yellow_terracotta strict
+fill 99 77 59 99 77 60 minecraft:yellow_terracotta strict
+fill 99 77 127 102 77 127 minecraft:yellow_terracotta strict
+fill 99 77 136 102 77 136 minecraft:yellow_terracotta strict
+setblock 99 77 177 minecraft:yellow_terracotta strict
+setblock 99 77 190 minecraft:yellow_terracotta strict
+setblock 102 77 177 minecraft:yellow_terracotta strict
+fill 102 77 191 102 77 192 minecraft:yellow_terracotta strict
+fill 102 77 195 102 77 196 minecraft:yellow_terracotta strict
+fill 103 77 78 105 77 78 minecraft:yellow_terracotta strict
+fill 103 77 89 105 77 89 minecraft:yellow_terracotta strict
+fill 105 77 127 108 77 127 minecraft:yellow_terracotta strict
+fill 105 77 136 108 77 136 minecraft:yellow_terracotta strict
+fill 107 77 151 112 77 151 minecraft:yellow_terracotta strict
+fill 107 77 163 107 77 170 minecraft:yellow_terracotta strict
+fill 107 77 174 107 77 180 minecraft:yellow_terracotta strict
+fill 111 77 191 111 77 192 minecraft:yellow_terracotta strict
+fill 111 77 195 111 77 196 minecraft:yellow_terracotta strict
+fill 112 77 56 112 77 57 minecraft:yellow_terracotta strict
+fill 112 77 59 112 77 60 minecraft:yellow_terracotta strict
+fill 115 77 151 120 77 151 minecraft:yellow_terracotta strict
+fill 117 77 163 117 77 170 minecraft:yellow_terracotta strict
+fill 117 77 173 117 77 180 minecraft:yellow_terracotta strict
+fill 119 77 162 120 77 162 minecraft:yellow_terracotta strict
+fill 150 77 161 150 77 164 minecraft:yellow_terracotta strict
+fill 150 77 166 150 77 169 minecraft:yellow_terracotta strict
+fill 161 77 161 161 77 164 minecraft:yellow_terracotta strict
+fill 161 77 166 161 77 169 minecraft:yellow_terracotta strict
+setblock 99 78 57 minecraft:yellow_terracotta strict
+setblock 99 78 59 minecraft:yellow_terracotta strict
+fill 99 78 78 100 78 78 minecraft:yellow_terracotta strict
+fill 99 78 89 100 78 89 minecraft:yellow_terracotta strict
+fill 100 78 127 102 78 127 minecraft:yellow_terracotta strict
+fill 100 78 136 102 78 136 minecraft:yellow_terracotta strict
+setblock 102 78 192 minecraft:yellow_terracotta strict
+setblock 102 78 195 minecraft:yellow_terracotta strict
+fill 103 78 78 104 78 78 minecraft:yellow_terracotta strict
+fill 103 78 89 104 78 89 minecraft:yellow_terracotta strict
+fill 105 78 127 107 78 127 minecraft:yellow_terracotta strict
+fill 105 78 136 107 78 136 minecraft:yellow_terracotta strict
+fill 107 78 164 107 78 170 minecraft:yellow_terracotta strict
+fill 107 78 173 107 78 179 minecraft:yellow_terracotta strict
+fill 108 78 151 112 78 151 minecraft:yellow_terracotta strict
+fill 108 78 162 112 78 162 minecraft:yellow_terracotta strict
+setblock 111 78 192 minecraft:yellow_terracotta strict
+setblock 111 78 195 minecraft:yellow_terracotta strict
+setblock 112 78 57 minecraft:yellow_terracotta strict
+setblock 112 78 59 minecraft:yellow_terracotta strict
+fill 115 78 151 119 78 151 minecraft:yellow_terracotta strict
+fill 115 78 162 119 78 162 minecraft:yellow_terracotta strict
+fill 117 78 164 117 78 170 minecraft:yellow_terracotta strict
+fill 117 78 173 117 78 179 minecraft:yellow_terracotta strict
+fill 150 78 162 150 78 164 minecraft:yellow_terracotta strict
+fill 150 78 166 150 78 168 minecraft:yellow_terracotta strict
+fill 161 78 162 161 78 164 minecraft:yellow_terracotta strict
+fill 161 78 166 161 78 168 minecraft:yellow_terracotta strict
+setblock 100 79 78 minecraft:yellow_terracotta strict
+setblock 100 79 89 minecraft:yellow_terracotta strict
+fill 101 79 127 102 79 127 minecraft:yellow_terracotta strict
+fill 101 79 136 102 79 136 minecraft:yellow_terracotta strict
+setblock 103 79 78 minecraft:yellow_terracotta strict
+setblock 103 79 89 minecraft:yellow_terracotta strict
+fill 105 79 127 106 79 127 minecraft:yellow_terracotta strict
+fill 105 79 136 106 79 136 minecraft:yellow_terracotta strict
+fill 107 79 165 107 79 170 minecraft:yellow_terracotta strict
+fill 107 79 173 107 79 178 minecraft:yellow_terracotta strict
+fill 109 79 151 112 79 151 minecraft:yellow_terracotta strict
+fill 109 79 162 112 79 162 minecraft:yellow_terracotta strict
+fill 115 79 151 118 79 151 minecraft:yellow_terracotta strict
+fill 115 79 162 118 79 162 minecraft:yellow_terracotta strict
+fill 117 79 165 117 79 170 minecraft:yellow_terracotta strict
+fill 117 79 173 117 79 178 minecraft:yellow_terracotta strict
+fill 150 79 163 150 79 164 minecraft:yellow_terracotta strict
+fill 150 79 166 150 79 167 minecraft:yellow_terracotta strict
+fill 161 79 163 161 79 164 minecraft:yellow_terracotta strict
+fill 161 79 166 161 79 167 minecraft:yellow_terracotta strict
+setblock 102 80 127 minecraft:yellow_terracotta strict
+setblock 102 80 136 minecraft:yellow_terracotta strict
+setblock 105 80 127 minecraft:yellow_terracotta strict
+setblock 105 80 136 minecraft:yellow_terracotta strict
+fill 107 80 166 107 80 170 minecraft:yellow_terracotta strict
+fill 107 80 173 107 80 177 minecraft:yellow_terracotta strict
+fill 110 80 151 112 80 151 minecraft:yellow_terracotta strict
+fill 110 80 162 112 80 162 minecraft:yellow_terracotta strict
+fill 115 80 151 117 80 151 minecraft:yellow_terracotta strict
+fill 115 80 162 117 80 162 minecraft:yellow_terracotta strict
+fill 117 80 166 117 80 170 minecraft:yellow_terracotta strict
+fill 117 80 173 117 80 177 minecraft:yellow_terracotta strict
+setblock 150 80 164 minecraft:yellow_terracotta strict
+setblock 150 80 166 minecraft:yellow_terracotta strict
+setblock 161 80 164 minecraft:yellow_terracotta strict
 setblock 161 80 166 minecraft:yellow_terracotta strict
 fill 107 81 167 107 81 170 minecraft:yellow_terracotta strict
 fill 107 81 173 107 81 176 minecraft:yellow_terracotta strict
@@ -23,17 +1128,10 @@ setblock 107 84 170 minecraft:yellow_terracotta strict
 setblock 107 84 173 minecraft:yellow_terracotta strict
 setblock 117 84 170 minecraft:yellow_terracotta strict
 setblock 117 84 173 minecraft:yellow_terracotta strict
-setblock 16 65 249 minecraft:allium strict
-setblock 16 65 253 minecraft:allium strict
-setblock 17 65 218 minecraft:allium strict
-setblock 27 65 245 minecraft:allium strict
-setblock 32 65 245 minecraft:allium strict
 setblock 35 65 102 minecraft:allium strict
-setblock 35 65 231 minecraft:allium strict
 setblock 37 65 178 minecraft:allium strict
 setblock 38 65 175 minecraft:allium strict
 setblock 42 65 83 minecraft:allium strict
-setblock 48 65 248 minecraft:allium strict
 setblock 52 65 86 minecraft:allium strict
 setblock 52 65 88 minecraft:allium strict
 setblock 53 65 89 minecraft:allium strict
@@ -100,1103 +1198,5 @@ setblock 162 65 223 minecraft:allium strict
 setblock 168 65 216 minecraft:allium strict
 setblock 173 65 224 minecraft:allium strict
 setblock 178 65 230 minecraft:allium strict
-setblock 180 65 229 minecraft:allium strict
-setblock 184 65 251 minecraft:allium strict
-setblock 189 65 226 minecraft:allium strict
-setblock 194 65 131 minecraft:allium strict
-setblock 195 65 239 minecraft:allium strict
-setblock 196 65 141 minecraft:allium strict
-setblock 197 65 236 minecraft:allium strict
-setblock 199 65 142 minecraft:allium strict
-setblock 204 65 133 minecraft:allium strict
-setblock 207 65 138 minecraft:allium strict
-setblock 208 65 141 minecraft:allium strict
-setblock 210 65 221 minecraft:allium strict
-setblock 212 65 246 minecraft:allium strict
-setblock 213 65 136 minecraft:allium strict
-setblock 215 65 219 minecraft:allium strict
-setblock 218 65 219 minecraft:allium strict
-setblock 218 65 248 minecraft:allium strict
-setblock 224 65 225 minecraft:allium strict
-setblock 230 65 220 minecraft:allium strict
-setblock 232 65 254 minecraft:allium strict
-setblock 244 65 224 minecraft:allium strict
-setblock 124 65 148 minecraft:andesite_slab[type=bottom] strict
-setblock 132 65 148 minecraft:andesite_slab[type=bottom] strict
-setblock 11 65 250 minecraft:azure_bluet strict
-setblock 16 65 229 minecraft:azure_bluet strict
-setblock 20 65 233 minecraft:azure_bluet strict
-setblock 36 65 99 minecraft:azure_bluet strict
-setblock 36 65 228 minecraft:azure_bluet strict
-fill 37 65 82 37 65 83 minecraft:azure_bluet strict
-setblock 38 65 81 minecraft:azure_bluet strict
-setblock 39 65 84 minecraft:azure_bluet strict
-setblock 39 65 178 minecraft:azure_bluet strict
-setblock 42 65 84 minecraft:azure_bluet strict
-setblock 44 65 230 minecraft:azure_bluet strict
-setblock 44 65 243 minecraft:azure_bluet strict
-setblock 45 65 181 minecraft:azure_bluet strict
-setblock 47 65 174 minecraft:azure_bluet strict
-setblock 50 65 229 minecraft:azure_bluet strict
-setblock 54 65 87 minecraft:azure_bluet strict
-setblock 55 65 86 minecraft:azure_bluet strict
-setblock 58 65 234 minecraft:azure_bluet strict
-setblock 62 65 182 minecraft:azure_bluet strict
-setblock 64 65 179 minecraft:azure_bluet strict
-setblock 66 65 237 minecraft:azure_bluet strict
-setblock 69 65 55 minecraft:azure_bluet strict
-setblock 70 65 223 minecraft:azure_bluet strict
-setblock 71 65 56 minecraft:azure_bluet strict
-setblock 72 65 244 minecraft:azure_bluet strict
-fill 73 65 55 73 65 56 minecraft:azure_bluet strict
-setblock 73 65 239 minecraft:azure_bluet strict
-fill 74 65 54 75 65 54 minecraft:azure_bluet strict
-fill 74 65 56 74 65 57 minecraft:azure_bluet strict
-setblock 74 65 183 minecraft:azure_bluet strict
-setblock 75 65 60 minecraft:azure_bluet strict
-setblock 75 65 229 minecraft:azure_bluet strict
-setblock 78 65 226 minecraft:azure_bluet strict
-setblock 79 65 61 minecraft:azure_bluet strict
-setblock 79 65 64 minecraft:azure_bluet strict
-setblock 79 65 84 minecraft:azure_bluet strict
-setblock 79 65 86 minecraft:azure_bluet strict
-setblock 79 65 103 minecraft:azure_bluet strict
-setblock 80 65 88 minecraft:azure_bluet strict
-setblock 81 65 86 minecraft:azure_bluet strict
-setblock 81 65 243 minecraft:azure_bluet strict
-setblock 82 65 84 minecraft:azure_bluet strict
-fill 84 65 72 85 65 72 minecraft:azure_bluet strict
-setblock 85 65 100 minecraft:azure_bluet strict
-setblock 85 65 221 minecraft:azure_bluet strict
-setblock 88 65 68 minecraft:azure_bluet strict
-setblock 101 65 221 minecraft:azure_bluet strict
-setblock 104 65 225 minecraft:azure_bluet strict
-setblock 120 65 126 minecraft:azure_bluet strict
-setblock 121 65 113 minecraft:azure_bluet strict
-setblock 121 65 125 minecraft:azure_bluet strict
-setblock 122 65 129 minecraft:azure_bluet strict
-setblock 123 65 116 minecraft:azure_bluet strict
-setblock 123 65 249 minecraft:azure_bluet strict
-setblock 132 65 250 minecraft:azure_bluet strict
-setblock 134 65 116 minecraft:azure_bluet strict
-setblock 135 65 114 minecraft:azure_bluet strict
-setblock 135 65 127 minecraft:azure_bluet strict
-setblock 144 65 54 minecraft:azure_bluet strict
-setblock 144 65 70 minecraft:azure_bluet strict
-setblock 149 65 228 minecraft:azure_bluet strict
-setblock 150 65 245 minecraft:azure_bluet strict
-setblock 153 65 227 minecraft:azure_bluet strict
-setblock 156 65 63 minecraft:azure_bluet strict
-setblock 157 65 223 minecraft:azure_bluet strict
-setblock 159 65 81 minecraft:azure_bluet strict
-setblock 161 65 234 minecraft:azure_bluet strict
-setblock 165 65 58 minecraft:azure_bluet strict
-setblock 166 65 235 minecraft:azure_bluet strict
-setblock 168 65 254 minecraft:azure_bluet strict
-setblock 178 65 233 minecraft:azure_bluet strict
-setblock 180 65 236 minecraft:azure_bluet strict
-setblock 182 65 252 minecraft:azure_bluet strict
-setblock 187 65 216 minecraft:azure_bluet strict
-setblock 187 65 231 minecraft:azure_bluet strict
-setblock 192 65 142 minecraft:azure_bluet strict
-setblock 193 65 133 minecraft:azure_bluet strict
-fill 193 65 136 193 65 137 minecraft:azure_bluet strict
-setblock 193 65 233 minecraft:azure_bluet strict
-setblock 196 65 230 minecraft:azure_bluet strict
-setblock 197 65 241 minecraft:azure_bluet strict
-setblock 199 65 132 minecraft:azure_bluet strict
-setblock 201 65 140 minecraft:azure_bluet strict
-setblock 202 65 133 minecraft:azure_bluet strict
-setblock 203 65 131 minecraft:azure_bluet strict
-setblock 203 65 136 minecraft:azure_bluet strict
-setblock 209 65 244 minecraft:azure_bluet strict
-setblock 209 65 247 minecraft:azure_bluet strict
-setblock 213 65 221 minecraft:azure_bluet strict
-setblock 216 65 219 minecraft:azure_bluet strict
-setblock 217 65 135 minecraft:azure_bluet strict
-setblock 228 65 224 minecraft:azure_bluet strict
-setblock 230 65 227 minecraft:azure_bluet strict
-setblock 231 65 219 minecraft:azure_bluet strict
-setblock 231 65 229 minecraft:azure_bluet strict
-setblock 234 65 254 minecraft:azure_bluet strict
-setblock 236 65 241 minecraft:azure_bluet strict
-setblock 238 65 249 minecraft:azure_bluet strict
-setblock 243 65 253 minecraft:azure_bluet strict
-setblock 128 86 85 minecraft:bell[attachment=ceiling,facing=south] strict
-setblock 116 70 101 minecraft:bell[attachment=single_wall,facing=south] strict
-fill 54 65 72 54 67 72 minecraft:birch_fence[north=false,south=false,west=false,east=false] strict
-fill 54 65 80 54 67 80 minecraft:birch_fence[north=false,south=false,west=false,east=false] strict
-fill 60 65 66 60 67 66 minecraft:birch_fence[north=false,south=false,west=false,east=false] strict
-fill 60 65 86 60 67 86 minecraft:birch_fence[north=false,south=false,west=false,east=false] strict
-fill 68 65 66 68 67 66 minecraft:birch_fence[north=false,south=false,west=false,east=false] strict
-fill 68 65 86 68 67 86 minecraft:birch_fence[north=false,south=false,west=false,east=false] strict
-fill 74 65 72 74 67 72 minecraft:birch_fence[north=false,south=false,west=false,east=false] strict
-fill 74 65 80 74 67 80 minecraft:birch_fence[north=false,south=false,west=false,east=false] strict
-fill 59 65 76 59 68 76 minecraft:birch_fence[north=false,south=false,west=false,east=false] strict
-fill 61 65 73 61 68 73 minecraft:birch_fence[north=false,south=false,west=false,east=false] strict
-fill 61 65 79 61 68 79 minecraft:birch_fence[north=false,south=false,west=false,east=false] strict
-fill 64 65 71 64 68 71 minecraft:birch_fence[north=false,south=false,west=false,east=false] strict
-fill 64 65 81 64 68 81 minecraft:birch_fence[north=false,south=false,west=false,east=false] strict
-fill 67 65 73 67 68 73 minecraft:birch_fence[north=false,south=false,west=false,east=false] strict
-fill 67 65 79 67 68 79 minecraft:birch_fence[north=false,south=false,west=false,east=false] strict
-fill 69 65 76 69 68 76 minecraft:birch_fence[north=false,south=false,west=false,east=false] strict
-fill 202 78 107 203 78 117 minecraft:brick_slab[type=bottom] strict
-fill 56 79 125 57 79 135 minecraft:brick_slab[type=bottom] strict
-fill 106 79 185 118 79 186 minecraft:brick_slab[type=bottom] strict
-setblock 122 79 246 minecraft:brick_slab[type=bottom] strict
-setblock 37 80 142 minecraft:brick_slab[type=bottom] strict
-setblock 46 80 154 minecraft:brick_slab[type=bottom] strict
-setblock 84 80 132 minecraft:brick_slab[type=bottom] strict
-setblock 37 81 194 minecraft:brick_slab[type=bottom] strict
-setblock 45 82 171 minecraft:brick_slab[type=bottom] strict
-setblock 54 82 156 minecraft:brick_slab[type=bottom] strict
-setblock 82 82 145 minecraft:brick_slab[type=bottom] strict
-setblock 85 82 164 minecraft:brick_slab[type=bottom] strict
-setblock 152 82 172 minecraft:brick_slab[type=bottom] strict
-setblock 59 83 164 minecraft:brick_slab[type=bottom] strict
-setblock 73 83 171 minecraft:brick_slab[type=bottom] strict
-setblock 85 83 194 minecraft:brick_slab[type=bottom] strict
-setblock 97 83 161 minecraft:brick_slab[type=bottom] strict
-setblock 37 84 147 minecraft:brick_slab[type=bottom] strict
-setblock 46 84 128 minecraft:brick_slab[type=bottom] strict
-fill 62 84 190 72 84 191 minecraft:brick_slab[type=bottom] strict
-setblock 104 84 194 minecraft:brick_slab[type=bottom] strict
-setblock 62 85 156 minecraft:brick_slab[type=bottom] strict
-setblock 68 85 164 minecraft:brick_slab[type=bottom] strict
-setblock 104 85 156 minecraft:brick_slab[type=bottom] strict
-setblock 101 86 140 minecraft:brick_slab[type=bottom] strict
-setblock 147 86 153 minecraft:brick_slab[type=bottom] strict
-setblock 148 86 145 minecraft:brick_slab[type=bottom] strict
-setblock 150 86 108 minecraft:brick_slab[type=bottom] strict
-setblock 155 86 129 minecraft:brick_slab[type=bottom] strict
-setblock 159 86 194 minecraft:brick_slab[type=bottom] strict
-setblock 67 88 128 minecraft:brick_slab[type=bottom] strict
-setblock 109 88 160 minecraft:brick_slab[type=bottom] strict
-setblock 115 90 165 minecraft:brick_slab[type=bottom] strict
-fill 122 70 180 122 70 191 minecraft:brick_stairs[facing=east,half=bottom,shape=straight] strict
-fill 123 71 180 123 71 191 minecraft:brick_stairs[facing=east,half=bottom,shape=straight] strict
-fill 124 72 180 124 72 191 minecraft:brick_stairs[facing=east,half=bottom,shape=straight] strict
-setblock 51 73 125 minecraft:brick_stairs[facing=east,half=bottom,shape=straight] strict
-fill 53 73 184 53 73 197 minecraft:brick_stairs[facing=east,half=bottom,shape=straight] strict
-fill 125 73 180 125 73 191 minecraft:brick_stairs[facing=east,half=bottom,shape=straight] strict
-fill 198 73 107 198 73 117 minecraft:brick_stairs[facing=east,half=bottom,shape=straight] strict
-fill 52 74 125 52 74 134 minecraft:brick_stairs[facing=east,half=bottom,shape=straight] strict
-fill 54 74 184 54 74 197 minecraft:brick_stairs[facing=east,half=bottom,shape=straight] strict
-fill 126 74 180 126 74 191 minecraft:brick_stairs[facing=east,half=bottom,shape=straight] strict
-fill 199 74 107 199 74 117 minecraft:brick_stairs[facing=east,half=bottom,shape=straight] strict
-fill 53 75 125 53 75 134 minecraft:brick_stairs[facing=east,half=bottom,shape=straight] strict
-fill 55 75 184 55 75 197 minecraft:brick_stairs[facing=east,half=bottom,shape=straight] strict
-fill 127 75 180 127 75 191 minecraft:brick_stairs[facing=east,half=bottom,shape=straight] strict
-fill 200 75 107 200 75 117 minecraft:brick_stairs[facing=east,half=bottom,shape=straight] strict
-fill 54 76 125 54 76 134 minecraft:brick_stairs[facing=east,half=bottom,shape=straight] strict
-fill 56 76 184 56 76 197 minecraft:brick_stairs[facing=east,half=bottom,shape=straight] strict
-fill 201 76 107 201 76 109 minecraft:brick_stairs[facing=east,half=bottom,shape=straight] strict
-fill 201 76 111 201 76 117 minecraft:brick_stairs[facing=east,half=bottom,shape=straight] strict
-fill 55 77 125 55 77 134 minecraft:brick_stairs[facing=east,half=bottom,shape=straight] strict
-fill 57 77 184 57 77 197 minecraft:brick_stairs[facing=east,half=bottom,shape=straight] strict
-fill 94 77 190 94 77 197 minecraft:brick_stairs[facing=east,half=bottom,shape=straight] strict
-fill 202 77 107 202 77 117 minecraft:brick_stairs[facing=east,half=bottom,shape=straight] strict
-fill 56 78 125 56 78 135 minecraft:brick_stairs[facing=east,half=bottom,shape=straight] strict
-fill 95 78 190 95 78 197 minecraft:brick_stairs[facing=east,half=bottom,shape=straight] strict
-fill 96 79 190 96 79 197 minecraft:brick_stairs[facing=east,half=bottom,shape=straight] strict
-fill 97 80 190 97 80 197 minecraft:brick_stairs[facing=east,half=bottom,shape=straight] strict
-fill 112 73 191 118 73 191 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
-fill 133 73 102 145 73 102 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
-fill 179 73 117 193 73 117 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
-setblock 108 74 190 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
-fill 110 74 190 118 74 190 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
-fill 133 74 101 144 74 101 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
-setblock 149 74 180 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
-fill 151 74 180 160 74 180 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
-setblock 162 74 180 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
-fill 179 74 116 193 74 116 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
-fill 106 75 189 118 75 189 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
-fill 133 75 100 144 75 100 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
-fill 149 75 179 162 75 179 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
-fill 179 75 115 193 75 115 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
-fill 106 76 188 114 76 188 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
-fill 116 76 188 118 76 188 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
-fill 133 76 99 145 76 99 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
-fill 149 76 178 162 76 178 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
-fill 179 76 114 189 76 114 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
-fill 191 76 114 193 76 114 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
-fill 62 77 197 72 77 197 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
-fill 106 77 187 118 77 187 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
-fill 149 77 177 162 77 177 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
-fill 179 77 113 193 77 113 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
-fill 62 78 196 72 78 196 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
-fill 106 78 186 118 78 186 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
-fill 149 78 176 162 78 176 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
-fill 62 79 195 72 79 195 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
-fill 62 80 194 72 80 194 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
-fill 62 81 193 72 81 193 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
-fill 62 82 192 72 82 192 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
-fill 62 83 191 72 83 191 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
-fill 108 73 180 118 73 180 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
-fill 133 73 94 146 73 94 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
-fill 149 73 169 162 73 169 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
-fill 179 73 107 193 73 107 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
-fill 107 74 181 118 74 181 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
-fill 133 74 95 145 74 95 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
-fill 149 74 170 162 74 170 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
-fill 179 74 108 193 74 108 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
-fill 106 75 182 118 75 182 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
-fill 133 75 96 145 75 96 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
-fill 149 75 171 162 75 171 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
-fill 179 75 109 193 75 109 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
-fill 106 76 183 118 76 183 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
-fill 133 76 97 145 76 97 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
-fill 149 76 172 151 76 172 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
-fill 153 76 172 162 76 172 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
-fill 179 76 110 193 76 110 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
-fill 62 77 184 72 77 184 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
-fill 106 77 184 118 77 184 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
-fill 149 77 173 162 77 173 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
-fill 179 77 111 193 77 111 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
-fill 62 78 185 72 78 185 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
-fill 106 78 185 118 78 185 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
-fill 149 78 174 162 78 174 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
-fill 62 79 186 72 79 186 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
-fill 62 80 187 68 80 187 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
-fill 70 80 187 72 80 187 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
-fill 62 81 188 72 81 188 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
-fill 62 82 189 72 82 189 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
-fill 62 83 190 72 83 190 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
-fill 134 70 180 134 70 191 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
-fill 133 71 180 133 71 191 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
-fill 132 72 180 132 72 191 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
-setblock 62 73 125 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
-setblock 63 73 184 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
-setblock 63 73 197 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
-fill 131 73 180 131 73 191 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
-fill 61 74 125 61 74 134 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
-fill 62 74 184 62 74 186 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
-fill 62 74 188 62 74 197 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
-fill 130 74 180 130 74 191 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
-setblock 206 74 107 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
-fill 206 74 109 206 74 115 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
-setblock 206 74 117 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
-fill 60 75 125 60 75 134 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
-fill 61 75 184 61 75 197 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
-fill 129 75 180 129 75 191 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
-fill 205 75 107 205 75 117 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
-fill 59 76 125 59 76 131 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
-fill 59 76 133 59 76 134 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
-fill 60 76 184 60 76 197 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
-fill 204 76 107 204 76 117 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
-fill 58 77 125 58 77 134 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
-fill 59 77 184 59 77 197 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
-fill 203 77 107 203 77 117 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
-fill 57 78 125 57 78 135 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
-setblock 101 78 190 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
-fill 101 78 192 101 78 195 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
-setblock 101 78 197 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
-fill 100 79 190 100 79 197 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
-fill 99 80 190 99 80 197 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
-setblock 175 66 65 minecraft:bush strict
-setblock 199 66 55 minecraft:bush strict
-setblock 206 66 102 minecraft:bush strict
-setblock 171 67 81 minecraft:bush strict
-setblock 213 67 64 minecraft:bush strict
-setblock 216 67 68 minecraft:bush strict
-setblock 216 68 89 minecraft:bush strict
-setblock 174 69 73 minecraft:bush strict
-setblock 188 69 59 minecraft:bush strict
-setblock 180 70 96 minecraft:bush strict
-setblock 189 70 59 minecraft:bush strict
-setblock 213 70 68 minecraft:bush strict
-setblock 174 71 81 minecraft:bush strict
-setblock 215 71 74 minecraft:bush strict
-setblock 176 73 86 minecraft:bush strict
-setblock 184 73 97 minecraft:bush strict
-setblock 204 73 98 minecraft:bush strict
-setblock 215 73 78 minecraft:bush strict
-setblock 203 74 98 minecraft:bush strict
-setblock 182 78 69 minecraft:bush strict
-setblock 201 78 96 minecraft:bush strict
-setblock 180 79 74 minecraft:bush strict
-setblock 211 79 82 minecraft:bush strict
-setblock 182 80 87 minecraft:bush strict
-setblock 209 81 83 minecraft:bush strict
-setblock 73 66 118 minecraft:cake strict
-setblock 136 80 143 minecraft:campfire[lit=true,signal_fire=false] strict
-setblock 149 80 194 minecraft:campfire[lit=true,signal_fire=false] strict
-setblock 78 81 107 minecraft:campfire[lit=true,signal_fire=false] strict
-setblock 190 81 114 minecraft:campfire[lit=true,signal_fire=false] strict
-setblock 201 81 110 minecraft:campfire[lit=true,signal_fire=false] strict
-setblock 45 82 194 minecraft:campfire[lit=true,signal_fire=false] strict
-setblock 59 82 132 minecraft:campfire[lit=true,signal_fire=false] strict
-setblock 64 82 140 minecraft:campfire[lit=true,signal_fire=false] strict
-setblock 82 82 151 minecraft:campfire[lit=true,signal_fire=false] strict
-setblock 93 82 107 minecraft:campfire[lit=true,signal_fire=false] strict
-setblock 101 82 108 minecraft:campfire[lit=true,signal_fire=false] strict
-setblock 115 82 188 minecraft:campfire[lit=true,signal_fire=false] strict
-setblock 172 82 114 minecraft:campfire[lit=true,signal_fire=false] strict
-setblock 57 83 107 minecraft:campfire[lit=true,signal_fire=false] strict
-setblock 101 83 54 minecraft:campfire[lit=true,signal_fire=false] strict
-setblock 108 83 80 minecraft:campfire[lit=true,signal_fire=false] strict
-setblock 139 83 165 minecraft:campfire[lit=true,signal_fire=false] strict
-setblock 152 83 153 minecraft:campfire[lit=true,signal_fire=false] strict
-setblock 100 85 80 minecraft:campfire[lit=true,signal_fire=false] strict
-setblock 101 86 134 minecraft:campfire[lit=true,signal_fire=false] strict
-setblock 108 86 97 minecraft:campfire[lit=true,signal_fire=false] strict
-setblock 148 86 97 minecraft:campfire[lit=true,signal_fire=false] strict
-setblock 69 87 187 minecraft:campfire[lit=true,signal_fire=false] strict
-setblock 128 80 171 minecraft:campfire[lit=true] strict
-setblock 76 66 124 minecraft:candle[candles=3,lit=true] strict
-setblock 89 66 118 minecraft:candle[candles=3,lit=true] strict
-setblock 128 67 59 minecraft:candle[candles=3,lit=true] strict
-setblock 51 65 140 minecraft:cauldron strict
-setblock 51 65 147 minecraft:cauldron strict
-setblock 52 65 161 minecraft:cauldron strict
-setblock 81 65 161 minecraft:cauldron strict
-setblock 85 65 150 minecraft:cauldron strict
-setblock 47 65 162 minecraft:cherry_door[facing=north,half=lower,hinge=left,open=false] strict
-setblock 47 66 162 minecraft:cherry_door[facing=north,half=upper,hinge=left,open=false] strict
-setblock 38 65 196 minecraft:cherry_door[facing=south,half=lower,hinge=left,open=false] strict
-setblock 148 65 196 minecraft:cherry_door[facing=south,half=lower,hinge=left,open=false] strict
-setblock 174 65 116 minecraft:cherry_door[facing=south,half=lower,hinge=left,open=false] strict
-setblock 38 66 196 minecraft:cherry_door[facing=south,half=upper,hinge=left,open=false] strict
-setblock 148 66 196 minecraft:cherry_door[facing=south,half=upper,hinge=left,open=false] strict
-setblock 174 66 116 minecraft:cherry_door[facing=south,half=upper,hinge=left,open=false] strict
-setblock 148 65 131 minecraft:cherry_door[facing=west,half=lower,hinge=left,open=false] strict
-setblock 148 66 131 minecraft:cherry_door[facing=west,half=upper,hinge=left,open=false] strict
-fill 158 66 128 158 67 128 minecraft:cherry_trapdoor[facing=east,half=bottom,open=true] strict
-fill 158 66 130 158 67 130 minecraft:cherry_trapdoor[facing=east,half=bottom,open=true] strict
-fill 158 70 128 158 71 128 minecraft:cherry_trapdoor[facing=east,half=bottom,open=true] strict
-fill 158 70 130 158 71 130 minecraft:cherry_trapdoor[facing=east,half=bottom,open=true] strict
-setblock 150 75 152 minecraft:cherry_trapdoor[facing=east,half=bottom,open=true] strict
-setblock 150 75 154 minecraft:cherry_trapdoor[facing=east,half=bottom,open=true] strict
-fill 158 74 128 158 75 128 minecraft:cherry_trapdoor[facing=east,half=bottom,open=true] strict
-fill 158 74 130 158 75 130 minecraft:cherry_trapdoor[facing=east,half=bottom,open=true] strict
-fill 158 74 132 158 75 132 minecraft:cherry_trapdoor[facing=east,half=bottom,open=true] strict
-fill 158 74 134 158 75 134 minecraft:cherry_trapdoor[facing=east,half=bottom,open=true] strict
-setblock 158 73 129 minecraft:cherry_trapdoor[facing=east,half=top,open=false] strict
-setblock 48 66 161 minecraft:cherry_trapdoor[facing=north,half=bottom,open=true] strict
-fill 36 66 184 36 67 184 minecraft:cherry_trapdoor[facing=north,half=bottom,open=true] strict
-fill 38 66 184 38 67 184 minecraft:cherry_trapdoor[facing=north,half=bottom,open=true] strict
-fill 44 66 161 44 67 161 minecraft:cherry_trapdoor[facing=north,half=bottom,open=true] strict
-fill 46 66 161 46 67 161 minecraft:cherry_trapdoor[facing=north,half=bottom,open=true] strict
-fill 146 66 190 146 67 190 minecraft:cherry_trapdoor[facing=north,half=bottom,open=true] strict
-fill 148 66 190 148 67 190 minecraft:cherry_trapdoor[facing=north,half=bottom,open=true] strict
-fill 171 66 107 171 67 107 minecraft:cherry_trapdoor[facing=north,half=bottom,open=true] strict
-fill 173 66 107 173 67 107 minecraft:cherry_trapdoor[facing=north,half=bottom,open=true] strict
-fill 175 66 107 175 67 107 minecraft:cherry_trapdoor[facing=north,half=bottom,open=true] strict
-fill 177 66 107 177 67 107 minecraft:cherry_trapdoor[facing=north,half=bottom,open=true] strict
-fill 36 70 184 36 71 184 minecraft:cherry_trapdoor[facing=north,half=bottom,open=true] strict
-fill 38 70 184 38 71 184 minecraft:cherry_trapdoor[facing=north,half=bottom,open=true] strict
-fill 44 70 161 44 71 161 minecraft:cherry_trapdoor[facing=north,half=bottom,open=true] strict
-fill 46 70 161 46 71 161 minecraft:cherry_trapdoor[facing=north,half=bottom,open=true] strict
-fill 48 70 161 48 71 161 minecraft:cherry_trapdoor[facing=north,half=bottom,open=true] strict
-fill 146 70 190 146 71 190 minecraft:cherry_trapdoor[facing=north,half=bottom,open=true] strict
-fill 148 70 190 148 71 190 minecraft:cherry_trapdoor[facing=north,half=bottom,open=true] strict
-fill 149 70 126 149 71 126 minecraft:cherry_trapdoor[facing=north,half=bottom,open=true] strict
-fill 151 70 126 151 71 126 minecraft:cherry_trapdoor[facing=north,half=bottom,open=true] strict
-fill 171 70 107 171 71 107 minecraft:cherry_trapdoor[facing=north,half=bottom,open=true] strict
-fill 173 70 107 173 71 107 minecraft:cherry_trapdoor[facing=north,half=bottom,open=true] strict
-fill 149 74 126 149 75 126 minecraft:cherry_trapdoor[facing=north,half=bottom,open=true] strict
-fill 151 74 126 151 75 126 minecraft:cherry_trapdoor[facing=north,half=bottom,open=true] strict
-setblock 48 67 161 minecraft:cherry_trapdoor[facing=north,half=top,open=false] strict
-setblock 37 69 184 minecraft:cherry_trapdoor[facing=north,half=top,open=false] strict
-setblock 150 69 126 minecraft:cherry_trapdoor[facing=north,half=top,open=false] strict
-setblock 154 69 126 minecraft:cherry_trapdoor[facing=north,half=top,open=false] strict
-setblock 176 69 107 minecraft:cherry_trapdoor[facing=north,half=top,open=false] strict
-setblock 150 73 126 minecraft:cherry_trapdoor[facing=north,half=top,open=false] strict
-setblock 175 66 117 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
-fill 36 66 197 36 67 197 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
-fill 38 66 197 38 67 197 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
-fill 44 66 174 44 67 174 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
-fill 46 66 174 46 67 174 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
-fill 48 66 174 48 67 174 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
-fill 50 66 174 50 67 174 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
-fill 139 66 162 139 67 162 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
-fill 141 66 162 141 67 162 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
-fill 146 66 197 146 67 197 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
-fill 148 66 197 148 67 197 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
-fill 171 66 117 171 67 117 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
-fill 173 66 117 173 67 117 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
-fill 177 66 117 177 67 117 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
-fill 36 70 197 36 71 197 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
-fill 38 70 197 38 71 197 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
-fill 44 70 174 44 71 174 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
-fill 46 70 174 46 71 174 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
-fill 48 70 174 48 71 174 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
-fill 50 70 174 50 71 174 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
-fill 135 70 162 135 71 162 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
-fill 137 70 162 137 71 162 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
-fill 139 70 162 139 71 162 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
-fill 141 70 162 141 71 162 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
-fill 155 70 137 155 71 137 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
-fill 171 70 117 171 71 117 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
-fill 173 70 117 173 71 117 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
-fill 175 70 117 175 71 117 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
-fill 177 70 117 177 71 117 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
-fill 139 74 162 139 75 162 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
-fill 141 74 162 141 75 162 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
-fill 143 74 162 143 75 162 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
-fill 145 74 162 145 75 162 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
-fill 149 74 137 149 75 137 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
-fill 155 74 137 155 75 137 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
-setblock 39 67 197 minecraft:cherry_trapdoor[facing=south,half=top,open=false] strict
-setblock 149 67 197 minecraft:cherry_trapdoor[facing=south,half=top,open=false] strict
-setblock 175 67 117 minecraft:cherry_trapdoor[facing=south,half=top,open=false] strict
-setblock 37 69 197 minecraft:cherry_trapdoor[facing=south,half=top,open=false] strict
-setblock 49 69 174 minecraft:cherry_trapdoor[facing=south,half=top,open=false] strict
-setblock 144 69 162 minecraft:cherry_trapdoor[facing=south,half=top,open=false] strict
-setblock 147 69 197 minecraft:cherry_trapdoor[facing=south,half=top,open=false] strict
-setblock 176 69 117 minecraft:cherry_trapdoor[facing=south,half=top,open=false] strict
-setblock 140 73 162 minecraft:cherry_trapdoor[facing=south,half=top,open=false] strict
-setblock 150 73 137 minecraft:cherry_trapdoor[facing=south,half=top,open=false] strict
-setblock 147 66 132 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
-fill 34 66 190 34 67 190 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
-fill 34 66 192 34 67 192 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
-fill 42 66 163 42 67 163 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
-fill 42 66 165 42 67 165 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
-fill 42 66 167 42 67 167 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
-fill 42 66 169 42 67 169 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
-fill 133 66 152 133 67 152 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
-fill 133 66 154 133 67 154 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
-fill 133 66 156 133 67 156 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
-fill 133 66 158 133 67 158 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
-fill 147 66 128 147 67 128 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
-fill 147 66 130 147 67 130 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
-fill 147 66 134 147 67 134 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
-fill 34 70 186 34 71 186 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
-fill 34 70 188 34 71 188 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
-fill 34 70 190 34 71 190 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
-fill 34 70 192 34 71 192 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
-fill 42 70 167 42 71 167 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
-fill 42 70 169 42 71 169 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
-fill 133 70 156 133 71 156 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
-fill 133 70 158 133 71 158 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
-fill 144 70 192 144 71 192 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
-fill 144 70 194 144 71 194 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
-fill 169 70 109 169 71 109 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
-fill 169 70 111 169 71 111 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
-fill 169 70 113 169 71 113 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
-fill 169 70 115 169 71 115 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
-fill 133 74 156 133 75 156 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
-fill 133 74 158 133 75 158 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
-setblock 147 67 132 minecraft:cherry_trapdoor[facing=west,half=top,open=false] strict
-setblock 34 69 191 minecraft:cherry_trapdoor[facing=west,half=top,open=false] strict
-setblock 42 69 164 minecraft:cherry_trapdoor[facing=west,half=top,open=false] strict
-setblock 42 69 168 minecraft:cherry_trapdoor[facing=west,half=top,open=false] strict
-setblock 133 69 157 minecraft:cherry_trapdoor[facing=west,half=top,open=false] strict
-setblock 147 69 129 minecraft:cherry_trapdoor[facing=west,half=top,open=false] strict
-setblock 169 69 110 minecraft:cherry_trapdoor[facing=west,half=top,open=false] strict
-setblock 169 69 114 minecraft:cherry_trapdoor[facing=west,half=top,open=false] strict
-setblock 133 73 157 minecraft:cherry_trapdoor[facing=west,half=top,open=false] strict
-setblock 147 73 133 minecraft:cherry_trapdoor[facing=west,half=top,open=false] strict
-setblock 125 65 151 minecraft:cobblestone_slab[type=bottom] strict
-fill 118 66 181 122 66 181 minecraft:cobblestone_wall[north=none,south=none,west=low,east=low,up=false] strict
-fill 118 65 181 122 65 181 minecraft:cobblestone_wall[north=none,south=none,west=tall,east=tall,up=true] strict
-setblock 51 65 154 minecraft:composter strict
-setblock 62 65 131 minecraft:composter strict
-setblock 81 65 133 minecraft:composter strict
-setblock 85 65 154 minecraft:composter strict
-setblock 87 65 153 minecraft:composter strict
-setblock 118 65 163 minecraft:composter strict
-setblock 128 65 177 minecraft:composter strict
-setblock 10 65 245 minecraft:cornflower strict
-setblock 18 65 235 minecraft:cornflower strict
-setblock 20 65 227 minecraft:cornflower strict
-setblock 26 65 241 minecraft:cornflower strict
-setblock 30 65 244 minecraft:cornflower strict
-setblock 35 65 240 minecraft:cornflower strict
-setblock 36 65 177 minecraft:cornflower strict
-setblock 37 65 81 minecraft:cornflower strict
-setblock 38 65 82 minecraft:cornflower strict
-setblock 39 65 80 minecraft:cornflower strict
-setblock 39 65 233 minecraft:cornflower strict
-setblock 41 65 82 minecraft:cornflower strict
-setblock 42 65 251 minecraft:cornflower strict
-setblock 43 65 100 minecraft:cornflower strict
-setblock 43 65 102 minecraft:cornflower strict
-fill 46 65 179 46 65 180 minecraft:cornflower strict
-setblock 49 65 232 minecraft:cornflower strict
-setblock 51 65 177 minecraft:cornflower strict
-setblock 52 65 175 minecraft:cornflower strict
-setblock 52 65 181 minecraft:cornflower strict
-setblock 53 65 252 minecraft:cornflower strict
-setblock 55 65 88 minecraft:cornflower strict
-setblock 55 65 175 minecraft:cornflower strict
-setblock 56 65 86 minecraft:cornflower strict
-setblock 57 65 251 minecraft:cornflower strict
-setblock 59 65 179 minecraft:cornflower strict
-setblock 61 65 179 minecraft:cornflower strict
-setblock 61 65 247 minecraft:cornflower strict
-setblock 63 65 181 minecraft:cornflower strict
-setblock 67 65 178 minecraft:cornflower strict
-setblock 70 65 56 minecraft:cornflower strict
-setblock 70 65 244 minecraft:cornflower strict
-setblock 71 65 227 minecraft:cornflower strict
-setblock 72 65 56 minecraft:cornflower strict
-setblock 75 65 179 minecraft:cornflower strict
-setblock 76 65 63 minecraft:cornflower strict
-setblock 76 65 176 minecraft:cornflower strict
-setblock 77 65 61 minecraft:cornflower strict
-setblock 77 65 64 minecraft:cornflower strict
-setblock 77 65 225 minecraft:cornflower strict
-setblock 78 65 63 minecraft:cornflower strict
-fill 78 65 87 79 65 87 minecraft:cornflower strict
-setblock 79 65 88 minecraft:cornflower strict
-setblock 80 65 246 minecraft:cornflower strict
-setblock 82 65 85 minecraft:cornflower strict
-setblock 83 65 182 minecraft:cornflower strict
-setblock 83 65 229 minecraft:cornflower strict
-fill 84 65 70 85 65 70 minecraft:cornflower strict
-setblock 85 65 71 minecraft:cornflower strict
-setblock 85 65 223 minecraft:cornflower strict
-setblock 86 65 228 minecraft:cornflower strict
-setblock 88 65 70 minecraft:cornflower strict
-setblock 89 65 71 minecraft:cornflower strict
-setblock 89 65 102 minecraft:cornflower strict
-fill 89 65 221 89 65 222 minecraft:cornflower strict
-setblock 104 65 224 minecraft:cornflower strict
-setblock 105 65 241 minecraft:cornflower strict
-setblock 107 65 223 minecraft:cornflower strict
-setblock 120 65 115 minecraft:cornflower strict
-setblock 120 65 127 minecraft:cornflower strict
-setblock 121 65 249 minecraft:cornflower strict
-setblock 123 65 113 minecraft:cornflower strict
-setblock 123 65 115 minecraft:cornflower strict
-fill 133 65 114 133 65 115 minecraft:cornflower strict
-setblock 135 65 115 minecraft:cornflower strict
-setblock 136 65 116 minecraft:cornflower strict
-setblock 136 65 128 minecraft:cornflower strict
-setblock 139 65 76 minecraft:cornflower strict
-setblock 141 65 79 minecraft:cornflower strict
-setblock 142 65 84 minecraft:cornflower strict
-setblock 145 65 85 minecraft:cornflower strict
-setblock 155 65 238 minecraft:cornflower strict
-setblock 157 65 75 minecraft:cornflower strict
-setblock 158 65 239 minecraft:cornflower strict
-setblock 158 65 243 minecraft:cornflower strict
-setblock 159 65 245 minecraft:cornflower strict
-setblock 160 65 53 minecraft:cornflower strict
-setblock 160 65 237 minecraft:cornflower strict
-setblock 161 65 73 minecraft:cornflower strict
-setblock 163 65 225 minecraft:cornflower strict
-setblock 164 65 221 minecraft:cornflower strict
-setblock 165 65 60 minecraft:cornflower strict
-setblock 166 65 59 minecraft:cornflower strict
-setblock 166 65 75 minecraft:cornflower strict
-setblock 172 65 227 minecraft:cornflower strict
-setblock 178 65 254 minecraft:cornflower strict
-setblock 179 65 233 minecraft:cornflower strict
-setblock 180 65 217 minecraft:cornflower strict
-setblock 182 65 249 minecraft:cornflower strict
-setblock 190 65 131 minecraft:cornflower strict
-setblock 192 65 243 minecraft:cornflower strict
-setblock 195 65 141 minecraft:cornflower strict
-setblock 196 65 235 minecraft:cornflower strict
-setblock 196 65 237 minecraft:cornflower strict
-setblock 199 65 241 minecraft:cornflower strict
-setblock 201 65 220 minecraft:cornflower strict
-setblock 201 65 231 minecraft:cornflower strict
-setblock 202 65 137 minecraft:cornflower strict
-setblock 207 65 130 minecraft:cornflower strict
-setblock 209 65 239 minecraft:cornflower strict
-setblock 211 65 137 minecraft:cornflower strict
-setblock 211 65 140 minecraft:cornflower strict
-setblock 213 65 251 minecraft:cornflower strict
-setblock 217 65 232 minecraft:cornflower strict
-setblock 221 65 241 minecraft:cornflower strict
-setblock 235 65 220 minecraft:cornflower strict
-setblock 242 65 233 minecraft:cornflower strict
-setblock 243 65 234 minecraft:cornflower strict
-setblock 246 65 250 minecraft:cornflower strict
-setblock 187 67 102 minecraft:cornflower strict
-setblock 192 68 57 minecraft:cornflower strict
-setblock 194 71 59 minecraft:cornflower strict
-setblock 213 72 70 minecraft:cornflower strict
-setblock 181 73 66 minecraft:cornflower strict
-setblock 213 74 87 minecraft:cornflower strict
-setblock 190 75 98 minecraft:cornflower strict
-setblock 193 75 61 minecraft:cornflower strict
-setblock 184 77 94 minecraft:cornflower strict
-setblock 200 77 97 minecraft:cornflower strict
-setblock 203 77 64 minecraft:cornflower strict
-setblock 192 79 96 minecraft:cornflower strict
-setblock 187 81 68 minecraft:cornflower strict
-setblock 9 65 181 minecraft:dandelion strict
-setblock 9 65 205 minecraft:dandelion strict
-setblock 10 65 84 minecraft:dandelion strict
-setblock 10 65 183 minecraft:dandelion strict
-setblock 10 65 243 minecraft:dandelion strict
-setblock 11 65 194 minecraft:dandelion strict
-setblock 12 65 195 minecraft:dandelion strict
-setblock 14 65 147 minecraft:dandelion strict
-setblock 14 65 217 minecraft:dandelion strict
-setblock 15 65 239 minecraft:dandelion strict
-setblock 15 65 253 minecraft:dandelion strict
-setblock 18 65 51 minecraft:dandelion strict
-setblock 36 65 159 minecraft:dandelion strict
-setblock 36 65 231 minecraft:dandelion strict
-fill 41 65 81 42 65 81 minecraft:dandelion strict
-setblock 42 65 182 minecraft:dandelion strict
-setblock 43 65 83 minecraft:dandelion strict
-setblock 43 65 174 minecraft:dandelion strict
-setblock 44 65 228 minecraft:dandelion strict
-setblock 45 65 236 minecraft:dandelion strict
-setblock 46 65 21 minecraft:dandelion strict
-setblock 46 65 246 minecraft:dandelion strict
-fill 51 65 86 51 65 87 minecraft:dandelion strict
-setblock 53 65 87 minecraft:dandelion strict
-setblock 56 65 89 minecraft:dandelion strict
-setblock 56 65 224 minecraft:dandelion strict
-setblock 57 65 87 minecraft:dandelion strict
-setblock 57 65 252 minecraft:dandelion strict
-setblock 58 65 103 minecraft:dandelion strict
-setblock 58 65 235 minecraft:dandelion strict
-setblock 60 65 230 minecraft:dandelion strict
-setblock 62 65 181 minecraft:dandelion strict
-setblock 62 65 223 minecraft:dandelion strict
-setblock 62 65 254 minecraft:dandelion strict
-setblock 64 65 228 minecraft:dandelion strict
-setblock 66 65 100 minecraft:dandelion strict
-setblock 66 65 180 minecraft:dandelion strict
-setblock 67 65 183 minecraft:dandelion strict
-setblock 69 65 54 minecraft:dandelion strict
-setblock 70 65 55 minecraft:dandelion strict
-setblock 70 65 104 minecraft:dandelion strict
-setblock 73 65 54 minecraft:dandelion strict
-setblock 73 65 218 minecraft:dandelion strict
-setblock 74 65 61 minecraft:dandelion strict
-setblock 75 65 64 minecraft:dandelion strict
-setblock 76 65 240 minecraft:dandelion strict
-setblock 77 65 62 minecraft:dandelion strict
-fill 77 65 84 77 65 86 minecraft:dandelion strict
-setblock 77 65 177 minecraft:dandelion strict
-setblock 77 65 183 minecraft:dandelion strict
-setblock 79 65 104 minecraft:dandelion strict
-setblock 80 65 87 minecraft:dandelion strict
-setblock 81 65 245 minecraft:dandelion strict
-setblock 82 65 181 minecraft:dandelion strict
-setblock 82 65 255 minecraft:dandelion strict
-setblock 83 65 71 minecraft:dandelion strict
-setblock 83 65 87 minecraft:dandelion strict
-setblock 84 65 68 minecraft:dandelion strict
-setblock 85 65 225 minecraft:dandelion strict
-setblock 86 65 71 minecraft:dandelion strict
-setblock 89 65 70 minecraft:dandelion strict
-setblock 89 65 72 minecraft:dandelion strict
-setblock 94 65 238 minecraft:dandelion strict
-setblock 98 65 61 minecraft:dandelion strict
-setblock 100 65 245 minecraft:dandelion strict
-setblock 101 65 39 minecraft:dandelion strict
-setblock 102 65 228 minecraft:dandelion strict
-setblock 102 65 255 minecraft:dandelion strict
-setblock 104 65 34 minecraft:dandelion strict
-setblock 105 65 217 minecraft:dandelion strict
-setblock 110 65 241 minecraft:dandelion strict
-setblock 115 65 253 minecraft:dandelion strict
-setblock 117 65 249 minecraft:dandelion strict
-setblock 120 65 37 minecraft:dandelion strict
-setblock 120 65 249 minecraft:dandelion strict
-setblock 121 65 114 minecraft:dandelion strict
-setblock 122 65 116 minecraft:dandelion strict
-setblock 123 65 128 minecraft:dandelion strict
-setblock 124 65 116 minecraft:dandelion strict
-fill 132 65 126 132 65 127 minecraft:dandelion strict
-setblock 133 65 127 minecraft:dandelion strict
-setblock 134 65 117 minecraft:dandelion strict
-setblock 141 65 58 minecraft:dandelion strict
-setblock 144 65 19 minecraft:dandelion strict
-setblock 145 65 21 minecraft:dandelion strict
-setblock 145 65 83 minecraft:dandelion strict
-setblock 146 65 224 minecraft:dandelion strict
-setblock 149 65 235 minecraft:dandelion strict
-setblock 152 65 36 minecraft:dandelion strict
-setblock 152 65 240 minecraft:dandelion strict
-setblock 153 65 30 minecraft:dandelion strict
-setblock 154 65 219 minecraft:dandelion strict
-setblock 160 65 80 minecraft:dandelion strict
-setblock 161 65 58 minecraft:dandelion strict
-setblock 161 65 216 minecraft:dandelion strict
-setblock 162 65 36 minecraft:dandelion strict
-setblock 162 65 60 minecraft:dandelion strict
-setblock 169 65 219 minecraft:dandelion strict
-setblock 172 65 139 minecraft:dandelion strict
-setblock 173 65 252 minecraft:dandelion strict
-setblock 175 65 134 minecraft:dandelion strict
-setblock 176 65 247 minecraft:dandelion strict
-setblock 177 65 53 minecraft:dandelion strict
-setblock 178 65 32 minecraft:dandelion strict
-setblock 179 65 234 minecraft:dandelion strict
-setblock 181 65 127 minecraft:dandelion strict
-setblock 181 65 250 minecraft:dandelion strict
-setblock 184 65 16 minecraft:dandelion strict
-setblock 187 65 133 minecraft:dandelion strict
-setblock 190 65 176 minecraft:dandelion strict
-setblock 193 65 140 minecraft:dandelion strict
-setblock 199 65 194 minecraft:dandelion strict
-setblock 201 65 18 minecraft:dandelion strict
-setblock 202 65 136 minecraft:dandelion strict
-setblock 202 65 142 minecraft:dandelion strict
-setblock 202 65 175 minecraft:dandelion strict
-setblock 202 65 232 minecraft:dandelion strict
-setblock 205 65 151 minecraft:dandelion strict
-setblock 206 65 149 minecraft:dandelion strict
-setblock 207 65 140 minecraft:dandelion strict
-setblock 208 65 247 minecraft:dandelion strict
-setblock 209 65 134 minecraft:dandelion strict
-setblock 212 65 136 minecraft:dandelion strict
-setblock 213 65 133 minecraft:dandelion strict
-fill 213 65 237 214 65 237 minecraft:dandelion strict
-setblock 215 65 144 minecraft:dandelion strict
-setblock 215 65 163 minecraft:dandelion strict
-setblock 218 65 168 minecraft:dandelion strict
-setblock 218 65 242 minecraft:dandelion strict
-setblock 222 65 232 minecraft:dandelion strict
-setblock 229 65 216 minecraft:dandelion strict
-setblock 229 65 218 minecraft:dandelion strict
-setblock 232 65 170 minecraft:dandelion strict
-setblock 232 65 232 minecraft:dandelion strict
-setblock 233 65 229 minecraft:dandelion strict
-setblock 234 65 182 minecraft:dandelion strict
-setblock 235 65 136 minecraft:dandelion strict
-setblock 237 65 90 minecraft:dandelion strict
-setblock 238 65 246 minecraft:dandelion strict
-setblock 239 65 16 minecraft:dandelion strict
-setblock 240 65 107 minecraft:dandelion strict
-setblock 240 65 177 minecraft:dandelion strict
-setblock 241 65 187 minecraft:dandelion strict
-setblock 243 65 83 minecraft:dandelion strict
-setblock 244 65 228 minecraft:dandelion strict
-setblock 245 65 223 minecraft:dandelion strict
-setblock 246 65 196 minecraft:dandelion strict
-setblock 173 66 68 minecraft:dandelion strict
-setblock 218 66 72 minecraft:dandelion strict
-setblock 173 67 88 minecraft:dandelion strict
-setblock 193 67 56 minecraft:dandelion strict
-setblock 208 67 60 minecraft:dandelion strict
-setblock 175 68 92 minecraft:dandelion strict
-setblock 178 68 64 minecraft:dandelion strict
-setblock 216 68 70 minecraft:dandelion strict
-setblock 214 69 68 minecraft:dandelion strict
-setblock 215 70 88 minecraft:dandelion strict
-setblock 192 71 101 minecraft:dandelion strict
-setblock 216 71 81 minecraft:dandelion strict
-setblock 208 73 95 minecraft:dandelion strict
-setblock 209 73 94 minecraft:dandelion strict
-setblock 207 74 65 minecraft:dandelion strict
-setblock 212 74 89 minecraft:dandelion strict
-setblock 180 75 91 minecraft:dandelion strict
-setblock 185 75 96 minecraft:dandelion strict
-setblock 214 75 80 minecraft:dandelion strict
-setblock 204 77 65 minecraft:dandelion strict
-setblock 193 79 64 minecraft:dandelion strict
-setblock 181 80 74 minecraft:dandelion strict
-setblock 196 80 65 minecraft:dandelion strict
-setblock 182 81 80 minecraft:dandelion strict
-setblock 185 81 80 minecraft:dandelion strict
-setblock 188 81 80 minecraft:dandelion strict
-setblock 188 81 85 minecraft:dandelion strict
-setblock 191 81 93 minecraft:dandelion strict
-setblock 194 81 66 minecraft:dandelion strict
-setblock 202 81 88 minecraft:dandelion strict
-setblock 203 81 78 minecraft:dandelion strict
-setblock 203 81 81 minecraft:dandelion strict
-setblock 203 81 87 minecraft:dandelion strict
-setblock 204 81 80 minecraft:dandelion strict
-setblock 206 81 83 minecraft:dandelion strict
-setblock 48 65 141 minecraft:dark_oak_door[facing=east,half=lower,hinge=left,open=false] strict
-setblock 108 65 110 minecraft:dark_oak_door[facing=east,half=lower,hinge=left,open=false] strict
-setblock 161 65 155 minecraft:dark_oak_door[facing=east,half=lower,hinge=left,open=false] strict
-setblock 48 66 141 minecraft:dark_oak_door[facing=east,half=upper,hinge=left,open=false] strict
-setblock 108 66 110 minecraft:dark_oak_door[facing=east,half=upper,hinge=left,open=false] strict
-setblock 161 66 155 minecraft:dark_oak_door[facing=east,half=upper,hinge=left,open=false] strict
-setblock 38 65 162 minecraft:dark_oak_door[facing=north,half=lower,hinge=left,open=false] strict
-setblock 151 65 138 minecraft:dark_oak_door[facing=north,half=lower,hinge=left,open=false] strict
-setblock 38 66 162 minecraft:dark_oak_door[facing=north,half=upper,hinge=left,open=false] strict
-setblock 151 66 138 minecraft:dark_oak_door[facing=north,half=upper,hinge=left,open=false] strict
-setblock 67 65 147 minecraft:dark_oak_door[facing=south,half=lower,hinge=left,open=false] strict
-setblock 70 65 116 minecraft:dark_oak_door[facing=south,half=lower,hinge=left,open=false] strict
-setblock 78 65 147 minecraft:dark_oak_door[facing=south,half=lower,hinge=left,open=false] strict
-setblock 111 65 89 minecraft:dark_oak_door[facing=south,half=lower,hinge=left,open=false] strict
-setblock 116 65 101 minecraft:dark_oak_door[facing=south,half=lower,hinge=left,open=false] strict
-setblock 151 65 104 minecraft:dark_oak_door[facing=south,half=lower,hinge=left,open=false] strict
-setblock 213 65 116 minecraft:dark_oak_door[facing=south,half=lower,hinge=left,open=false] strict
-setblock 67 66 147 minecraft:dark_oak_door[facing=south,half=upper,hinge=left,open=false] strict
-setblock 70 66 116 minecraft:dark_oak_door[facing=south,half=upper,hinge=left,open=false] strict
-setblock 78 66 147 minecraft:dark_oak_door[facing=south,half=upper,hinge=left,open=false] strict
-setblock 111 66 89 minecraft:dark_oak_door[facing=south,half=upper,hinge=left,open=false] strict
-setblock 116 66 101 minecraft:dark_oak_door[facing=south,half=upper,hinge=left,open=false] strict
-setblock 151 66 104 minecraft:dark_oak_door[facing=south,half=upper,hinge=left,open=false] strict
-setblock 213 66 116 minecraft:dark_oak_door[facing=south,half=upper,hinge=left,open=false] strict
-setblock 148 65 110 minecraft:dark_oak_door[facing=west,half=lower,hinge=left,open=false] strict
-setblock 148 66 110 minecraft:dark_oak_door[facing=west,half=upper,hinge=left,open=false] strict
-fill 92 65 123 92 66 123 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
-fill 38 65 123 38 67 123 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
-fill 47 65 119 47 67 119 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
-fill 56 65 123 56 67 123 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
-fill 65 65 119 65 67 119 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
-fill 74 65 123 74 67 123 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
-fill 83 65 119 83 67 119 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
-fill 114 65 117 114 67 117 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
-fill 114 65 125 114 67 125 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
-fill 117 65 110 117 67 110 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
-fill 117 65 132 117 67 132 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
-fill 124 65 107 124 67 107 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
-fill 124 65 135 124 67 135 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
-fill 132 65 107 132 67 107 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
-fill 132 65 135 132 67 135 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
-fill 139 65 110 139 67 110 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
-fill 139 65 132 139 67 132 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
-fill 142 65 117 142 67 117 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
-fill 142 65 125 142 67 125 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
-fill 164 65 117 164 67 117 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
-fill 168 65 125 168 67 125 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
-fill 177 65 125 177 67 125 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
-fill 182 66 117 182 67 117 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
-fill 186 65 125 186 67 125 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
-fill 195 65 125 195 67 125 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
-fill 204 65 125 204 67 125 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
-fill 209 66 117 209 67 117 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
-fill 213 65 125 213 67 125 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
-setblock 92 67 123 minecraft:dark_oak_fence[north=false,south=true,west=false,east=false] strict
-setblock 173 65 117 minecraft:dark_oak_fence[north=true,south=false,west=false,east=false] strict
-setblock 182 65 117 minecraft:dark_oak_fence[north=true,south=false,west=false,east=false] strict
-setblock 191 65 117 minecraft:dark_oak_fence[north=true,south=false,west=false,east=false] strict
-setblock 200 65 117 minecraft:dark_oak_fence[north=true,south=false,west=false,east=false] strict
-setblock 209 65 117 minecraft:dark_oak_fence[north=true,south=false,west=false,east=false] strict
-setblock 218 65 117 minecraft:dark_oak_fence[north=true,south=false,west=false,east=false] strict
-fill 222 65 125 222 67 125 minecraft:dark_oak_fence[north=true,south=false,west=false,east=false] strict
-fill 68 79 153 85 79 154 minecraft:dark_oak_slab[type=bottom] strict
-fill 45 80 110 60 80 111 minecraft:dark_oak_slab[type=bottom] strict
-fill 100 80 176 101 80 191 minecraft:dark_oak_slab[type=bottom] strict
-fill 101 81 193 112 81 193 minecraft:dark_oak_slab[type=bottom] strict
-fill 101 81 194 103 81 194 minecraft:dark_oak_slab[type=bottom] strict
-fill 105 81 194 112 81 194 minecraft:dark_oak_slab[type=bottom] strict
-fill 101 82 77 102 82 90 minecraft:dark_oak_slab[type=bottom] strict
-fill 103 83 126 104 83 137 minecraft:dark_oak_slab[type=bottom] strict
-fill 113 85 150 114 85 163 minecraft:dark_oak_slab[type=bottom] strict
-fill 106 87 171 118 87 172 minecraft:dark_oak_slab[type=bottom] strict
-fill 34 73 104 34 73 117 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
-fill 94 73 176 94 73 191 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
-fill 171 73 167 171 73 185 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
-fill 35 74 104 35 74 117 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
-fill 95 74 176 95 74 190 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
-fill 172 74 167 172 74 185 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
-fill 36 75 104 36 75 117 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
-fill 96 75 176 96 75 189 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
-fill 173 75 167 173 75 185 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
-fill 37 76 104 37 76 117 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
-fill 97 76 176 97 76 190 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
-fill 174 76 167 174 76 185 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
-fill 38 77 104 38 77 117 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
-fill 97 77 77 97 77 90 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
-fill 98 77 126 98 77 136 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
-fill 98 77 176 98 77 190 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
-fill 106 77 160 106 77 161 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
-setblock 106 77 163 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
-fill 175 77 167 175 77 185 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
-fill 39 78 104 39 78 117 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
-fill 98 78 77 98 78 90 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
-fill 99 78 126 99 78 137 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
-fill 99 78 176 99 78 190 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
-setblock 107 78 150 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
-fill 107 78 152 107 78 157 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
-fill 107 78 159 107 78 162 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
-fill 176 78 167 176 78 185 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
-fill 99 79 77 99 79 90 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
-fill 100 79 126 100 79 137 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
-fill 100 79 176 100 79 189 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
-fill 108 79 150 108 79 163 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
-fill 177 79 167 177 79 185 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
-fill 100 80 77 100 80 79 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
-fill 100 80 81 100 80 90 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
-fill 101 80 126 101 80 133 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
-fill 101 80 135 101 80 137 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
-fill 109 80 150 109 80 159 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
-fill 109 80 161 109 80 163 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
-fill 178 80 167 178 80 185 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
-fill 101 81 77 101 81 90 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
-fill 102 81 126 102 81 137 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
-fill 110 81 150 110 81 163 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
-fill 103 82 126 103 82 137 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
-fill 111 82 150 111 82 163 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
-fill 112 83 150 112 83 163 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
-fill 113 84 150 113 84 163 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
-fill 34 73 159 48 73 159 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
-fill 45 73 117 60 73 117 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
-fill 98 73 65 113 73 65 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
-fill 110 73 148 123 73 148 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
-fill 133 73 148 146 73 148 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
-fill 34 74 158 48 74 158 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
-fill 45 74 116 60 74 116 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
-fill 68 74 158 84 74 158 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
-fill 98 74 64 113 74 64 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
-fill 110 74 147 123 74 147 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
-fill 133 74 147 146 74 147 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
-fill 34 75 157 48 75 157 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
-fill 45 75 115 60 75 115 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
-fill 68 75 157 84 75 157 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
-fill 98 75 63 113 75 63 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
-fill 110 75 146 123 75 146 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
-fill 133 75 146 146 75 146 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
-fill 34 76 156 48 76 156 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
-fill 45 76 114 60 76 114 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
-fill 68 76 156 84 76 156 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
-fill 98 76 62 113 76 62 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
-fill 110 76 145 123 76 145 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
-fill 133 76 145 146 76 145 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
-fill 45 77 113 60 77 113 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
-fill 68 77 155 84 77 155 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
-fill 98 77 61 113 77 61 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
-fill 101 77 197 112 77 197 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
-fill 106 77 181 118 77 181 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
-fill 149 77 170 162 77 170 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
-fill 45 78 112 60 78 112 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
-fill 68 78 154 85 78 154 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
-fill 98 78 60 113 78 60 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
-fill 101 78 196 112 78 196 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
-fill 106 78 180 118 78 180 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
-fill 149 78 169 162 78 169 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
-fill 45 79 111 60 79 111 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
-fill 98 79 59 113 79 59 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
-fill 101 79 195 112 79 195 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
-fill 106 79 179 118 79 179 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
-fill 149 79 168 162 79 168 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
-fill 101 80 194 103 80 194 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
-fill 105 80 194 112 80 194 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
-fill 106 80 178 118 80 178 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
-fill 149 80 167 162 80 167 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
-fill 106 81 177 118 81 177 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
-fill 149 81 166 162 81 166 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
-fill 106 82 176 118 82 176 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
-fill 106 83 175 118 83 175 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
-fill 106 84 174 118 84 174 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
-fill 106 85 173 118 85 173 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
-fill 106 86 172 118 86 172 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
-fill 34 73 151 48 73 151 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 45 73 104 48 73 104 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 52 73 104 60 73 104 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 68 73 148 84 73 148 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 98 73 51 113 73 51 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 110 73 140 123 73 140 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 133 73 140 146 73 140 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 34 74 152 48 74 152 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 45 74 105 60 74 105 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 68 74 149 84 74 149 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 98 74 52 113 74 52 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 110 74 141 123 74 141 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 133 74 141 146 74 141 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 34 75 153 48 75 153 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 45 75 106 60 75 106 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 68 75 150 84 75 150 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 98 75 53 113 75 53 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 110 75 142 123 75 142 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 133 75 142 146 75 142 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 34 76 154 45 76 154 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 45 76 107 56 76 107 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 47 76 154 48 76 154 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 58 76 107 60 76 107 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 68 76 151 81 76 151 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 83 76 151 84 76 151 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 98 76 54 100 76 54 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 102 76 54 113 76 54 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 110 76 143 123 76 143 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 133 76 143 135 76 143 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 137 76 143 146 76 143 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 45 77 108 60 77 108 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 68 77 152 84 77 152 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 98 77 55 113 77 55 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 101 77 190 112 77 190 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 106 77 162 118 77 162 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 149 77 160 162 77 160 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 45 78 109 60 78 109 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 68 78 153 85 78 153 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 98 78 56 113 78 56 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 101 78 191 112 78 191 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 106 78 163 118 78 163 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 149 78 161 162 78 161 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 45 79 110 60 79 110 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 98 79 57 113 79 57 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 101 79 192 112 79 192 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 106 79 164 118 79 164 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 149 79 162 162 79 162 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 101 80 193 112 80 193 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 106 80 165 114 80 165 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 116 80 165 118 80 165 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 149 80 163 162 80 163 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 106 81 166 118 81 166 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 149 81 164 162 81 164 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 106 82 167 118 82 167 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 106 83 168 118 83 168 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 106 84 169 118 84 169 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 106 85 170 118 85 170 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 106 86 171 118 86 171 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
-fill 121 65 66 125 65 66 minecraft:dark_oak_stairs[facing=south,half=bottom] strict
-fill 121 65 68 125 65 68 minecraft:dark_oak_stairs[facing=south,half=bottom] strict
-fill 121 65 70 125 65 70 minecraft:dark_oak_stairs[facing=south,half=bottom] strict
-fill 121 65 72 125 65 72 minecraft:dark_oak_stairs[facing=south,half=bottom] strict
-fill 121 65 74 125 65 74 minecraft:dark_oak_stairs[facing=south,half=bottom] strict
-fill 121 65 76 125 65 76 minecraft:dark_oak_stairs[facing=south,half=bottom] strict
-fill 121 65 78 125 65 78 minecraft:dark_oak_stairs[facing=south,half=bottom] strict
-fill 131 65 66 135 65 66 minecraft:dark_oak_stairs[facing=south,half=bottom] strict
-fill 131 65 68 135 65 68 minecraft:dark_oak_stairs[facing=south,half=bottom] strict
-fill 131 65 70 135 65 70 minecraft:dark_oak_stairs[facing=south,half=bottom] strict
-fill 131 65 72 135 65 72 minecraft:dark_oak_stairs[facing=south,half=bottom] strict
-fill 131 65 74 135 65 74 minecraft:dark_oak_stairs[facing=south,half=bottom] strict
-fill 131 65 76 135 65 76 minecraft:dark_oak_stairs[facing=south,half=bottom] strict
-fill 131 65 78 135 65 78 minecraft:dark_oak_stairs[facing=south,half=bottom] strict
-fill 107 73 176 107 73 190 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
-fill 187 73 167 187 73 185 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
-setblock 45 74 104 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
-fill 45 74 106 45 74 115 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
-setblock 45 74 117 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
-fill 106 74 176 106 74 190 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
-fill 186 74 167 186 74 185 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
-fill 44 75 104 44 75 117 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
-fill 105 75 176 105 75 189 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
-fill 185 75 167 185 75 185 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
-fill 43 76 104 43 76 117 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
-fill 104 76 176 104 76 190 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
-fill 184 76 167 184 76 185 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
-fill 42 77 104 42 77 117 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
-fill 103 77 176 103 77 189 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
-fill 106 77 77 106 77 90 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
-fill 109 77 126 109 77 136 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
-fill 121 77 150 121 77 163 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
-fill 183 77 167 183 77 185 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
-fill 41 78 104 41 78 117 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
-fill 102 78 176 102 78 190 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
-fill 105 78 77 105 78 90 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
-fill 108 78 126 108 78 137 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
-fill 120 78 150 120 78 163 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
-fill 182 78 167 182 78 185 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
-fill 101 79 176 101 79 191 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
-fill 104 79 77 104 79 90 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
-fill 107 79 126 107 79 137 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
-fill 119 79 150 119 79 163 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
-fill 181 79 167 181 79 185 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
-fill 103 80 77 103 80 90 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
-fill 106 80 126 106 80 137 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
-fill 118 80 150 118 80 163 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
-fill 180 80 167 180 80 185 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
-fill 102 81 77 102 81 90 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
-fill 105 81 126 105 81 137 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
-fill 117 81 150 117 81 163 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
-fill 104 82 126 104 82 137 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
-fill 116 82 150 116 82 163 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
-fill 115 83 150 115 83 163 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
-fill 114 84 150 114 84 163 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
-setblock 162 66 156 minecraft:dark_oak_trapdoor[facing=east,half=bottom,open=true] strict
-fill 109 66 107 109 67 107 minecraft:dark_oak_trapdoor[facing=east,half=bottom,open=true] strict
-fill 109 66 109 109 67 109 minecraft:dark_oak_trapdoor[facing=east,half=bottom,open=true] strict
-fill 118 66 83 118 67 83 minecraft:dark_oak_trapdoor[facing=east,half=bottom,open=true] strict
-fill 118 66 85 118 67 85 minecraft:dark_oak_trapdoor[facing=east,half=bottom,open=true] strict
-fill 158 66 107 158 67 107 minecraft:dark_oak_trapdoor[facing=east,half=bottom,open=true] strict
-fill 158 66 109 158 67 109 minecraft:dark_oak_trapdoor[facing=east,half=bottom,open=true] strict
-fill 158 66 111 158 67 111 minecraft:dark_oak_trapdoor[facing=east,half=bottom,open=true] strict
-fill 158 66 113 158 67 113 minecraft:dark_oak_trapdoor[facing=east,half=bottom,open=true] strict
-fill 158 66 143 158 67 143 minecraft:dark_oak_trapdoor[facing=east,half=bottom,open=true] strict
-fill 158 66 145 158 67 145 minecraft:dark_oak_trapdoor[facing=east,half=bottom,open=true] strict
-fill 162 66 158 162 67 158 minecraft:dark_oak_trapdoor[facing=east,half=bottom,open=true] strict
-fill 221 66 113 221 67 113 minecraft:dark_oak_trapdoor[facing=east,half=bottom,open=true] strict
-fill 221 66 115 221 67 115 minecraft:dark_oak_trapdoor[facing=east,half=bottom,open=true] strict
-fill 109 70 107 109 71 107 minecraft:dark_oak_trapdoor[facing=east,half=bottom,open=true] strict
 bossbar set rufu:build value 91
 schedule function rufu:build/p91 1t

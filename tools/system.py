@@ -164,6 +164,7 @@ def system():
        f"execute if score #seq rufu matches 1.. run {call('seq/tick')}",
        f"execute if score #ev rufu matches 1.. run {call('ev/tick')}",
        call("npc/tick"),
+       f"execute if score #step rufu matches ..2 run {call('hall/tick')}",
        f"execute as @e[type=interaction,tag=rufu_click] if data entity @s interaction run {call('click/got')}",
        f"execute as @e[type=interaction,tag=rufu_click] if data entity @s attack run {call('click/got_attack')}",
        f"execute if score #mission rufu matches 1 run {call('m1/tick')}",
@@ -187,7 +188,7 @@ def system():
     # ---------------------------------------------------------------- HUD
     fn("hud/love",
        "execute store result bossbar rufu:love value run scoreboard players get #love rufu",
-       f"bossbar set rufu:love name {snbt(T('', extra=[T('♥ 好感度 ', color='light_purple', bold=True), {'score': {'name': '#love', 'objective': 'rufu'}, 'color': 'white', 'bold': True}, T(' / 100', color='gray')]))}",
+       f"bossbar set rufu:love name {snbt(T('', extra=[T('♥ ', color='light_purple', bold=True), {'selector': NB, 'color': 'light_purple', 'bold': True}, T('の好感度 ', color='light_purple', bold=True), {'score': {'name': '#love', 'objective': 'rufu'}, 'color': 'white', 'bold': True}, T(' / 100', color='gray')]))}",
        "execute if score #love rufu matches 50.. run bossbar set rufu:love color pink",
        "execute if score #love rufu matches 25..49 run bossbar set rufu:love color yellow",
        "execute if score #love rufu matches ..24 run bossbar set rufu:love color red")
@@ -322,7 +323,9 @@ def clicks():
        f"execute if entity @s[tag=rufu_hit_heroine] as @a[tag=rufu_clicker,limit=1] run return run {call('click/heroine')}",
        f"execute if entity @s[tag=rufu_ask] as @a[tag=rufu_clicker,limit=1] run return run {call('annoy/ask_click')}",
        f"execute if entity @s[tag=rufu_sign_hit] as @a[tag=rufu_clicker,limit=1] run return run {call('m4/sign_click')}",
-       f"execute if entity @s[tag=rufu_girl_hit] run return run {call('end/girl_pre')}")
+       f"execute if entity @s[tag=rufu_girl_hit] run return run {call('end/girl_pre')}",
+       f"execute if entity @s[tag=rufu_sel_hit] run return run {call('hall/sel_pre')}",
+       f"execute if entity @s[tag=rufu_hit_q] as @a[tag=rufu_clicker,limit=1] run return run {call('hall/q_click')}")
     # clicking the heroine: food deliveries (mission 2) and flower gifts (any mission)
     fn("click/heroine",
        f"execute if score #active rufu matches 1 if predicate rufu:hold_flower run return run {call('click/flower')}",

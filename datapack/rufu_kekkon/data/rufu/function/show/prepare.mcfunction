@@ -14,7 +14,7 @@ scoreboard players set #retry_step rufu 0
 scoreboard players set #orig1 rufu 0
 scoreboard players set #own1 rufu 0
 data modify storage rufu:hud now set value "0. 準備完了"
-data modify storage rufu:hud next set value "1. オープニング（タイトル）"
+data modify storage rufu:hud next set value "1. タイトル → ヒロイン選択（看板）"
 kill @e[tag=rufu_npc]
 kill @e[tag=rufu_npcpart]
 kill @e[tag=rufu_mob]
@@ -25,6 +25,8 @@ kill @e[tag=rufu_rules]
 kill @e[tag=rufu_pig]
 kill @e[tag=rufu_ghast]
 kill @e[tag=rufu_seat]
+kill @e[tag=rufu_sel]
+clear @a minecraft:name_tag
 kill @e[type=marker,tag=rufu_wpm]
 kill @e[type=marker,tag=rufu_m4m]
 kill @e[type=interaction,tag=rufu_click]
@@ -69,9 +71,31 @@ clear @a[tag=rufu_p] minecraft:potato
 execute as @a run attribute @s minecraft:movement_speed base reset
 execute as @a run attribute @s minecraft:jump_strength base reset
 function rufu:hud/hide
-tp @a[tag=rufu_p] 128.5 65 235.5 180 0
-spawnpoint @a[tag=rufu_p] 128 65 235
+kill @e[tag=rufu_hallgirl]
+kill @e[tag=rufu_sel]
+kill @e[tag=rufu_part_q]
+kill @e[type=marker,tag=rufu_namebox]
+summon minecraft:marker 32.5 70 240.5 {Tags:["rufu_namebox"],CustomName:{text:"ゆめりあ"}}
+scoreboard players set #pick rufu 0
+scoreboard players set #qchosen rufu 0
+scoreboard players set #named rufu 0
+scoreboard players set #naming rufu 0
+kill @e[tag=rufu_part_sakura]
+summon minecraft:mannequin 23.5 66 225.5 {profile:{texture:"entity/player/slim/sunny",model:"slim"},CustomName:{text:"さくら",color:"#ff8fc8",bold:true},CustomNameVisible:true,description:{text:"清楚系／生徒会長",color:"white",bold:false},hide_description:false,immovable:true,Invulnerable:true,Silent:true,NoGravity:false,Rotation:[0.0f,0.0f],Tags:["rufu_npc","rufu_hallgirl","rufu_npc_sakura","rufu_part_sakura"],equipment:{chest:{id:"minecraft:leather_chestplate",count:1,components:{dyed_color:16761053}}},Passengers:[{id:"minecraft:text_display",Tags:["rufu_bub","rufu_bub_sakura","rufu_part_sakura","rufu_npcpart"],billboard:"center",text:{text:""},background:0,line_width:180,transformation:{translation:[0.0f,1.25f,0.0f],left_rotation:[0.0f,0.0f,0.0f,1.0f],right_rotation:[0.0f,0.0f,0.0f,1.0f],scale:[1.0f,1.0f,1.0f]}}]}
+kill @e[tag=rufu_part_mio]
+summon minecraft:mannequin 28.5 66 225.5 {profile:{texture:"entity/player/slim/noor",model:"slim"},CustomName:{text:"みお",color:"#7fb8ff",bold:true},CustomNameVisible:true,description:{text:"クール系／弓道部",color:"white",bold:false},hide_description:false,immovable:true,Invulnerable:true,Silent:true,NoGravity:false,Rotation:[0.0f,0.0f],Tags:["rufu_npc","rufu_hallgirl","rufu_npc_mio","rufu_part_mio"],equipment:{chest:{id:"minecraft:leather_chestplate",count:1,components:{dyed_color:10275071}}},Passengers:[{id:"minecraft:text_display",Tags:["rufu_bub","rufu_bub_mio","rufu_part_mio","rufu_npcpart"],billboard:"center",text:{text:""},background:0,line_width:180,transformation:{translation:[0.0f,1.25f,0.0f],left_rotation:[0.0f,0.0f,0.0f,1.0f],right_rotation:[0.0f,0.0f,0.0f,1.0f],scale:[1.0f,1.0f,1.0f]}}]}
+kill @e[tag=rufu_part_hinata]
+summon minecraft:mannequin 36.5 66 225.5 {profile:{texture:"entity/player/slim/efe",model:"slim"},CustomName:{text:"ひなた",color:"#ffd34d",bold:true},CustomNameVisible:true,description:{text:"元気系／幼なじみ",color:"white",bold:false},hide_description:false,immovable:true,Invulnerable:true,Silent:true,NoGravity:false,Rotation:[0.0f,0.0f],Tags:["rufu_npc","rufu_hallgirl","rufu_npc_hinata","rufu_part_hinata"],equipment:{chest:{id:"minecraft:leather_chestplate",count:1,components:{dyed_color:16769146}}},Passengers:[{id:"minecraft:text_display",Tags:["rufu_bub","rufu_bub_hinata","rufu_part_hinata","rufu_npcpart"],billboard:"center",text:{text:""},background:0,line_width:180,transformation:{translation:[0.0f,1.25f,0.0f],left_rotation:[0.0f,0.0f,0.0f,1.0f],right_rotation:[0.0f,0.0f,0.0f,1.0f],scale:[1.0f,1.0f,1.0f]}}]}
+kill @e[tag=rufu_part_q]
+summon minecraft:mannequin 41.5 67 225.5 {profile:{texture:"entity/player/slim/alex",model:"slim"},CustomName:{text:"？？？",color:"gold",bold:true},CustomNameVisible:true,description:{text:"★おすすめ★",color:"gold",bold:true},hide_description:false,immovable:true,Invulnerable:true,Silent:true,NoGravity:true,Rotation:[0.0f,0.0f],Tags:["rufu_npc","rufu_hallgirl","rufu_npc_q","rufu_part_q","rufu_qlook"],equipment:{chest:{id:"minecraft:leather_chestplate",count:1,components:{dyed_color:16033480}}},Passengers:[{id:"minecraft:text_display",Tags:["rufu_bub","rufu_bub_q","rufu_part_q","rufu_npcpart"],billboard:"center",text:{text:""},background:0,line_width:180,transformation:{translation:[0.0f,1.25f,0.0f],left_rotation:[0.0f,0.0f,0.0f,1.0f],right_rotation:[0.0f,0.0f,0.0f,1.0f],scale:[1.0f,1.0f,1.0f]}}],Glowing:true}
+tp @a[tag=rufu_p] 32.5 65 246.5 180 0
+tp @a[tag=!rufu_p] 32.5 65 251.5 180 0
+spawnpoint @a[tag=rufu_p] 32 65 246
+time set 6000
+weather clear
+effect give @a[tag=rufu_p] minecraft:resistance infinite 4 true
+effect give @a[tag=rufu_p] minecraft:fire_resistance infinite 0 true
 function rufu:m1/reset
 function rufu:m1/db/up
-tellraw @a[tag=rufu_gm] {text:"✅ 準備OK！ 緑のリモコン「▶ 次へ」でオープニング開始。",color:"green",bold:true}
+tellraw @a[tag=rufu_gm] {text:"✅ 準備OK！ 選択ホールで待機中（段階0）。説明・雑談が終わったら 緑のリモコン「▶ 次へ」でタイトル→ヒロイン選択。",color:"green",bold:true}
 tellraw @a[tag=rufu_gm] {text:"",extra:[{text:"   GMパネル：",color:"gray"},{text:"[開く]",color:"aqua",underlined:true,click_event:{action:"run_command",command:"/function rufu:gm/panel"}}]}

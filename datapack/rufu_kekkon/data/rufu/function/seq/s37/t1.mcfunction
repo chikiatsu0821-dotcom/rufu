@@ -1,7 +1,5 @@
-execute as @e[type=text_display,tag=rufu_bub_sakura] run data merge entity @s {text:{text:"……でもね",color:"#8a2353"},background:-503322894}
-scoreboard players set @e[type=text_display,tag=rufu_bub_sakura] rufu.bt 60
-tellraw @a {text:"",extra:[{text:"さくら",color:"#ff8fc8",bold:true},{text:"「……でもね」",color:"white"}]}
-title @a times 3 50 8
-title @a subtitle {text:"",extra:[{text:"さくら：",color:"#ff8fc8",bold:true},{text:"「……でもね」",color:"white"}]}
-title @a title {text:""}
-execute as @e[tag=rufu_npc_sakura] at @s run playsound minecraft:entity.allay.ambient_with_item voice @a ~ ~ ~ 1.4 1.5
+execute at @e[type=mannequin,tag=rufu_npc_sakura] run particle minecraft:large_smoke ~ ~1 ~ 0.5 1 0.5 0.05 60 force
+execute at @e[type=mannequin,tag=rufu_npc_mio] run particle minecraft:large_smoke ~ ~1 ~ 0.5 1 0.5 0.05 60 force
+execute at @e[type=mannequin,tag=rufu_npc_hinata] run particle minecraft:large_smoke ~ ~1 ~ 0.5 1 0.5 0.05 60 force
+execute as @a at @s run playsound minecraft:entity.illusioner.cast_spell master @s ~ ~ ~ 1 1.0
+execute as @a at @s run playsound minecraft:entity.evoker.prepare_summon master @s ~ ~ ~ 1 1.2

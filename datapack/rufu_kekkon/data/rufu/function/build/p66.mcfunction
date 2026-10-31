@@ -1,84 +1,3 @@
-fill 154 69 138 154 71 138 minecraft:dark_oak_log[axis=y] strict
-fill 154 69 147 154 71 147 minecraft:dark_oak_log[axis=y] strict
-fill 154 69 151 154 71 151 minecraft:dark_oak_log[axis=y] strict
-fill 154 69 160 154 71 160 minecraft:dark_oak_log[axis=y] strict
-fill 156 69 106 157 71 106 minecraft:dark_oak_log[axis=y] strict
-fill 156 69 115 157 71 115 minecraft:dark_oak_log[axis=y] strict
-fill 157 69 99 157 71 99 minecraft:dark_oak_log[axis=y] strict
-fill 157 69 103 157 71 104 minecraft:dark_oak_log[axis=y] strict
-fill 157 69 110 157 71 110 minecraft:dark_oak_log[axis=y] strict
-fill 157 69 114 157 71 114 minecraft:dark_oak_log[axis=y] strict
-fill 157 69 142 157 71 142 minecraft:dark_oak_log[axis=y] strict
-fill 157 69 146 157 71 147 minecraft:dark_oak_log[axis=y] strict
-fill 158 69 151 158 71 151 minecraft:dark_oak_log[axis=y] strict
-fill 158 69 160 158 71 160 minecraft:dark_oak_log[axis=y] strict
-fill 161 69 155 161 71 155 minecraft:dark_oak_log[axis=y] strict
-fill 161 69 159 161 71 160 minecraft:dark_oak_log[axis=y] strict
-fill 207 69 112 207 71 112 minecraft:dark_oak_log[axis=y] strict
-fill 211 69 108 211 71 108 minecraft:dark_oak_log[axis=y] strict
-fill 211 69 116 211 71 116 minecraft:dark_oak_log[axis=y] strict
-fill 215 69 108 215 71 108 minecraft:dark_oak_log[axis=y] strict
-fill 215 69 116 215 71 116 minecraft:dark_oak_log[axis=y] strict
-fill 219 69 108 220 71 108 minecraft:dark_oak_log[axis=y] strict
-fill 219 69 116 220 71 116 minecraft:dark_oak_log[axis=y] strict
-fill 220 69 112 220 71 112 minecraft:dark_oak_log[axis=y] strict
-fill 35 65 138 35 72 138 minecraft:dark_oak_log[axis=y] strict
-fill 35 65 144 35 72 144 minecraft:dark_oak_log[axis=y] strict
-fill 35 65 162 35 72 162 minecraft:dark_oak_log[axis=y] strict
-fill 35 65 173 35 72 173 minecraft:dark_oak_log[axis=y] strict
-fill 42 65 162 42 72 162 minecraft:dark_oak_log[axis=y] strict
-fill 42 65 173 42 72 173 minecraft:dark_oak_log[axis=y] strict
-setblock 48 72 138 minecraft:dark_oak_log[axis=y] strict
-setblock 48 72 144 minecraft:dark_oak_log[axis=y] strict
-fill 62 65 138 62 72 138 minecraft:dark_oak_log[axis=y] strict
-setblock 62 72 147 minecraft:dark_oak_log[axis=y] strict
-fill 65 65 105 65 72 105 minecraft:dark_oak_log[axis=y] strict
-fill 65 65 116 65 72 116 minecraft:dark_oak_log[axis=y] strict
-fill 72 65 138 73 72 138 minecraft:dark_oak_log[axis=y] strict
-fill 72 72 147 73 72 147 minecraft:dark_oak_log[axis=y] strict
-fill 75 65 105 75 72 105 minecraft:dark_oak_log[axis=y] strict
-fill 75 65 116 75 72 116 minecraft:dark_oak_log[axis=y] strict
-fill 84 65 138 84 72 138 minecraft:dark_oak_log[axis=y] strict
-setblock 84 72 147 minecraft:dark_oak_log[axis=y] strict
-fill 99 65 106 99 72 106 minecraft:dark_oak_log[axis=y] strict
-setblock 99 72 115 minecraft:dark_oak_log[axis=y] strict
-fill 106 65 78 106 72 78 minecraft:dark_oak_log[axis=y] strict
-fill 106 65 89 106 72 89 minecraft:dark_oak_log[axis=y] strict
-setblock 108 72 106 minecraft:dark_oak_log[axis=y] strict
-setblock 108 72 115 minecraft:dark_oak_log[axis=y] strict
-fill 111 65 95 111 72 95 minecraft:dark_oak_log[axis=y] strict
-fill 111 65 101 111 72 101 minecraft:dark_oak_log[axis=y] strict
-fill 117 65 78 117 72 78 minecraft:dark_oak_log[axis=y] strict
-fill 117 65 89 117 72 89 minecraft:dark_oak_log[axis=y] strict
-fill 122 65 95 122 72 95 minecraft:dark_oak_log[axis=y] strict
-fill 122 65 101 122 72 101 minecraft:dark_oak_log[axis=y] strict
-setblock 146 72 104 minecraft:dark_oak_log[axis=y] strict
-setblock 146 72 147 minecraft:dark_oak_log[axis=y] strict
-setblock 148 72 115 minecraft:dark_oak_log[axis=y] strict
-fill 150 65 151 150 72 151 minecraft:dark_oak_log[axis=y] strict
-setblock 150 72 160 minecraft:dark_oak_log[axis=y] strict
-setblock 157 72 104 minecraft:dark_oak_log[axis=y] strict
-setblock 157 72 106 minecraft:dark_oak_log[axis=y] strict
-setblock 157 72 115 minecraft:dark_oak_log[axis=y] strict
-setblock 157 72 147 minecraft:dark_oak_log[axis=y] strict
-fill 161 65 151 161 72 151 minecraft:dark_oak_log[axis=y] strict
-setblock 161 72 160 minecraft:dark_oak_log[axis=y] strict
-fill 207 65 108 207 72 108 minecraft:dark_oak_log[axis=y] strict
-fill 207 65 116 207 72 116 minecraft:dark_oak_log[axis=y] strict
-setblock 220 72 108 minecraft:dark_oak_log[axis=y] strict
-setblock 220 72 116 minecraft:dark_oak_log[axis=y] strict
-fill 146 73 146 146 73 147 minecraft:dark_oak_log[axis=y] strict
-fill 155 73 160 156 73 160 minecraft:dark_oak_log[axis=y] strict
-fill 146 73 142 146 74 142 minecraft:dark_oak_log[axis=y] strict
-setblock 146 74 146 minecraft:dark_oak_log[axis=y] strict
-fill 146 73 99 146 75 99 minecraft:dark_oak_log[axis=y] strict
-fill 146 73 103 146 75 104 minecraft:dark_oak_log[axis=y] strict
-fill 148 73 110 148 75 110 minecraft:dark_oak_log[axis=y] strict
-fill 148 73 114 148 75 115 minecraft:dark_oak_log[axis=y] strict
-fill 150 73 95 150 75 95 minecraft:dark_oak_log[axis=y] strict
-fill 150 73 104 150 75 104 minecraft:dark_oak_log[axis=y] strict
-fill 150 73 138 150 75 138 minecraft:dark_oak_log[axis=y] strict
-fill 150 73 147 150 75 147 minecraft:dark_oak_log[axis=y] strict
 fill 152 73 106 152 75 106 minecraft:dark_oak_log[axis=y] strict
 fill 152 73 115 152 75 115 minecraft:dark_oak_log[axis=y] strict
 fill 154 73 95 154 75 95 minecraft:dark_oak_log[axis=y] strict
@@ -1003,6 +922,19 @@ setblock 149 65 112 minecraft:furnace[facing=east] strict
 setblock 173 65 172 minecraft:furnace[facing=east] strict
 setblock 173 65 174 minecraft:furnace[facing=east] strict
 setblock 173 65 176 minecraft:furnace[facing=east] strict
+fill 30 64 230 30 64 253 minecraft:gold_block strict
+fill 34 64 230 34 64 253 minecraft:gold_block strict
+setblock 46 64 244 minecraft:gold_block strict
+setblock 41 66 225 minecraft:gold_block strict
+setblock 16 78 231 minecraft:gold_block strict
+setblock 20 78 231 minecraft:gold_block strict
+setblock 24 78 231 minecraft:gold_block strict
+setblock 28 78 231 minecraft:gold_block strict
+setblock 32 78 231 minecraft:gold_block strict
+setblock 36 78 231 minecraft:gold_block strict
+setblock 40 78 231 minecraft:gold_block strict
+setblock 44 78 231 minecraft:gold_block strict
+setblock 48 78 231 minecraft:gold_block strict
 setblock 128 105 85 minecraft:gold_block strict
 fill 170 65 76 171 65 76 minecraft:grass_block strict
 fill 170 65 77 170 65 84 minecraft:grass_block strict
@@ -1198,5 +1130,73 @@ setblock 178 68 94 minecraft:grass_block strict
 setblock 179 68 64 minecraft:grass_block strict
 setblock 179 68 96 minecraft:grass_block strict
 setblock 181 68 63 minecraft:grass_block strict
+setblock 181 68 97 minecraft:grass_block strict
+setblock 182 68 62 minecraft:grass_block strict
+setblock 182 68 98 minecraft:grass_block strict
+setblock 183 68 61 minecraft:grass_block strict
+setblock 183 68 99 minecraft:grass_block strict
+setblock 185 68 60 minecraft:grass_block strict
+setblock 185 68 100 minecraft:grass_block strict
+fill 187 68 59 188 68 59 minecraft:grass_block strict
+fill 187 68 101 188 68 101 minecraft:grass_block strict
+fill 190 68 58 194 68 58 minecraft:grass_block strict
+fill 190 68 102 192 68 102 minecraft:grass_block strict
+fill 196 68 58 200 68 58 minecraft:grass_block strict
+fill 198 68 102 200 68 102 minecraft:grass_block strict
+fill 202 68 59 203 68 59 minecraft:grass_block strict
+fill 202 68 101 203 68 101 minecraft:grass_block strict
+setblock 205 68 60 minecraft:grass_block strict
+setblock 205 68 100 minecraft:grass_block strict
+setblock 207 68 61 minecraft:grass_block strict
+setblock 207 68 99 minecraft:grass_block strict
+setblock 208 68 62 minecraft:grass_block strict
+setblock 208 68 98 minecraft:grass_block strict
+setblock 209 68 63 minecraft:grass_block strict
+setblock 209 68 97 minecraft:grass_block strict
+setblock 211 68 64 minecraft:grass_block strict
+setblock 211 68 96 minecraft:grass_block strict
+setblock 212 68 66 minecraft:grass_block strict
+setblock 212 68 94 minecraft:grass_block strict
+setblock 213 68 67 minecraft:grass_block strict
+setblock 213 68 93 minecraft:grass_block strict
+setblock 214 68 68 minecraft:grass_block strict
+setblock 214 68 92 minecraft:grass_block strict
+setblock 215 68 70 minecraft:grass_block strict
+setblock 215 68 90 minecraft:grass_block strict
+fill 216 68 72 216 68 73 minecraft:grass_block strict
+fill 216 68 87 216 68 88 minecraft:grass_block strict
+fill 217 68 75 217 68 79 minecraft:grass_block strict
+fill 217 68 81 217 68 85 minecraft:grass_block strict
+setblock 173 69 80 minecraft:grass_block strict
+fill 174 69 74 174 69 75 minecraft:grass_block strict
+fill 174 69 85 174 69 86 minecraft:grass_block strict
+fill 175 69 71 175 69 72 minecraft:grass_block strict
+fill 175 69 88 175 69 89 minecraft:grass_block strict
+fill 176 69 69 176 69 70 minecraft:grass_block strict
+fill 176 69 90 176 69 91 minecraft:grass_block strict
+setblock 177 69 68 minecraft:grass_block strict
+setblock 177 69 92 minecraft:grass_block strict
+setblock 179 69 65 minecraft:grass_block strict
+setblock 179 69 95 minecraft:grass_block strict
+setblock 180 69 64 minecraft:grass_block strict
+setblock 180 69 96 minecraft:grass_block strict
+setblock 183 69 62 minecraft:grass_block strict
+setblock 183 69 98 minecraft:grass_block strict
+fill 184 69 61 185 69 61 minecraft:grass_block strict
+fill 184 69 99 185 69 99 minecraft:grass_block strict
+fill 186 69 60 187 69 60 minecraft:grass_block strict
+fill 186 69 100 187 69 100 minecraft:grass_block strict
+fill 189 69 59 190 69 59 minecraft:grass_block strict
+fill 189 69 101 190 69 101 minecraft:grass_block strict
+setblock 195 69 58 minecraft:grass_block strict
+fill 200 69 59 201 69 59 minecraft:grass_block strict
+fill 200 69 101 201 69 101 minecraft:grass_block strict
+fill 203 69 60 204 69 60 minecraft:grass_block strict
+fill 203 69 100 204 69 100 minecraft:grass_block strict
+fill 205 69 61 206 69 61 minecraft:grass_block strict
+fill 205 69 99 206 69 99 minecraft:grass_block strict
+setblock 207 69 62 minecraft:grass_block strict
+setblock 207 69 98 minecraft:grass_block strict
+setblock 210 69 64 minecraft:grass_block strict
 bossbar set rufu:build value 67
 schedule function rufu:build/p67 1t

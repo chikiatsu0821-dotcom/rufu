@@ -629,6 +629,7 @@ def build():
     hill(w)
     farm(w)
     misc_blocks(w)
+    hall(w)
     w.connect()
     return w
 
@@ -1645,3 +1646,103 @@ def misc_blocks(w):
             below = bid(w.get(x, y - 1, z))
             if below not in ("grass_block", "dirt", "coarse_dirt", "podzol", "moss_block", "rooted_dirt", "mud"):
                 w.set(x, y, z, "air")
+
+
+HEART = [
+    "..XXX...XXX..",
+    ".XXXXX.XXXXX.",
+    "XXXXXXXXXXXXX",
+    "XXXXXXXXXXXXX",
+    "XXXXXXXXXXXXX",
+    ".XXXXXXXXXXX.",
+    "..XXXXXXXXX..",
+    "...XXXXXXX...",
+    "....XXXXX....",
+    ".....XXX.....",
+    "......X......",
+]
+
+
+def hall(w):
+    H = HALL
+    x0, x1, z0, z1, y0, y1 = H["x0"], H["x1"], H["z0"], H["z1"], H["y0"], H["y1"]
+    # clear the space (trees from the meadow)
+    w.box(x0 - 2, y0 + 1, z0 - 2, x1 + 2, y1 + 8, min(z1 + 1, 255), "air")
+    # shell: black walls / ceiling, dark floor
+    w.box(x0, y0, z0, x1, y0, z1, "polished_blackstone")
+    w.walls(x0, y0 + 1, z0, x1, y1, z1, "black_concrete")
+    w.box(x0, y1, z0, x1, y1, z1, "black_concrete")
+    w.box(x0 + 1, y0 + 1, z0 + 1, x1 - 1, y1 - 1, z1 - 1, "air")
+    # subtle floor pattern
+    for x in range(x0 + 1, x1):
+        for z in range(z0 + 1, z1):
+            if (x + z) % 2 == 0:
+                w.set(x, y0, z, "polished_blackstone_bricks")
+    # hidden lights in the ceiling
+    for x in range(x0 + 3, x1 - 1, 6):
+        for z in range(z0 + 3, z1 - 1, 6):
+            w.set(x, y1 - 1, z, "light[level=13]")
+    # stage
+    S = STAGE
+    w.box(S["x0"], y0 + 1, S["z0"], S["x1"], y0 + 1, S["z1"], "smooth_quartz")
+    for x in range(S["x0"], S["x1"] + 1):
+        w.set(x, y0 + 1, S["z1"] + 1, "quartz_stairs[facing=north,half=bottom]")
+    for x in range(S["x0"] + 2, S["x1"] - 1):
+        w.set(x, y0 + 2, S["z0"] + 2, "pink_carpet")
+    # gold pedestal for ???
+    qx, qz = 41, 225
+    w.set(qx, y0 + 2, qz, "gold_block")
+    for (dx, dz) in [(1, 0), (-1, 0), (0, 1), (0, -1)]:
+        w.set(qx + dx, y0 + 2, qz + dz, "gold_block" if False else "smooth_quartz_slab[type=bottom]")
+    # small pedestals under the others
+    for gx in (23, 28, 36):
+        w.set(gx, y0 + 1, 225, "smooth_quartz")
+    # spotlights (light blocks) over the stage
+    for gx in (23, 28, 32, 36, 41):
+        w.set(gx, y1 - 3, 225, "light[level=15]")
+    # red carpet with gold lines on both sides
+    cx = HALL_CX
+    for z in range(S["z1"] + 1, z1):
+        w.set(cx - 2, y0, z, "gold_block")
+        w.set(cx + 2, y0, z, "gold_block")
+        for x in range(cx - 1, cx + 2):
+            w.set(x, y0 + 1, z, "red_carpet")
+    for z in range(S["z0"] + 3, S["z1"] + 1):
+        for x in range(cx - 1, cx + 2):
+            w.set(x, y0 + 2, z, "red_carpet")
+    # big pink heart on the back wall
+    hw = len(HEART[0])
+    for r, row in enumerate(HEART):
+        for c, ch in enumerate(row):
+            if ch == "X":
+                x = cx - hw // 2 + c
+                y = y1 - 4 - r
+                edge = (c == 0 or row[c - 1] != "X" or c == hw - 1 or row[c + 1] != "X" or
+                        r == 0 or HEART[r - 1][c] != "X" or r == len(HEART) - 1 or HEART[r + 1][c] != "X")
+                w.set(x, y, z0 + 1, "magenta_concrete" if edge else "pink_concrete")
+                if not edge and (r + c) % 3 == 0:
+                    w.set(x, y, z0 + 2, "light[level=6]")
+    # red curtains: proscenium + side drapes
+    for x in list(range(x0 + 1, x0 + 6)) + list(range(x1 - 5, x1)):
+        for y in range(y0 + 1, y1):
+            w.set(x, y, S["z1"] + 2, "red_wool" if (x % 2) else "red_concrete")
+    for x in range(x0 + 1, x1):
+        for y in range(y1 - 2, y1):
+            w.set(x, y, S["z1"] + 2, "red_wool" if (x % 2) else "red_concrete")
+        w.set(x, y1 - 3, S["z1"] + 2, "yellow_carpet" if False else "gold_block" if x % 4 == 0 else "red_wool")
+    for z in range(S["z1"] + 4, z1, 4):
+        for y in range(y0 + 1, y1):
+            w.set(x0 + 1, y, z, "red_wool")
+            w.set(x1 - 1, y, z, "red_wool")
+            w.set(x0 + 1, y, z + 1, "red_concrete")
+            w.set(x1 - 1, y, z + 1, "red_concrete")
+    # chandeliers
+    for (lx, lz) in [(24, 240), (40, 240), (32, 250)]:
+        for y in range(y1 - 4, y1):
+            w.set(lx, y, lz, "iron_chain[axis=y]")
+        w.set(lx, y1 - 5, lz, "lantern[hanging=true]")
+    # the anvil for the name tag
+    ax, ay, az = HALL_ANVIL
+    w.set(ax, ay - 1, az, "gold_block")
+    w.set(ax, ay, az, "anvil[facing=north]")
+    w.bent(ax, ay, az - 1, "dark_oak_wall_sign[facing=north]" if False else "air", "") if False else None

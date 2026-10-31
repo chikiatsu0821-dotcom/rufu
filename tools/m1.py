@@ -195,50 +195,14 @@ def opening_steps():
              "background": argb(210, 40, 10, 30), "line_width": 260, "alignment": "left",
              "transformation": {"translation": [f_(0.0), f_(0.0), f_(0.0)], "left_rotation": [f_(0.0), f_(0.0), f_(0.0), f_(1.0)],
                                 "right_rotation": [f_(0.0), f_(0.0), f_(0.0), f_(1.0)], "scale": [f_(1.6), f_(1.6), f_(1.6)]}}
-    # 1 opening
-    add_step(Step("オープニング（タイトル）", retry=0, mission=0, t0=[
-        sset("#lock", 1), sset("#active", 0), call("hud/hide"),
-        "time set 1000", "weather clear",
-        f"tp @a[tag=rufu_p] {SX} {SY} {SZ} 180 0",
-        "effect give @a[tag=rufu_p] minecraft:resistance infinite 4 true",
-        "effect give @a[tag=rufu_p] minecraft:saturation infinite 0 true",
-        "effect give @a[tag=rufu_p] minecraft:darkness 3 0 true",
-        "gamemode adventure @a[tag=rufu_p]",
-        npc_kill("heroine"), "kill @e[tag=rufu_rules]",
-    ], tl={
-        10: title("@a", T("恋", color="light_purple", bold=True), T("～ 結婚の試練 ～", color="white", bold=True), (20, 80, 30)) +
-            [gsound("block.bell.use", 1, 0.8), gsound("block.amethyst_block.chime", 1, 1.2)],
-        30: [gsound("block.bell.use", 1, 1.0)],
-        50: [gsound("block.bell.use", 1, 1.2), call("song/bridal_short")],
-        140: [sset("#lock", 0)],
-    }))
-    # 2 heroine appears
-    add_step(Step("ヒロイン登場", t0=[
-        sset("#lock", 0),
-        *npc_spawn("heroine", hx, hy, hz, 90),
-        *poof("@e[type=mannequin,tag=rufu_npc_heroine]"),
-        "execute at @e[type=mannequin,tag=rufu_npc_heroine] run particle minecraft:heart ~ ~2 ~ 0.6 0.5 0.6 0 10 force",
-    ], tl={
-        5: say("heroine", "ねぇ。私と結婚したいって、本気？", dur=90),
-    }))
-    # 3 rules
-    add_step(Step("「結婚したければ、4つの試練をクリアして。」＋ルール看板", t0=[
-        *say("heroine", "結婚したければ、4つの試練をクリアして。", dur=100, big=True),
-        "kill @e[tag=rufu_rules]",
-        f"summon minecraft:text_display {SX} 67.6 {SZ - 3.5} {snbt(board)}",
-        "execute at @e[tag=rufu_rules] run particle minecraft:end_rod ~ ~1 ~ 1.5 1.2 0.2 0 40 force",
-        gsound("ui.toast.in", 1, 1),
-        *narr("ルール看板が立った！", "yellow", False),
-        call("hud/show"),
-        sset("#love", 100), call("hud/love"),
-        f"execute as @a[tag=rufu_p] run {sub('op', 'clear @s minecraft:shears[custom_data~{rufu_tool:1b}]', give('@s', 'shears', flower_shears()))}",
-        tellraw("@a[tag=rufu_p]", T("✂ 「花ばさみ」をもらった。町の花をつんでヒロインに右クリックで渡すと 好感度+20（各試練1回）", color="light_purple")),
-    ], tl={
-        110: say("heroine", "3人で、ね。1人でも失敗したら全員最初からだから。", dur=90),
-    }))
     # 4 mission 1 briefing
-    add_step(Step("試練1 説明「私より早く広場に来て」", t0=[
+    add_step(Step("試練1 説明「私より早く広場に来て」", retry=0, mission=0, t0=[
         "kill @e[tag=rufu_rules]",
+        "effect give @a[tag=rufu_p] minecraft:blindness 2 0 true",
+        "time set 1000",
+        f"tp @a[tag=rufu_p] {SX} {SY} {SZ} 180 0",
+        "gamemode adventure @a[tag=rufu_p]",
+        *npc_spawn("heroine", hx, hy, hz, 90),
         *title("@a", T("試練1", color="gold", bold=True), T("私より早く広場に来て（制限時間45秒）", color="white"), (10, 70, 15)),
         gsound("block.note_block.bell", 1, 1.0),
         call("m1/reset"),

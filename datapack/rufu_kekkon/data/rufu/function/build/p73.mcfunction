@@ -1,55 +1,3 @@
-setblock 155 73 50 minecraft:mossy_stone_bricks strict
-setblock 156 73 92 minecraft:mossy_stone_bricks strict
-setblock 157 73 50 minecraft:mossy_stone_bricks strict
-fill 157 73 206 157 73 207 minecraft:mossy_stone_bricks strict
-fill 158 72 49 158 73 49 minecraft:mossy_stone_bricks strict
-fill 159 72 50 159 73 50 minecraft:mossy_stone_bricks strict
-setblock 160 73 92 minecraft:mossy_stone_bricks strict
-setblock 160 73 96 minecraft:mossy_stone_bricks strict
-setblock 160 73 102 minecraft:mossy_stone_bricks strict
-setblock 160 73 106 minecraft:mossy_stone_bricks strict
-setblock 160 73 108 minecraft:mossy_stone_bricks strict
-setblock 160 73 120 minecraft:mossy_stone_bricks strict
-setblock 160 73 130 minecraft:mossy_stone_bricks strict
-setblock 160 73 132 minecraft:mossy_stone_bricks strict
-setblock 160 73 138 minecraft:mossy_stone_bricks strict
-setblock 160 73 142 minecraft:mossy_stone_bricks strict
-setblock 160 73 144 minecraft:mossy_stone_bricks strict
-setblock 163 73 49 minecraft:mossy_stone_bricks strict
-setblock 166 73 50 minecraft:mossy_stone_bricks strict
-setblock 168 73 207 minecraft:mossy_stone_bricks strict
-fill 172 73 205 173 73 205 minecraft:mossy_stone_bricks strict
-setblock 181 73 206 minecraft:mossy_stone_bricks strict
-setblock 183 73 206 minecraft:mossy_stone_bricks strict
-setblock 184 73 48 minecraft:mossy_stone_bricks strict
-setblock 189 73 49 minecraft:mossy_stone_bricks strict
-setblock 190 73 205 minecraft:mossy_stone_bricks strict
-setblock 191 73 49 minecraft:mossy_stone_bricks strict
-setblock 192 73 206 minecraft:mossy_stone_bricks strict
-fill 193 73 48 193 73 49 minecraft:mossy_stone_bricks strict
-fill 194 72 49 194 73 49 minecraft:mossy_stone_bricks strict
-setblock 196 73 207 minecraft:mossy_stone_bricks strict
-setblock 197 73 205 minecraft:mossy_stone_bricks strict
-fill 198 73 49 199 73 49 minecraft:mossy_stone_bricks strict
-setblock 198 73 206 minecraft:mossy_stone_bricks strict
-setblock 203 73 205 minecraft:mossy_stone_bricks strict
-setblock 205 73 206 minecraft:mossy_stone_bricks strict
-setblock 208 73 205 minecraft:mossy_stone_bricks strict
-fill 211 73 49 212 73 49 minecraft:mossy_stone_bricks strict
-fill 213 72 205 213 73 205 minecraft:mossy_stone_bricks strict
-setblock 216 73 49 minecraft:mossy_stone_bricks strict
-setblock 221 73 56 minecraft:mossy_stone_bricks strict
-setblock 221 73 64 minecraft:mossy_stone_bricks strict
-setblock 221 73 78 minecraft:mossy_stone_bricks strict
-setblock 221 73 87 minecraft:mossy_stone_bricks strict
-setblock 221 73 92 minecraft:mossy_stone_bricks strict
-setblock 221 73 96 minecraft:mossy_stone_bricks strict
-setblock 221 73 101 minecraft:mossy_stone_bricks strict
-setblock 221 73 112 minecraft:mossy_stone_bricks strict
-fill 221 73 114 221 73 115 minecraft:mossy_stone_bricks strict
-fill 221 72 149 221 73 149 minecraft:mossy_stone_bricks strict
-setblock 221 73 162 minecraft:mossy_stone_bricks strict
-setblock 221 73 171 minecraft:mossy_stone_bricks strict
 setblock 221 73 199 minecraft:mossy_stone_bricks strict
 setblock 222 73 54 minecraft:mossy_stone_bricks strict
 fill 222 73 62 223 73 62 minecraft:mossy_stone_bricks strict
@@ -1198,5 +1146,57 @@ setblock 198 59 41 minecraft:mud strict
 setblock 198 59 45 minecraft:mud strict
 fill 198 59 47 199 59 47 minecraft:mud strict
 setblock 198 59 209 minecraft:mud strict
+fill 199 59 43 200 59 43 minecraft:mud strict
+setblock 199 59 44 minecraft:mud strict
+fill 200 59 46 201 59 46 minecraft:mud strict
+setblock 200 59 211 minecraft:mud strict
+fill 200 59 214 201 59 214 minecraft:mud strict
+setblock 201 59 208 minecraft:mud strict
+fill 201 59 210 202 59 210 minecraft:mud strict
+setblock 202 59 213 minecraft:mud strict
+setblock 203 59 42 minecraft:mud strict
+setblock 203 59 46 minecraft:mud strict
+setblock 203 59 208 minecraft:mud strict
+fill 204 59 209 205 59 209 minecraft:mud strict
+setblock 204 59 212 minecraft:mud strict
+fill 205 59 41 205 59 43 minecraft:mud strict
+fill 205 59 210 207 59 210 minecraft:mud strict
+setblock 205 59 211 minecraft:mud strict
+setblock 206 59 213 minecraft:mud strict
+fill 207 59 42 207 59 43 minecraft:mud strict
+setblock 207 59 208 minecraft:mud strict
+setblock 208 59 41 minecraft:mud strict
+setblock 208 59 43 minecraft:mud strict
+setblock 208 59 213 minecraft:mud strict
+setblock 209 59 42 minecraft:mud strict
+setblock 209 59 45 minecraft:mud strict
+fill 209 59 208 209 59 209 minecraft:mud strict
+setblock 209 59 214 minecraft:mud strict
+setblock 210 59 210 minecraft:mud strict
+setblock 211 59 42 minecraft:mud strict
+fill 211 59 45 216 59 45 minecraft:mud strict
+setblock 211 59 47 minecraft:mud strict
+fill 211 59 212 212 59 212 minecraft:mud strict
+setblock 212 59 46 minecraft:mud strict
+fill 212 59 210 212 59 211 minecraft:mud strict
+setblock 212 59 214 minecraft:mud strict
+setblock 214 59 44 minecraft:mud strict
+setblock 214 59 209 minecraft:mud strict
+setblock 215 59 47 minecraft:mud strict
+setblock 215 59 211 minecraft:mud strict
+fill 215 59 214 216 59 214 minecraft:mud strict
+fill 216 59 210 217 59 210 minecraft:mud strict
+fill 217 59 42 218 59 42 minecraft:mud strict
+fill 217 59 43 217 59 44 minecraft:mud strict
+setblock 218 59 41 minecraft:mud strict
+setblock 218 59 45 minecraft:mud strict
+fill 219 59 43 219 59 44 minecraft:mud strict
+fill 219 59 211 220 59 211 minecraft:mud strict
+fill 221 59 41 221 59 43 minecraft:mud strict
+setblock 223 59 43 minecraft:mud strict
+setblock 224 59 44 minecraft:mud strict
+setblock 224 59 54 minecraft:mud strict
+setblock 224 59 58 minecraft:mud strict
+fill 224 59 60 226 59 60 minecraft:mud strict
 bossbar set rufu:build value 74
 schedule function rufu:build/p74 1t

@@ -1,24 +1,23 @@
 scoreboard players set #step rufu 3
-data modify storage rufu:hud now set value "3. 「結婚したければ、4つの試練をクリアして。」＋ルール看板"
-data modify storage rufu:hud next set value "4. 試練1 説明「私より早く広場に来て」"
+data modify storage rufu:hud now set value "3. 試練1 説明「私より早く広場に来て」"
+data modify storage rufu:hud next set value "4. 試練1 開始（45秒）"
 scoreboard players set #seq rufu 0
-tellraw @a[tag=rufu_gm] {text:"[GM] ▶ 3. 「結婚したければ、4つの試練をクリアして。」＋ルール看板",color:"dark_green"}
-execute as @e[type=text_display,tag=rufu_bub_heroine] run data merge entity @s {text:{text:"結婚したければ、4つの試練をクリアして。",color:"#7a1f5c"},background:-503321354}
-scoreboard players set @e[type=text_display,tag=rufu_bub_heroine] rufu.bt 100
-tellraw @a {text:"",extra:[{text:"ヒロイン",color:"light_purple",bold:true},{text:"「結婚したければ、4つの試練をクリアして。」",color:"white"}]}
-title @a times 3 90 8
-title @a subtitle {text:"",extra:[{text:"ヒロイン：",color:"light_purple",bold:true},{text:"「結婚したければ、4つの試練をクリアして。」",color:"white"}]}
-title @a title {text:"結婚したければ、4つの試練をクリアして。",color:"light_purple",bold:true}
-execute as @e[tag=rufu_npc_heroine] at @s run playsound minecraft:entity.allay.ambient_without_item voice @a ~ ~ ~ 1.4 1.25
+scoreboard players set #retry_step rufu 0
+scoreboard players set #mission rufu 0
+tellraw @a[tag=rufu_gm] {text:"[GM] ▶ 3. 試練1 説明「私より早く広場に来て」",color:"dark_green"}
 kill @e[tag=rufu_rules]
-summon minecraft:text_display 128.5 67.6 232.0 {Tags:["rufu_rules","rufu_stage"],billboard:"vertical",text:{text:"",extra:[{text:"💍 結婚の試練 ルール 💍\n",color:"light_purple",bold:true},{text:"結婚したければ、4つの試練をクリアして。\n\n",color:"white",bold:true},{text:"・3人全員がクリア条件を満たすこと\n",color:"white"},{text:"・1人でも失敗 → 3人そろって最初から\n",color:"white"},{text:"・好感度は100から。0になってもやり直し\n",color:"white"},{text:"・どの試練にも制限時間あり\n",color:"white"},{text:"・雷・金床・クリーパー・モブは本当に痛い\n",color:"red"},{text:"・誰か死んだら そのミッションは失敗\n",color:"red"},{text:"・持ち物は消えない（その試練で集めた物は没収）\n",color:"white"},{text:"・クリアすると評価が出る（理由は聞かないで）",color:"gray"}]},background:-769127906,line_width:260,alignment:"left",transformation:{translation:[0.0f,0.0f,0.0f],left_rotation:[0.0f,0.0f,0.0f,1.0f],right_rotation:[0.0f,0.0f,0.0f,1.0f],scale:[1.6f,1.6f,1.6f]}}
-execute at @e[tag=rufu_rules] run particle minecraft:end_rod ~ ~1 ~ 1.5 1.2 0.2 0 40 force
-execute as @a at @s run playsound minecraft:ui.toast.in master @s ~ ~ ~ 1 1
-tellraw @a {text:"",extra:[{text:"▶ ",color:"gray"},{text:"ルール看板が立った！",color:"yellow"}]}
-function rufu:hud/show
-scoreboard players set #love rufu 100
-function rufu:hud/love
-execute as @a[tag=rufu_p] run function rufu:op/_41
-tellraw @a[tag=rufu_p] {text:"✂ 「花ばさみ」をもらった。町の花をつんでヒロインに右クリックで渡すと 好感度+20（各試練1回）",color:"light_purple"}
+effect give @a[tag=rufu_p] minecraft:blindness 2 0 true
+time set 1000
+tp @a[tag=rufu_p] 128.5 65 235.5 180 0
+gamemode adventure @a[tag=rufu_p]
+kill @e[tag=rufu_part_heroine]
+summon minecraft:mannequin 132.5 65 234.5 {profile:{texture:"entity/player/slim/alex",model:"slim"},CustomName:{text:"ヒロイン",color:"light_purple",bold:true},CustomNameVisible:true,hide_description:true,immovable:true,Invulnerable:true,Silent:true,Rotation:[90.0f,0.0f],Tags:["rufu_npc","rufu_npc_heroine","rufu_part_heroine","rufu_look"],equipment:{chest:{id:"minecraft:leather_chestplate",count:1,components:{dyed_color:16033480}}},Passengers:[{id:"minecraft:text_display",Tags:["rufu_bub","rufu_bub_heroine","rufu_part_heroine","rufu_npcpart"],billboard:"center",text:{text:""},background:0,line_width:180,shadow:false,see_through:false,transformation:{translation:[0.0f,0.9f,0.0f],left_rotation:[0.0f,0.0f,0.0f,1.0f],right_rotation:[0.0f,0.0f,0.0f,1.0f],scale:[1.0f,1.0f,1.0f]}}]}
+data modify entity @e[type=mannequin,tag=rufu_npc_heroine,limit=1] CustomName set from entity @e[type=marker,tag=rufu_namebox,limit=1] CustomName
+summon minecraft:interaction 132.5 65 234.5 {Tags:["rufu_click","rufu_hit_heroine","rufu_part_heroine"],width:0.95f,height:2.05f,response:true}
+title @a times 10 70 15
+title @a subtitle {text:"私より早く広場に来て（制限時間45秒）",color:"white"}
+title @a title {text:"試練1",color:"gold",bold:true}
+execute as @a at @s run playsound minecraft:block.note_block.bell master @s ~ ~ ~ 1 1.0
+function rufu:m1/reset
 scoreboard players set #seq_t rufu 0
 scoreboard players set #seq rufu 3

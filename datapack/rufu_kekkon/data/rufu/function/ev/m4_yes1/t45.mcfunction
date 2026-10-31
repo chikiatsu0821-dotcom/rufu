@@ -1,8 +1,8 @@
 execute as @e[type=text_display,tag=rufu_bub_heroine] run data merge entity @s {text:{text:"はい！",color:"#7a1f5c"},background:-503321354}
 scoreboard players set @e[type=text_display,tag=rufu_bub_heroine] rufu.bt 90
-tellraw @a {text:"",extra:[{text:"ヒロイン",color:"light_purple",bold:true},{text:"「はい！」",color:"white"}]}
+tellraw @a {text:"",extra:[{selector:"@e[type=marker,tag=rufu_namebox,limit=1]",color:"light_purple",bold:true},{text:"",color:"light_purple",bold:true},{text:"「はい！」",color:"white"}]}
 title @a times 3 80 8
-title @a subtitle {text:"",extra:[{text:"ヒロイン：",color:"light_purple",bold:true},{text:"「はい！」",color:"white"}]}
+title @a subtitle {text:"",extra:[{selector:"@e[type=marker,tag=rufu_namebox,limit=1]",color:"light_purple",bold:true},{text:"：",color:"light_purple",bold:true},{text:"「はい！」",color:"white"}]}
 title @a title {text:"はい！",color:"light_purple",bold:true}
 execute as @e[tag=rufu_npc_heroine] at @s run playsound minecraft:entity.allay.ambient_without_item voice @a ~ ~ ~ 1.4 1.25
 execute at @e[type=mannequin,tag=rufu_npc_heroine] run particle minecraft:heart ~ ~2.2 ~ 0.5 0.4 0.5 0 30 force

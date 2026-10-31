@@ -39,4 +39,3 @@ execute if score #seq rufu matches 37 run function rufu:seq/s37
 execute if score #seq rufu matches 38 run function rufu:seq/s38
 execute if score #seq rufu matches 39 run function rufu:seq/s39
 execute if score #seq rufu matches 40 run function rufu:seq/s40
-execute if score #seq rufu matches 41 run function rufu:seq/s41

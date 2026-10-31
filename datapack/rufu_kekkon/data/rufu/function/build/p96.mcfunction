@@ -1,3 +1,1107 @@
+setblock 106 75 83 minecraft:spruce_trapdoor[facing=east,half=bottom,open=true] strict
+setblock 106 75 85 minecraft:spruce_trapdoor[facing=east,half=bottom,open=true] strict
+fill 112 74 192 112 75 192 minecraft:spruce_trapdoor[facing=east,half=bottom,open=true] strict
+fill 112 74 194 112 75 194 minecraft:spruce_trapdoor[facing=east,half=bottom,open=true] strict
+fill 118 74 164 118 75 164 minecraft:spruce_trapdoor[facing=east,half=bottom,open=true] strict
+fill 118 74 166 118 75 166 minecraft:spruce_trapdoor[facing=east,half=bottom,open=true] strict
+fill 118 74 176 118 75 176 minecraft:spruce_trapdoor[facing=east,half=bottom,open=true] strict
+fill 118 74 178 118 75 178 minecraft:spruce_trapdoor[facing=east,half=bottom,open=true] strict
+fill 121 74 152 121 75 152 minecraft:spruce_trapdoor[facing=east,half=bottom,open=true] strict
+fill 121 74 154 121 75 154 minecraft:spruce_trapdoor[facing=east,half=bottom,open=true] strict
+fill 121 74 156 121 75 156 minecraft:spruce_trapdoor[facing=east,half=bottom,open=true] strict
+fill 121 74 158 121 75 158 minecraft:spruce_trapdoor[facing=east,half=bottom,open=true] strict
+fill 162 74 162 162 75 162 minecraft:spruce_trapdoor[facing=east,half=bottom,open=true] strict
+fill 162 74 164 162 75 164 minecraft:spruce_trapdoor[facing=east,half=bottom,open=true] strict
+fill 162 74 192 162 75 192 minecraft:spruce_trapdoor[facing=east,half=bottom,open=true] strict
+fill 162 74 194 162 75 194 minecraft:spruce_trapdoor[facing=east,half=bottom,open=true] strict
+setblock 109 67 132 minecraft:spruce_trapdoor[facing=east,half=top,open=false] strict
+setblock 113 67 59 minecraft:spruce_trapdoor[facing=east,half=top,open=false] strict
+setblock 162 67 166 minecraft:spruce_trapdoor[facing=east,half=top,open=false] strict
+setblock 162 67 176 minecraft:spruce_trapdoor[facing=east,half=top,open=false] strict
+setblock 60 69 107 minecraft:spruce_trapdoor[facing=east,half=top,open=false] strict
+setblock 60 69 111 minecraft:spruce_trapdoor[facing=east,half=top,open=false] strict
+setblock 88 69 191 minecraft:spruce_trapdoor[facing=east,half=top,open=false] strict
+setblock 107 69 179 minecraft:spruce_trapdoor[facing=east,half=top,open=false] strict
+setblock 113 69 58 minecraft:spruce_trapdoor[facing=east,half=top,open=false] strict
+setblock 118 69 165 minecraft:spruce_trapdoor[facing=east,half=top,open=false] strict
+setblock 118 69 169 minecraft:spruce_trapdoor[facing=east,half=top,open=false] strict
+setblock 118 69 173 minecraft:spruce_trapdoor[facing=east,half=top,open=false] strict
+setblock 121 69 157 minecraft:spruce_trapdoor[facing=east,half=top,open=false] strict
+setblock 162 69 172 minecraft:spruce_trapdoor[facing=east,half=top,open=false] strict
+setblock 162 69 193 minecraft:spruce_trapdoor[facing=east,half=top,open=false] strict
+setblock 187 69 170 minecraft:spruce_trapdoor[facing=east,half=top,open=false] strict
+setblock 187 69 178 minecraft:spruce_trapdoor[facing=east,half=top,open=false] strict
+setblock 193 69 114 minecraft:spruce_trapdoor[facing=east,half=top,open=false] strict
+setblock 109 73 129 minecraft:spruce_trapdoor[facing=east,half=top,open=false] strict
+setblock 109 73 133 minecraft:spruce_trapdoor[facing=east,half=top,open=false] strict
+setblock 118 73 177 minecraft:spruce_trapdoor[facing=east,half=top,open=false] strict
+setblock 121 73 157 minecraft:spruce_trapdoor[facing=east,half=top,open=false] strict
+setblock 162 73 167 minecraft:spruce_trapdoor[facing=east,half=top,open=false] strict
+setblock 54 65 74 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+setblock 74 65 74 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+setblock 187 65 85 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+setblock 203 65 85 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+setblock 65 66 148 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 36 66 104 36 67 104 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 36 66 151 36 67 151 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 38 66 104 38 67 104 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 38 66 151 38 67 151 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 40 66 104 40 67 104 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 40 66 151 40 67 151 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 42 66 104 42 67 104 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 42 66 151 42 67 151 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 44 66 151 44 67 151 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 44 66 184 44 67 184 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 46 66 151 46 67 151 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 46 66 184 46 67 184 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 48 66 184 48 67 184 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 50 66 184 50 67 184 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 53 66 104 53 67 104 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 53 66 125 53 67 125 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 55 66 104 55 67 104 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 55 66 125 55 67 125 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 57 66 104 57 67 104 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 59 66 184 59 67 184 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 61 66 148 61 67 148 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 61 66 184 61 67 184 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 63 66 148 63 67 148 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 64 66 184 64 67 184 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 66 66 184 66 67 184 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 67 66 148 67 67 148 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 68 66 184 68 67 184 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 70 66 184 70 67 184 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 73 66 184 73 67 184 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 75 66 184 75 67 184 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 77 66 184 77 67 184 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 78 66 148 78 67 148 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 79 66 184 79 67 184 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 80 66 148 80 67 148 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 81 66 184 81 67 184 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 83 66 184 83 67 184 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 96 66 176 96 67 176 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 98 66 176 98 67 176 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 99 66 77 99 67 77 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 100 66 51 100 67 51 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 100 66 176 100 67 176 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 101 66 77 101 67 77 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 102 66 51 102 67 51 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 102 66 176 102 67 176 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 104 66 51 104 67 51 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 106 66 51 106 67 51 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 107 66 190 107 67 190 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 108 66 51 108 67 51 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 108 66 162 108 67 162 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 108 66 180 108 67 180 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 109 66 190 109 67 190 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 110 66 51 110 67 51 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 110 66 162 110 67 162 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 110 66 180 110 67 180 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 112 66 162 112 67 162 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 114 66 162 114 67 162 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 128 66 180 128 67 180 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 130 66 180 130 67 180 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 142 66 162 142 67 162 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 144 66 162 144 67 162 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 151 66 160 151 67 160 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 151 66 169 151 67 169 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 153 66 160 153 67 160 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 153 66 169 153 67 169 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 155 66 169 155 67 169 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 157 66 169 157 67 169 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 157 66 190 157 67 190 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 159 66 190 159 67 190 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 173 66 167 173 67 167 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 175 66 167 175 67 167 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 177 66 167 177 67 167 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 179 66 167 179 67 167 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 181 66 107 181 67 107 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 181 66 167 181 67 167 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 183 66 107 183 67 107 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 183 66 167 183 67 167 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 185 66 107 185 67 107 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 187 66 107 187 67 107 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 189 66 107 189 67 107 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 191 66 107 191 67 107 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 200 66 107 200 67 107 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 202 66 107 202 67 107 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 36 70 104 36 71 104 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 38 70 104 38 71 104 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 40 70 104 40 71 104 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 40 70 151 40 71 151 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 42 70 104 42 71 104 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 42 70 151 42 71 151 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 44 70 151 44 71 151 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 46 70 151 46 71 151 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 53 70 104 53 71 104 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 53 70 125 53 71 125 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 55 70 125 55 71 125 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 57 70 125 57 71 125 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 59 70 125 59 71 125 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 59 70 184 59 71 184 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 61 70 184 61 71 184 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 65 70 148 65 71 148 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 67 70 148 67 71 148 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 68 70 184 68 71 184 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 70 70 148 70 71 148 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 70 70 184 70 71 184 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 72 70 148 72 71 148 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 73 70 184 73 71 184 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 75 70 184 75 71 184 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 78 70 148 78 71 148 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 80 70 148 80 71 148 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 81 70 184 81 71 184 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 83 70 184 83 71 184 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 99 70 77 99 71 77 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 100 70 51 100 71 51 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 100 70 126 100 71 126 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 100 70 137 100 71 137 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 100 70 176 100 71 176 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 101 70 77 101 71 77 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 102 70 51 102 71 51 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 102 70 126 102 71 126 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 102 70 137 102 71 137 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 102 70 176 102 71 176 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 103 70 190 103 71 190 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 104 70 51 104 71 51 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 104 70 126 104 71 126 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 104 70 137 104 71 137 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 105 70 190 105 71 190 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 106 70 51 106 71 51 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 106 70 126 106 71 126 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 106 70 137 106 71 137 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 107 70 190 107 71 190 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 108 70 162 108 71 162 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 109 70 190 109 71 190 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 110 70 162 110 71 162 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 112 70 162 112 71 162 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 112 70 180 112 71 180 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 114 70 162 114 71 162 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 114 70 180 114 71 180 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 116 70 140 116 71 140 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 118 70 140 118 71 140 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 135 70 140 135 71 140 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 137 70 140 137 71 140 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 138 70 162 138 71 162 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 139 70 94 139 71 94 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 139 70 140 139 71 140 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 140 70 162 140 71 162 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 141 70 94 141 71 94 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 141 70 140 141 71 140 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 142 70 162 142 71 162 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 144 70 162 144 71 162 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 146 70 162 146 71 162 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 148 70 162 148 71 162 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 151 70 160 151 71 160 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 151 70 169 151 71 169 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 153 70 160 153 71 160 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 153 70 169 153 71 169 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 155 70 169 155 71 169 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 157 70 169 157 71 169 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 157 70 190 157 71 190 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 159 70 190 159 71 190 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 173 70 167 173 71 167 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 175 70 167 175 71 167 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 177 70 167 177 71 167 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 179 70 167 179 71 167 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 181 70 107 181 71 107 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 181 70 167 181 71 167 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 183 70 107 183 71 107 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 183 70 167 183 71 167 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 185 70 107 185 71 107 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 187 70 107 187 71 107 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 64 74 184 64 75 184 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 65 74 148 65 75 148 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 66 74 184 66 75 184 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 67 74 148 67 75 148 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 68 74 184 68 75 184 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 70 74 184 70 75 184 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 96 74 190 96 75 190 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 98 74 190 98 75 190 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 99 74 77 99 75 77 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 100 74 126 100 75 126 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 100 74 137 100 75 137 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 101 74 77 101 75 77 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 102 74 126 102 75 126 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 102 74 137 102 75 137 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 103 74 190 103 75 190 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 104 74 126 104 75 126 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 105 74 190 105 75 190 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 106 74 126 106 75 126 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 107 74 190 107 75 190 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 108 74 150 108 75 150 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 108 74 162 108 75 162 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 109 74 190 109 75 190 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 110 74 150 110 75 150 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 110 74 162 110 75 162 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 112 74 150 112 75 150 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 112 74 162 112 75 162 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 114 74 150 114 75 150 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 114 74 162 114 75 162 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 116 74 150 116 75 150 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 118 74 150 118 75 150 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 153 74 190 153 75 190 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 155 74 160 155 75 160 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 155 74 190 155 75 190 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+fill 157 74 160 157 75 160 minecraft:spruce_trapdoor[facing=north,half=bottom,open=true] strict
+setblock 57 67 125 minecraft:spruce_trapdoor[facing=north,half=top,open=false] strict
+setblock 65 67 148 minecraft:spruce_trapdoor[facing=north,half=top,open=false] strict
+setblock 77 67 148 minecraft:spruce_trapdoor[facing=north,half=top,open=false] strict
+setblock 105 67 137 minecraft:spruce_trapdoor[facing=north,half=top,open=false] strict
+setblock 117 67 140 minecraft:spruce_trapdoor[facing=north,half=top,open=false] strict
+setblock 140 67 140 minecraft:spruce_trapdoor[facing=north,half=top,open=false] strict
+setblock 37 69 104 minecraft:spruce_trapdoor[facing=north,half=top,open=false] strict
+setblock 37 69 151 minecraft:spruce_trapdoor[facing=north,half=top,open=false] strict
+setblock 41 69 104 minecraft:spruce_trapdoor[facing=north,half=top,open=false] strict
+setblock 41 69 151 minecraft:spruce_trapdoor[facing=north,half=top,open=false] strict
+setblock 45 69 151 minecraft:spruce_trapdoor[facing=north,half=top,open=false] strict
+setblock 48 69 104 minecraft:spruce_trapdoor[facing=north,half=top,open=false] strict
+setblock 54 69 125 minecraft:spruce_trapdoor[facing=north,half=top,open=false] strict
+setblock 56 69 184 minecraft:spruce_trapdoor[facing=north,half=top,open=false] strict
+setblock 60 69 184 minecraft:spruce_trapdoor[facing=north,half=top,open=false] strict
+setblock 65 69 184 minecraft:spruce_trapdoor[facing=north,half=top,open=false] strict
+setblock 75 69 148 minecraft:spruce_trapdoor[facing=north,half=top,open=false] strict
+setblock 82 69 184 minecraft:spruce_trapdoor[facing=north,half=top,open=false] strict
+setblock 97 69 190 minecraft:spruce_trapdoor[facing=north,half=top,open=false] strict
+setblock 100 69 77 minecraft:spruce_trapdoor[facing=north,half=top,open=false] strict
+setblock 101 69 51 minecraft:spruce_trapdoor[facing=north,half=top,open=false] strict
+setblock 101 69 126 minecraft:spruce_trapdoor[facing=north,half=top,open=false] strict
+setblock 105 69 51 minecraft:spruce_trapdoor[facing=north,half=top,open=false] strict
+setblock 109 69 162 minecraft:spruce_trapdoor[facing=north,half=top,open=false] strict
+setblock 109 69 180 minecraft:spruce_trapdoor[facing=north,half=top,open=false] strict
+setblock 113 69 180 minecraft:spruce_trapdoor[facing=north,half=top,open=false] strict
+setblock 136 69 140 minecraft:spruce_trapdoor[facing=north,half=top,open=false] strict
+setblock 140 69 94 minecraft:spruce_trapdoor[facing=north,half=top,open=false] strict
+setblock 152 69 160 minecraft:spruce_trapdoor[facing=north,half=top,open=false] strict
+setblock 152 69 169 minecraft:spruce_trapdoor[facing=north,half=top,open=false] strict
+setblock 154 69 190 minecraft:spruce_trapdoor[facing=north,half=top,open=false] strict
+setblock 156 69 160 minecraft:spruce_trapdoor[facing=north,half=top,open=false] strict
+setblock 156 69 169 minecraft:spruce_trapdoor[facing=north,half=top,open=false] strict
+setblock 158 69 190 minecraft:spruce_trapdoor[facing=north,half=top,open=false] strict
+setblock 182 69 107 minecraft:spruce_trapdoor[facing=north,half=top,open=false] strict
+setblock 186 69 107 minecraft:spruce_trapdoor[facing=north,half=top,open=false] strict
+setblock 62 73 148 minecraft:spruce_trapdoor[facing=north,half=top,open=false] strict
+setblock 65 73 184 minecraft:spruce_trapdoor[facing=north,half=top,open=false] strict
+setblock 66 73 148 minecraft:spruce_trapdoor[facing=north,half=top,open=false] strict
+setblock 69 73 184 minecraft:spruce_trapdoor[facing=north,half=top,open=false] strict
+setblock 100 73 77 minecraft:spruce_trapdoor[facing=north,half=top,open=false] strict
+setblock 101 73 137 minecraft:spruce_trapdoor[facing=north,half=top,open=false] strict
+setblock 104 73 190 minecraft:spruce_trapdoor[facing=north,half=top,open=false] strict
+setblock 105 73 126 minecraft:spruce_trapdoor[facing=north,half=top,open=false] strict
+setblock 105 73 137 minecraft:spruce_trapdoor[facing=north,half=top,open=false] strict
+setblock 152 73 160 minecraft:spruce_trapdoor[facing=north,half=top,open=false] strict
+setblock 54 65 77 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+setblock 74 65 77 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+setblock 187 65 88 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+setblock 203 65 88 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+setblock 53 66 117 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+setblock 57 66 148 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+setblock 59 66 197 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+setblock 157 66 197 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+setblock 187 66 117 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 36 66 117 36 67 117 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 36 66 159 36 67 159 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 38 66 117 38 67 117 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 38 66 159 38 67 159 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 44 66 159 44 67 159 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 44 66 197 44 67 197 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 46 66 159 46 67 159 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 46 66 197 46 67 197 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 47 66 117 47 67 117 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 48 66 197 48 67 197 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 49 66 117 49 67 117 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 50 66 197 50 67 197 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 51 66 117 51 67 117 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 53 66 148 53 67 148 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 55 66 117 55 67 117 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 55 66 148 55 67 148 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 55 66 197 55 67 197 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 57 66 117 57 67 117 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 57 66 197 57 67 197 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 59 66 148 59 67 148 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 61 66 197 61 67 197 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 63 66 174 63 67 174 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 64 66 197 64 67 197 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 65 66 174 65 67 174 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 66 66 197 66 67 197 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 67 66 174 67 67 174 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 69 66 174 69 67 174 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 73 66 197 73 67 197 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 75 66 197 75 67 197 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 77 66 197 77 67 197 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 79 66 197 79 67 197 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 81 66 197 81 67 197 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 83 66 197 83 67 197 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 99 66 90 99 67 90 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 100 66 65 100 67 65 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 101 66 90 101 67 90 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 102 66 65 102 67 65 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 103 66 197 103 67 197 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 105 66 197 105 67 197 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 108 66 65 108 67 65 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 110 66 65 110 67 65 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 112 66 191 112 67 191 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 114 66 191 114 67 191 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 118 66 163 118 67 163 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 124 66 191 124 67 191 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 126 66 191 126 67 191 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 153 66 197 153 67 197 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 155 66 197 155 67 197 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 159 66 197 159 67 197 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 181 66 117 181 67 117 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 181 66 185 181 67 185 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 183 66 117 183 67 117 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 183 66 185 183 67 185 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 185 66 117 185 67 117 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 189 66 117 189 67 117 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 191 66 117 191 67 117 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 200 66 117 200 67 117 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 202 66 117 202 67 117 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 36 70 117 36 71 117 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 36 70 159 36 71 159 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 38 70 117 38 71 117 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 38 70 159 38 71 159 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 44 70 159 44 71 159 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 46 70 159 46 71 159 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 48 70 197 48 71 197 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 50 70 197 50 71 197 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 51 70 117 51 71 117 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 53 70 117 53 71 117 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 57 70 148 57 71 148 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 59 70 148 59 71 148 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 59 70 197 59 71 197 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 61 70 197 61 71 197 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 63 70 174 63 71 174 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 64 70 197 64 71 197 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 65 70 174 65 71 174 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 66 70 197 66 71 197 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 67 70 174 67 71 174 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 69 70 174 69 71 174 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 73 70 197 73 71 197 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 75 70 197 75 71 197 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 77 70 197 77 71 197 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 79 70 197 79 71 197 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 81 70 197 81 71 197 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 83 70 197 83 71 197 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 96 70 197 96 71 197 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 98 70 197 98 71 197 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 100 70 148 100 71 148 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 102 70 148 102 71 148 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 103 70 197 103 71 197 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 105 70 197 105 71 197 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 107 70 197 107 71 197 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 109 70 197 109 71 197 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 112 70 148 112 71 148 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 114 70 148 114 71 148 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 116 70 148 116 71 148 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 118 70 148 118 71 148 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 118 70 163 118 71 163 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 138 70 191 138 71 191 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 139 70 102 139 71 102 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 140 70 191 140 71 191 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 141 70 102 141 71 102 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 142 70 191 142 71 191 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 144 70 191 144 71 191 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 157 70 197 157 71 197 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 159 70 197 159 71 197 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 173 70 185 173 71 185 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 175 70 185 175 71 185 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 177 70 185 177 71 185 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 179 70 185 179 71 185 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 181 70 117 181 71 117 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 181 70 185 181 71 185 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 183 70 117 183 71 117 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 183 70 185 183 71 185 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 185 70 117 185 71 117 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 187 70 117 187 71 117 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 53 74 148 53 75 148 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 55 74 148 55 75 148 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 57 74 148 57 75 148 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 59 74 148 59 75 148 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 63 74 174 63 75 174 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 64 74 197 64 75 197 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 65 74 174 65 75 174 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 66 74 197 66 75 197 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 67 74 174 67 75 174 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 69 74 174 69 75 174 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 96 74 197 96 75 197 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 98 74 197 98 75 197 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 99 74 90 99 75 90 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 100 74 148 100 75 148 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 101 74 90 101 75 90 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 102 74 148 102 75 148 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 104 74 137 104 75 137 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 104 74 148 104 75 148 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 106 74 137 106 75 137 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 106 74 148 106 75 148 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 107 74 197 107 75 197 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+setblock 108 75 181 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 109 74 197 109 75 197 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+setblock 110 75 181 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+setblock 151 75 170 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+setblock 153 75 170 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+setblock 155 75 170 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+setblock 157 75 170 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 157 74 197 157 75 197 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+fill 159 74 197 159 75 197 minecraft:spruce_trapdoor[facing=south,half=bottom,open=true] strict
+setblock 41 67 117 minecraft:spruce_trapdoor[facing=south,half=top,open=false] strict
+setblock 49 67 197 minecraft:spruce_trapdoor[facing=south,half=top,open=false] strict
+setblock 53 67 117 minecraft:spruce_trapdoor[facing=south,half=top,open=false] strict
+setblock 57 67 148 minecraft:spruce_trapdoor[facing=south,half=top,open=false] strict
+setblock 59 67 197 minecraft:spruce_trapdoor[facing=south,half=top,open=false] strict
+setblock 68 67 197 minecraft:spruce_trapdoor[facing=south,half=top,open=false] strict
+setblock 80 67 197 minecraft:spruce_trapdoor[facing=south,half=top,open=false] strict
+setblock 99 67 197 minecraft:spruce_trapdoor[facing=south,half=top,open=false] strict
+setblock 102 67 90 minecraft:spruce_trapdoor[facing=south,half=top,open=false] strict
+setblock 107 67 197 minecraft:spruce_trapdoor[facing=south,half=top,open=false] strict
+setblock 140 67 102 minecraft:spruce_trapdoor[facing=south,half=top,open=false] strict
+setblock 157 67 197 minecraft:spruce_trapdoor[facing=south,half=top,open=false] strict
+setblock 187 67 117 minecraft:spruce_trapdoor[facing=south,half=top,open=false] strict
+setblock 203 67 117 minecraft:spruce_trapdoor[facing=south,half=top,open=false] strict
+setblock 37 69 117 minecraft:spruce_trapdoor[facing=south,half=top,open=false] strict
+setblock 41 69 159 minecraft:spruce_trapdoor[facing=south,half=top,open=false] strict
+setblock 45 69 159 minecraft:spruce_trapdoor[facing=south,half=top,open=false] strict
+setblock 49 69 197 minecraft:spruce_trapdoor[facing=south,half=top,open=false] strict
+setblock 52 69 117 minecraft:spruce_trapdoor[facing=south,half=top,open=false] strict
+setblock 56 69 117 minecraft:spruce_trapdoor[facing=south,half=top,open=false] strict
+setblock 64 69 174 minecraft:spruce_trapdoor[facing=south,half=top,open=false] strict
+setblock 68 69 174 minecraft:spruce_trapdoor[facing=south,half=top,open=false] strict
+setblock 69 69 197 minecraft:spruce_trapdoor[facing=south,half=top,open=false] strict
+setblock 97 69 197 minecraft:spruce_trapdoor[facing=south,half=top,open=false] strict
+setblock 100 69 90 minecraft:spruce_trapdoor[facing=south,half=top,open=false] strict
+setblock 101 69 65 minecraft:spruce_trapdoor[facing=south,half=top,open=false] strict
+setblock 101 69 137 minecraft:spruce_trapdoor[facing=south,half=top,open=false] strict
+setblock 105 69 65 minecraft:spruce_trapdoor[facing=south,half=top,open=false] strict
+setblock 113 69 191 minecraft:spruce_trapdoor[facing=south,half=top,open=false] strict
+setblock 117 69 148 minecraft:spruce_trapdoor[facing=south,half=top,open=false] strict
+setblock 136 69 102 minecraft:spruce_trapdoor[facing=south,half=top,open=false] strict
+setblock 136 69 148 minecraft:spruce_trapdoor[facing=south,half=top,open=false] strict
+setblock 139 69 191 minecraft:spruce_trapdoor[facing=south,half=top,open=false] strict
+setblock 140 69 102 minecraft:spruce_trapdoor[facing=south,half=top,open=false] strict
+setblock 140 69 148 minecraft:spruce_trapdoor[facing=south,half=top,open=false] strict
+setblock 174 69 185 minecraft:spruce_trapdoor[facing=south,half=top,open=false] strict
+setblock 186 69 117 minecraft:spruce_trapdoor[facing=south,half=top,open=false] strict
+setblock 190 69 117 minecraft:spruce_trapdoor[facing=south,half=top,open=false] strict
+setblock 201 69 117 minecraft:spruce_trapdoor[facing=south,half=top,open=false] strict
+setblock 64 73 174 minecraft:spruce_trapdoor[facing=south,half=top,open=false] strict
+setblock 97 73 197 minecraft:spruce_trapdoor[facing=south,half=top,open=false] strict
+setblock 100 73 90 minecraft:spruce_trapdoor[facing=south,half=top,open=false] strict
+setblock 104 73 197 minecraft:spruce_trapdoor[facing=south,half=top,open=false] strict
+setblock 158 73 197 minecraft:spruce_trapdoor[facing=south,half=top,open=false] strict
+setblock 62 65 66 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+setblock 62 65 86 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+setblock 94 66 184 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 34 66 106 34 67 106 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 34 66 108 34 67 108 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 34 66 153 34 67 153 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 34 66 155 34 67 155 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 42 66 186 42 67 186 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 42 66 188 42 67 188 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 53 66 186 53 67 186 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 53 66 188 53 67 188 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 59 66 150 59 67 150 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 59 66 152 59 67 152 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 59 66 154 59 67 154 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 59 66 156 59 67 156 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 62 66 190 62 67 190 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 62 66 192 62 67 192 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 68 66 154 68 67 154 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 68 66 156 68 67 156 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 71 66 190 71 67 190 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 71 66 192 71 67 192 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 94 66 178 94 67 178 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 94 66 180 94 67 180 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 94 66 182 94 67 182 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 94 66 186 94 67 186 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 94 66 188 94 67 188 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 94 66 192 94 67 192 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 94 66 194 94 67 194 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 97 66 79 97 67 79 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 97 66 81 97 67 81 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 98 66 53 98 67 53 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 98 66 55 98 67 55 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 98 66 57 98 67 57 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 98 66 59 98 67 59 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 98 66 128 98 67 128 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 98 66 130 98 67 130 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 98 66 132 98 67 132 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 98 66 134 98 67 134 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 133 66 142 133 67 142 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 133 66 144 133 67 144 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 136 66 164 136 67 164 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 136 66 166 136 67 166 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 136 66 168 136 67 168 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 136 66 170 136 67 170 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 136 66 172 136 67 172 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 136 66 174 136 67 174 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 136 66 180 136 67 180 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 136 66 182 136 67 182 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 136 66 184 136 67 184 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 136 66 186 136 67 186 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 149 66 175 149 67 175 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 149 66 177 149 67 177 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 151 66 192 151 67 192 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 151 66 194 151 67 194 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 171 66 181 171 67 181 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 171 66 183 171 67 183 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 179 66 109 179 67 109 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 179 66 111 179 67 111 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 179 66 113 179 67 113 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 179 66 115 179 67 115 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 34 70 106 34 71 106 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 34 70 108 34 71 108 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 34 70 153 34 71 153 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 34 70 155 34 71 155 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 42 70 186 42 71 186 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 42 70 188 42 71 188 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 42 70 190 42 71 190 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 42 70 192 42 71 192 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 45 70 106 45 71 106 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 45 70 108 45 71 108 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 45 70 110 45 71 110 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 45 70 112 45 71 112 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 53 70 186 53 71 186 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 53 70 188 53 71 188 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 53 70 190 53 71 190 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 53 70 192 53 71 192 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 59 70 150 59 71 150 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 59 70 152 59 71 152 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 59 70 154 59 71 154 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 59 70 156 59 71 156 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 61 70 163 61 71 163 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 61 70 165 61 71 165 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 61 70 167 61 71 167 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 61 70 169 61 71 169 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 62 70 186 62 71 186 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 62 70 188 62 71 188 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 62 70 190 62 71 190 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 62 70 192 62 71 192 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 68 70 150 68 71 150 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 68 70 152 68 71 152 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 71 70 186 71 71 186 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 71 70 188 71 71 188 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 94 70 178 94 71 178 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 94 70 180 94 71 180 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 94 70 182 94 71 182 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 94 70 184 94 71 184 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 94 70 186 94 71 186 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 94 70 188 94 71 188 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 94 70 192 94 71 192 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 94 70 194 94 71 194 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 97 70 79 97 71 79 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 97 70 81 97 71 81 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 97 70 83 97 71 83 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 97 70 85 97 71 85 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 98 70 53 98 71 53 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 98 70 55 98 71 55 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 98 70 61 98 71 61 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 98 70 63 98 71 63 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 98 70 132 98 71 132 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 98 70 134 98 71 134 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 98 70 139 98 71 139 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 98 70 141 98 71 141 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 98 70 143 98 71 143 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 98 70 145 98 71 145 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 101 70 192 101 71 192 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 101 70 194 101 71 194 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 133 70 96 133 71 96 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 133 70 98 133 71 98 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 136 70 164 136 71 164 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 136 70 166 136 71 166 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 136 70 168 136 71 168 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 136 70 170 136 71 170 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 136 70 172 136 71 172 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 136 70 174 136 71 174 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 136 70 184 136 71 184 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 136 70 186 136 71 186 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 149 70 171 149 71 171 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 149 70 173 149 71 173 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 171 70 169 171 71 169 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 171 70 171 171 71 171 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 171 70 177 171 71 177 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 171 70 179 171 71 179 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 171 70 181 171 71 181 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 171 70 183 171 71 183 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 198 70 109 198 71 109 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 198 70 111 198 71 111 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 97 74 79 97 75 79 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 97 74 81 97 75 81 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 98 74 132 98 75 132 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 98 74 134 98 75 134 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 98 74 139 98 75 139 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 98 74 141 98 75 141 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 98 74 143 98 75 143 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 98 74 145 98 75 145 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+setblock 106 75 164 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+setblock 106 75 166 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+setblock 106 75 168 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+setblock 106 75 170 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 149 74 162 149 75 162 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 149 74 164 149 75 164 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 149 74 166 149 75 166 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+fill 149 74 168 149 75 168 minecraft:spruce_trapdoor[facing=west,half=bottom,open=true] strict
+setblock 94 67 184 minecraft:spruce_trapdoor[facing=west,half=top,open=false] strict
+setblock 45 69 111 minecraft:spruce_trapdoor[facing=west,half=top,open=false] strict
+setblock 53 69 187 minecraft:spruce_trapdoor[facing=west,half=top,open=false] strict
+setblock 53 69 191 minecraft:spruce_trapdoor[facing=west,half=top,open=false] strict
+setblock 59 69 155 minecraft:spruce_trapdoor[facing=west,half=top,open=false] strict
+setblock 61 69 164 minecraft:spruce_trapdoor[facing=west,half=top,open=false] strict
+setblock 61 69 168 minecraft:spruce_trapdoor[facing=west,half=top,open=false] strict
+setblock 62 69 191 minecraft:spruce_trapdoor[facing=west,half=top,open=false] strict
+setblock 68 69 151 minecraft:spruce_trapdoor[facing=west,half=top,open=false] strict
+setblock 71 69 191 minecraft:spruce_trapdoor[facing=west,half=top,open=false] strict
+setblock 94 69 179 minecraft:spruce_trapdoor[facing=west,half=top,open=false] strict
+setblock 94 69 183 minecraft:spruce_trapdoor[facing=west,half=top,open=false] strict
+setblock 94 69 187 minecraft:spruce_trapdoor[facing=west,half=top,open=false] strict
+setblock 94 69 193 minecraft:spruce_trapdoor[facing=west,half=top,open=false] strict
+setblock 98 69 58 minecraft:spruce_trapdoor[facing=west,half=top,open=false] strict
+setblock 98 69 144 minecraft:spruce_trapdoor[facing=west,half=top,open=false] strict
+setblock 101 69 193 minecraft:spruce_trapdoor[facing=west,half=top,open=false] strict
+setblock 110 69 143 minecraft:spruce_trapdoor[facing=west,half=top,open=false] strict
+setblock 133 69 97 minecraft:spruce_trapdoor[facing=west,half=top,open=false] strict
+setblock 136 69 185 minecraft:spruce_trapdoor[facing=west,half=top,open=false] strict
+setblock 149 69 172 minecraft:spruce_trapdoor[facing=west,half=top,open=false] strict
+setblock 149 69 176 minecraft:spruce_trapdoor[facing=west,half=top,open=false] strict
+setblock 171 69 170 minecraft:spruce_trapdoor[facing=west,half=top,open=false] strict
+setblock 179 69 110 minecraft:spruce_trapdoor[facing=west,half=top,open=false] strict
+setblock 61 73 164 minecraft:spruce_trapdoor[facing=west,half=top,open=false] strict
+setblock 61 73 168 minecraft:spruce_trapdoor[facing=west,half=top,open=false] strict
+setblock 62 73 187 minecraft:spruce_trapdoor[facing=west,half=top,open=false] strict
+setblock 98 73 129 minecraft:spruce_trapdoor[facing=west,half=top,open=false] strict
+setblock 98 73 140 minecraft:spruce_trapdoor[facing=west,half=top,open=false] strict
+setblock 98 73 144 minecraft:spruce_trapdoor[facing=west,half=top,open=false] strict
+setblock 149 73 163 minecraft:spruce_trapdoor[facing=west,half=top,open=false] strict
+setblock 32 76 55 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 57 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 59 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 61 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 63 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 65 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 67 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 69 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 71 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 73 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 75 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 77 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 79 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 81 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 83 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 85 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 87 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 89 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 91 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 93 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 95 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 97 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 99 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 101 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 103 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 105 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 107 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 109 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 111 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 113 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 115 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 117 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 119 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 121 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 133 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 135 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 137 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 139 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 141 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 143 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 145 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 147 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 149 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 151 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 153 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 155 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 157 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 159 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 161 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 163 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 165 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 167 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 169 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 171 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 173 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 175 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 177 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 179 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 181 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 183 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 185 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 187 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 189 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 191 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 193 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 195 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 197 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 76 199 minecraft:stone_brick_slab[type=bottom] strict
+setblock 39 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 40 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 41 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 42 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 43 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 44 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 45 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 46 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 47 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 48 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 49 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 50 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 51 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 52 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 53 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 54 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 55 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 56 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 57 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 58 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 59 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 60 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 61 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 62 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 63 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 64 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 65 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 66 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 67 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 68 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 69 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 70 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 71 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 72 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 73 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 74 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 75 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 76 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 77 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 78 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 79 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 80 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 81 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 82 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 83 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 84 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 85 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 86 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 87 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 88 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 89 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 90 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 91 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 92 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 93 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 94 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 95 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 96 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 97 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 98 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 99 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 100 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 101 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 102 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 103 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 104 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 105 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 106 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 107 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 108 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 109 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 110 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 111 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 112 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 113 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 114 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 115 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 116 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 117 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 118 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 119 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 121 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 126 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 128 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 130 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 133 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 135 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 137 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 138 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 139 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 140 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 141 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 142 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 143 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 144 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 145 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 146 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 147 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 148 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 149 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 150 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 151 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 152 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 153 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 154 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 155 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 156 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 157 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 158 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 159 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 160 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 161 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 162 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 163 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 164 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 165 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 166 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 167 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 168 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 169 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 170 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 171 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 172 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 173 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 174 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 175 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 176 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 177 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 178 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 179 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 180 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 181 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 182 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 183 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 184 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 185 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 186 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 187 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 188 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 189 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 190 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 191 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 192 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 193 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 194 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 195 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 196 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 197 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 198 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 199 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 200 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 201 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 202 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 203 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 204 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 205 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 206 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 207 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 208 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 209 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 210 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 211 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 212 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 213 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 214 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 215 76 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 216 76 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 56 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 58 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 60 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 62 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 64 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 66 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 68 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 70 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 72 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 74 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 76 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 78 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 80 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 82 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 84 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 86 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 88 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 90 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 92 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 94 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 96 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 98 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 100 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 102 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 104 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 106 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 108 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 110 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 112 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 114 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 116 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 118 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 120 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 122 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 132 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 134 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 136 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 138 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 140 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 142 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 144 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 146 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 148 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 150 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 152 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 154 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 156 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 158 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 160 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 162 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 164 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 166 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 168 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 170 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 172 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 174 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 176 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 178 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 180 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 182 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 184 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 186 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 188 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 190 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 192 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 194 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 196 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 198 minecraft:stone_brick_slab[type=bottom] strict
+setblock 223 76 200 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 56 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 58 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 60 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 62 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 64 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 66 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 68 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 70 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 72 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 74 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 76 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 78 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 80 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 82 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 84 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 86 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 88 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 90 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 92 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 94 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 96 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 98 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 100 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 102 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 104 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 106 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 108 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 110 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 112 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 114 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 116 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 118 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 120 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 122 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 132 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 134 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 136 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 138 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 140 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 142 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 144 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 146 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 148 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 150 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 152 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 154 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 156 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 158 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 160 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 162 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 164 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 166 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 168 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 170 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 172 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 174 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 176 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 178 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 180 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 182 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 184 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 186 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 188 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 190 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 192 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 194 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 196 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 198 minecraft:stone_brick_slab[type=bottom] strict
+setblock 32 77 200 minecraft:stone_brick_slab[type=bottom] strict
+setblock 39 77 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 40 77 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 41 77 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 42 77 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 43 77 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 44 77 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 45 77 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 46 77 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 47 77 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 48 77 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 49 77 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 50 77 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 51 77 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 52 77 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 53 77 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 54 77 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 55 77 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 56 77 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 57 77 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 58 77 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 59 77 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 60 77 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 61 77 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 62 77 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 63 77 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 64 77 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 65 77 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 66 77 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 67 77 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 68 77 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 69 77 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 70 77 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 71 77 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 72 77 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 73 77 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 74 77 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 75 77 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 76 77 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 77 77 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 78 77 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 79 77 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 80 77 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 81 77 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 82 77 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 83 77 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 84 77 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 85 77 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 86 77 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 87 77 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 88 77 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 89 77 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 90 77 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 91 77 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 92 77 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 93 77 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 94 77 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 95 77 207 minecraft:stone_brick_slab[type=bottom] strict
+setblock 96 77 48 minecraft:stone_brick_slab[type=bottom] strict
+setblock 97 77 207 minecraft:stone_brick_slab[type=bottom] strict
 setblock 98 77 48 minecraft:stone_brick_slab[type=bottom] strict
 setblock 99 77 207 minecraft:stone_brick_slab[type=bottom] strict
 setblock 100 77 48 minecraft:stone_brick_slab[type=bottom] strict
@@ -94,756 +1198,5 @@ setblock 202 77 48 minecraft:stone_brick_slab[type=bottom] strict
 setblock 203 77 207 minecraft:stone_brick_slab[type=bottom] strict
 setblock 204 77 48 minecraft:stone_brick_slab[type=bottom] strict
 setblock 205 77 207 minecraft:stone_brick_slab[type=bottom] strict
-setblock 206 77 48 minecraft:stone_brick_slab[type=bottom] strict
-setblock 207 77 207 minecraft:stone_brick_slab[type=bottom] strict
-setblock 208 77 48 minecraft:stone_brick_slab[type=bottom] strict
-setblock 209 77 207 minecraft:stone_brick_slab[type=bottom] strict
-setblock 210 77 48 minecraft:stone_brick_slab[type=bottom] strict
-setblock 211 77 207 minecraft:stone_brick_slab[type=bottom] strict
-setblock 212 77 48 minecraft:stone_brick_slab[type=bottom] strict
-setblock 213 77 207 minecraft:stone_brick_slab[type=bottom] strict
-setblock 214 77 48 minecraft:stone_brick_slab[type=bottom] strict
-setblock 215 77 207 minecraft:stone_brick_slab[type=bottom] strict
-setblock 216 77 48 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 55 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 57 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 59 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 61 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 63 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 65 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 67 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 69 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 71 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 73 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 75 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 77 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 79 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 81 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 83 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 85 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 87 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 89 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 91 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 93 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 95 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 97 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 99 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 101 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 103 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 105 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 107 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 109 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 111 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 113 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 115 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 117 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 119 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 121 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 133 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 135 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 137 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 139 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 141 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 143 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 145 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 147 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 149 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 151 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 153 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 155 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 157 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 159 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 161 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 163 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 165 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 167 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 169 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 171 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 173 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 175 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 177 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 179 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 181 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 183 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 185 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 187 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 189 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 191 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 193 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 195 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 197 minecraft:stone_brick_slab[type=bottom] strict
-setblock 223 77 199 minecraft:stone_brick_slab[type=bottom] strict
-setblock 40 67 204 minecraft:stone_brick_slab[type=top] strict
-setblock 56 67 204 minecraft:stone_brick_slab[type=top] strict
-setblock 72 67 204 minecraft:stone_brick_slab[type=top] strict
-setblock 88 67 204 minecraft:stone_brick_slab[type=top] strict
-setblock 104 67 204 minecraft:stone_brick_slab[type=top] strict
-setblock 152 67 204 minecraft:stone_brick_slab[type=top] strict
-setblock 168 67 204 minecraft:stone_brick_slab[type=top] strict
-setblock 184 67 204 minecraft:stone_brick_slab[type=top] strict
-setblock 200 67 204 minecraft:stone_brick_slab[type=top] strict
-setblock 119 74 60 minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight] strict
-setblock 119 74 64 minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight] strict
-setblock 119 74 68 minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight] strict
-setblock 119 74 72 minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight] strict
-setblock 119 74 76 minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight] strict
-fill 130 70 203 130 70 205 minecraft:stone_brick_stairs[facing=east,half=top,shape=straight] strict
-setblock 130 70 207 minecraft:stone_brick_stairs[facing=east,half=top,shape=straight] strict
-setblock 130 70 209 minecraft:stone_brick_stairs[facing=east,half=top,shape=straight] strict
-setblock 126 69 89 minecraft:stone_brick_stairs[facing=east,half=top] strict
-fill 194 66 108 196 66 108 minecraft:stone_brick_stairs[facing=north,half=bottom] strict
-fill 194 67 107 196 67 107 minecraft:stone_brick_stairs[facing=north,half=bottom] strict
-fill 194 68 106 196 68 106 minecraft:stone_brick_stairs[facing=north,half=bottom] strict
-fill 194 69 105 196 69 105 minecraft:stone_brick_stairs[facing=north,half=bottom] strict
-fill 194 70 104 196 70 104 minecraft:stone_brick_stairs[facing=north,half=bottom] strict
-fill 194 71 103 196 71 103 minecraft:stone_brick_stairs[facing=north,half=bottom] strict
-fill 194 72 102 196 72 102 minecraft:stone_brick_stairs[facing=north,half=bottom] strict
-fill 194 73 101 196 73 101 minecraft:stone_brick_stairs[facing=north,half=bottom] strict
-fill 194 74 100 196 74 100 minecraft:stone_brick_stairs[facing=north,half=bottom] strict
-fill 194 75 99 196 75 99 minecraft:stone_brick_stairs[facing=north,half=bottom] strict
-fill 194 76 98 196 76 98 minecraft:stone_brick_stairs[facing=north,half=bottom] strict
-fill 194 77 97 196 77 97 minecraft:stone_brick_stairs[facing=north,half=bottom] strict
-fill 194 78 96 196 78 96 minecraft:stone_brick_stairs[facing=north,half=bottom] strict
-fill 194 79 95 196 79 95 minecraft:stone_brick_stairs[facing=north,half=bottom] strict
-fill 194 80 94 196 80 94 minecraft:stone_brick_stairs[facing=north,half=bottom] strict
-setblock 117 67 207 minecraft:stone_brick_stairs[facing=south,half=top] strict
-setblock 137 74 60 minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight] strict
-setblock 137 74 64 minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight] strict
-setblock 137 74 68 minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight] strict
-setblock 137 74 72 minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight] strict
-setblock 137 74 76 minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight] strict
-fill 126 70 203 126 70 205 minecraft:stone_brick_stairs[facing=west,half=top,shape=straight] strict
-setblock 126 70 207 minecraft:stone_brick_stairs[facing=west,half=top,shape=straight] strict
-setblock 126 70 209 minecraft:stone_brick_stairs[facing=west,half=top,shape=straight] strict
-setblock 130 69 89 minecraft:stone_brick_stairs[facing=west,half=top] strict
-setblock 221 76 112 minecraft:stone_brick_wall[north=low,south=low,west=low,east=none,up=true] strict
-fill 34 76 145 34 76 151 minecraft:stone_brick_wall[north=low,south=low,west=none,east=low,up=true] strict
-fill 34 76 166 34 76 169 minecraft:stone_brick_wall[north=low,south=low,west=none,east=low,up=true] strict
-setblock 115 66 217 minecraft:stone_brick_wall[north=low,south=low,west=none,east=none,up=false] strict
-setblock 115 66 220 minecraft:stone_brick_wall[north=low,south=low,west=none,east=none,up=false] strict
-fill 115 66 224 115 66 226 minecraft:stone_brick_wall[north=low,south=low,west=none,east=none,up=false] strict
-setblock 115 66 231 minecraft:stone_brick_wall[north=low,south=low,west=none,east=none,up=false] strict
-setblock 115 66 236 minecraft:stone_brick_wall[north=low,south=low,west=none,east=none,up=false] strict
-setblock 141 66 217 minecraft:stone_brick_wall[north=low,south=low,west=none,east=none,up=false] strict
-setblock 141 66 223 minecraft:stone_brick_wall[north=low,south=low,west=none,east=none,up=false] strict
-fill 141 66 226 141 66 227 minecraft:stone_brick_wall[north=low,south=low,west=none,east=none,up=false] strict
-setblock 141 66 230 minecraft:stone_brick_wall[north=low,south=low,west=none,east=none,up=false] strict
-setblock 141 66 232 minecraft:stone_brick_wall[north=low,south=low,west=none,east=none,up=false] strict
-setblock 141 66 235 minecraft:stone_brick_wall[north=low,south=low,west=none,east=none,up=false] strict
-fill 34 76 55 34 76 122 minecraft:stone_brick_wall[north=low,south=low,west=none,east=none,up=false] strict
-fill 34 76 132 34 76 138 minecraft:stone_brick_wall[north=low,south=low,west=none,east=none,up=false] strict
-fill 34 76 158 34 76 162 minecraft:stone_brick_wall[north=low,south=low,west=none,east=none,up=false] strict
-fill 34 76 173 34 76 200 minecraft:stone_brick_wall[north=low,south=low,west=none,east=none,up=false] strict
-fill 221 76 55 221 76 108 minecraft:stone_brick_wall[north=low,south=low,west=none,east=none,up=false] strict
-fill 221 76 116 221 76 122 minecraft:stone_brick_wall[north=low,south=low,west=none,east=none,up=false] strict
-fill 221 76 132 221 76 200 minecraft:stone_brick_wall[north=low,south=low,west=none,east=none,up=false] strict
-setblock 34 76 144 minecraft:stone_brick_wall[north=low,south=low,west=none,east=none,up=true] strict
-setblock 34 76 152 minecraft:stone_brick_wall[north=low,south=low,west=none,east=none,up=true] strict
-setblock 193 67 108 minecraft:stone_brick_wall[north=low,south=none,west=low,east=none,up=true] strict
-setblock 221 76 113 minecraft:stone_brick_wall[north=low,south=none,west=low,east=none,up=true] strict
-setblock 34 76 170 minecraft:stone_brick_wall[north=low,south=none,west=none,east=low,up=true] strict
-setblock 141 66 237 minecraft:stone_brick_wall[north=low,south=none,west=none,east=none,up=true] strict
-setblock 197 67 108 minecraft:stone_brick_wall[north=low,south=none,west=none,east=none,up=true] strict
-setblock 193 68 107 minecraft:stone_brick_wall[north=low,south=none,west=none,east=none,up=true] strict
-setblock 197 68 107 minecraft:stone_brick_wall[north=low,south=none,west=none,east=none,up=true] strict
-setblock 193 70 105 minecraft:stone_brick_wall[north=low,south=none,west=none,east=none,up=true] strict
-setblock 197 70 105 minecraft:stone_brick_wall[north=low,south=none,west=none,east=none,up=true] strict
-setblock 193 71 104 minecraft:stone_brick_wall[north=low,south=none,west=none,east=none,up=true] strict
-setblock 197 71 104 minecraft:stone_brick_wall[north=low,south=none,west=none,east=none,up=true] strict
-setblock 193 73 102 minecraft:stone_brick_wall[north=low,south=none,west=none,east=none,up=true] strict
-setblock 197 73 102 minecraft:stone_brick_wall[north=low,south=none,west=none,east=none,up=true] strict
-setblock 193 74 101 minecraft:stone_brick_wall[north=low,south=none,west=none,east=none,up=true] strict
-setblock 197 74 101 minecraft:stone_brick_wall[north=low,south=none,west=none,east=none,up=true] strict
-setblock 34 76 139 minecraft:stone_brick_wall[north=low,south=none,west=none,east=none,up=true] strict
-setblock 34 76 153 minecraft:stone_brick_wall[north=low,south=none,west=none,east=none,up=true] strict
-setblock 34 76 163 minecraft:stone_brick_wall[north=low,south=none,west=none,east=none,up=true] strict
-setblock 193 76 99 minecraft:stone_brick_wall[north=low,south=none,west=none,east=none,up=true] strict
-setblock 197 76 99 minecraft:stone_brick_wall[north=low,south=none,west=none,east=none,up=true] strict
-setblock 221 76 109 minecraft:stone_brick_wall[north=low,south=none,west=none,east=none,up=true] strict
-setblock 193 77 98 minecraft:stone_brick_wall[north=low,south=none,west=none,east=none,up=true] strict
-setblock 197 77 98 minecraft:stone_brick_wall[north=low,south=none,west=none,east=none,up=true] strict
-setblock 193 79 96 minecraft:stone_brick_wall[north=low,south=none,west=none,east=none,up=true] strict
-setblock 197 79 96 minecraft:stone_brick_wall[north=low,south=none,west=none,east=none,up=true] strict
-setblock 193 80 95 minecraft:stone_brick_wall[north=low,south=none,west=none,east=none,up=true] strict
-setblock 197 80 95 minecraft:stone_brick_wall[north=low,south=none,west=none,east=none,up=true] strict
-setblock 221 76 111 minecraft:stone_brick_wall[north=none,south=low,west=low,east=none,up=true] strict
-setblock 34 76 165 minecraft:stone_brick_wall[north=none,south=low,west=none,east=low,up=true] strict
-setblock 141 66 216 minecraft:stone_brick_wall[north=none,south=low,west=none,east=none,up=true] strict
-setblock 34 76 143 minecraft:stone_brick_wall[north=none,south=low,west=none,east=none,up=true] strict
-setblock 34 76 157 minecraft:stone_brick_wall[north=none,south=low,west=none,east=none,up=true] strict
-setblock 34 76 172 minecraft:stone_brick_wall[north=none,south=low,west=none,east=none,up=true] strict
-setblock 221 76 115 minecraft:stone_brick_wall[north=none,south=low,west=none,east=none,up=true] strict
-fill 39 76 50 122 76 50 minecraft:stone_brick_wall[north=none,south=none,west=low,east=low,up=false] strict
-fill 39 76 205 118 76 205 minecraft:stone_brick_wall[north=none,south=none,west=low,east=low,up=false] strict
-fill 126 76 205 130 76 205 minecraft:stone_brick_wall[north=none,south=none,west=low,east=low,up=false] strict
-fill 132 76 50 216 76 50 minecraft:stone_brick_wall[north=none,south=none,west=low,east=low,up=false] strict
-fill 138 76 205 216 76 205 minecraft:stone_brick_wall[north=none,south=none,west=low,east=low,up=false] strict
-fill 128 64 121 128 66 121 minecraft:stone_brick_wall[north=none,south=none,west=none,east=none,up=true] strict
-setblock 34 76 141 minecraft:stone_brick_wall[north=none,south=none,west=none,east=tall,up=true] strict
-setblock 34 76 155 minecraft:stone_brick_wall[north=none,south=none,west=none,east=tall,up=true] strict
-setblock 141 65 216 minecraft:stone_brick_wall[north=none,south=tall,west=none,east=none,up=true] strict
-setblock 115 65 237 minecraft:stone_brick_wall[north=tall,south=none,west=none,east=none,up=true] strict
-fill 115 65 217 115 65 220 minecraft:stone_brick_wall[north=tall,south=tall,west=none,east=none,up=true] strict
-setblock 115 65 223 minecraft:stone_brick_wall[north=tall,south=tall,west=none,east=none,up=true] strict
-fill 115 65 226 115 65 230 minecraft:stone_brick_wall[north=tall,south=tall,west=none,east=none,up=true] strict
-setblock 115 65 235 minecraft:stone_brick_wall[north=tall,south=tall,west=none,east=none,up=true] strict
-setblock 141 65 218 minecraft:stone_brick_wall[north=tall,south=tall,west=none,east=none,up=true] strict
-fill 141 65 220 141 65 223 minecraft:stone_brick_wall[north=tall,south=tall,west=none,east=none,up=true] strict
-fill 141 65 226 141 65 227 minecraft:stone_brick_wall[north=tall,south=tall,west=none,east=none,up=true] strict
-setblock 141 65 230 minecraft:stone_brick_wall[north=tall,south=tall,west=none,east=none,up=true] strict
-setblock 141 65 232 minecraft:stone_brick_wall[north=tall,south=tall,west=none,east=none,up=true] strict
-fill 189 65 146 189 67 160 minecraft:sugar_cane strict
-fill 191 65 146 191 67 160 minecraft:sugar_cane strict
-setblock 209 65 157 minecraft:water_cauldron[level=3] strict
-setblock 209 65 171 minecraft:water_cauldron[level=3] strict
-fill 71 80 190 88 80 191 minecraft:waxed_oxidized_cut_copper_slab[type=bottom] strict
-fill 56 83 137 57 83 148 minecraft:waxed_oxidized_cut_copper_slab[type=bottom] strict
-fill 98 83 142 111 83 143 minecraft:waxed_oxidized_cut_copper_slab[type=bottom] strict
-fill 156 83 190 157 83 197 minecraft:waxed_oxidized_cut_copper_slab[type=bottom] strict
-fill 42 73 184 42 73 197 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 136 73 162 136 73 191 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 43 74 184 43 74 197 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 137 74 162 137 74 191 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 44 75 184 44 75 197 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 138 75 162 138 75 191 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 45 76 184 45 76 193 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 45 76 195 45 76 197 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 139 76 162 139 76 164 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 139 76 166 139 76 191 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 46 77 184 46 77 197 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 59 77 148 59 77 158 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 61 77 162 61 77 174 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 140 77 162 140 77 191 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 151 77 190 151 77 197 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 47 78 184 47 78 197 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 52 78 137 52 78 148 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 60 78 148 60 78 159 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 62 78 161 62 78 174 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 141 78 162 141 78 191 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 152 78 190 152 78 197 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 53 79 137 53 79 148 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 61 79 148 61 79 159 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 63 79 161 63 79 174 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 142 79 162 142 79 191 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 153 79 190 153 79 197 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 54 80 137 54 80 148 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 62 80 148 62 80 155 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 62 80 157 62 80 159 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 64 80 161 64 80 174 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 154 80 190 154 80 197 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 55 81 137 55 81 148 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 63 81 148 63 81 159 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 65 81 161 65 81 174 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 155 81 190 155 81 197 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 30 82 126 31 82 126 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 30 82 127 30 82 128 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-setblock 31 82 125 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 31 82 128 31 82 129 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 56 82 137 56 82 148 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 124 82 48 125 82 48 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 124 82 49 124 82 50 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-setblock 125 82 47 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 125 82 50 125 82 51 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 156 82 190 156 82 197 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 219 82 126 220 82 126 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 219 82 127 219 82 128 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-setblock 220 82 125 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 220 82 128 220 82 129 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 31 83 126 32 83 126 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 31 83 127 31 83 128 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-setblock 32 83 128 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 125 83 48 126 83 48 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 125 83 49 125 83 50 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-setblock 126 83 50 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 220 83 126 221 83 126 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 220 83 127 220 83 128 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-setblock 221 83 128 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 29 84 48 30 84 48 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 29 84 49 29 84 50 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 29 84 205 30 84 205 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 29 84 206 29 84 207 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 30 84 46 30 84 47 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 30 84 50 30 84 52 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 30 84 203 30 84 204 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 30 84 207 30 84 209 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-setblock 32 84 127 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 120 84 204 120 84 208 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-setblock 126 84 49 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 132 84 204 132 84 208 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 218 84 48 219 84 48 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 218 84 49 218 84 50 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 218 84 205 219 84 205 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 218 84 206 218 84 207 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 219 84 46 219 84 47 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 219 84 50 219 84 52 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 219 84 203 219 84 204 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 219 84 207 219 84 209 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-setblock 221 84 127 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 30 85 48 31 85 48 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 30 85 49 30 85 50 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 30 85 205 31 85 205 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 30 85 206 30 85 207 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-setblock 31 85 47 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 31 85 50 31 85 51 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-setblock 31 85 204 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 31 85 207 31 85 208 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 121 85 204 121 85 208 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 133 85 204 133 85 208 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 219 85 48 220 85 48 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 219 85 49 219 85 50 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 219 85 205 220 85 205 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 219 85 206 219 85 207 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-setblock 220 85 47 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 220 85 50 220 85 51 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-setblock 220 85 204 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 220 85 207 220 85 208 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 31 86 48 32 86 48 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 31 86 49 31 86 50 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 31 86 205 32 86 205 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 31 86 206 31 86 207 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-setblock 32 86 50 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-setblock 32 86 207 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 220 86 48 221 86 48 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 220 86 49 220 86 50 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 220 86 205 221 86 205 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 220 86 206 220 86 207 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-setblock 221 86 50 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-setblock 221 86 207 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-setblock 32 87 49 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-setblock 32 87 206 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-setblock 221 87 49 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-setblock 221 87 206 minecraft:waxed_oxidized_cut_copper_stairs[facing=east,half=bottom,shape=straight] strict
-fill 71 73 197 88 73 197 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-fill 71 74 196 88 74 196 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-fill 71 75 195 88 75 195 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-fill 71 76 194 84 76 194 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-fill 86 76 194 88 76 194 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-fill 71 77 193 88 77 193 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-fill 98 77 148 111 77 148 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-fill 71 78 192 88 78 192 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-fill 98 78 147 111 78 147 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-fill 71 79 191 88 79 191 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-fill 98 79 146 111 79 146 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-fill 98 80 145 111 80 145 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-fill 98 81 144 111 81 144 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-fill 32 82 129 32 82 130 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-fill 33 82 130 34 82 130 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-setblock 34 82 129 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-fill 98 82 143 111 82 143 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-fill 126 82 51 126 82 52 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-fill 127 82 52 128 82 52 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-setblock 128 82 51 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-fill 221 82 129 221 82 130 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-fill 222 82 130 223 82 130 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-setblock 223 82 129 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-fill 32 83 129 34 83 129 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-fill 126 83 51 128 83 51 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-fill 221 83 129 223 83 129 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-fill 31 84 52 32 84 52 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-fill 31 84 209 32 84 209 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-fill 32 84 53 34 84 53 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-fill 32 84 210 34 84 210 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-setblock 33 84 128 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-fill 34 84 52 35 84 52 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-fill 34 84 209 35 84 209 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-setblock 127 84 50 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-fill 220 84 52 221 84 52 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-fill 220 84 209 221 84 209 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-fill 221 84 53 223 84 53 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-fill 221 84 210 223 84 210 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-setblock 222 84 128 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-fill 223 84 52 224 84 52 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-fill 223 84 209 224 84 209 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-fill 32 85 51 32 85 52 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-fill 32 85 208 32 85 209 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-fill 33 85 52 34 85 52 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-fill 33 85 209 34 85 209 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-setblock 34 85 51 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-setblock 34 85 208 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-fill 221 85 51 221 85 52 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-fill 221 85 208 221 85 209 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-fill 222 85 52 223 85 52 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-fill 222 85 209 223 85 209 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-setblock 223 85 51 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-setblock 223 85 208 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-fill 32 86 51 34 86 51 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-fill 32 86 208 34 86 208 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-fill 221 86 51 223 86 51 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-fill 221 86 208 223 86 208 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-setblock 33 87 50 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-setblock 33 87 207 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-setblock 222 87 50 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-setblock 222 87 207 minecraft:waxed_oxidized_cut_copper_stairs[facing=north,half=bottom,shape=straight] strict
-fill 71 73 184 88 73 184 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-fill 71 74 185 88 74 185 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-fill 71 75 186 88 75 186 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-fill 71 76 187 88 76 187 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-fill 71 77 188 88 77 188 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-fill 98 77 137 111 77 137 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-fill 71 78 189 88 78 189 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-fill 98 78 138 111 78 138 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-fill 71 79 190 88 79 190 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-fill 98 79 139 111 79 139 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-fill 98 80 140 100 80 140 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-fill 102 80 140 111 80 140 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-fill 98 81 141 111 81 141 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-fill 32 82 124 34 82 124 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-setblock 32 82 125 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-setblock 34 82 125 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-fill 98 82 142 111 82 142 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-fill 126 82 46 128 82 46 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-setblock 126 82 47 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-setblock 128 82 47 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-fill 221 82 124 223 82 124 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-setblock 221 82 125 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-setblock 223 82 125 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-fill 32 83 125 34 83 125 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-fill 126 83 47 128 83 47 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-fill 221 83 125 223 83 125 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-fill 31 84 46 32 84 46 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-fill 31 84 203 32 84 203 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-fill 32 84 45 34 84 45 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-fill 32 84 202 34 84 202 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-setblock 33 84 126 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-fill 34 84 46 35 84 46 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-fill 34 84 203 35 84 203 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-setblock 127 84 48 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-fill 220 84 46 221 84 46 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-fill 220 84 203 221 84 203 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-fill 221 84 45 223 84 45 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-fill 221 84 202 223 84 202 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-setblock 222 84 126 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-fill 223 84 46 224 84 46 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-fill 223 84 203 224 84 203 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-fill 32 85 46 34 85 46 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-setblock 32 85 47 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-fill 32 85 203 34 85 203 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-setblock 32 85 204 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-setblock 34 85 47 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-setblock 34 85 204 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-fill 221 85 46 223 85 46 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-setblock 221 85 47 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-fill 221 85 203 223 85 203 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-setblock 221 85 204 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-setblock 223 85 47 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-setblock 223 85 204 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-fill 32 86 47 34 86 47 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-fill 32 86 204 34 86 204 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-fill 221 86 47 223 86 47 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-fill 221 86 204 223 86 204 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-setblock 33 87 48 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-setblock 33 87 205 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-setblock 222 87 48 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-setblock 222 87 205 minecraft:waxed_oxidized_cut_copper_stairs[facing=south,half=bottom,shape=straight] strict
-setblock 54 73 184 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-setblock 54 73 197 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 53 74 184 53 74 197 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-setblock 149 74 165 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-setblock 149 74 167 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-setblock 149 74 169 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 149 74 171 149 74 179 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 149 74 181 149 74 190 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 52 75 184 52 75 197 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 148 75 162 148 75 191 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 51 76 184 51 76 197 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 147 76 162 147 76 191 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 50 77 184 50 77 197 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 62 77 138 62 77 140 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 62 77 145 62 77 148 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 69 77 148 69 77 151 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 69 77 156 69 77 158 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 71 77 162 71 77 164 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 71 77 171 71 77 174 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 146 77 162 146 77 191 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 162 77 190 162 77 197 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 49 78 184 49 78 197 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 61 78 137 61 78 141 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 61 78 144 61 78 148 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 68 78 148 68 78 152 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 68 78 155 68 78 159 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 70 78 161 70 78 165 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 70 78 167 70 78 168 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 70 78 170 70 78 174 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 145 78 162 145 78 191 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 161 78 190 161 78 197 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 60 79 137 60 79 148 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 67 79 148 67 79 159 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 69 79 161 69 79 174 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 144 79 162 144 79 191 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 160 79 190 160 79 197 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 59 80 137 59 80 148 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 66 80 148 66 80 159 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 68 80 161 68 80 163 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 68 80 165 68 80 174 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 159 80 190 159 80 193 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 159 80 195 159 80 197 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 58 81 137 58 81 148 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 65 81 148 65 81 159 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 67 81 161 67 81 174 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 158 81 190 158 81 197 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 35 82 125 35 82 126 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 35 82 128 36 82 128 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-setblock 35 82 129 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 36 82 126 36 82 127 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 57 82 137 57 82 148 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 129 82 47 129 82 48 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 129 82 50 130 82 50 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-setblock 129 82 51 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 130 82 48 130 82 49 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 157 82 190 157 82 197 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 224 82 125 224 82 126 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 224 82 128 225 82 128 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-setblock 224 82 129 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 225 82 126 225 82 127 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 34 83 126 35 83 126 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 34 83 128 35 83 128 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-setblock 35 83 127 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 128 83 48 129 83 48 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 128 83 50 129 83 50 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-setblock 129 83 49 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 223 83 126 224 83 126 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 223 83 128 224 83 128 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-setblock 224 83 127 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-setblock 34 84 127 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 36 84 46 36 84 48 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 36 84 50 37 84 50 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 36 84 51 36 84 52 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 36 84 203 36 84 205 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 36 84 207 37 84 207 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 36 84 208 36 84 209 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 37 84 48 37 84 49 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 37 84 205 37 84 206 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 124 84 204 124 84 208 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-setblock 128 84 49 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 136 84 204 136 84 208 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-setblock 223 84 127 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 225 84 46 225 84 48 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 225 84 50 226 84 50 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 225 84 51 225 84 52 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 225 84 203 225 84 205 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 225 84 207 226 84 207 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 225 84 208 225 84 209 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 226 84 48 226 84 49 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 226 84 205 226 84 206 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 35 85 47 35 85 48 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 35 85 50 36 85 50 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-setblock 35 85 51 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 35 85 204 35 85 205 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 35 85 207 36 85 207 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-setblock 35 85 208 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 36 85 48 36 85 49 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 36 85 205 36 85 206 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 123 85 204 123 85 208 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 135 85 204 135 85 208 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 224 85 47 224 85 48 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 224 85 50 225 85 50 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-setblock 224 85 51 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 224 85 204 224 85 205 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 224 85 207 225 85 207 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-setblock 224 85 208 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 225 85 48 225 85 49 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 225 85 205 225 85 206 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 34 86 48 35 86 48 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 34 86 50 35 86 50 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 34 86 205 35 86 205 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 34 86 207 35 86 207 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-setblock 35 86 49 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-setblock 35 86 206 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 223 86 48 224 86 48 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 223 86 50 224 86 50 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 223 86 205 224 86 205 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 223 86 207 224 86 207 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-setblock 224 86 49 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-setblock 224 86 206 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-setblock 34 87 49 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-setblock 34 87 206 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-setblock 223 87 49 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-setblock 223 87 206 minecraft:waxed_oxidized_cut_copper_stairs[facing=west,half=bottom,shape=straight] strict
-fill 172 65 146 175 65 160 minecraft:wheat[age=7] strict
-fill 177 65 146 181 65 160 minecraft:wheat[age=7] strict
-fill 183 65 146 186 65 160 minecraft:wheat[age=7] strict
-setblock 127 67 59 minecraft:white_candle[candles=2,lit=true] strict
-setblock 129 67 59 minecraft:white_candle[candles=2,lit=true] strict
-setblock 11 65 243 minecraft:white_tulip strict
-setblock 18 65 246 minecraft:white_tulip strict
-setblock 28 65 227 minecraft:white_tulip strict
-setblock 36 65 251 minecraft:white_tulip strict
-setblock 38 65 178 minecraft:white_tulip strict
-fill 40 65 83 41 65 83 minecraft:white_tulip strict
-setblock 42 65 243 minecraft:white_tulip strict
-setblock 43 65 81 minecraft:white_tulip strict
-setblock 48 65 216 minecraft:white_tulip strict
-setblock 48 65 233 minecraft:white_tulip strict
-setblock 50 65 177 minecraft:white_tulip strict
-setblock 51 65 88 minecraft:white_tulip strict
-setblock 51 65 90 minecraft:white_tulip strict
-setblock 51 65 182 minecraft:white_tulip strict
-setblock 53 65 104 minecraft:white_tulip strict
-setblock 53 65 246 minecraft:white_tulip strict
-setblock 54 65 238 minecraft:white_tulip strict
-setblock 55 65 87 minecraft:white_tulip strict
-setblock 63 65 174 minecraft:white_tulip strict
-setblock 63 65 180 minecraft:white_tulip strict
-setblock 65 65 101 minecraft:white_tulip strict
-setblock 69 65 58 minecraft:white_tulip strict
-setblock 69 65 179 minecraft:white_tulip strict
-setblock 70 65 54 minecraft:white_tulip strict
-setblock 71 65 183 minecraft:white_tulip strict
-setblock 73 65 63 minecraft:white_tulip strict
-setblock 75 65 55 minecraft:white_tulip strict
-setblock 75 65 58 minecraft:white_tulip strict
-fill 75 65 61 76 65 62 minecraft:white_tulip strict
-setblock 76 65 221 minecraft:white_tulip strict
-setblock 77 65 182 minecraft:white_tulip strict
-setblock 77 65 218 minecraft:white_tulip strict
-setblock 78 65 60 minecraft:white_tulip strict
-setblock 79 65 63 minecraft:white_tulip strict
-fill 80 65 84 80 65 85 minecraft:white_tulip strict
-setblock 80 65 229 minecraft:white_tulip strict
-setblock 81 65 179 minecraft:white_tulip strict
-setblock 81 65 232 minecraft:white_tulip strict
-setblock 83 65 85 minecraft:white_tulip strict
-setblock 83 65 101 minecraft:white_tulip strict
-fill 84 65 69 85 65 69 minecraft:white_tulip strict
-setblock 84 65 224 minecraft:white_tulip strict
-setblock 84 65 238 minecraft:white_tulip strict
-setblock 85 65 68 minecraft:white_tulip strict
-setblock 85 65 177 minecraft:white_tulip strict
-setblock 85 65 180 minecraft:white_tulip strict
-setblock 85 65 248 minecraft:white_tulip strict
-setblock 86 65 70 minecraft:white_tulip strict
-setblock 89 65 68 minecraft:white_tulip strict
-setblock 91 65 249 minecraft:white_tulip strict
-setblock 92 65 99 minecraft:white_tulip strict
-setblock 120 65 114 minecraft:white_tulip strict
-setblock 121 65 117 minecraft:white_tulip strict
-setblock 123 65 117 minecraft:white_tulip strict
-setblock 123 65 127 minecraft:white_tulip strict
-setblock 123 65 129 minecraft:white_tulip strict
-setblock 124 65 249 minecraft:white_tulip strict
-setblock 129 65 250 minecraft:white_tulip strict
-setblock 132 65 128 minecraft:white_tulip strict
-setblock 133 65 117 minecraft:white_tulip strict
-setblock 144 65 68 minecraft:white_tulip strict
-setblock 145 65 75 minecraft:white_tulip strict
-setblock 151 65 244 minecraft:white_tulip strict
-setblock 160 65 56 minecraft:white_tulip strict
-setblock 160 65 245 minecraft:white_tulip strict
-setblock 162 65 77 minecraft:white_tulip strict
-setblock 165 65 76 minecraft:white_tulip strict
-setblock 167 65 230 minecraft:white_tulip strict
-setblock 173 65 231 minecraft:white_tulip strict
-setblock 175 65 253 minecraft:white_tulip strict
-setblock 176 65 243 minecraft:white_tulip strict
-setblock 177 65 221 minecraft:white_tulip strict
-setblock 180 65 226 minecraft:white_tulip strict
-setblock 190 65 141 minecraft:white_tulip strict
-setblock 192 65 137 minecraft:white_tulip strict
-setblock 195 65 142 minecraft:white_tulip strict
-setblock 198 65 142 minecraft:white_tulip strict
-fill 200 65 131 201 65 131 minecraft:white_tulip strict
-setblock 201 65 237 minecraft:white_tulip strict
-setblock 203 65 138 minecraft:white_tulip strict
-setblock 205 65 138 minecraft:white_tulip strict
-setblock 205 65 227 minecraft:white_tulip strict
-setblock 206 65 235 minecraft:white_tulip strict
-setblock 211 65 135 minecraft:white_tulip strict
-setblock 212 65 228 minecraft:white_tulip strict
-setblock 212 65 237 minecraft:white_tulip strict
-setblock 213 65 139 minecraft:white_tulip strict
-setblock 214 65 137 minecraft:white_tulip strict
-setblock 215 65 135 minecraft:white_tulip strict
-setblock 216 65 137 minecraft:white_tulip strict
-setblock 217 65 132 minecraft:white_tulip strict
-setblock 217 65 253 minecraft:white_tulip strict
-setblock 228 65 237 minecraft:white_tulip strict
-setblock 232 65 216 minecraft:white_tulip strict
-setblock 122 66 60 minecraft:white_tulip strict
-setblock 122 66 63 minecraft:white_tulip strict
-setblock 134 66 60 minecraft:white_tulip strict
-setblock 134 66 63 minecraft:white_tulip strict
-setblock 121 70 60 minecraft:white_wall_banner[facing=south] strict
-setblock 135 70 60 minecraft:white_wall_banner[facing=south] strict
-setblock 184 81 84 minecraft:wildflowers[flower_amount=4,facing=north] strict
-fill 187 81 78 188 81 78 minecraft:wildflowers[flower_amount=4,facing=north] strict
-setblock 189 81 79 minecraft:wildflowers[flower_amount=4,facing=north] strict
-setblock 195 81 69 minecraft:wildflowers[flower_amount=4,facing=north] strict
-setblock 199 81 75 minecraft:wildflowers[flower_amount=4,facing=north] strict
-fill 199 81 81 199 81 82 minecraft:wildflowers[flower_amount=4,facing=north] strict
-setblock 201 81 87 minecraft:wildflowers[flower_amount=4,facing=north] strict
-fill 127 75 58 129 75 58 minecraft:yellow_stained_glass_pane[north=false,south=false,west=true,east=true] strict
-fill 126 76 58 130 76 58 minecraft:yellow_stained_glass_pane[north=false,south=false,west=true,east=true] strict
-fill 25 60 41 230 63 43 minecraft:water strict
-fill 25 60 44 31 63 44 minecraft:water strict
-fill 25 60 45 29 63 45 minecraft:water strict
-fill 25 60 46 28 63 47 minecraft:water strict
-fill 25 60 48 27 63 214 minecraft:water strict
-fill 28 60 51 28 63 204 minecraft:water strict
-fill 28 60 208 28 63 214 minecraft:water strict
-fill 29 60 53 29 63 125 minecraft:water strict
-fill 29 60 129 29 63 202 minecraft:water strict
-fill 29 60 210 29 63 214 minecraft:water strict
-fill 30 60 54 31 63 123 minecraft:water strict
-fill 30 60 131 31 63 201 minecraft:water strict
-fill 30 60 211 31 63 214 minecraft:water strict
-fill 32 60 212 230 63 214 minecraft:water strict
-fill 35 60 44 220 63 44 minecraft:water strict
-fill 35 60 211 220 63 211 minecraft:water strict
-fill 37 60 45 125 63 45 minecraft:water strict
-fill 37 60 210 218 63 210 minecraft:water strict
-fill 38 60 46 123 63 47 minecraft:water strict
-fill 38 60 208 118 63 209 minecraft:water strict
-fill 126 60 208 130 63 209 minecraft:water strict
-fill 129 60 45 218 63 45 minecraft:water strict
-fill 131 60 46 217 63 47 minecraft:water strict
-fill 138 60 208 217 63 209 minecraft:water strict
-fill 224 60 44 230 63 44 minecraft:water strict
-fill 224 60 54 230 63 123 minecraft:water strict
-fill 224 60 131 230 63 201 minecraft:water strict
-fill 224 60 211 230 63 211 minecraft:water strict
-fill 226 60 45 230 63 45 minecraft:water strict
-fill 226 60 53 230 63 53 minecraft:water strict
-fill 226 60 124 230 63 125 minecraft:water strict
-fill 226 60 129 230 63 130 minecraft:water strict
-fill 226 60 202 230 63 202 minecraft:water strict
-fill 226 60 210 230 63 210 minecraft:water strict
-fill 227 60 46 230 63 47 minecraft:water strict
-fill 227 60 51 230 63 52 minecraft:water strict
-fill 227 60 126 230 63 128 minecraft:water strict
-fill 227 60 203 230 63 204 minecraft:water strict
-fill 227 60 208 230 63 209 minecraft:water strict
-fill 228 60 48 230 63 50 minecraft:water strict
-fill 228 60 205 230 63 207 minecraft:water strict
-fill 39 64 62 53 64 66 minecraft:water strict
-fill 40 64 61 52 64 61 minecraft:water strict
-fill 40 64 67 52 64 67 minecraft:water strict
-fill 41 64 60 51 64 60 minecraft:water strict
-fill 41 64 68 51 64 68 minecraft:water strict
-fill 42 64 59 50 64 59 minecraft:water strict
-fill 42 64 69 50 64 69 minecraft:water strict
-setblock 46 64 58 minecraft:water strict
-setblock 46 64 70 minecraft:water strict
-fill 124 64 120 132 64 120 minecraft:water strict
-fill 124 64 121 127 64 122 minecraft:water strict
-fill 125 64 119 131 64 119 minecraft:water strict
-fill 125 64 123 131 64 123 minecraft:water strict
-fill 126 64 118 130 64 118 minecraft:water strict
-fill 126 64 124 130 64 124 minecraft:water strict
-fill 127 64 117 129 64 117 minecraft:water strict
-fill 127 64 125 129 64 125 minecraft:water strict
-fill 130 64 121 132 64 122 minecraft:water strict
-fill 176 64 146 176 64 160 minecraft:water strict
-fill 182 64 146 182 64 160 minecraft:water strict
-fill 190 64 146 190 64 160 minecraft:water strict
-setblock 140 65 194 minecraft:water strict
-setblock 128 65 236 minecraft:oak_sign[rotation=8]{front_text:{messages:[{text:"↑ 町まで"},{text:"足元注意",color:"red"},{text:""},{text:""}]}} strict
-setblock 147 67 110 minecraft:oak_wall_sign[facing=west]{front_text:{messages:[{text:""},{text:"パン屋",color:"gold",bold:true},{text:"Bäckerei"},{text:""}]}} strict
-setblock 149 65 112 minecraft:furnace[facing=east]{Items:[{Slot:1b,id:"minecraft:coal",count:16}]} strict
-setblock 149 65 113 minecraft:smoker[facing=east]{Items:[{Slot:1b,id:"minecraft:coal",count:16}]} strict
-setblock 173 65 172 minecraft:furnace[facing=east]{Items:[{Slot:1b,id:"minecraft:coal",count:16}]} strict
-setblock 173 65 174 minecraft:furnace[facing=east]{Items:[{Slot:1b,id:"minecraft:coal",count:16}]} strict
-setblock 173 65 176 minecraft:furnace[facing=east]{Items:[{Slot:1b,id:"minecraft:coal",count:16}]} strict
-setblock 185 65 172 minecraft:chest[facing=west]{} strict
-setblock 178 69 167 minecraft:oak_wall_sign[facing=north]{front_text:{messages:[{text:""},{text:"農場",color:"dark_green",bold:true},{text:"Bauernhof"},{text:""}]}} strict
 bossbar set rufu:build value 97
 schedule function rufu:build/p97 1t

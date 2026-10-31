@@ -280,7 +280,7 @@ def ending_steps():
         ("恋 ～結婚の試練～", "", "light_purple"),
         ("主演", {"selector": "@a[tag=rufu_hero]"}, "gold"),
         ("友人代表", {"selector": "@a[tag=rufu_helper]"}, "gold"),
-        ("ヒロイン", "ヒロイン", "light_purple"),
+        ("ヒロイン", {"selector": NB}, "light_purple"),
         ("元彼", "レオン", "aqua"),
         ("神父", "神父（ハァン……）", "gold"),
         ("キツネ", "キツネのみなさん", "gold"),
@@ -358,6 +358,7 @@ def ending_steps():
             "CustomNameVisible": True, "hide_description": True, "immovable": True, "Invulnerable": True, "Silent": True,
             "Rotation": [f_(0.0), f_(0.0)], "Tags": ["rufu_npc", "rufu_look", "rufu_clone", f"rufu_clone{i + 1}", "rufu_part_clones"],
             "equipment": OUTFITS["casual"]})]
+        tr[20] += [f"data modify entity @e[type=mannequin,tag=rufu_clone{i + 1},limit=1] CustomName set from entity {NB} CustomName"]
     tr[22] = [*[f"execute at @e[type=mannequin,tag=rufu_clone] run particle minecraft:heart ~ ~2 ~ 0.4 0.3 0.4 0 8 force"],
               *title("@a", T("3人ともヒロインに変身！", color="light_purple", bold=True), T("", color="white"), (0, 60, 10)),
               gsound("entity.allay.ambient_without_item", 1, 1.0)]

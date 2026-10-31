@@ -1,3 +1,1108 @@
+fill 28 63 50 36 63 50 minecraft:stone_bricks strict
+fill 28 63 205 39 63 205 minecraft:stone_bricks strict
+setblock 28 63 207 minecraft:stone_bricks strict
+fill 29 62 46 37 63 47 minecraft:stone_bricks strict
+fill 29 62 49 37 63 49 minecraft:stone_bricks strict
+fill 29 63 51 36 63 52 minecraft:stone_bricks strict
+fill 29 62 126 37 63 126 minecraft:stone_bricks strict
+fill 29 63 128 36 63 128 minecraft:stone_bricks strict
+fill 29 63 203 37 63 203 minecraft:stone_bricks strict
+fill 29 63 204 36 63 204 minecraft:stone_bricks strict
+fill 29 62 206 37 63 206 minecraft:stone_bricks strict
+fill 29 63 208 37 63 208 minecraft:stone_bricks strict
+fill 29 63 209 36 63 209 minecraft:stone_bricks strict
+fill 30 63 48 39 63 48 minecraft:stone_bricks strict
+fill 30 62 53 30 63 53 minecraft:stone_bricks strict
+fill 30 62 124 30 63 125 minecraft:stone_bricks strict
+fill 30 62 127 36 63 127 minecraft:stone_bricks strict
+fill 30 62 130 30 63 130 minecraft:stone_bricks strict
+fill 30 63 207 36 63 207 minecraft:stone_bricks strict
+fill 30 62 210 30 63 210 minecraft:stone_bricks strict
+fill 31 63 125 36 63 125 minecraft:stone_bricks strict
+fill 31 63 129 36 63 129 minecraft:stone_bricks strict
+fill 31 62 202 35 63 202 minecraft:stone_bricks strict
+fill 32 63 44 34 63 45 minecraft:stone_bricks strict
+fill 32 62 53 35 63 53 minecraft:stone_bricks strict
+fill 32 63 56 34 63 56 minecraft:stone_bricks strict
+setblock 32 63 58 minecraft:stone_bricks strict
+setblock 32 63 60 minecraft:stone_bricks strict
+setblock 32 63 62 minecraft:stone_bricks strict
+fill 32 63 65 34 63 65 minecraft:stone_bricks strict
+fill 32 63 67 34 63 67 minecraft:stone_bricks strict
+fill 32 62 69 32 63 69 minecraft:stone_bricks strict
+setblock 32 63 71 minecraft:stone_bricks strict
+setblock 32 63 73 minecraft:stone_bricks strict
+setblock 32 63 78 minecraft:stone_bricks strict
+fill 32 63 81 33 63 81 minecraft:stone_bricks strict
+fill 32 63 83 33 63 83 minecraft:stone_bricks strict
+fill 32 63 84 32 63 85 minecraft:stone_bricks strict
+fill 32 63 87 34 63 87 minecraft:stone_bricks strict
+fill 32 63 90 34 63 90 minecraft:stone_bricks strict
+fill 32 63 92 32 63 95 minecraft:stone_bricks strict
+fill 32 63 98 34 63 99 minecraft:stone_bricks strict
+fill 32 63 102 34 63 103 minecraft:stone_bricks strict
+fill 32 63 106 34 63 106 minecraft:stone_bricks strict
+fill 32 63 107 32 63 108 minecraft:stone_bricks strict
+fill 32 63 110 32 63 111 minecraft:stone_bricks strict
+fill 32 63 114 32 63 115 minecraft:stone_bricks strict
+fill 32 63 118 33 63 118 minecraft:stone_bricks strict
+fill 32 63 119 32 63 124 minecraft:stone_bricks strict
+fill 32 63 130 34 63 132 minecraft:stone_bricks strict
+fill 32 63 133 33 63 133 minecraft:stone_bricks strict
+fill 32 63 135 34 63 135 minecraft:stone_bricks strict
+fill 32 63 136 33 63 136 minecraft:stone_bricks strict
+fill 32 63 140 32 63 142 minecraft:stone_bricks strict
+fill 32 62 144 34 63 144 minecraft:stone_bricks strict
+fill 32 63 147 34 63 147 minecraft:stone_bricks strict
+fill 32 63 151 34 63 151 minecraft:stone_bricks strict
+fill 32 63 156 32 63 161 minecraft:stone_bricks strict
+fill 32 63 163 32 63 164 minecraft:stone_bricks strict
+fill 32 63 167 33 63 169 minecraft:stone_bricks strict
+fill 32 62 170 32 63 170 minecraft:stone_bricks strict
+fill 32 63 173 32 63 174 minecraft:stone_bricks strict
+fill 32 63 176 34 63 176 minecraft:stone_bricks strict
+fill 32 63 177 33 63 178 minecraft:stone_bricks strict
+fill 32 63 182 33 63 182 minecraft:stone_bricks strict
+fill 32 63 183 32 63 185 minecraft:stone_bricks strict
+fill 32 63 188 34 63 188 minecraft:stone_bricks strict
+fill 32 63 189 33 63 191 minecraft:stone_bricks strict
+fill 32 63 192 32 63 194 minecraft:stone_bricks strict
+fill 32 63 199 34 63 199 minecraft:stone_bricks strict
+fill 32 63 200 32 63 201 minecraft:stone_bricks strict
+fill 32 63 210 34 63 210 minecraft:stone_bricks strict
+fill 32 63 211 33 63 211 minecraft:stone_bricks strict
+setblock 33 63 55 minecraft:stone_bricks strict
+fill 33 63 59 34 63 59 minecraft:stone_bricks strict
+setblock 33 63 61 minecraft:stone_bricks strict
+fill 33 62 63 33 63 63 minecraft:stone_bricks strict
+fill 33 63 74 34 63 74 minecraft:stone_bricks strict
+setblock 33 63 75 minecraft:stone_bricks strict
+setblock 33 63 77 minecraft:stone_bricks strict
+setblock 33 63 86 minecraft:stone_bricks strict
+fill 33 63 88 34 63 89 minecraft:stone_bricks strict
+setblock 33 63 100 minecraft:stone_bricks strict
+fill 33 63 105 34 63 105 minecraft:stone_bricks strict
+fill 33 63 111 34 63 112 minecraft:stone_bricks strict
+setblock 33 63 113 minecraft:stone_bricks strict
+fill 33 63 116 34 63 116 minecraft:stone_bricks strict
+fill 33 63 120 34 63 124 minecraft:stone_bricks strict
+fill 33 63 134 34 63 134 minecraft:stone_bricks strict
+setblock 33 63 137 minecraft:stone_bricks strict
+setblock 33 63 139 minecraft:stone_bricks strict
+fill 33 63 143 34 63 143 minecraft:stone_bricks strict
+fill 33 63 145 34 63 146 minecraft:stone_bricks strict
+fill 33 63 153 34 63 153 minecraft:stone_bricks strict
+fill 33 63 157 34 63 157 minecraft:stone_bricks strict
+fill 33 63 159 34 63 159 minecraft:stone_bricks strict
+fill 33 63 161 34 63 162 minecraft:stone_bricks strict
+fill 33 63 165 33 63 166 minecraft:stone_bricks strict
+fill 33 63 171 33 63 172 minecraft:stone_bricks strict
+fill 33 63 175 34 63 175 minecraft:stone_bricks strict
+fill 33 63 179 34 63 180 minecraft:stone_bricks strict
+setblock 33 63 186 minecraft:stone_bricks strict
+fill 33 63 194 34 63 194 minecraft:stone_bricks strict
+fill 33 63 198 34 63 198 minecraft:stone_bricks strict
+fill 34 63 57 34 63 58 minecraft:stone_bricks strict
+setblock 34 63 64 minecraft:stone_bricks strict
+setblock 34 63 66 minecraft:stone_bricks strict
+fill 34 63 68 34 63 70 minecraft:stone_bricks strict
+setblock 34 63 76 minecraft:stone_bricks strict
+fill 34 63 79 34 63 80 minecraft:stone_bricks strict
+setblock 34 63 82 minecraft:stone_bricks strict
+fill 34 63 84 34 63 85 minecraft:stone_bricks strict
+setblock 34 63 91 minecraft:stone_bricks strict
+fill 34 63 96 34 63 97 minecraft:stone_bricks strict
+fill 34 62 101 34 63 101 minecraft:stone_bricks strict
+fill 34 63 107 34 63 110 minecraft:stone_bricks strict
+setblock 34 63 114 minecraft:stone_bricks strict
+setblock 34 63 117 minecraft:stone_bricks strict
+setblock 34 63 138 minecraft:stone_bricks strict
+fill 34 63 148 34 63 149 minecraft:stone_bricks strict
+setblock 34 63 152 minecraft:stone_bricks strict
+setblock 34 63 154 minecraft:stone_bricks strict
+setblock 34 63 156 minecraft:stone_bricks strict
+setblock 34 63 160 minecraft:stone_bricks strict
+setblock 34 63 164 minecraft:stone_bricks strict
+setblock 34 63 166 minecraft:stone_bricks strict
+setblock 34 63 168 minecraft:stone_bricks strict
+fill 34 63 173 34 63 174 minecraft:stone_bricks strict
+setblock 34 63 178 minecraft:stone_bricks strict
+setblock 34 63 181 minecraft:stone_bricks strict
+fill 34 63 183 34 63 184 minecraft:stone_bricks strict
+fill 34 63 191 34 63 192 minecraft:stone_bricks strict
+fill 36 62 124 36 63 124 minecraft:stone_bricks strict
+fill 36 62 130 36 63 130 minecraft:stone_bricks strict
+setblock 37 63 52 minecraft:stone_bricks strict
+setblock 38 63 50 minecraft:stone_bricks strict
+fill 39 62 49 39 63 49 minecraft:stone_bricks strict
+fill 39 63 206 39 63 207 minecraft:stone_bricks strict
+fill 41 63 49 47 63 49 minecraft:stone_bricks strict
+fill 41 63 205 43 63 205 minecraft:stone_bricks strict
+fill 42 63 50 45 63 50 minecraft:stone_bricks strict
+setblock 43 63 48 minecraft:stone_bricks strict
+fill 44 63 206 49 63 206 minecraft:stone_bricks strict
+fill 45 63 48 47 63 48 minecraft:stone_bricks strict
+fill 46 63 207 47 63 207 minecraft:stone_bricks strict
+fill 47 63 50 48 63 50 minecraft:stone_bricks strict
+fill 47 63 205 49 63 205 minecraft:stone_bricks strict
+fill 49 63 48 50 63 49 minecraft:stone_bricks strict
+fill 51 62 206 51 63 206 minecraft:stone_bricks strict
+fill 52 63 205 57 63 205 minecraft:stone_bricks strict
+fill 52 63 207 53 63 207 minecraft:stone_bricks strict
+fill 54 63 49 57 63 49 minecraft:stone_bricks strict
+fill 54 63 50 55 63 50 minecraft:stone_bricks strict
+fill 54 63 206 56 63 206 minecraft:stone_bricks strict
+fill 56 62 48 56 63 48 minecraft:stone_bricks strict
+setblock 57 63 50 minecraft:stone_bricks strict
+setblock 57 63 207 minecraft:stone_bricks strict
+fill 58 63 48 61 63 48 minecraft:stone_bricks strict
+setblock 59 63 50 minecraft:stone_bricks strict
+fill 59 63 206 61 63 206 minecraft:stone_bricks strict
+setblock 60 63 205 minecraft:stone_bricks strict
+fill 60 63 207 61 63 207 minecraft:stone_bricks strict
+fill 61 63 49 66 63 49 minecraft:stone_bricks strict
+fill 62 63 205 68 63 205 minecraft:stone_bricks strict
+fill 63 63 206 66 63 206 minecraft:stone_bricks strict
+fill 63 63 207 65 63 207 minecraft:stone_bricks strict
+fill 65 63 48 67 63 48 minecraft:stone_bricks strict
+fill 65 62 50 68 63 50 minecraft:stone_bricks strict
+fill 68 63 206 69 63 207 minecraft:stone_bricks strict
+fill 69 63 48 72 63 48 minecraft:stone_bricks strict
+setblock 69 63 49 minecraft:stone_bricks strict
+fill 70 63 50 71 63 50 minecraft:stone_bricks strict
+fill 70 63 205 81 63 205 minecraft:stone_bricks strict
+setblock 70 63 207 minecraft:stone_bricks strict
+setblock 71 63 49 minecraft:stone_bricks strict
+fill 72 63 206 73 63 206 minecraft:stone_bricks strict
+fill 73 63 49 73 63 50 minecraft:stone_bricks strict
+fill 73 63 207 74 63 207 minecraft:stone_bricks strict
+setblock 74 63 50 minecraft:stone_bricks strict
+fill 77 63 48 77 63 50 minecraft:stone_bricks strict
+fill 78 63 207 79 63 207 minecraft:stone_bricks strict
+fill 79 63 50 80 63 50 minecraft:stone_bricks strict
+fill 80 63 48 80 63 49 minecraft:stone_bricks strict
+fill 81 63 207 89 63 207 minecraft:stone_bricks strict
+setblock 82 63 50 minecraft:stone_bricks strict
+fill 82 63 206 84 63 206 minecraft:stone_bricks strict
+fill 83 63 48 83 63 49 minecraft:stone_bricks strict
+fill 83 63 205 85 63 205 minecraft:stone_bricks strict
+fill 84 63 49 87 63 49 minecraft:stone_bricks strict
+fill 84 62 50 84 63 50 minecraft:stone_bricks strict
+setblock 85 63 48 minecraft:stone_bricks strict
+fill 86 63 50 87 63 50 minecraft:stone_bricks strict
+fill 86 63 206 87 63 206 minecraft:stone_bricks strict
+fill 88 63 48 89 63 48 minecraft:stone_bricks strict
+fill 88 63 205 90 63 205 minecraft:stone_bricks strict
+fill 89 63 49 89 63 50 minecraft:stone_bricks strict
+setblock 89 63 206 minecraft:stone_bricks strict
+fill 90 63 50 92 63 50 minecraft:stone_bricks strict
+fill 91 63 48 92 63 48 minecraft:stone_bricks strict
+fill 91 63 206 92 63 206 minecraft:stone_bricks strict
+setblock 92 63 49 minecraft:stone_bricks strict
+setblock 92 63 205 minecraft:stone_bricks strict
+fill 92 63 207 94 63 207 minecraft:stone_bricks strict
+fill 94 63 48 95 63 48 minecraft:stone_bricks strict
+fill 94 63 205 94 63 206 minecraft:stone_bricks strict
+fill 95 63 49 97 63 49 minecraft:stone_bricks strict
+setblock 95 63 206 minecraft:stone_bricks strict
+fill 96 63 50 97 63 50 minecraft:stone_bricks strict
+fill 96 63 205 99 63 205 minecraft:stone_bricks strict
+fill 96 63 207 98 63 207 minecraft:stone_bricks strict
+fill 97 62 48 98 63 48 minecraft:stone_bricks strict
+fill 99 62 50 99 63 50 minecraft:stone_bricks strict
+setblock 99 63 206 minecraft:stone_bricks strict
+fill 100 63 48 102 63 48 minecraft:stone_bricks strict
+setblock 100 63 49 minecraft:stone_bricks strict
+fill 100 63 207 102 63 207 minecraft:stone_bricks strict
+setblock 101 63 50 minecraft:stone_bricks strict
+fill 101 63 205 101 63 206 minecraft:stone_bricks strict
+fill 102 63 49 107 63 49 minecraft:stone_bricks strict
+fill 102 63 206 103 63 206 minecraft:stone_bricks strict
+fill 103 63 205 104 63 205 minecraft:stone_bricks strict
+fill 104 63 48 105 63 48 minecraft:stone_bricks strict
+fill 104 63 50 105 63 50 minecraft:stone_bricks strict
+fill 104 63 207 105 63 207 minecraft:stone_bricks strict
+setblock 105 63 206 minecraft:stone_bricks strict
+setblock 106 63 205 minecraft:stone_bricks strict
+fill 107 63 48 111 63 48 minecraft:stone_bricks strict
+fill 107 63 50 114 63 50 minecraft:stone_bricks strict
+fill 107 63 206 107 63 207 minecraft:stone_bricks strict
+setblock 108 63 205 minecraft:stone_bricks strict
+setblock 109 63 206 minecraft:stone_bricks strict
+fill 110 63 205 111 63 205 minecraft:stone_bricks strict
+fill 111 63 49 112 63 49 minecraft:stone_bricks strict
+fill 111 63 206 114 63 206 minecraft:stone_bricks strict
+setblock 111 63 207 minecraft:stone_bricks strict
+fill 113 63 48 117 63 48 minecraft:stone_bricks strict
+fill 113 63 205 117 63 205 minecraft:stone_bricks strict
+setblock 113 63 207 minecraft:stone_bricks strict
+setblock 114 63 49 minecraft:stone_bricks strict
+fill 117 63 49 122 63 49 minecraft:stone_bricks strict
+setblock 117 63 206 minecraft:stone_bricks strict
+fill 118 63 207 126 63 207 minecraft:stone_bricks strict
+fill 119 63 203 122 63 204 minecraft:stone_bricks strict
+fill 119 63 206 123 63 206 minecraft:stone_bricks strict
+fill 119 63 208 121 63 208 minecraft:stone_bricks strict
+fill 120 63 48 134 63 48 minecraft:stone_bricks strict
+fill 120 63 50 132 63 50 minecraft:stone_bricks strict
+fill 120 63 205 126 63 205 minecraft:stone_bricks strict
+fill 120 63 209 125 63 209 minecraft:stone_bricks strict
+setblock 123 63 204 minecraft:stone_bricks strict
+fill 123 63 208 125 63 208 minecraft:stone_bricks strict
+fill 124 62 46 124 63 47 minecraft:stone_bricks strict
+fill 124 63 49 129 63 49 minecraft:stone_bricks strict
+fill 124 61 51 130 63 51 minecraft:stone_bricks strict
+fill 124 62 52 124 63 52 minecraft:stone_bricks strict
+fill 124 63 203 125 63 203 minecraft:stone_bricks strict
+fill 125 63 47 130 63 47 minecraft:stone_bricks strict
+setblock 125 63 204 minecraft:stone_bricks strict
+fill 125 63 206 129 63 206 minecraft:stone_bricks strict
+fill 126 63 45 128 63 46 minecraft:stone_bricks strict
+fill 126 63 52 128 63 53 minecraft:stone_bricks strict
+fill 128 63 207 129 63 207 minecraft:stone_bricks strict
+fill 130 62 46 130 63 46 minecraft:stone_bricks strict
+fill 130 62 52 130 63 52 minecraft:stone_bricks strict
+fill 130 63 205 137 63 205 minecraft:stone_bricks strict
+fill 131 63 203 137 63 203 minecraft:stone_bricks strict
+setblock 131 63 204 minecraft:stone_bricks strict
+fill 131 63 206 142 63 206 minecraft:stone_bricks strict
+fill 131 63 209 137 63 209 minecraft:stone_bricks strict
+fill 132 63 207 132 63 208 minecraft:stone_bricks strict
+fill 133 63 204 137 63 204 minecraft:stone_bricks strict
+setblock 134 63 50 minecraft:stone_bricks strict
+fill 134 63 207 137 63 207 minecraft:stone_bricks strict
+fill 134 63 208 136 63 208 minecraft:stone_bricks strict
+fill 137 63 48 139 63 49 minecraft:stone_bricks strict
+fill 137 63 50 138 63 50 minecraft:stone_bricks strict
+setblock 140 63 50 minecraft:stone_bricks strict
+fill 140 63 205 142 63 205 minecraft:stone_bricks strict
+setblock 140 63 207 minecraft:stone_bricks strict
+setblock 141 63 49 minecraft:stone_bricks strict
+setblock 142 63 48 minecraft:stone_bricks strict
+fill 143 63 49 144 63 50 minecraft:stone_bricks strict
+setblock 143 63 207 minecraft:stone_bricks strict
+fill 144 63 48 145 63 48 minecraft:stone_bricks strict
+setblock 144 63 205 minecraft:stone_bricks strict
+fill 145 63 207 146 63 207 minecraft:stone_bricks strict
+fill 146 63 49 146 63 50 minecraft:stone_bricks strict
+fill 147 63 48 150 63 48 minecraft:stone_bricks strict
+setblock 147 63 205 minecraft:stone_bricks strict
+fill 148 63 49 149 63 49 minecraft:stone_bricks strict
+fill 148 63 206 149 63 206 minecraft:stone_bricks strict
+setblock 149 63 50 minecraft:stone_bricks strict
+fill 149 63 205 150 63 205 minecraft:stone_bricks strict
+setblock 149 63 207 minecraft:stone_bricks strict
+fill 151 63 50 153 63 50 minecraft:stone_bricks strict
+setblock 151 63 206 minecraft:stone_bricks strict
+fill 152 63 48 152 63 49 minecraft:stone_bricks strict
+fill 152 63 205 155 63 205 minecraft:stone_bricks strict
+setblock 153 63 49 minecraft:stone_bricks strict
+setblock 153 63 207 minecraft:stone_bricks strict
+setblock 154 63 206 minecraft:stone_bricks strict
+fill 155 63 48 155 63 50 minecraft:stone_bricks strict
+fill 155 63 207 157 63 207 minecraft:stone_bricks strict
+fill 156 63 50 157 63 50 minecraft:stone_bricks strict
+fill 157 62 48 158 63 49 minecraft:stone_bricks strict
+fill 157 63 206 161 63 206 minecraft:stone_bricks strict
+fill 159 63 49 159 63 50 minecraft:stone_bricks strict
+fill 159 63 207 161 63 207 minecraft:stone_bricks strict
+setblock 160 63 205 minecraft:stone_bricks strict
+fill 161 63 48 161 63 49 minecraft:stone_bricks strict
+fill 162 62 50 164 63 50 minecraft:stone_bricks strict
+fill 163 63 205 163 63 206 minecraft:stone_bricks strict
+fill 164 63 48 167 63 48 minecraft:stone_bricks strict
+fill 164 63 206 165 63 207 minecraft:stone_bricks strict
+fill 165 63 49 172 63 49 minecraft:stone_bricks strict
+fill 165 63 205 166 63 205 minecraft:stone_bricks strict
+fill 166 63 50 167 63 50 minecraft:stone_bricks strict
+fill 166 62 207 166 63 207 minecraft:stone_bricks strict
+setblock 167 63 206 minecraft:stone_bricks strict
+fill 168 62 205 170 63 205 minecraft:stone_bricks strict
+fill 169 63 48 172 63 48 minecraft:stone_bricks strict
+fill 169 62 50 170 63 50 minecraft:stone_bricks strict
+fill 169 63 206 169 63 207 minecraft:stone_bricks strict
+fill 170 63 207 171 63 207 minecraft:stone_bricks strict
+setblock 171 63 206 minecraft:stone_bricks strict
+setblock 172 63 50 minecraft:stone_bricks strict
+fill 173 63 205 174 63 206 minecraft:stone_bricks strict
+fill 174 63 48 176 63 49 minecraft:stone_bricks strict
+fill 175 63 206 175 63 207 minecraft:stone_bricks strict
+fill 176 63 205 178 63 205 minecraft:stone_bricks strict
+fill 177 63 49 177 63 50 minecraft:stone_bricks strict
+fill 177 63 206 178 63 206 minecraft:stone_bricks strict
+fill 179 63 48 182 63 50 minecraft:stone_bricks strict
+fill 180 63 205 184 63 205 minecraft:stone_bricks strict
+fill 180 63 206 180 63 207 minecraft:stone_bricks strict
+setblock 183 63 50 minecraft:stone_bricks strict
+fill 184 63 48 186 63 48 minecraft:stone_bricks strict
+fill 185 63 49 188 63 49 minecraft:stone_bricks strict
+setblock 186 63 50 minecraft:stone_bricks strict
+fill 186 63 205 191 63 205 minecraft:stone_bricks strict
+setblock 188 63 48 minecraft:stone_bricks strict
+fill 188 63 50 193 63 50 minecraft:stone_bricks strict
+fill 188 63 206 189 63 206 minecraft:stone_bricks strict
+fill 189 63 207 197 63 207 minecraft:stone_bricks strict
+fill 191 63 48 195 63 48 minecraft:stone_bricks strict
+fill 191 63 49 192 63 49 minecraft:stone_bricks strict
+fill 191 63 206 194 63 206 minecraft:stone_bricks strict
+fill 194 63 49 197 63 49 minecraft:stone_bricks strict
+setblock 196 63 50 minecraft:stone_bricks strict
+fill 196 63 205 201 63 205 minecraft:stone_bricks strict
+fill 196 63 206 197 63 206 minecraft:stone_bricks strict
+fill 198 63 48 201 63 48 minecraft:stone_bricks strict
+fill 198 63 50 202 63 50 minecraft:stone_bricks strict
+fill 199 63 49 200 63 49 minecraft:stone_bricks strict
+fill 199 63 206 199 63 207 minecraft:stone_bricks strict
+fill 201 63 207 203 63 207 minecraft:stone_bricks strict
+fill 202 63 49 203 63 49 minecraft:stone_bricks strict
+setblock 202 63 206 minecraft:stone_bricks strict
+setblock 204 63 48 minecraft:stone_bricks strict
+fill 204 63 50 207 63 50 minecraft:stone_bricks strict
+fill 204 63 205 209 63 205 minecraft:stone_bricks strict
+fill 204 63 206 206 63 206 minecraft:stone_bricks strict
+fill 205 63 207 206 63 207 minecraft:stone_bricks strict
+setblock 206 63 48 minecraft:stone_bricks strict
+setblock 207 63 49 minecraft:stone_bricks strict
+fill 208 63 206 211 63 206 minecraft:stone_bricks strict
+fill 208 63 207 209 63 207 minecraft:stone_bricks strict
+fill 209 63 48 210 63 48 minecraft:stone_bricks strict
+setblock 209 63 49 minecraft:stone_bricks strict
+setblock 211 63 207 minecraft:stone_bricks strict
+fill 212 63 48 213 63 48 minecraft:stone_bricks strict
+fill 212 63 50 213 63 50 minecraft:stone_bricks strict
+setblock 212 63 205 minecraft:stone_bricks strict
+fill 213 63 49 214 63 49 minecraft:stone_bricks strict
+fill 213 63 206 213 63 207 minecraft:stone_bricks strict
+setblock 215 63 48 minecraft:stone_bricks strict
+setblock 215 63 50 minecraft:stone_bricks strict
+fill 215 63 206 216 63 206 minecraft:stone_bricks strict
+setblock 216 63 49 minecraft:stone_bricks strict
+fill 216 62 205 227 63 205 minecraft:stone_bricks strict
+fill 216 63 207 226 63 207 minecraft:stone_bricks strict
+fill 217 63 48 227 63 48 minecraft:stone_bricks strict
+fill 217 63 50 225 63 50 minecraft:stone_bricks strict
+fill 218 62 49 226 63 49 minecraft:stone_bricks strict
+fill 218 62 126 226 63 126 minecraft:stone_bricks strict
+fill 218 63 128 226 63 128 minecraft:stone_bricks strict
+fill 218 60 203 226 63 204 minecraft:stone_bricks strict
+fill 218 63 206 226 63 206 minecraft:stone_bricks strict
+fill 219 62 124 219 63 125 minecraft:stone_bricks strict
+fill 219 63 127 225 63 127 minecraft:stone_bricks strict
+fill 219 63 129 225 63 129 minecraft:stone_bricks strict
+fill 219 62 130 219 63 130 minecraft:stone_bricks strict
+fill 219 62 210 219 63 210 minecraft:stone_bricks strict
+fill 220 63 45 224 63 45 minecraft:stone_bricks strict
+fill 220 62 125 225 63 125 minecraft:stone_bricks strict
+fill 220 63 202 221 63 202 minecraft:stone_bricks strict
+fill 221 59 44 223 63 44 minecraft:stone_bricks strict
+fill 221 63 53 224 63 53 minecraft:stone_bricks strict
+fill 221 60 54 223 63 54 minecraft:stone_bricks strict
+setblock 221 63 56 minecraft:stone_bricks strict
+fill 221 63 59 222 63 60 minecraft:stone_bricks strict
+fill 221 62 61 221 63 62 minecraft:stone_bricks strict
+fill 221 63 64 223 63 64 minecraft:stone_bricks strict
+fill 221 63 65 222 63 65 minecraft:stone_bricks strict
+fill 221 63 67 222 63 67 minecraft:stone_bricks strict
+fill 221 63 70 223 63 71 minecraft:stone_bricks strict
+setblock 221 63 75 minecraft:stone_bricks strict
+fill 221 63 77 221 63 84 minecraft:stone_bricks strict
+setblock 221 63 87 minecraft:stone_bricks strict
+fill 221 63 93 222 63 93 minecraft:stone_bricks strict
+fill 221 63 96 221 63 100 minecraft:stone_bricks strict
+fill 221 63 103 223 63 103 minecraft:stone_bricks strict
+fill 221 63 104 222 63 105 minecraft:stone_bricks strict
+fill 221 63 106 221 63 108 minecraft:stone_bricks strict
+fill 221 63 110 221 63 115 minecraft:stone_bricks strict
+fill 221 63 118 223 63 118 minecraft:stone_bricks strict
+fill 221 63 119 221 63 124 minecraft:stone_bricks strict
+fill 221 63 130 223 63 130 minecraft:stone_bricks strict
+fill 221 63 131 222 63 131 minecraft:stone_bricks strict
+setblock 221 63 132 minecraft:stone_bricks strict
+fill 221 63 134 223 63 134 minecraft:stone_bricks strict
+fill 221 63 136 221 63 137 minecraft:stone_bricks strict
+fill 221 63 139 223 63 139 minecraft:stone_bricks strict
+setblock 221 63 142 minecraft:stone_bricks strict
+fill 221 63 144 221 63 147 minecraft:stone_bricks strict
+setblock 221 63 149 minecraft:stone_bricks strict
+setblock 221 63 155 minecraft:stone_bricks strict
+fill 221 63 157 222 63 158 minecraft:stone_bricks strict
+fill 221 63 160 223 63 160 minecraft:stone_bricks strict
+fill 221 63 161 221 63 164 minecraft:stone_bricks strict
+fill 221 63 166 223 63 167 minecraft:stone_bricks strict
+fill 221 63 169 223 63 169 minecraft:stone_bricks strict
+fill 221 63 170 222 63 170 minecraft:stone_bricks strict
+setblock 221 63 172 minecraft:stone_bricks strict
+fill 221 63 174 222 63 176 minecraft:stone_bricks strict
+fill 221 63 177 221 63 178 minecraft:stone_bricks strict
+fill 221 63 181 222 63 181 minecraft:stone_bricks strict
+fill 221 63 183 222 63 184 minecraft:stone_bricks strict
+fill 221 63 186 221 63 192 minecraft:stone_bricks strict
+fill 221 63 194 221 63 196 minecraft:stone_bricks strict
+fill 221 63 199 222 63 199 minecraft:stone_bricks strict
+fill 221 63 201 223 63 201 minecraft:stone_bricks strict
+fill 221 63 210 222 63 211 minecraft:stone_bricks strict
+fill 222 63 57 222 63 58 minecraft:stone_bricks strict
+fill 222 63 62 223 63 62 minecraft:stone_bricks strict
+setblock 222 63 63 minecraft:stone_bricks strict
+setblock 222 63 66 minecraft:stone_bricks strict
+fill 222 63 69 223 63 69 minecraft:stone_bricks strict
+fill 222 63 73 223 63 74 minecraft:stone_bricks strict
+setblock 222 63 76 minecraft:stone_bricks strict
+fill 222 63 79 223 63 79 minecraft:stone_bricks strict
+fill 222 63 83 223 63 83 minecraft:stone_bricks strict
+fill 222 63 84 222 63 85 minecraft:stone_bricks strict
+fill 222 63 88 222 63 89 minecraft:stone_bricks strict
+fill 222 62 95 223 63 95 minecraft:stone_bricks strict
+fill 222 63 97 223 63 97 minecraft:stone_bricks strict
+setblock 222 63 98 minecraft:stone_bricks strict
+fill 222 63 100 222 63 102 minecraft:stone_bricks strict
+setblock 222 63 108 minecraft:stone_bricks strict
+fill 222 63 111 222 63 117 minecraft:stone_bricks strict
+fill 222 63 121 223 63 121 minecraft:stone_bricks strict
+fill 222 63 122 222 63 124 minecraft:stone_bricks strict
+setblock 222 63 133 minecraft:stone_bricks strict
+setblock 222 63 137 minecraft:stone_bricks strict
+setblock 222 63 140 minecraft:stone_bricks strict
+fill 222 63 143 223 63 143 minecraft:stone_bricks strict
+fill 222 63 145 222 63 148 minecraft:stone_bricks strict
+fill 222 63 151 223 63 152 minecraft:stone_bricks strict
+fill 222 63 153 222 63 154 minecraft:stone_bricks strict
+fill 222 63 159 223 63 159 minecraft:stone_bricks strict
+fill 222 63 163 223 63 163 minecraft:stone_bricks strict
+fill 222 63 168 223 63 168 minecraft:stone_bricks strict
+fill 222 63 171 223 63 171 minecraft:stone_bricks strict
+fill 222 63 178 223 63 179 minecraft:stone_bricks strict
+setblock 222 63 180 minecraft:stone_bricks strict
+fill 222 63 185 223 63 185 minecraft:stone_bricks strict
+fill 222 63 188 223 63 188 minecraft:stone_bricks strict
+fill 222 63 190 223 63 190 minecraft:stone_bricks strict
+fill 222 62 196 222 63 197 minecraft:stone_bricks strict
+fill 222 63 200 223 63 200 minecraft:stone_bricks strict
+fill 223 63 55 223 63 56 minecraft:stone_bricks strict
+setblock 223 63 58 minecraft:stone_bricks strict
+fill 223 63 60 223 63 61 minecraft:stone_bricks strict
+setblock 223 63 72 minecraft:stone_bricks strict
+fill 223 63 77 223 63 78 minecraft:stone_bricks strict
+fill 223 63 89 223 63 92 minecraft:stone_bricks strict
+setblock 223 63 96 minecraft:stone_bricks strict
+setblock 223 63 99 minecraft:stone_bricks strict
+fill 223 63 105 223 63 107 minecraft:stone_bricks strict
+setblock 223 63 110 minecraft:stone_bricks strict
+fill 223 63 115 223 63 117 minecraft:stone_bricks strict
+setblock 223 63 120 minecraft:stone_bricks strict
+fill 223 63 123 223 63 124 minecraft:stone_bricks strict
+setblock 223 63 135 minecraft:stone_bricks strict
+fill 223 63 141 223 63 142 minecraft:stone_bricks strict
+setblock 223 63 146 minecraft:stone_bricks strict
+fill 223 63 148 223 63 150 minecraft:stone_bricks strict
+fill 223 63 154 223 63 156 minecraft:stone_bricks strict
+setblock 223 63 158 minecraft:stone_bricks strict
+fill 223 63 161 223 63 162 minecraft:stone_bricks strict
+fill 223 63 164 223 63 165 minecraft:stone_bricks strict
+setblock 223 63 172 minecraft:stone_bricks strict
+setblock 223 63 175 minecraft:stone_bricks strict
+setblock 223 63 177 minecraft:stone_bricks strict
+setblock 223 63 187 minecraft:stone_bricks strict
+setblock 223 63 191 minecraft:stone_bricks strict
+setblock 223 63 193 minecraft:stone_bricks strict
+fill 223 61 197 223 63 198 minecraft:stone_bricks strict
+fill 223 63 202 224 63 202 minecraft:stone_bricks strict
+setblock 223 63 211 minecraft:stone_bricks strict
+setblock 224 63 210 minecraft:stone_bricks strict
+fill 225 61 124 225 63 124 minecraft:stone_bricks strict
+setblock 227 63 50 minecraft:stone_bricks strict
+fill 231 59 41 231 63 214 minecraft:stone_bricks strict
+fill 28 64 48 39 64 48 minecraft:stone_bricks strict
+fill 28 64 49 38 64 49 minecraft:stone_bricks strict
+setblock 28 64 50 minecraft:stone_bricks strict
+fill 28 64 205 38 64 205 minecraft:stone_bricks strict
+fill 28 64 206 36 64 206 minecraft:stone_bricks strict
+fill 29 64 47 37 64 47 minecraft:stone_bricks strict
+fill 29 64 51 34 64 52 minecraft:stone_bricks strict
+fill 29 64 126 34 64 128 minecraft:stone_bricks strict
+fill 29 64 203 36 64 203 minecraft:stone_bricks strict
+fill 29 64 204 34 64 204 minecraft:stone_bricks strict
+fill 29 64 207 38 64 207 minecraft:stone_bricks strict
+fill 29 64 208 37 64 209 minecraft:stone_bricks strict
+fill 30 64 45 32 64 45 minecraft:stone_bricks strict
+fill 30 64 50 38 64 50 minecraft:stone_bricks strict
+fill 30 64 53 34 64 53 minecraft:stone_bricks strict
+fill 30 64 124 34 64 125 minecraft:stone_bricks strict
+fill 30 64 129 34 64 130 minecraft:stone_bricks strict
+fill 31 64 46 35 64 46 minecraft:stone_bricks strict
+fill 31 64 202 34 64 202 minecraft:stone_bricks strict
+setblock 31 64 210 minecraft:stone_bricks strict
+fill 32 63 54 33 64 54 minecraft:stone_bricks strict
+fill 32 64 56 32 64 60 minecraft:stone_bricks strict
+fill 32 64 62 32 64 64 minecraft:stone_bricks strict
+fill 32 64 66 34 64 66 minecraft:stone_bricks strict
+fill 32 64 74 34 64 74 minecraft:stone_bricks strict
+fill 32 64 79 33 64 79 minecraft:stone_bricks strict
+fill 32 64 80 32 64 84 minecraft:stone_bricks strict
+fill 32 64 86 33 64 87 minecraft:stone_bricks strict
+fill 32 64 89 33 64 89 minecraft:stone_bricks strict
+setblock 32 64 91 minecraft:stone_bricks strict
+setblock 32 64 94 minecraft:stone_bricks strict
+setblock 32 64 96 minecraft:stone_bricks strict
+fill 32 64 99 32 64 100 minecraft:stone_bricks strict
+fill 32 64 102 33 64 102 minecraft:stone_bricks strict
+fill 32 64 104 32 64 107 minecraft:stone_bricks strict
+fill 32 64 110 32 64 112 minecraft:stone_bricks strict
+fill 32 64 114 34 64 114 minecraft:stone_bricks strict
+fill 32 64 116 32 64 117 minecraft:stone_bricks strict
+fill 32 64 119 33 64 121 minecraft:stone_bricks strict
+fill 32 64 123 34 64 123 minecraft:stone_bricks strict
+fill 32 64 131 32 64 132 minecraft:stone_bricks strict
+fill 32 64 134 33 64 134 minecraft:stone_bricks strict
+fill 32 64 138 34 64 139 minecraft:stone_bricks strict
+setblock 32 64 140 minecraft:stone_bricks strict
+fill 32 64 143 34 64 143 minecraft:stone_bricks strict
+fill 32 64 148 32 64 151 minecraft:stone_bricks strict
+fill 32 64 153 33 64 153 minecraft:stone_bricks strict
+fill 32 64 155 34 64 155 minecraft:stone_bricks strict
+fill 32 64 157 34 64 157 minecraft:stone_bricks strict
+fill 32 64 158 32 64 160 minecraft:stone_bricks strict
+fill 32 64 162 42 64 162 minecraft:stone_bricks strict
+fill 32 64 163 32 64 167 minecraft:stone_bricks strict
+fill 32 64 171 35 64 171 minecraft:stone_bricks strict
+setblock 32 64 172 minecraft:stone_bricks strict
+fill 32 64 175 32 64 176 minecraft:stone_bricks strict
+fill 32 64 179 34 64 179 minecraft:stone_bricks strict
+setblock 32 64 180 minecraft:stone_bricks strict
+fill 32 64 184 34 64 184 minecraft:stone_bricks strict
+fill 32 64 185 33 64 185 minecraft:stone_bricks strict
+fill 32 64 189 34 64 189 minecraft:stone_bricks strict
+fill 32 64 191 33 64 194 minecraft:stone_bricks strict
+fill 32 64 196 32 64 201 minecraft:stone_bricks strict
+fill 33 64 55 34 64 55 minecraft:stone_bricks strict
+fill 33 64 61 34 64 61 minecraft:stone_bricks strict
+fill 33 64 63 33 64 65 minecraft:stone_bricks strict
+fill 33 64 67 33 64 69 minecraft:stone_bricks strict
+fill 33 64 71 34 64 71 minecraft:stone_bricks strict
+fill 33 64 75 34 64 75 minecraft:stone_bricks strict
+setblock 33 64 82 minecraft:stone_bricks strict
+setblock 33 64 90 minecraft:stone_bricks strict
+fill 33 63 95 34 64 95 minecraft:stone_bricks strict
+fill 33 64 97 34 64 98 minecraft:stone_bricks strict
+fill 33 64 101 34 64 101 minecraft:stone_bricks strict
+fill 33 64 107 33 64 108 minecraft:stone_bricks strict
+fill 33 64 111 33 64 113 minecraft:stone_bricks strict
+fill 33 64 117 37 64 117 minecraft:stone_bricks strict
+fill 33 64 118 34 64 118 minecraft:stone_bricks strict
+fill 33 64 122 36 64 122 minecraft:stone_bricks strict
+fill 33 64 132 34 64 132 minecraft:stone_bricks strict
+setblock 33 64 133 minecraft:stone_bricks strict
+fill 33 64 136 34 64 137 minecraft:stone_bricks strict
+fill 33 64 141 34 64 141 minecraft:stone_bricks strict
+fill 33 64 144 33 64 145 minecraft:stone_bricks strict
+fill 33 64 149 35 64 149 minecraft:stone_bricks strict
+fill 33 64 154 34 64 154 minecraft:stone_bricks strict
+setblock 33 64 156 minecraft:stone_bricks strict
+setblock 33 64 166 minecraft:stone_bricks strict
+fill 33 64 170 35 64 170 minecraft:stone_bricks strict
+fill 33 64 173 42 64 173 minecraft:stone_bricks strict
+fill 33 64 174 34 64 174 minecraft:stone_bricks strict
+fill 33 64 186 34 64 186 minecraft:stone_bricks strict
+setblock 33 64 188 minecraft:stone_bricks strict
+fill 33 63 201 34 64 201 minecraft:stone_bricks strict
+setblock 33 64 210 minecraft:stone_bricks strict
+fill 34 64 45 36 64 45 minecraft:stone_bricks strict
+setblock 34 64 56 minecraft:stone_bricks strict
+setblock 34 64 58 minecraft:stone_bricks strict
+fill 34 64 64 34 64 65 minecraft:stone_bricks strict
+fill 34 64 69 34 64 70 minecraft:stone_bricks strict
+fill 34 63 72 34 64 73 minecraft:stone_bricks strict
+fill 34 64 76 34 64 78 minecraft:stone_bricks strict
+setblock 34 64 85 minecraft:stone_bricks strict
+setblock 34 64 88 minecraft:stone_bricks strict
+setblock 34 64 94 minecraft:stone_bricks strict
+fill 34 64 99 34 64 100 minecraft:stone_bricks strict
+setblock 34 64 103 minecraft:stone_bricks strict
+setblock 34 64 105 minecraft:stone_bricks strict
+fill 34 64 108 34 64 110 minecraft:stone_bricks strict
+setblock 34 64 112 minecraft:stone_bricks strict
+fill 34 64 115 34 64 116 minecraft:stone_bricks strict
+setblock 34 64 120 minecraft:stone_bricks strict
+setblock 34 64 131 minecraft:stone_bricks strict
+fill 34 63 140 34 64 140 minecraft:stone_bricks strict
+fill 34 63 142 34 64 142 minecraft:stone_bricks strict
+fill 34 63 158 34 64 158 minecraft:stone_bricks strict
+setblock 34 64 161 minecraft:stone_bricks strict
+fill 34 64 163 35 64 164 minecraft:stone_bricks strict
+fill 34 64 167 35 64 169 minecraft:stone_bricks strict
+fill 34 64 175 34 64 178 minecraft:stone_bricks strict
+setblock 34 64 182 minecraft:stone_bricks strict
+setblock 34 64 187 minecraft:stone_bricks strict
+fill 34 64 193 34 64 194 minecraft:stone_bricks strict
+fill 34 63 197 34 64 197 minecraft:stone_bricks strict
+fill 34 64 199 34 64 200 minecraft:stone_bricks strict
+setblock 35 64 119 minecraft:stone_bricks strict
+setblock 35 64 121 minecraft:stone_bricks strict
+fill 35 64 145 48 64 145 minecraft:stone_bricks strict
+setblock 35 64 148 minecraft:stone_bricks strict
+fill 35 64 150 35 64 151 minecraft:stone_bricks strict
+fill 35 64 165 35 64 166 minecraft:stone_bricks strict
+fill 35 64 198 36 64 198 minecraft:stone_bricks strict
+setblock 36 64 120 minecraft:stone_bricks strict
+fill 36 64 123 45 64 123 minecraft:stone_bricks strict
+setblock 36 64 125 minecraft:stone_bricks strict
+fill 36 64 151 48 64 151 minecraft:stone_bricks strict
+fill 36 64 197 37 64 197 minecraft:stone_bricks strict
+fill 36 64 199 38 64 200 minecraft:stone_bricks strict
+setblock 36 64 210 minecraft:stone_bricks strict
+setblock 37 64 46 minecraft:stone_bricks strict
+fill 37 64 118 39 64 118 minecraft:stone_bricks strict
+setblock 37 64 124 minecraft:stone_bricks strict
+setblock 37 64 201 minecraft:stone_bricks strict
+fill 38 64 121 38 64 122 minecraft:stone_bricks strict
+fill 38 64 125 40 64 125 minecraft:stone_bricks strict
+setblock 38 64 161 minecraft:stone_bricks strict
+setblock 38 64 204 minecraft:stone_bricks strict
+setblock 39 64 119 minecraft:stone_bricks strict
+fill 39 64 197 40 64 197 minecraft:stone_bricks strict
+setblock 39 64 198 minecraft:stone_bricks strict
+setblock 39 64 200 minecraft:stone_bricks strict
+setblock 39 64 203 minecraft:stone_bricks strict
+fill 40 64 49 40 64 50 minecraft:stone_bricks strict
+fill 40 64 121 40 64 122 minecraft:stone_bricks strict
+fill 40 64 124 41 64 124 minecraft:stone_bricks strict
+fill 40 64 205 40 64 207 minecraft:stone_bricks strict
+fill 41 64 50 43 64 50 minecraft:stone_bricks strict
+fill 41 64 119 43 64 119 minecraft:stone_bricks strict
+fill 41 64 120 42 64 120 minecraft:stone_bricks strict
+fill 41 64 201 42 64 201 minecraft:stone_bricks strict
+fill 41 64 203 43 64 203 minecraft:stone_bricks strict
+fill 41 63 206 41 64 207 minecraft:stone_bricks strict
+setblock 42 64 49 minecraft:stone_bricks strict
+fill 42 64 121 43 64 122 minecraft:stone_bricks strict
+setblock 42 64 125 minecraft:stone_bricks strict
+setblock 42 64 197 minecraft:stone_bricks strict
+fill 42 64 199 43 64 199 minecraft:stone_bricks strict
+setblock 42 64 200 minecraft:stone_bricks strict
+fill 42 64 205 43 64 205 minecraft:stone_bricks strict
+setblock 42 64 207 minecraft:stone_bricks strict
+setblock 43 64 118 minecraft:stone_bricks strict
+fill 43 64 198 44 64 198 minecraft:stone_bricks strict
+setblock 43 64 204 minecraft:stone_bricks strict
+fill 43 64 206 45 64 206 minecraft:stone_bricks strict
+fill 44 64 48 47 64 48 minecraft:stone_bricks strict
+setblock 44 64 49 minecraft:stone_bricks strict
+setblock 44 64 117 minecraft:stone_bricks strict
+fill 44 64 122 45 64 122 minecraft:stone_bricks strict
+fill 44 64 201 44 64 202 minecraft:stone_bricks strict
+fill 44 64 207 46 64 207 minecraft:stone_bricks strict
+setblock 45 64 50 minecraft:stone_bricks strict
+fill 45 64 118 46 64 118 minecraft:stone_bricks strict
+fill 45 64 120 46 64 121 minecraft:stone_bricks strict
+fill 45 64 199 46 64 200 minecraft:stone_bricks strict
+setblock 45 64 202 minecraft:stone_bricks strict
+fill 46 64 49 47 64 49 minecraft:stone_bricks strict
+setblock 46 64 124 minecraft:stone_bricks strict
+setblock 46 64 197 minecraft:stone_bricks strict
+setblock 47 64 121 minecraft:stone_bricks strict
+setblock 47 64 123 minecraft:stone_bricks strict
+setblock 47 64 125 minecraft:stone_bricks strict
+fill 47 64 198 48 64 198 minecraft:stone_bricks strict
+fill 47 64 200 47 64 201 minecraft:stone_bricks strict
+setblock 47 64 203 minecraft:stone_bricks strict
+fill 47 64 205 47 64 206 minecraft:stone_bricks strict
+setblock 48 64 119 minecraft:stone_bricks strict
+fill 48 64 146 48 64 150 minecraft:stone_bricks strict
+setblock 48 64 197 minecraft:stone_bricks strict
+setblock 48 64 204 minecraft:stone_bricks strict
+fill 49 64 49 50 64 49 minecraft:stone_bricks strict
+setblock 49 64 50 minecraft:stone_bricks strict
+fill 49 64 100 50 64 100 minecraft:stone_bricks strict
+fill 49 64 102 51 64 102 minecraft:stone_bricks strict
+fill 49 64 106 50 64 106 minecraft:stone_bricks strict
+setblock 49 64 112 minecraft:stone_bricks strict
+fill 49 64 116 49 64 117 minecraft:stone_bricks strict
+setblock 49 64 120 minecraft:stone_bricks strict
+fill 49 64 123 49 64 125 minecraft:stone_bricks strict
+fill 49 64 199 50 64 199 minecraft:stone_bricks strict
+fill 49 64 202 54 64 202 minecraft:stone_bricks strict
+setblock 49 64 205 minecraft:stone_bricks strict
+fill 49 64 207 50 64 207 minecraft:stone_bricks strict
+fill 50 64 48 51 64 48 minecraft:stone_bricks strict
+setblock 50 64 103 minecraft:stone_bricks strict
+setblock 50 64 105 minecraft:stone_bricks strict
+setblock 50 64 110 minecraft:stone_bricks strict
+setblock 50 64 115 minecraft:stone_bricks strict
+fill 50 64 117 51 64 117 minecraft:stone_bricks strict
+fill 50 64 118 50 64 119 minecraft:stone_bricks strict
+fill 50 64 121 50 64 122 minecraft:stone_bricks strict
+setblock 50 64 124 minecraft:stone_bricks strict
+setblock 50 64 200 minecraft:stone_bricks strict
+setblock 50 64 206 minecraft:stone_bricks strict
+fill 51 63 50 52 64 50 minecraft:stone_bricks strict
+setblock 51 64 114 minecraft:stone_bricks strict
+fill 51 64 119 53 64 119 minecraft:stone_bricks strict
+fill 51 64 125 52 64 125 minecraft:stone_bricks strict
+fill 51 64 201 52 64 201 minecraft:stone_bricks strict
+fill 52 64 49 53 64 49 minecraft:stone_bricks strict
+fill 52 64 121 53 64 121 minecraft:stone_bricks strict
+setblock 52 64 123 minecraft:stone_bricks strict
+fill 52 64 149 59 64 149 minecraft:stone_bricks strict
+fill 52 64 150 52 64 158 minecraft:stone_bricks strict
+fill 52 64 199 53 64 199 minecraft:stone_bricks strict
+setblock 52 64 203 minecraft:stone_bricks strict
+fill 53 64 48 54 64 48 minecraft:stone_bricks strict
+fill 53 64 117 54 64 117 minecraft:stone_bricks strict
+setblock 53 64 120 minecraft:stone_bricks strict
+fill 53 64 122 54 64 122 minecraft:stone_bricks strict
+fill 53 64 158 59 64 158 minecraft:stone_bricks strict
+setblock 53 64 197 minecraft:stone_bricks strict
+setblock 53 64 207 minecraft:stone_bricks strict
+setblock 54 64 124 minecraft:stone_bricks strict
+setblock 54 64 201 minecraft:stone_bricks strict
+fill 54 64 203 55 64 203 minecraft:stone_bricks strict
+fill 54 64 205 57 64 205 minecraft:stone_bricks strict
+fill 55 64 49 56 64 50 minecraft:stone_bricks strict
+setblock 55 64 118 minecraft:stone_bricks strict
+fill 55 64 148 56 64 148 minecraft:stone_bricks strict
+fill 55 64 198 56 64 198 minecraft:stone_bricks strict
+setblock 55 64 199 minecraft:stone_bricks strict
+fill 55 64 204 56 64 204 minecraft:stone_bricks strict
+fill 56 64 48 57 64 48 minecraft:stone_bricks strict
+fill 56 64 121 56 64 123 minecraft:stone_bricks strict
+setblock 56 64 197 minecraft:stone_bricks strict
+fill 56 64 200 56 64 201 minecraft:stone_bricks strict
+fill 56 64 207 57 64 207 minecraft:stone_bricks strict
+fill 57 64 50 60 64 50 minecraft:stone_bricks strict
+fill 57 64 201 57 64 202 minecraft:stone_bricks strict
+fill 57 64 206 60 64 206 minecraft:stone_bricks strict
+setblock 58 64 119 minecraft:stone_bricks strict
+setblock 58 64 124 minecraft:stone_bricks strict
+fill 58 64 198 59 64 198 minecraft:stone_bricks strict
+setblock 58 64 204 minecraft:stone_bricks strict
+fill 59 64 48 62 64 48 minecraft:stone_bricks strict
+setblock 59 64 49 minecraft:stone_bricks strict
+fill 59 64 121 60 64 121 minecraft:stone_bricks strict
+setblock 59 64 197 minecraft:stone_bricks strict
+setblock 59 64 199 minecraft:stone_bricks strict
+fill 59 64 202 60 64 202 minecraft:stone_bricks strict
+setblock 59 64 203 minecraft:stone_bricks strict
+setblock 60 64 99 minecraft:stone_bricks strict
+fill 60 64 102 61 64 102 minecraft:stone_bricks strict
+fill 60 64 105 62 64 105 minecraft:stone_bricks strict
+fill 60 64 107 62 64 107 minecraft:stone_bricks strict
+fill 60 64 111 62 64 111 minecraft:stone_bricks strict
+fill 60 64 113 62 64 113 minecraft:stone_bricks strict
+fill 60 64 114 61 64 114 minecraft:stone_bricks strict
+fill 60 64 115 60 64 117 minecraft:stone_bricks strict
+setblock 60 64 120 minecraft:stone_bricks strict
+fill 60 64 122 60 64 123 minecraft:stone_bricks strict
+fill 60 64 204 61 64 205 minecraft:stone_bricks strict
+setblock 60 64 207 minecraft:stone_bricks strict
+fill 61 64 100 64 64 100 minecraft:stone_bricks strict
+fill 61 64 101 62 64 101 minecraft:stone_bricks strict
+fill 61 64 104 64 64 104 minecraft:stone_bricks strict
+fill 61 64 106 63 64 106 minecraft:stone_bricks strict
+fill 61 64 109 64 64 109 minecraft:stone_bricks strict
+fill 61 64 110 63 64 110 minecraft:stone_bricks strict
+setblock 61 64 112 minecraft:stone_bricks strict
+setblock 61 64 116 minecraft:stone_bricks strict
+setblock 61 64 123 minecraft:stone_bricks strict
+setblock 61 64 198 minecraft:stone_bricks strict
+fill 61 64 200 63 64 200 minecraft:stone_bricks strict
+setblock 61 64 201 minecraft:stone_bricks strict
+setblock 61 64 203 minecraft:stone_bricks strict
+fill 62 64 49 66 64 49 minecraft:stone_bricks strict
+fill 62 64 103 64 64 103 minecraft:stone_bricks strict
+setblock 62 64 108 minecraft:stone_bricks strict
+setblock 62 64 115 minecraft:stone_bricks strict
+setblock 62 64 117 minecraft:stone_bricks strict
+fill 62 64 120 62 64 122 minecraft:stone_bricks strict
+fill 62 64 138 84 64 138 minecraft:stone_bricks strict
+fill 62 64 139 62 64 147 minecraft:stone_bricks strict
+fill 63 64 116 64 64 116 minecraft:stone_bricks strict
+fill 63 64 118 65 64 118 minecraft:stone_bricks strict
+setblock 63 64 121 minecraft:stone_bricks strict
+setblock 63 64 124 minecraft:stone_bricks strict
+fill 63 64 147 84 64 147 minecraft:stone_bricks strict
+fill 63 64 198 64 64 198 minecraft:stone_bricks strict
+setblock 63 64 199 minecraft:stone_bricks strict
+fill 63 64 201 66 64 201 minecraft:stone_bricks strict
+fill 63 64 203 64 64 203 minecraft:stone_bricks strict
+fill 63 64 205 63 64 206 minecraft:stone_bricks strict
+fill 64 64 48 68 64 48 minecraft:stone_bricks strict
+setblock 64 64 99 minecraft:stone_bricks strict
+setblock 64 64 101 minecraft:stone_bricks strict
+setblock 64 64 105 minecraft:stone_bricks strict
+setblock 64 64 108 minecraft:stone_bricks strict
+fill 64 64 111 64 64 112 minecraft:stone_bricks strict
+setblock 64 64 115 minecraft:stone_bricks strict
+setblock 64 64 117 minecraft:stone_bricks strict
+fill 64 64 119 65 64 120 minecraft:stone_bricks strict
+setblock 64 64 148 minecraft:stone_bricks strict
+fill 64 64 197 65 64 197 minecraft:stone_bricks strict
+setblock 64 64 204 minecraft:stone_bricks strict
+fill 65 64 50 67 64 50 minecraft:stone_bricks strict
+fill 65 64 121 65 64 122 minecraft:stone_bricks strict
+fill 65 64 126 78 64 126 minecraft:stone_bricks strict
+fill 65 64 127 65 64 134 minecraft:stone_bricks strict
+fill 66 64 117 69 64 117 minecraft:stone_bricks strict
+fill 66 64 120 67 64 120 minecraft:stone_bricks strict
+fill 66 64 122 67 64 123 minecraft:stone_bricks strict
+setblock 66 64 125 minecraft:stone_bricks strict
+fill 66 64 134 78 64 134 minecraft:stone_bricks strict
+fill 66 64 198 66 64 200 minecraft:stone_bricks strict
+fill 66 64 204 67 64 204 minecraft:stone_bricks strict
+fill 67 64 118 68 64 118 minecraft:stone_bricks strict
+fill 67 64 124 68 64 124 minecraft:stone_bricks strict
+setblock 67 64 148 minecraft:stone_bricks strict
+fill 67 64 200 68 64 200 minecraft:stone_bricks strict
+fill 67 64 205 68 64 206 minecraft:stone_bricks strict
+setblock 67 64 207 minecraft:stone_bricks strict
+setblock 68 64 49 minecraft:stone_bricks strict
+setblock 68 64 125 minecraft:stone_bricks strict
+fill 68 64 197 69 64 197 minecraft:stone_bricks strict
+setblock 68 64 201 minecraft:stone_bricks strict
+setblock 68 64 203 minecraft:stone_bricks strict
+fill 69 64 120 69 64 123 minecraft:stone_bricks strict
+fill 69 64 202 70 64 202 minecraft:stone_bricks strict
+fill 69 64 206 70 64 206 minecraft:stone_bricks strict
+setblock 69 64 207 minecraft:stone_bricks strict
+fill 70 64 48 70 64 49 minecraft:stone_bricks strict
+fill 70 64 121 73 64 121 minecraft:stone_bricks strict
+fill 70 64 123 70 64 124 minecraft:stone_bricks strict
+fill 70 64 199 72 64 199 minecraft:stone_bricks strict
+fill 70 64 204 70 64 205 minecraft:stone_bricks strict
+fill 71 64 49 71 64 50 minecraft:stone_bricks strict
+fill 71 64 119 72 64 120 minecraft:stone_bricks strict
+fill 71 64 124 71 64 125 minecraft:stone_bricks strict
+fill 71 64 162 89 64 162 minecraft:stone_bricks strict
+fill 71 64 163 71 64 173 minecraft:stone_bricks strict
+setblock 71 64 197 minecraft:stone_bricks strict
+fill 71 64 207 73 64 207 minecraft:stone_bricks strict
+fill 72 64 123 73 64 123 minecraft:stone_bricks strict
+setblock 72 64 125 minecraft:stone_bricks strict
+fill 72 64 173 87 64 173 minecraft:stone_bricks strict
+fill 72 64 203 72 64 204 minecraft:stone_bricks strict
+fill 73 64 48 74 64 48 minecraft:stone_bricks strict
+setblock 73 64 50 minecraft:stone_bricks strict
+setblock 73 64 122 minecraft:stone_bricks strict
+setblock 73 64 198 minecraft:stone_bricks strict
+setblock 73 64 200 minecraft:stone_bricks strict
+setblock 73 64 206 minecraft:stone_bricks strict
+fill 74 64 49 77 64 49 minecraft:stone_bricks strict
+setblock 74 64 120 minecraft:stone_bricks strict
+fill 74 64 124 74 64 125 minecraft:stone_bricks strict
+fill 74 64 197 76 64 197 minecraft:stone_bricks strict
+fill 75 64 50 77 64 50 minecraft:stone_bricks strict
+fill 75 64 118 77 64 118 minecraft:stone_bricks strict
+fill 75 64 122 75 64 123 minecraft:stone_bricks strict
+fill 75 64 203 75 64 206 minecraft:stone_bricks strict
+fill 76 64 48 77 64 48 minecraft:stone_bricks strict
+fill 76 64 105 95 64 105 minecraft:stone_bricks strict
+fill 76 64 106 76 64 116 minecraft:stone_bricks strict
+fill 76 64 120 77 64 120 minecraft:stone_bricks strict
+setblock 76 64 199 minecraft:stone_bricks strict
+fill 76 64 201 78 64 201 minecraft:stone_bricks strict
+fill 76 64 204 77 64 205 minecraft:stone_bricks strict
+fill 76 64 207 83 64 207 minecraft:stone_bricks strict
+fill 77 64 116 95 64 116 minecraft:stone_bricks strict
+fill 77 64 119 81 64 119 minecraft:stone_bricks strict
+fill 77 64 123 78 64 123 minecraft:stone_bricks strict
+fill 77 64 202 78 64 202 minecraft:stone_bricks strict
+setblock 77 64 203 minecraft:stone_bricks strict
+fill 77 63 206 79 64 206 minecraft:stone_bricks strict
+setblock 78 64 117 minecraft:stone_bricks strict
+fill 78 64 122 79 64 122 minecraft:stone_bricks strict
+setblock 78 64 148 minecraft:stone_bricks strict
+fill 78 64 200 79 64 200 minecraft:stone_bricks strict
+setblock 79 64 49 minecraft:stone_bricks strict
+setblock 79 64 120 minecraft:stone_bricks strict
+setblock 79 64 125 minecraft:stone_bricks strict
+fill 79 64 197 83 64 197 minecraft:stone_bricks strict
+setblock 79 64 199 minecraft:stone_bricks strict
+fill 79 64 203 80 64 203 minecraft:stone_bricks strict
+fill 80 64 48 82 64 48 minecraft:stone_bricks strict
+fill 80 64 50 82 64 50 minecraft:stone_bricks strict
+setblock 80 64 117 minecraft:stone_bricks strict
+setblock 80 64 121 minecraft:stone_bricks strict
+setblock 80 64 198 minecraft:stone_bricks strict
+fill 80 64 202 81 64 202 minecraft:stone_bricks strict
+fill 80 64 204 81 64 204 minecraft:stone_bricks strict
+fill 81 64 49 85 64 49 minecraft:stone_bricks strict
+fill 81 64 200 81 64 201 minecraft:stone_bricks strict
+setblock 82 64 117 minecraft:stone_bricks strict
+fill 82 64 125 82 64 134 minecraft:stone_bricks strict
+setblock 82 64 198 minecraft:stone_bricks strict
+setblock 82 64 203 minecraft:stone_bricks strict
+setblock 83 64 118 minecraft:stone_bricks strict
+fill 83 64 120 84 64 120 minecraft:stone_bricks strict
+fill 83 64 124 84 64 124 minecraft:stone_bricks strict
+fill 83 64 126 87 64 126 minecraft:stone_bricks strict
+fill 83 64 134 87 64 134 minecraft:stone_bricks strict
+fill 83 64 201 87 64 201 minecraft:stone_bricks strict
+setblock 83 64 204 minecraft:stone_bricks strict
+fill 84 64 50 85 64 50 minecraft:stone_bricks strict
+fill 84 64 125 85 64 125 minecraft:stone_bricks strict
+fill 84 64 200 85 64 200 minecraft:stone_bricks strict
+setblock 84 64 202 minecraft:stone_bricks strict
+fill 84 64 206 90 64 206 minecraft:stone_bricks strict
+fill 85 64 48 89 64 48 minecraft:stone_bricks strict
+setblock 85 64 119 minecraft:stone_bricks strict
+setblock 85 64 123 minecraft:stone_bricks strict
+setblock 85 64 197 minecraft:stone_bricks strict
+fill 85 64 204 85 64 205 minecraft:stone_bricks strict
+fill 85 64 207 86 64 207 minecraft:stone_bricks strict
+setblock 86 64 117 minecraft:stone_bricks strict
+setblock 86 64 121 minecraft:stone_bricks strict
+fill 86 64 198 87 64 198 minecraft:stone_bricks strict
+fill 86 64 203 87 64 203 minecraft:stone_bricks strict
+setblock 86 64 205 minecraft:stone_bricks strict
+fill 87 64 49 89 64 49 minecraft:stone_bricks strict
+fill 87 64 124 88 64 124 minecraft:stone_bricks strict
+setblock 87 64 197 minecraft:stone_bricks strict
+setblock 87 64 199 minecraft:stone_bricks strict
+setblock 88 64 120 minecraft:stone_bricks strict
+fill 88 64 122 88 64 123 minecraft:stone_bricks strict
+setblock 88 64 125 minecraft:stone_bricks strict
+fill 88 64 128 88 64 130 minecraft:stone_bricks strict
+setblock 88 64 140 minecraft:stone_bricks strict
+fill 88 64 142 90 64 142 minecraft:stone_bricks strict
+fill 88 64 143 88 64 150 minecraft:stone_bricks strict
+fill 88 64 166 91 64 166 minecraft:stone_bricks strict
+fill 88 64 169 90 64 169 minecraft:stone_bricks strict
+fill 88 64 177 88 64 178 minecraft:stone_bricks strict
+fill 88 64 181 91 64 181 minecraft:stone_bricks strict
+setblock 88 64 183 minecraft:stone_bricks strict
+fill 88 64 185 89 64 185 minecraft:stone_bricks strict
+setblock 88 64 186 minecraft:stone_bricks strict
+fill 88 64 188 89 64 189 minecraft:stone_bricks strict
+fill 88 64 193 89 64 193 minecraft:stone_bricks strict
+fill 88 64 195 88 64 196 minecraft:stone_bricks strict
+fill 88 64 204 90 64 204 minecraft:stone_bricks strict
+setblock 89 64 50 minecraft:stone_bricks strict
+fill 89 64 119 90 64 119 minecraft:stone_bricks strict
+fill 89 64 121 92 64 121 minecraft:stone_bricks strict
+fill 89 64 123 92 64 123 minecraft:stone_bricks strict
+setblock 89 64 127 minecraft:stone_bricks strict
+fill 89 64 129 89 64 130 minecraft:stone_bricks strict
+fill 89 64 133 93 64 133 minecraft:stone_bricks strict
+setblock 89 64 136 minecraft:stone_bricks strict
+setblock 89 64 145 minecraft:stone_bricks strict
+fill 89 64 149 89 64 153 minecraft:stone_bricks strict
+fill 89 64 156 89 64 157 minecraft:stone_bricks strict
+fill 89 64 159 89 64 161 minecraft:stone_bricks strict
+fill 89 64 165 93 64 165 minecraft:stone_bricks strict
+setblock 89 64 168 minecraft:stone_bricks strict
+fill 89 64 171 89 64 172 minecraft:stone_bricks strict
+fill 89 64 179 90 64 179 minecraft:stone_bricks strict
+setblock 89 64 180 minecraft:stone_bricks strict
+setblock 89 64 187 minecraft:stone_bricks strict
+fill 89 64 192 90 64 192 minecraft:stone_bricks strict
+setblock 89 64 196 minecraft:stone_bricks strict
+setblock 89 64 201 minecraft:stone_bricks strict
+setblock 89 64 203 minecraft:stone_bricks strict
+setblock 89 64 205 minecraft:stone_bricks strict
+setblock 90 64 117 minecraft:stone_bricks strict
+fill 90 64 120 91 64 120 minecraft:stone_bricks strict
+setblock 90 64 124 minecraft:stone_bricks strict
+setblock 90 64 126 minecraft:stone_bricks strict
+setblock 90 64 132 minecraft:stone_bricks strict
+setblock 90 64 135 minecraft:stone_bricks strict
+setblock 90 64 140 minecraft:stone_bricks strict
+fill 90 64 144 91 64 144 minecraft:stone_bricks strict
+fill 90 64 153 91 64 153 minecraft:stone_bricks strict
+setblock 90 64 154 minecraft:stone_bricks strict
+fill 90 64 158 91 64 158 minecraft:stone_bricks strict
+setblock 90 64 160 minecraft:stone_bricks strict
+fill 90 64 167 91 64 167 minecraft:stone_bricks strict
+setblock 90 64 170 minecraft:stone_bricks strict
+setblock 90 64 174 minecraft:stone_bricks strict
+fill 90 64 182 91 64 182 minecraft:stone_bricks strict
+setblock 90 64 184 minecraft:stone_bricks strict
+setblock 90 64 191 minecraft:stone_bricks strict
+setblock 90 64 194 minecraft:stone_bricks strict
+fill 90 64 197 92 64 197 minecraft:stone_bricks strict
+setblock 90 64 198 minecraft:stone_bricks strict
+fill 90 64 200 91 64 200 minecraft:stone_bricks strict
+setblock 91 64 50 minecraft:stone_bricks strict
+fill 91 64 122 92 64 122 minecraft:stone_bricks strict
+fill 91 64 127 92 64 127 minecraft:stone_bricks strict
+fill 91 64 130 91 64 131 minecraft:stone_bricks strict
+setblock 91 64 137 minecraft:stone_bricks strict
+setblock 91 64 141 minecraft:stone_bricks strict
+fill 91 64 145 92 64 145 minecraft:stone_bricks strict
+setblock 91 64 146 minecraft:stone_bricks strict
+fill 91 64 148 93 64 148 minecraft:stone_bricks strict
+setblock 91 64 149 minecraft:stone_bricks strict
+fill 91 64 152 92 64 152 minecraft:stone_bricks strict
+fill 91 64 155 92 64 156 minecraft:stone_bricks strict
+fill 91 64 161 91 64 162 minecraft:stone_bricks strict
+setblock 91 64 171 minecraft:stone_bricks strict
+setblock 91 64 173 minecraft:stone_bricks strict
+fill 91 64 180 92 64 180 minecraft:stone_bricks strict
+setblock 91 64 183 minecraft:stone_bricks strict
+fill 91 64 186 94 64 186 minecraft:stone_bricks strict
+fill 91 64 188 92 64 188 minecraft:stone_bricks strict
+fill 91 64 190 92 64 190 minecraft:stone_bricks strict
+fill 91 64 193 92 64 193 minecraft:stone_bricks strict
+fill 91 64 195 92 64 195 minecraft:stone_bricks strict
+fill 91 64 199 93 64 199 minecraft:stone_bricks strict
+setblock 91 64 203 minecraft:stone_bricks strict
+fill 91 64 207 96 64 207 minecraft:stone_bricks strict
+fill 92 64 48 92 64 49 minecraft:stone_bricks strict
+fill 92 64 131 92 64 132 minecraft:stone_bricks strict
+setblock 92 64 138 minecraft:stone_bricks strict
+setblock 92 64 157 minecraft:stone_bricks strict
+fill 92 64 159 93 64 159 minecraft:stone_bricks strict
+fill 92 64 162 93 64 162 minecraft:stone_bricks strict
+fill 92 64 169 92 64 170 minecraft:stone_bricks strict
+fill 92 64 176 92 64 177 minecraft:stone_bricks strict
+setblock 92 64 184 minecraft:stone_bricks strict
+setblock 92 64 189 minecraft:stone_bricks strict
+fill 92 64 191 92 64 192 minecraft:stone_bricks strict
+setblock 92 64 194 minecraft:stone_bricks strict
+fill 92 64 196 94 64 196 minecraft:stone_bricks strict
+setblock 92 64 198 minecraft:stone_bricks strict
+fill 92 64 201 93 64 202 minecraft:stone_bricks strict
+setblock 92 64 204 minecraft:stone_bricks strict
+fill 93 64 49 96 64 49 minecraft:stone_bricks strict
+setblock 93 64 117 minecraft:stone_bricks strict
+fill 93 64 128 94 64 128 minecraft:stone_bricks strict
+setblock 93 64 132 minecraft:stone_bricks strict
+fill 93 64 134 93 64 135 minecraft:stone_bricks strict
+setblock 93 64 139 minecraft:stone_bricks strict
+setblock 93 64 143 minecraft:stone_bricks strict
+fill 93 64 149 94 64 150 minecraft:stone_bricks strict
+setblock 93 64 153 minecraft:stone_bricks strict
+fill 93 64 160 93 64 161 minecraft:stone_bricks strict
+fill 93 64 167 95 64 167 minecraft:stone_bricks strict
+setblock 93 64 170 minecraft:stone_bricks strict
+setblock 93 64 172 minecraft:stone_bricks strict
+fill 93 64 174 95 64 174 minecraft:stone_bricks strict
+setblock 93 64 175 minecraft:stone_bricks strict
+fill 93 64 177 93 64 179 minecraft:stone_bricks strict
+fill 93 64 182 94 64 182 minecraft:stone_bricks strict
+fill 93 64 187 94 64 187 minecraft:stone_bricks strict
+setblock 93 64 200 minecraft:stone_bricks strict
+setblock 93 64 203 minecraft:stone_bricks strict
+fill 93 64 205 93 64 206 minecraft:stone_bricks strict
+setblock 94 64 48 minecraft:stone_bricks strict
+setblock 94 64 121 minecraft:stone_bricks strict
+setblock 94 64 123 minecraft:stone_bricks strict
+fill 94 64 126 94 64 127 minecraft:stone_bricks strict
+setblock 94 64 131 minecraft:stone_bricks strict
+setblock 94 64 138 minecraft:stone_bricks strict
+setblock 94 64 141 minecraft:stone_bricks strict
+setblock 94 64 145 minecraft:stone_bricks strict
+fill 94 64 151 106 64 151 minecraft:stone_bricks strict
+fill 94 64 154 95 64 155 minecraft:stone_bricks strict
+fill 94 64 161 95 64 161 minecraft:stone_bricks strict
+fill 94 64 168 95 64 169 minecraft:stone_bricks strict
+fill 94 64 171 95 64 171 minecraft:stone_bricks strict
+fill 94 64 173 95 64 173 minecraft:stone_bricks strict
+fill 94 64 179 94 64 180 minecraft:stone_bricks strict
+setblock 94 64 183 minecraft:stone_bricks strict
+setblock 94 64 185 minecraft:stone_bricks strict
+fill 94 64 188 94 64 189 minecraft:stone_bricks strict
+setblock 94 64 194 minecraft:stone_bricks strict
+setblock 94 64 198 minecraft:stone_bricks strict
+fill 94 64 206 95 64 206 minecraft:stone_bricks strict
 fill 95 64 106 97 64 106 minecraft:stone_bricks strict
 fill 95 64 107 95 64 115 minecraft:stone_bricks strict
 setblock 95 64 117 minecraft:stone_bricks strict
@@ -93,1110 +1198,5 @@ setblock 103 64 90 minecraft:stone_bricks strict
 fill 103 64 95 110 64 95 minecraft:stone_bricks strict
 setblock 103 64 117 minecraft:stone_bricks strict
 fill 103 64 121 105 64 121 minecraft:stone_bricks strict
-setblock 103 64 122 minecraft:stone_bricks strict
-fill 103 64 125 106 64 125 minecraft:stone_bricks strict
-fill 103 64 137 104 64 137 minecraft:stone_bricks strict
-setblock 103 64 150 minecraft:stone_bricks strict
-fill 103 64 198 103 64 200 minecraft:stone_bricks strict
-fill 103 64 207 105 64 207 minecraft:stone_bricks strict
-fill 104 64 49 104 64 50 minecraft:stone_bricks strict
-setblock 104 64 92 minecraft:stone_bricks strict
-setblock 104 64 105 minecraft:stone_bricks strict
-fill 104 64 119 105 64 119 minecraft:stone_bricks strict
-setblock 104 64 124 minecraft:stone_bricks strict
-setblock 104 64 149 minecraft:stone_bricks strict
-setblock 104 64 197 minecraft:stone_bricks strict
-setblock 104 64 201 minecraft:stone_bricks strict
-setblock 104 64 204 minecraft:stone_bricks strict
-setblock 104 64 206 minecraft:stone_bricks strict
-setblock 105 64 50 minecraft:stone_bricks strict
-fill 105 64 90 105 64 91 minecraft:stone_bricks strict
-setblock 105 64 117 minecraft:stone_bricks strict
-fill 105 64 120 108 64 120 minecraft:stone_bricks strict
-fill 105 64 198 106 64 198 minecraft:stone_bricks strict
-setblock 105 64 199 minecraft:stone_bricks strict
-setblock 105 64 205 minecraft:stone_bricks strict
-setblock 106 64 48 minecraft:stone_bricks strict
-fill 106 64 118 107 64 118 minecraft:stone_bricks strict
-fill 106 64 122 108 64 122 minecraft:stone_bricks strict
-fill 106 64 123 107 64 124 minecraft:stone_bricks strict
-setblock 106 64 150 minecraft:stone_bricks strict
-fill 106 64 203 107 64 203 minecraft:stone_bricks strict
-fill 106 64 206 107 64 206 minecraft:stone_bricks strict
-fill 107 64 50 113 64 50 minecraft:stone_bricks strict
-setblock 107 64 92 minecraft:stone_bricks strict
-fill 107 64 197 108 64 197 minecraft:stone_bricks strict
-fill 107 64 199 108 64 199 minecraft:stone_bricks strict
-setblock 107 64 202 minecraft:stone_bricks strict
-fill 107 64 204 108 64 205 minecraft:stone_bricks strict
-fill 107 64 207 110 64 207 minecraft:stone_bricks strict
-fill 108 64 48 108 64 49 minecraft:stone_bricks strict
-setblock 108 64 90 minecraft:stone_bricks strict
-setblock 108 64 105 minecraft:stone_bricks strict
-setblock 108 64 121 minecraft:stone_bricks strict
-fill 108 64 137 110 64 137 minecraft:stone_bricks strict
-setblock 108 64 149 minecraft:stone_bricks strict
-setblock 108 64 198 minecraft:stone_bricks strict
-fill 108 64 200 108 64 201 minecraft:stone_bricks strict
-fill 109 64 49 110 64 49 minecraft:stone_bricks strict
-setblock 109 64 91 minecraft:stone_bricks strict
-setblock 109 64 94 minecraft:stone_bricks strict
-setblock 109 64 107 minecraft:stone_bricks strict
-fill 109 64 111 109 64 113 minecraft:stone_bricks strict
-setblock 109 64 126 minecraft:stone_bricks strict
-fill 109 64 134 110 64 135 minecraft:stone_bricks strict
-setblock 109 64 148 minecraft:stone_bricks strict
-setblock 109 64 201 minecraft:stone_bricks strict
-setblock 110 64 48 minecraft:stone_bricks strict
-setblock 110 64 90 minecraft:stone_bricks strict
-fill 110 64 92 111 64 92 minecraft:stone_bricks strict
-setblock 110 64 93 minecraft:stone_bricks strict
-setblock 110 64 105 minecraft:stone_bricks strict
-setblock 110 64 108 minecraft:stone_bricks strict
-fill 110 64 112 110 64 114 minecraft:stone_bricks strict
-fill 110 64 120 111 64 120 minecraft:stone_bricks strict
-fill 110 64 131 110 64 133 minecraft:stone_bricks strict
-setblock 110 64 149 minecraft:stone_bricks strict
-fill 110 64 198 110 64 199 minecraft:stone_bricks strict
-fill 111 64 102 113 64 102 minecraft:stone_bricks strict
-setblock 111 64 107 minecraft:stone_bricks strict
-fill 111 64 109 115 64 109 minecraft:stone_bricks strict
-fill 111 64 110 112 64 110 minecraft:stone_bricks strict
-setblock 111 64 111 minecraft:stone_bricks strict
-fill 111 64 117 111 64 119 minecraft:stone_bricks strict
-setblock 111 64 121 minecraft:stone_bricks strict
-setblock 111 64 127 minecraft:stone_bricks strict
-fill 111 64 129 113 64 129 minecraft:stone_bricks strict
-fill 111 64 130 112 64 130 minecraft:stone_bricks strict
-fill 111 64 132 111 64 133 minecraft:stone_bricks strict
-setblock 111 64 139 minecraft:stone_bricks strict
-fill 111 64 148 112 64 148 minecraft:stone_bricks strict
-fill 111 64 199 112 64 199 minecraft:stone_bricks strict
-setblock 111 64 200 minecraft:stone_bricks strict
-setblock 111 64 204 minecraft:stone_bricks strict
-fill 112 64 48 112 64 49 minecraft:stone_bricks strict
-fill 112 64 94 116 64 94 minecraft:stone_bricks strict
-fill 112 64 114 112 64 115 minecraft:stone_bricks strict
-setblock 112 64 128 minecraft:stone_bricks strict
-fill 112 64 135 112 64 136 minecraft:stone_bricks strict
-setblock 112 64 140 minecraft:stone_bricks strict
-fill 112 64 191 113 64 191 minecraft:stone_bricks strict
-setblock 112 64 193 minecraft:stone_bricks strict
-setblock 112 64 202 minecraft:stone_bricks strict
-setblock 112 64 206 minecraft:stone_bricks strict
-fill 113 64 49 115 64 49 minecraft:stone_bricks strict
-fill 113 64 91 114 64 91 minecraft:stone_bricks strict
-setblock 113 64 92 minecraft:stone_bricks strict
-setblock 113 64 103 minecraft:stone_bricks strict
-setblock 113 64 107 minecraft:stone_bricks strict
-fill 113 64 116 113 64 121 minecraft:stone_bricks strict
-fill 113 64 132 115 64 132 minecraft:stone_bricks strict
-fill 113 64 137 115 64 137 minecraft:stone_bricks strict
-fill 113 64 138 113 64 139 minecraft:stone_bricks strict
-fill 113 64 194 113 64 195 minecraft:stone_bricks strict
-fill 113 64 207 124 64 207 minecraft:stone_bricks strict
-fill 114 64 48 115 64 48 minecraft:stone_bricks strict
-fill 114 64 93 115 64 93 minecraft:stone_bricks strict
-fill 114 64 104 114 64 106 minecraft:stone_bricks strict
-fill 114 64 108 115 64 108 minecraft:stone_bricks strict
-fill 114 64 127 114 64 128 minecraft:stone_bricks strict
-setblock 114 64 131 minecraft:stone_bricks strict
-setblock 114 64 139 minecraft:stone_bricks strict
-fill 114 64 148 116 64 148 minecraft:stone_bricks strict
-fill 114 64 149 115 64 149 minecraft:stone_bricks strict
-setblock 114 64 192 minecraft:stone_bricks strict
-setblock 114 64 200 minecraft:stone_bricks strict
-setblock 114 64 204 minecraft:stone_bricks strict
-fill 114 64 206 116 64 206 minecraft:stone_bricks strict
-fill 115 64 50 117 64 50 minecraft:stone_bricks strict
-fill 115 64 92 116 64 92 minecraft:stone_bricks strict
-fill 115 64 107 116 64 107 minecraft:stone_bricks strict
-fill 115 64 116 115 64 121 minecraft:stone_bricks strict
-fill 115 64 129 115 64 130 minecraft:stone_bricks strict
-setblock 115 64 133 minecraft:stone_bricks strict
-fill 115 64 138 117 64 138 minecraft:stone_bricks strict
-setblock 115 64 140 minecraft:stone_bricks strict
-setblock 115 64 194 minecraft:stone_bricks strict
-setblock 115 64 198 minecraft:stone_bricks strict
-setblock 115 64 203 minecraft:stone_bricks strict
-fill 115 64 216 115 64 237 minecraft:stone_bricks strict
-fill 116 64 90 118 64 90 minecraft:stone_bricks strict
-fill 116 64 105 118 64 105 minecraft:stone_bricks strict
-setblock 116 64 106 minecraft:stone_bricks strict
-fill 116 64 126 116 64 128 minecraft:stone_bricks strict
-fill 116 64 130 116 64 131 minecraft:stone_bricks strict
-setblock 116 64 134 minecraft:stone_bricks strict
-fill 116 64 150 117 64 150 minecraft:stone_bricks strict
-fill 116 64 195 118 64 195 minecraft:stone_bricks strict
-setblock 116 64 197 minecraft:stone_bricks strict
-setblock 116 64 200 minecraft:stone_bricks strict
-setblock 116 64 202 minecraft:stone_bricks strict
-fill 116 64 205 117 64 205 minecraft:stone_bricks strict
-fill 117 64 49 118 64 49 minecraft:stone_bricks strict
-fill 117 64 102 118 64 102 minecraft:stone_bricks strict
-setblock 117 64 104 minecraft:stone_bricks strict
-setblock 117 64 108 minecraft:stone_bricks strict
-setblock 117 64 110 minecraft:stone_bricks strict
-fill 117 64 117 117 64 121 minecraft:stone_bricks strict
-fill 117 64 128 117 64 129 minecraft:stone_bricks strict
-setblock 117 64 132 minecraft:stone_bricks strict
-fill 117 64 140 118 64 140 minecraft:stone_bricks strict
-fill 118 64 48 132 64 48 minecraft:stone_bricks strict
-fill 118 64 91 119 64 91 minecraft:stone_bricks strict
-fill 118 64 106 118 64 107 minecraft:stone_bricks strict
-fill 118 64 109 119 64 109 minecraft:stone_bricks strict
-fill 118 64 126 118 64 127 minecraft:stone_bricks strict
-setblock 118 64 130 minecraft:stone_bricks strict
-setblock 118 64 136 minecraft:stone_bricks strict
-fill 118 64 148 120 64 148 minecraft:stone_bricks strict
-fill 118 64 192 118 64 193 minecraft:stone_bricks strict
-fill 118 64 200 118 64 201 minecraft:stone_bricks strict
-fill 118 64 206 119 64 206 minecraft:stone_bricks strict
-setblock 119 64 50 minecraft:stone_bricks strict
-fill 119 64 108 120 64 108 minecraft:stone_bricks strict
-setblock 119 64 111 minecraft:stone_bricks strict
-fill 119 64 118 119 64 121 minecraft:stone_bricks strict
-setblock 119 64 125 minecraft:stone_bricks strict
-fill 119 64 137 120 64 137 minecraft:stone_bricks strict
-setblock 119 64 201 minecraft:stone_bricks strict
-fill 119 64 205 139 64 205 minecraft:stone_bricks strict
-fill 119 64 208 119 64 209 minecraft:stone_bricks strict
-fill 120 64 93 121 64 93 minecraft:stone_bricks strict
-setblock 120 64 106 minecraft:stone_bricks strict
-fill 120 64 110 121 64 110 minecraft:stone_bricks strict
-setblock 120 64 138 minecraft:stone_bricks strict
-fill 120 64 193 120 64 194 minecraft:stone_bricks strict
-fill 120 64 209 122 64 209 minecraft:stone_bricks strict
-fill 120 64 238 136 64 238 minecraft:stone_bricks strict
-fill 120 64 239 120 64 248 minecraft:stone_bricks strict
-fill 121 64 90 121 64 92 minecraft:stone_bricks strict
-fill 121 64 103 121 64 104 minecraft:stone_bricks strict
-fill 121 64 107 122 64 107 minecraft:stone_bricks strict
-fill 121 64 109 123 64 109 minecraft:stone_bricks strict
-fill 121 64 119 121 64 121 minecraft:stone_bricks strict
-setblock 121 64 140 minecraft:stone_bricks strict
-fill 121 64 149 123 64 149 minecraft:stone_bricks strict
-fill 121 64 206 124 64 206 minecraft:stone_bricks strict
-fill 121 64 208 123 64 208 minecraft:stone_bricks strict
-fill 121 64 248 136 64 248 minecraft:stone_bricks strict
-setblock 122 64 94 minecraft:stone_bricks strict
-fill 122 64 102 124 64 102 minecraft:stone_bricks strict
-fill 122 64 111 123 64 111 minecraft:stone_bricks strict
-fill 122 64 137 122 64 138 minecraft:stone_bricks strict
-fill 122 64 150 127 64 150 minecraft:stone_bricks strict
-fill 122 64 191 122 64 193 minecraft:stone_bricks strict
-fill 122 64 195 122 64 197 minecraft:stone_bricks strict
-setblock 122 64 201 minecraft:stone_bricks strict
-fill 123 64 49 132 64 49 minecraft:stone_bricks strict
-fill 123 64 50 131 64 50 minecraft:stone_bricks strict
-setblock 123 64 91 minecraft:stone_bricks strict
-fill 123 64 96 123 64 97 minecraft:stone_bricks strict
-fill 123 64 99 124 64 99 minecraft:stone_bricks strict
-setblock 123 64 103 minecraft:stone_bricks strict
-fill 123 64 119 124 64 119 minecraft:stone_bricks strict
-fill 123 64 120 123 64 123 minecraft:stone_bricks strict
-fill 123 64 134 128 64 134 minecraft:stone_bricks strict
-fill 123 64 136 128 64 136 minecraft:stone_bricks strict
-setblock 123 64 140 minecraft:stone_bricks strict
-fill 123 64 154 133 64 154 minecraft:stone_bricks strict
-fill 123 64 155 123 64 162 minecraft:stone_bricks strict
-fill 123 64 167 133 64 167 minecraft:stone_bricks strict
-fill 123 64 168 123 64 176 minecraft:stone_bricks strict
-fill 123 64 194 124 64 194 minecraft:stone_bricks strict
-setblock 123 64 198 minecraft:stone_bricks strict
-fill 124 64 46 129 64 47 minecraft:stone_bricks strict
-fill 124 64 93 130 64 93 minecraft:stone_bricks strict
-fill 124 64 98 125 64 98 minecraft:stone_bricks strict
-fill 124 64 100 124 64 101 minecraft:stone_bricks strict
-setblock 124 64 112 minecraft:stone_bricks strict
-fill 124 64 118 125 64 118 minecraft:stone_bricks strict
-fill 124 64 123 124 64 124 minecraft:stone_bricks strict
-fill 124 64 132 128 64 132 minecraft:stone_bricks strict
-fill 124 64 141 124 64 145 minecraft:stone_bricks strict
-fill 124 64 147 126 64 147 minecraft:stone_bricks strict
-fill 124 64 162 133 64 162 minecraft:stone_bricks strict
-fill 124 64 176 133 64 176 minecraft:stone_bricks strict
-setblock 124 64 197 minecraft:stone_bricks strict
-fill 124 64 202 124 64 203 minecraft:stone_bricks strict
-fill 124 64 209 131 64 209 minecraft:stone_bricks strict
-fill 125 64 90 128 64 90 minecraft:stone_bricks strict
-setblock 125 64 91 minecraft:stone_bricks strict
-fill 125 64 95 125 64 97 minecraft:stone_bricks strict
-setblock 125 64 101 minecraft:stone_bricks strict
-fill 125 64 103 128 64 103 minecraft:stone_bricks strict
-fill 125 64 117 126 64 117 minecraft:stone_bricks strict
-fill 125 64 124 125 64 125 minecraft:stone_bricks strict
-fill 125 64 130 128 64 130 minecraft:stone_bricks strict
-fill 125 64 138 128 64 138 minecraft:stone_bricks strict
-fill 125 64 143 126 64 143 minecraft:stone_bricks strict
-setblock 125 64 144 minecraft:stone_bricks strict
-fill 125 64 148 126 64 148 minecraft:stone_bricks strict
-setblock 125 64 149 minecraft:stone_bricks strict
-setblock 125 64 200 minecraft:stone_bricks strict
-fill 125 64 208 133 64 208 minecraft:stone_bricks strict
-fill 126 64 45 128 64 45 minecraft:stone_bricks strict
-fill 126 64 92 130 64 92 minecraft:stone_bricks strict
-setblock 126 64 94 minecraft:stone_bricks strict
-fill 126 64 99 126 64 100 minecraft:stone_bricks strict
-fill 126 64 116 130 64 116 minecraft:stone_bricks strict
-fill 126 64 125 126 64 126 minecraft:stone_bricks strict
-fill 126 64 128 128 64 128 minecraft:stone_bricks strict
-fill 126 64 142 129 64 142 minecraft:stone_bricks strict
-fill 126 64 195 126 64 196 minecraft:stone_bricks strict
-setblock 126 64 198 minecraft:stone_bricks strict
-setblock 126 64 203 minecraft:stone_bricks strict
-fill 126 64 206 132 64 207 minecraft:stone_bricks strict
-setblock 127 64 95 minecraft:stone_bricks strict
-setblock 127 64 97 minecraft:stone_bricks strict
-fill 127 64 126 130 64 126 minecraft:stone_bricks strict
-fill 127 64 139 127 64 140 minecraft:stone_bricks strict
-setblock 127 64 144 minecraft:stone_bricks strict
-setblock 127 64 146 minecraft:stone_bricks strict
-setblock 127 64 149 minecraft:stone_bricks strict
-setblock 127 64 204 minecraft:stone_bricks strict
-setblock 128 64 91 minecraft:stone_bricks strict
-fill 128 64 94 129 64 94 minecraft:stone_bricks strict
-fill 128 64 104 131 64 104 minecraft:stone_bricks strict
-fill 128 64 106 133 64 106 minecraft:stone_bricks strict
-fill 128 64 108 133 64 108 minecraft:stone_bricks strict
-fill 128 64 110 132 64 110 minecraft:stone_bricks strict
-fill 128 64 112 131 64 112 minecraft:stone_bricks strict
-fill 128 64 114 130 64 114 minecraft:stone_bricks strict
-fill 128 64 140 129 64 140 minecraft:stone_bricks strict
-setblock 128 64 141 minecraft:stone_bricks strict
-fill 128 64 147 129 64 147 minecraft:stone_bricks strict
-fill 128 64 193 129 64 193 minecraft:stone_bricks strict
-setblock 128 64 197 minecraft:stone_bricks strict
-fill 128 64 200 128 64 201 minecraft:stone_bricks strict
-setblock 128 64 203 minecraft:stone_bricks strict
-fill 129 64 96 129 64 98 minecraft:stone_bricks strict
-fill 129 64 100 130 64 100 minecraft:stone_bricks strict
-fill 129 64 101 129 64 102 minecraft:stone_bricks strict
-fill 129 64 143 130 64 144 minecraft:stone_bricks strict
-fill 129 64 146 130 64 146 minecraft:stone_bricks strict
-setblock 129 64 149 minecraft:stone_bricks strict
-fill 129 64 191 129 64 192 minecraft:stone_bricks strict
-setblock 129 64 201 minecraft:stone_bricks strict
-setblock 129 64 204 minecraft:stone_bricks strict
-setblock 130 64 47 minecraft:stone_bricks strict
-fill 130 64 91 131 64 91 minecraft:stone_bricks strict
-setblock 130 64 99 minecraft:stone_bricks strict
-fill 130 64 103 131 64 103 minecraft:stone_bricks strict
-fill 130 64 117 131 64 117 minecraft:stone_bricks strict
-fill 130 64 125 131 64 125 minecraft:stone_bricks strict
-setblock 130 64 139 minecraft:stone_bricks strict
-fill 130 64 145 131 64 145 minecraft:stone_bricks strict
-fill 130 64 194 131 64 194 minecraft:stone_bricks strict
-setblock 130 64 200 minecraft:stone_bricks strict
-setblock 130 64 202 minecraft:stone_bricks strict
-setblock 131 64 94 minecraft:stone_bricks strict
-setblock 131 64 96 minecraft:stone_bricks strict
-fill 131 64 118 132 64 118 minecraft:stone_bricks strict
-fill 131 64 124 132 64 124 minecraft:stone_bricks strict
-fill 131 64 141 131 64 142 minecraft:stone_bricks strict
-fill 131 64 144 132 64 144 minecraft:stone_bricks strict
-fill 131 64 147 133 64 147 minecraft:stone_bricks strict
-fill 131 64 148 131 64 149 minecraft:stone_bricks strict
-setblock 131 64 199 minecraft:stone_bricks strict
-setblock 131 64 203 minecraft:stone_bricks strict
-setblock 132 64 90 minecraft:stone_bricks strict
-setblock 132 64 92 minecraft:stone_bricks strict
-fill 132 64 95 133 64 95 minecraft:stone_bricks strict
-fill 132 64 98 132 64 100 minecraft:stone_bricks strict
-fill 132 64 119 133 64 119 minecraft:stone_bricks strict
-fill 132 64 123 133 64 123 minecraft:stone_bricks strict
-setblock 132 64 130 minecraft:stone_bricks strict
-fill 132 64 139 133 64 139 minecraft:stone_bricks strict
-setblock 132 64 140 minecraft:stone_bricks strict
-setblock 132 64 146 minecraft:stone_bricks strict
-setblock 132 64 192 minecraft:stone_bricks strict
-setblock 132 64 197 minecraft:stone_bricks strict
-fill 132 64 201 133 64 201 minecraft:stone_bricks strict
-setblock 132 64 202 minecraft:stone_bricks strict
-setblock 133 64 50 minecraft:stone_bricks strict
-setblock 133 64 94 minecraft:stone_bricks strict
-fill 133 64 96 133 64 97 minecraft:stone_bricks strict
-fill 133 64 102 133 64 103 minecraft:stone_bricks strict
-fill 133 64 120 133 64 122 minecraft:stone_bricks strict
-fill 133 64 131 134 64 131 minecraft:stone_bricks strict
-fill 133 64 133 135 64 133 minecraft:stone_bricks strict
-setblock 133 64 138 minecraft:stone_bricks strict
-setblock 133 64 148 minecraft:stone_bricks strict
-fill 133 64 150 134 64 150 minecraft:stone_bricks strict
-fill 133 64 193 134 64 193 minecraft:stone_bricks strict
-setblock 133 64 198 minecraft:stone_bricks strict
-fill 133 64 204 134 64 204 minecraft:stone_bricks strict
-setblock 133 64 207 minecraft:stone_bricks strict
-fill 133 64 209 137 64 209 minecraft:stone_bricks strict
-fill 134 64 49 139 64 49 minecraft:stone_bricks strict
-fill 134 64 90 135 64 92 minecraft:stone_bricks strict
-fill 134 64 104 137 64 104 minecraft:stone_bricks strict
-fill 134 64 105 135 64 105 minecraft:stone_bricks strict
-fill 134 64 135 135 64 135 minecraft:stone_bricks strict
-setblock 134 64 140 minecraft:stone_bricks strict
-setblock 134 64 149 minecraft:stone_bricks strict
-fill 134 64 194 135 64 194 minecraft:stone_bricks strict
-setblock 134 64 199 minecraft:stone_bricks strict
-fill 134 64 206 139 64 206 minecraft:stone_bricks strict
-setblock 135 64 103 minecraft:stone_bricks strict
-fill 135 64 121 135 64 123 minecraft:stone_bricks strict
-fill 135 64 132 136 64 132 minecraft:stone_bricks strict
-fill 135 64 137 138 64 138 minecraft:stone_bricks strict
-fill 135 64 197 135 64 198 minecraft:stone_bricks strict
-setblock 135 64 203 minecraft:stone_bricks strict
-fill 135 64 207 139 64 207 minecraft:stone_bricks strict
-fill 135 64 208 137 64 208 minecraft:stone_bricks strict
-fill 136 64 48 142 64 48 minecraft:stone_bricks strict
-setblock 136 64 91 minecraft:stone_bricks strict
-setblock 136 64 93 minecraft:stone_bricks strict
-setblock 136 64 102 minecraft:stone_bricks strict
-fill 136 64 134 137 64 134 minecraft:stone_bricks strict
-fill 136 64 136 137 64 136 minecraft:stone_bricks strict
-fill 136 64 148 140 64 148 minecraft:stone_bricks strict
-setblock 136 64 192 minecraft:stone_bricks strict
-setblock 136 64 198 minecraft:stone_bricks strict
-setblock 137 64 50 minecraft:stone_bricks strict
-fill 137 64 92 139 64 92 minecraft:stone_bricks strict
-setblock 137 64 103 minecraft:stone_bricks strict
-setblock 137 64 106 minecraft:stone_bricks strict
-setblock 137 64 117 minecraft:stone_bricks strict
-fill 137 64 121 137 64 124 minecraft:stone_bricks strict
-setblock 137 64 131 minecraft:stone_bricks strict
-fill 137 64 133 138 64 133 minecraft:stone_bricks strict
-fill 137 64 195 137 64 196 minecraft:stone_bricks strict
-setblock 138 64 91 minecraft:stone_bricks strict
-setblock 138 64 112 minecraft:stone_bricks strict
-fill 138 64 115 138 64 116 minecraft:stone_bricks strict
-fill 138 64 135 139 64 135 minecraft:stone_bricks strict
-setblock 138 64 150 minecraft:stone_bricks strict
-fill 138 64 193 138 64 194 minecraft:stone_bricks strict
-fill 138 64 201 139 64 201 minecraft:stone_bricks strict
-setblock 138 64 202 minecraft:stone_bricks strict
-fill 139 64 50 140 64 50 minecraft:stone_bricks strict
-setblock 139 64 94 minecraft:stone_bricks strict
-fill 139 64 105 139 64 106 minecraft:stone_bricks strict
-setblock 139 64 110 minecraft:stone_bricks strict
-fill 139 64 113 139 64 114 minecraft:stone_bricks strict
-fill 139 64 121 139 64 125 minecraft:stone_bricks strict
-setblock 139 64 132 minecraft:stone_bricks strict
-fill 139 64 134 140 64 134 minecraft:stone_bricks strict
-fill 139 64 138 139 64 139 minecraft:stone_bricks strict
-fill 139 64 196 139 64 200 minecraft:stone_bricks strict
-setblock 140 64 91 minecraft:stone_bricks strict
-fill 140 64 103 140 64 104 minecraft:stone_bricks strict
-fill 140 64 111 140 64 112 minecraft:stone_bricks strict
-fill 140 64 114 140 64 116 minecraft:stone_bricks strict
-fill 140 64 136 142 64 136 minecraft:stone_bricks strict
-setblock 140 64 137 minecraft:stone_bricks strict
-fill 140 64 139 140 64 140 minecraft:stone_bricks strict
-fill 140 64 149 141 64 150 minecraft:stone_bricks strict
-fill 140 64 191 141 64 191 minecraft:stone_bricks strict
-setblock 140 64 197 minecraft:stone_bricks strict
-setblock 140 64 203 minecraft:stone_bricks strict
-fill 141 64 92 141 64 93 minecraft:stone_bricks strict
-fill 141 64 110 146 64 110 minecraft:stone_bricks strict
-fill 141 64 112 141 64 113 minecraft:stone_bricks strict
-fill 141 64 121 141 64 126 minecraft:stone_bricks strict
-setblock 141 64 135 minecraft:stone_bricks strict
-setblock 141 64 193 minecraft:stone_bricks strict
-setblock 141 64 199 minecraft:stone_bricks strict
-fill 141 64 204 141 64 207 minecraft:stone_bricks strict
-fill 141 64 216 141 64 237 minecraft:stone_bricks strict
-fill 142 64 49 142 64 50 minecraft:stone_bricks strict
-setblock 142 64 91 minecraft:stone_bricks strict
-fill 142 64 94 143 64 94 minecraft:stone_bricks strict
-setblock 142 64 109 minecraft:stone_bricks strict
-setblock 142 64 111 minecraft:stone_bricks strict
-fill 142 64 114 142 64 115 minecraft:stone_bricks strict
-setblock 142 64 137 minecraft:stone_bricks strict
-fill 142 64 139 142 64 140 minecraft:stone_bricks strict
-setblock 142 64 148 minecraft:stone_bricks strict
-setblock 142 64 198 minecraft:stone_bricks strict
-fill 142 64 202 142 64 203 minecraft:stone_bricks strict
-fill 143 64 50 147 64 50 minecraft:stone_bricks strict
-fill 143 64 102 143 64 103 minecraft:stone_bricks strict
-fill 143 64 106 144 64 106 minecraft:stone_bricks strict
-fill 143 64 113 144 64 113 minecraft:stone_bricks strict
-fill 143 64 121 143 64 126 minecraft:stone_bricks strict
-setblock 143 64 133 minecraft:stone_bricks strict
-fill 143 64 135 144 64 135 minecraft:stone_bricks strict
-setblock 143 64 192 minecraft:stone_bricks strict
-fill 143 64 205 145 64 205 minecraft:stone_bricks strict
-fill 144 64 48 144 64 49 minecraft:stone_bricks strict
-setblock 144 64 91 minecraft:stone_bricks strict
-fill 144 64 103 146 64 104 minecraft:stone_bricks strict
-setblock 144 64 107 minecraft:stone_bricks strict
-fill 144 64 109 145 64 109 minecraft:stone_bricks strict
-setblock 144 64 112 minecraft:stone_bricks strict
-setblock 144 64 127 minecraft:stone_bricks strict
-fill 144 64 129 147 64 129 minecraft:stone_bricks strict
-fill 144 64 130 144 64 132 minecraft:stone_bricks strict
-setblock 144 64 134 minecraft:stone_bricks strict
-setblock 144 64 150 minecraft:stone_bricks strict
-setblock 144 64 194 minecraft:stone_bricks strict
-setblock 144 64 200 minecraft:stone_bricks strict
-fill 144 64 203 145 64 204 minecraft:stone_bricks strict
-setblock 144 64 206 minecraft:stone_bricks strict
-fill 145 64 90 147 64 90 minecraft:stone_bricks strict
-fill 145 64 92 146 64 92 minecraft:stone_bricks strict
-setblock 145 64 108 minecraft:stone_bricks strict
-fill 145 64 115 145 64 117 minecraft:stone_bricks strict
-fill 145 64 121 147 64 121 minecraft:stone_bricks strict
-fill 145 64 122 146 64 122 minecraft:stone_bricks strict
-fill 145 64 123 145 64 125 minecraft:stone_bricks strict
-fill 145 64 136 146 64 136 minecraft:stone_bricks strict
-fill 145 64 198 145 64 199 minecraft:stone_bricks strict
-fill 146 64 48 149 64 48 minecraft:stone_bricks strict
-fill 146 64 93 147 64 93 minecraft:stone_bricks strict
-fill 146 64 95 157 64 95 minecraft:stone_bricks strict
-fill 146 64 96 146 64 102 minecraft:stone_bricks strict
-setblock 146 64 106 minecraft:stone_bricks strict
-fill 146 64 112 147 64 112 minecraft:stone_bricks strict
-setblock 146 64 113 minecraft:stone_bricks strict
-fill 146 64 118 146 64 119 minecraft:stone_bricks strict
-fill 146 64 128 147 64 128 minecraft:stone_bricks strict
-fill 146 64 131 146 64 133 minecraft:stone_bricks strict
-fill 146 64 197 147 64 197 minecraft:stone_bricks strict
-setblock 146 64 202 minecraft:stone_bricks strict
-fill 147 64 104 159 64 104 minecraft:stone_bricks strict
-setblock 147 64 114 minecraft:stone_bricks strict
-setblock 147 64 116 minecraft:stone_bricks strict
-setblock 147 64 119 minecraft:stone_bricks strict
-setblock 147 64 123 minecraft:stone_bricks strict
-fill 147 64 126 147 64 127 minecraft:stone_bricks strict
-setblock 147 64 135 minecraft:stone_bricks strict
-fill 147 64 149 147 64 150 minecraft:stone_bricks strict
-setblock 147 64 200 minecraft:stone_bricks strict
-fill 147 64 203 147 64 207 minecraft:stone_bricks strict
-fill 148 64 91 148 64 92 minecraft:stone_bricks strict
-setblock 148 64 94 minecraft:stone_bricks strict
-setblock 148 64 105 minecraft:stone_bricks strict
-setblock 148 64 118 minecraft:stone_bricks strict
-setblock 148 64 137 minecraft:stone_bricks strict
-fill 148 64 199 150 64 199 minecraft:stone_bricks strict
-fill 148 64 204 149 64 204 minecraft:stone_bricks strict
-setblock 148 64 207 minecraft:stone_bricks strict
-fill 149 64 50 151 64 50 minecraft:stone_bricks strict
-fill 149 64 116 153 64 116 minecraft:stone_bricks strict
-fill 149 64 124 150 64 124 minecraft:stone_bricks strict
-setblock 149 64 148 minecraft:stone_bricks strict
-fill 149 64 198 151 64 198 minecraft:stone_bricks strict
-fill 149 64 200 151 64 200 minecraft:stone_bricks strict
-fill 149 64 201 149 64 202 minecraft:stone_bricks strict
-setblock 149 64 205 minecraft:stone_bricks strict
-fill 150 64 94 151 64 94 minecraft:stone_bricks strict
-fill 150 64 118 151 64 118 minecraft:stone_bricks strict
-fill 150 64 120 151 64 120 minecraft:stone_bricks strict
-setblock 150 64 121 minecraft:stone_bricks strict
-fill 150 64 123 151 64 123 minecraft:stone_bricks strict
-setblock 150 64 137 minecraft:stone_bricks strict
-setblock 150 64 207 minecraft:stone_bricks strict
-fill 151 64 48 155 64 48 minecraft:stone_bricks strict
-setblock 151 64 92 minecraft:stone_bricks strict
-fill 151 64 105 153 64 105 minecraft:stone_bricks strict
-setblock 151 64 119 minecraft:stone_bricks strict
-setblock 151 64 122 minecraft:stone_bricks strict
-fill 151 64 125 151 64 126 minecraft:stone_bricks strict
-fill 151 64 201 152 64 202 minecraft:stone_bricks strict
-fill 151 64 203 151 64 204 minecraft:stone_bricks strict
-fill 151 64 206 154 64 206 minecraft:stone_bricks strict
-fill 152 64 49 153 64 49 minecraft:stone_bricks strict
-setblock 152 64 117 minecraft:stone_bricks strict
-setblock 152 64 121 minecraft:stone_bricks strict
-setblock 152 64 126 minecraft:stone_bricks strict
-fill 152 64 150 153 64 150 minecraft:stone_bricks strict
-setblock 152 64 197 minecraft:stone_bricks strict
-fill 152 64 207 158 64 207 minecraft:stone_bricks strict
-fill 153 64 90 153 64 94 minecraft:stone_bricks strict
-setblock 153 64 118 minecraft:stone_bricks strict
-setblock 153 64 120 minecraft:stone_bricks strict
-fill 153 64 123 156 64 123 minecraft:stone_bricks strict
-fill 153 64 124 153 64 125 minecraft:stone_bricks strict
-setblock 153 64 137 minecraft:stone_bricks strict
-fill 153 64 198 155 64 198 minecraft:stone_bricks strict
-setblock 153 64 200 minecraft:stone_bricks strict
-fill 153 64 202 156 64 202 minecraft:stone_bricks strict
-fill 153 64 204 154 64 204 minecraft:stone_bricks strict
-fill 154 64 92 155 64 92 minecraft:stone_bricks strict
-fill 154 64 94 156 64 94 minecraft:stone_bricks strict
-setblock 154 64 117 minecraft:stone_bricks strict
-setblock 154 64 119 minecraft:stone_bricks strict
-setblock 154 64 121 minecraft:stone_bricks strict
-fill 154 64 125 154 64 126 minecraft:stone_bricks strict
-fill 154 64 199 155 64 199 minecraft:stone_bricks strict
-fill 154 64 201 156 64 201 minecraft:stone_bricks strict
-fill 155 64 49 156 64 50 minecraft:stone_bricks strict
-fill 155 64 91 158 64 91 minecraft:stone_bricks strict
-setblock 155 64 105 minecraft:stone_bricks strict
-setblock 155 64 120 minecraft:stone_bricks strict
-fill 155 64 122 160 64 122 minecraft:stone_bricks strict
-setblock 155 64 137 minecraft:stone_bricks strict
-fill 155 64 148 155 64 150 minecraft:stone_bricks strict
-fill 155 64 197 156 64 197 minecraft:stone_bricks strict
-fill 155 64 200 156 64 200 minecraft:stone_bricks strict
-setblock 155 64 205 minecraft:stone_bricks strict
-fill 156 64 121 157 64 121 minecraft:stone_bricks strict
-fill 156 64 203 157 64 203 minecraft:stone_bricks strict
-setblock 156 64 204 minecraft:stone_bricks strict
-fill 157 64 48 158 64 48 minecraft:stone_bricks strict
-setblock 157 64 93 minecraft:stone_bricks strict
-fill 157 64 96 159 64 96 minecraft:stone_bricks strict
-fill 157 64 97 157 64 103 minecraft:stone_bricks strict
-fill 157 64 105 158 64 105 minecraft:stone_bricks strict
-fill 157 64 126 158 64 126 minecraft:stone_bricks strict
-setblock 157 64 149 minecraft:stone_bricks strict
-fill 157 64 198 157 64 199 minecraft:stone_bricks strict
-fill 157 64 205 163 64 205 minecraft:stone_bricks strict
-setblock 158 64 49 minecraft:stone_bricks strict
-fill 158 64 98 158 64 101 minecraft:stone_bricks strict
-fill 158 64 106 158 64 108 minecraft:stone_bricks strict
-fill 158 64 111 160 64 111 minecraft:stone_bricks strict
-fill 158 64 113 158 64 116 minecraft:stone_bricks strict
-setblock 158 64 124 minecraft:stone_bricks strict
-fill 158 64 127 158 64 130 minecraft:stone_bricks strict
-fill 158 64 132 158 64 133 minecraft:stone_bricks strict
-fill 158 64 135 158 64 136 minecraft:stone_bricks strict
-setblock 158 64 138 minecraft:stone_bricks strict
-setblock 158 64 142 minecraft:stone_bricks strict
-fill 158 64 145 159 64 145 minecraft:stone_bricks strict
-setblock 158 64 146 minecraft:stone_bricks strict
-setblock 158 64 148 minecraft:stone_bricks strict
-setblock 158 64 201 minecraft:stone_bricks strict
-setblock 158 64 206 minecraft:stone_bricks strict
-setblock 159 64 50 minecraft:stone_bricks strict
-fill 159 64 90 160 64 90 minecraft:stone_bricks strict
-setblock 159 64 93 minecraft:stone_bricks strict
-setblock 159 64 102 minecraft:stone_bricks strict
-fill 159 64 108 160 64 108 minecraft:stone_bricks strict
-fill 159 64 109 159 64 110 minecraft:stone_bricks strict
-setblock 159 64 112 minecraft:stone_bricks strict
-setblock 159 64 114 minecraft:stone_bricks strict
-fill 159 64 119 162 64 119 minecraft:stone_bricks strict
-fill 159 64 120 160 64 121 minecraft:stone_bricks strict
-fill 159 64 123 160 64 123 minecraft:stone_bricks strict
-setblock 159 64 144 minecraft:stone_bricks strict
-fill 159 64 197 162 64 197 minecraft:stone_bricks strict
-fill 159 64 198 161 64 198 minecraft:stone_bricks strict
-setblock 159 64 199 minecraft:stone_bricks strict
-setblock 160 64 103 minecraft:stone_bricks strict
-setblock 160 64 110 minecraft:stone_bricks strict
-fill 160 64 115 160 64 116 minecraft:stone_bricks strict
-setblock 160 64 118 minecraft:stone_bricks strict
-setblock 160 64 138 minecraft:stone_bricks strict
-setblock 160 64 150 minecraft:stone_bricks strict
-fill 160 64 200 161 64 202 minecraft:stone_bricks strict
-fill 160 64 207 161 64 207 minecraft:stone_bricks strict
-fill 161 64 50 163 64 50 minecraft:stone_bricks strict
-fill 161 64 121 162 64 121 minecraft:stone_bricks strict
-setblock 161 64 199 minecraft:stone_bricks strict
-setblock 161 64 204 minecraft:stone_bricks strict
-setblock 161 64 206 minecraft:stone_bricks strict
-fill 162 64 48 168 64 48 minecraft:stone_bricks strict
-setblock 162 64 91 minecraft:stone_bricks strict
-fill 162 64 117 163 64 117 minecraft:stone_bricks strict
-setblock 162 64 123 minecraft:stone_bricks strict
-setblock 162 64 128 minecraft:stone_bricks strict
-fill 162 64 132 163 64 132 minecraft:stone_bricks strict
-fill 162 64 134 163 64 134 minecraft:stone_bricks strict
-setblock 162 64 135 minecraft:stone_bricks strict
-setblock 162 64 139 minecraft:stone_bricks strict
-setblock 162 64 141 minecraft:stone_bricks strict
-fill 162 64 143 164 64 143 minecraft:stone_bricks strict
-fill 162 64 144 163 64 144 minecraft:stone_bricks strict
-fill 162 64 151 163 64 151 minecraft:stone_bricks strict
-setblock 162 64 153 minecraft:stone_bricks strict
-fill 162 64 155 166 64 155 minecraft:stone_bricks strict
-fill 162 64 156 164 64 156 minecraft:stone_bricks strict
-setblock 162 64 157 minecraft:stone_bricks strict
-fill 162 64 160 162 64 162 minecraft:stone_bricks strict
-fill 162 64 166 162 64 167 minecraft:stone_bricks strict
-fill 162 64 169 163 64 169 minecraft:stone_bricks strict
-setblock 162 64 170 minecraft:stone_bricks strict
-setblock 162 64 172 minecraft:stone_bricks strict
-setblock 162 64 176 minecraft:stone_bricks strict
-fill 162 64 185 162 64 188 minecraft:stone_bricks strict
-setblock 162 64 196 minecraft:stone_bricks strict
-fill 162 64 202 163 64 202 minecraft:stone_bricks strict
-fill 163 63 49 163 64 49 minecraft:stone_bricks strict
-fill 163 64 122 164 64 122 minecraft:stone_bricks strict
-setblock 163 64 126 minecraft:stone_bricks strict
-fill 163 64 130 165 64 130 minecraft:stone_bricks strict
-fill 163 64 140 166 64 140 minecraft:stone_bricks strict
-setblock 163 64 142 minecraft:stone_bricks strict
-fill 163 64 145 165 64 145 minecraft:stone_bricks strict
-fill 163 64 162 164 64 163 minecraft:stone_bricks strict
-fill 163 64 164 163 64 165 minecraft:stone_bricks strict
-fill 163 64 174 164 64 174 minecraft:stone_bricks strict
-fill 163 64 177 163 64 179 minecraft:stone_bricks strict
-setblock 163 64 182 minecraft:stone_bricks strict
-fill 163 64 184 165 64 184 minecraft:stone_bricks strict
-setblock 163 64 190 minecraft:stone_bricks strict
-fill 163 64 192 164 64 192 minecraft:stone_bricks strict
-setblock 163 64 195 minecraft:stone_bricks strict
-setblock 163 64 198 minecraft:stone_bricks strict
-setblock 163 64 201 minecraft:stone_bricks strict
-setblock 163 64 203 minecraft:stone_bricks strict
-fill 163 64 206 164 64 206 minecraft:stone_bricks strict
-setblock 164 64 90 minecraft:stone_bricks strict
-fill 164 64 119 164 64 120 minecraft:stone_bricks strict
-setblock 164 64 123 minecraft:stone_bricks strict
-setblock 164 64 128 minecraft:stone_bricks strict
-setblock 164 64 135 minecraft:stone_bricks strict
-fill 164 64 137 165 64 137 minecraft:stone_bricks strict
-fill 164 64 141 167 64 141 minecraft:stone_bricks strict
-setblock 164 64 149 minecraft:stone_bricks strict
-setblock 164 64 154 minecraft:stone_bricks strict
-setblock 164 64 158 minecraft:stone_bricks strict
-fill 164 64 160 165 64 160 minecraft:stone_bricks strict
-fill 164 64 166 165 64 166 minecraft:stone_bricks strict
-fill 164 64 175 166 64 175 minecraft:stone_bricks strict
-setblock 164 64 181 minecraft:stone_bricks strict
-fill 164 64 186 165 64 186 minecraft:stone_bricks strict
-setblock 164 64 189 minecraft:stone_bricks strict
-setblock 164 64 191 minecraft:stone_bricks strict
-setblock 164 64 194 minecraft:stone_bricks strict
-setblock 164 64 197 minecraft:stone_bricks strict
-fill 164 64 200 165 64 200 minecraft:stone_bricks strict
-fill 164 64 207 167 64 207 minecraft:stone_bricks strict
-fill 165 64 91 166 64 91 minecraft:stone_bricks strict
-setblock 165 64 121 minecraft:stone_bricks strict
-fill 165 64 129 166 64 129 minecraft:stone_bricks strict
-fill 165 64 133 166 64 133 minecraft:stone_bricks strict
-setblock 165 64 142 minecraft:stone_bricks strict
-setblock 165 64 148 minecraft:stone_bricks strict
-setblock 165 64 150 minecraft:stone_bricks strict
-fill 165 64 152 166 64 152 minecraft:stone_bricks strict
-setblock 165 64 153 minecraft:stone_bricks strict
-fill 165 64 157 166 64 157 minecraft:stone_bricks strict
-fill 165 64 165 166 64 165 minecraft:stone_bricks strict
-setblock 165 64 169 minecraft:stone_bricks strict
-setblock 165 64 176 minecraft:stone_bricks strict
-fill 165 64 179 166 64 179 minecraft:stone_bricks strict
-fill 165 64 187 165 64 188 minecraft:stone_bricks strict
-fill 165 64 193 166 64 193 minecraft:stone_bricks strict
-fill 165 64 195 168 64 195 minecraft:stone_bricks strict
-fill 165 64 199 167 64 199 minecraft:stone_bricks strict
-setblock 165 64 204 minecraft:stone_bricks strict
-setblock 166 64 49 minecraft:stone_bricks strict
-setblock 166 64 90 minecraft:stone_bricks strict
-fill 166 64 118 166 64 120 minecraft:stone_bricks strict
-fill 166 64 122 166 64 123 minecraft:stone_bricks strict
-fill 166 64 127 166 64 128 minecraft:stone_bricks strict
-fill 166 64 138 168 64 138 minecraft:stone_bricks strict
-fill 166 64 146 167 64 146 minecraft:stone_bricks strict
-setblock 166 64 151 minecraft:stone_bricks strict
-setblock 166 64 154 minecraft:stone_bricks strict
-setblock 166 64 164 minecraft:stone_bricks strict
-fill 166 64 168 167 64 168 minecraft:stone_bricks strict
-fill 166 64 171 168 64 171 minecraft:stone_bricks strict
-fill 166 64 174 167 64 174 minecraft:stone_bricks strict
-setblock 166 64 177 minecraft:stone_bricks strict
-fill 166 64 181 167 64 181 minecraft:stone_bricks strict
-fill 166 64 182 166 64 183 minecraft:stone_bricks strict
-fill 166 64 188 166 64 189 minecraft:stone_bricks strict
-fill 166 64 196 166 64 198 minecraft:stone_bricks strict
-setblock 166 64 205 minecraft:stone_bricks strict
-fill 167 64 50 172 64 50 minecraft:stone_bricks strict
-setblock 167 64 117 minecraft:stone_bricks strict
-setblock 167 64 120 minecraft:stone_bricks strict
-fill 167 64 124 168 64 124 minecraft:stone_bricks strict
-fill 167 64 126 168 64 126 minecraft:stone_bricks strict
-setblock 167 64 128 minecraft:stone_bricks strict
-fill 167 64 130 167 64 132 minecraft:stone_bricks strict
-setblock 167 64 134 minecraft:stone_bricks strict
-fill 167 64 143 167 64 145 minecraft:stone_bricks strict
-fill 167 64 149 168 64 149 minecraft:stone_bricks strict
-setblock 167 64 153 minecraft:stone_bricks strict
-setblock 167 64 160 minecraft:stone_bricks strict
-setblock 167 64 162 minecraft:stone_bricks strict
-fill 167 64 166 167 64 167 minecraft:stone_bricks strict
-fill 167 64 169 167 64 170 minecraft:stone_bricks strict
-setblock 167 64 173 minecraft:stone_bricks strict
-fill 167 64 184 167 64 185 minecraft:stone_bricks strict
-fill 167 64 191 168 64 191 minecraft:stone_bricks strict
-setblock 167 64 194 minecraft:stone_bricks strict
-setblock 167 64 201 minecraft:stone_bricks strict
-fill 167 64 204 168 64 204 minecraft:stone_bricks strict
-setblock 168 64 49 minecraft:stone_bricks strict
-fill 168 64 118 169 64 118 minecraft:stone_bricks strict
-fill 168 64 121 169 64 123 minecraft:stone_bricks strict
-fill 168 64 125 173 64 125 minecraft:stone_bricks strict
-setblock 168 64 127 minecraft:stone_bricks strict
-fill 168 64 136 168 64 137 minecraft:stone_bricks strict
-setblock 168 64 144 minecraft:stone_bricks strict
-setblock 168 64 150 minecraft:stone_bricks strict
-setblock 168 64 152 minecraft:stone_bricks strict
-setblock 168 64 154 minecraft:stone_bricks strict
-setblock 168 64 161 minecraft:stone_bricks strict
-fill 168 64 163 168 64 164 minecraft:stone_bricks strict
-setblock 168 64 170 minecraft:stone_bricks strict
-setblock 168 64 172 minecraft:stone_bricks strict
-setblock 168 64 175 minecraft:stone_bricks strict
-fill 168 64 179 168 64 180 minecraft:stone_bricks strict
-setblock 168 64 183 minecraft:stone_bricks strict
-setblock 168 64 185 minecraft:stone_bricks strict
-fill 168 64 189 168 64 190 minecraft:stone_bricks strict
-setblock 168 64 193 minecraft:stone_bricks strict
-setblock 168 64 198 minecraft:stone_bricks strict
-setblock 168 64 200 minecraft:stone_bricks strict
-fill 168 64 202 170 64 202 minecraft:stone_bricks strict
-fill 168 64 205 171 64 205 minecraft:stone_bricks strict
-fill 168 64 206 170 64 206 minecraft:stone_bricks strict
-setblock 169 64 120 minecraft:stone_bricks strict
-setblock 169 64 197 minecraft:stone_bricks strict
-setblock 169 64 199 minecraft:stone_bricks strict
-setblock 169 64 201 minecraft:stone_bricks strict
-fill 170 64 48 176 64 48 minecraft:stone_bricks strict
-setblock 170 64 117 minecraft:stone_bricks strict
-setblock 170 64 122 minecraft:stone_bricks strict
-setblock 170 64 198 minecraft:stone_bricks strict
-setblock 170 64 200 minecraft:stone_bricks strict
-fill 170 64 203 172 64 203 minecraft:stone_bricks strict
-setblock 170 64 204 minecraft:stone_bricks strict
-fill 170 64 207 172 64 207 minecraft:stone_bricks strict
-setblock 171 64 121 minecraft:stone_bricks strict
-setblock 171 64 201 minecraft:stone_bricks strict
-fill 172 64 49 173 64 49 minecraft:stone_bricks strict
-setblock 172 64 120 minecraft:stone_bricks strict
-fill 172 64 122 178 64 122 minecraft:stone_bricks strict
-fill 172 64 124 173 64 124 minecraft:stone_bricks strict
-fill 172 64 198 172 64 199 minecraft:stone_bricks strict
-setblock 173 64 121 minecraft:stone_bricks strict
-fill 173 64 123 174 64 123 minecraft:stone_bricks strict
-setblock 173 64 199 minecraft:stone_bricks strict
-setblock 173 64 201 minecraft:stone_bricks strict
-fill 173 64 204 173 64 206 minecraft:stone_bricks strict
-setblock 174 64 50 minecraft:stone_bricks strict
-setblock 174 64 120 minecraft:stone_bricks strict
-setblock 174 64 197 minecraft:stone_bricks strict
-setblock 174 64 200 minecraft:stone_bricks strict
-fill 174 64 202 174 64 203 minecraft:stone_bricks strict
-fill 174 64 206 175 64 206 minecraft:stone_bricks strict
-setblock 175 64 119 minecraft:stone_bricks strict
-fill 175 64 124 175 64 125 minecraft:stone_bricks strict
-fill 175 64 204 176 64 204 minecraft:stone_bricks strict
-setblock 175 64 207 minecraft:stone_bricks strict
-fill 176 64 49 179 64 49 minecraft:stone_bricks strict
-fill 176 64 117 176 64 118 minecraft:stone_bricks strict
-fill 176 64 121 180 64 121 minecraft:stone_bricks strict
-setblock 176 64 125 minecraft:stone_bricks strict
-fill 177 64 50 178 64 50 minecraft:stone_bricks strict
-fill 177 64 123 179 64 123 minecraft:stone_bricks strict
-fill 178 64 48 179 64 48 minecraft:stone_bricks strict
-setblock 178 64 117 minecraft:stone_bricks strict
-fill 178 64 119 179 64 120 minecraft:stone_bricks strict
-fill 178 64 124 178 64 125 minecraft:stone_bricks strict
-setblock 178 64 199 minecraft:stone_bricks strict
-fill 178 64 201 178 64 203 minecraft:stone_bricks strict
-fill 178 64 206 178 64 207 minecraft:stone_bricks strict
-fill 179 64 204 182 64 204 minecraft:stone_bricks strict
-setblock 180 64 50 minecraft:stone_bricks strict
-setblock 180 64 122 minecraft:stone_bricks strict
-setblock 180 64 197 minecraft:stone_bricks strict
-fill 180 64 199 182 64 199 minecraft:stone_bricks strict
-fill 180 64 201 183 64 201 minecraft:stone_bricks strict
-fill 180 64 202 180 64 203 minecraft:stone_bricks strict
-setblock 180 64 207 minecraft:stone_bricks strict
-fill 181 64 48 184 64 48 minecraft:stone_bricks strict
-fill 181 64 49 183 64 49 minecraft:stone_bricks strict
-fill 181 64 117 184 64 117 minecraft:stone_bricks strict
-fill 181 64 119 181 64 120 minecraft:stone_bricks strict
-setblock 181 64 123 minecraft:stone_bricks strict
-setblock 181 64 125 minecraft:stone_bricks strict
-fill 181 64 205 181 64 206 minecraft:stone_bricks strict
-fill 182 64 50 192 64 50 minecraft:stone_bricks strict
-fill 182 64 121 182 64 122 minecraft:stone_bricks strict
-setblock 182 64 203 minecraft:stone_bricks strict
-fill 182 63 206 183 64 207 minecraft:stone_bricks strict
-fill 183 64 118 184 64 118 minecraft:stone_bricks strict
-setblock 183 64 124 minecraft:stone_bricks strict
-fill 183 64 198 186 64 198 minecraft:stone_bricks strict
-fill 183 64 200 184 64 200 minecraft:stone_bricks strict
-fill 183 64 202 184 64 202 minecraft:stone_bricks strict
-fill 183 64 205 184 64 205 minecraft:stone_bricks strict
-fill 184 64 119 185 64 120 minecraft:stone_bricks strict
-fill 184 64 121 184 64 122 minecraft:stone_bricks strict
-fill 184 64 197 186 64 197 minecraft:stone_bricks strict
-fill 184 64 204 185 64 204 minecraft:stone_bricks strict
-setblock 185 64 49 minecraft:stone_bricks strict
-setblock 185 64 125 minecraft:stone_bricks strict
-fill 185 64 203 187 64 203 minecraft:stone_bricks strict
-setblock 186 64 120 minecraft:stone_bricks strict
-fill 186 64 199 187 64 199 minecraft:stone_bricks strict
-setblock 186 64 200 minecraft:stone_bricks strict
-fill 186 64 206 186 64 207 minecraft:stone_bricks strict
-fill 187 64 49 188 64 49 minecraft:stone_bricks strict
-setblock 187 64 118 minecraft:stone_bricks strict
-setblock 187 64 205 minecraft:stone_bricks strict
-setblock 187 64 207 minecraft:stone_bricks strict
-fill 188 64 119 192 64 119 minecraft:stone_bricks strict
-fill 188 64 200 189 64 200 minecraft:stone_bricks strict
-fill 189 64 122 189 64 123 minecraft:stone_bricks strict
-setblock 189 64 197 minecraft:stone_bricks strict
-fill 189 64 199 190 64 199 minecraft:stone_bricks strict
-fill 189 64 201 191 64 201 minecraft:stone_bricks strict
-fill 189 64 205 191 64 205 minecraft:stone_bricks strict
-fill 189 64 207 190 64 207 minecraft:stone_bricks strict
-fill 190 64 117 190 64 118 minecraft:stone_bricks strict
-fill 190 64 125 191 64 125 minecraft:stone_bricks strict
-fill 190 64 203 190 64 204 minecraft:stone_bricks strict
-fill 190 64 206 193 64 206 minecraft:stone_bricks strict
-fill 191 64 48 193 64 49 minecraft:stone_bricks strict
-fill 191 64 120 192 64 120 minecraft:stone_bricks strict
-setblock 191 64 121 minecraft:stone_bricks strict
-fill 191 64 197 191 64 198 minecraft:stone_bricks strict
-setblock 191 64 200 minecraft:stone_bricks strict
-setblock 191 64 202 minecraft:stone_bricks strict
-fill 192 64 118 193 64 118 minecraft:stone_bricks strict
-setblock 192 64 122 minecraft:stone_bricks strict
-fill 192 64 124 193 64 124 minecraft:stone_bricks strict
-fill 192 64 199 194 64 199 minecraft:stone_bricks strict
-setblock 192 64 204 minecraft:stone_bricks strict
-setblock 193 64 117 minecraft:stone_bricks strict
-fill 193 64 125 195 64 125 minecraft:stone_bricks strict
-setblock 193 64 197 minecraft:stone_bricks strict
-fill 193 64 200 194 64 200 minecraft:stone_bricks strict
-setblock 193 64 201 minecraft:stone_bricks strict
-fill 193 63 205 193 64 205 minecraft:stone_bricks strict
-fill 194 64 50 195 64 50 minecraft:stone_bricks strict
-fill 194 64 109 196 64 116 minecraft:stone_bricks strict
-fill 194 64 119 195 64 119 minecraft:stone_bricks strict
-setblock 194 64 121 minecraft:stone_bricks strict
-fill 194 64 123 195 64 123 minecraft:stone_bricks strict
-fill 194 64 202 195 64 202 minecraft:stone_bricks strict
-setblock 194 64 204 minecraft:stone_bricks strict
-fill 195 64 48 195 64 49 minecraft:stone_bricks strict
-setblock 195 64 124 minecraft:stone_bricks strict
-setblock 195 64 197 minecraft:stone_bricks strict
-setblock 195 64 201 minecraft:stone_bricks strict
-setblock 195 64 203 minecraft:stone_bricks strict
-fill 195 64 205 196 64 205 minecraft:stone_bricks strict
-fill 195 64 207 198 64 207 minecraft:stone_bricks strict
-setblock 196 64 49 minecraft:stone_bricks strict
-fill 196 64 117 197 64 117 minecraft:stone_bricks strict
-setblock 196 64 118 minecraft:stone_bricks strict
-setblock 196 64 121 minecraft:stone_bricks strict
-setblock 196 64 198 minecraft:stone_bricks strict
-fill 196 64 200 198 64 200 minecraft:stone_bricks strict
-fill 197 64 50 205 64 50 minecraft:stone_bricks strict
-fill 197 64 119 198 64 119 minecraft:stone_bricks strict
-fill 197 64 123 199 64 123 minecraft:stone_bricks strict
-setblock 197 64 197 minecraft:stone_bricks strict
-setblock 197 64 201 minecraft:stone_bricks strict
-fill 197 64 203 201 64 203 minecraft:stone_bricks strict
-fill 197 64 206 198 64 206 minecraft:stone_bricks strict
-fill 198 64 48 200 64 48 minecraft:stone_bricks strict
-fill 198 64 124 198 64 125 minecraft:stone_bricks strict
-fill 198 64 198 199 64 199 minecraft:stone_bricks strict
-fill 199 64 122 201 64 122 minecraft:stone_bricks strict
-setblock 199 64 125 minecraft:stone_bricks strict
-setblock 199 64 197 minecraft:stone_bricks strict
-fill 200 64 117 200 64 118 minecraft:stone_bricks strict
-fill 200 64 200 200 64 201 minecraft:stone_bricks strict
-fill 200 64 205 200 64 206 minecraft:stone_bricks strict
-setblock 201 64 49 minecraft:stone_bricks strict
-fill 201 64 119 201 64 121 minecraft:stone_bricks strict
-setblock 201 64 125 minecraft:stone_bricks strict
-fill 201 64 197 201 64 198 minecraft:stone_bricks strict
-setblock 201 64 204 minecraft:stone_bricks strict
-setblock 202 64 120 minecraft:stone_bricks strict
-fill 202 64 198 202 64 202 minecraft:stone_bricks strict
-fill 202 64 206 204 64 206 minecraft:stone_bricks strict
-fill 203 64 118 203 64 119 minecraft:stone_bricks strict
-setblock 203 64 121 minecraft:stone_bricks strict
-setblock 203 64 125 minecraft:stone_bricks strict
-setblock 203 64 197 minecraft:stone_bricks strict
-fill 203 64 200 205 64 200 minecraft:stone_bricks strict
-fill 203 64 201 203 64 202 minecraft:stone_bricks strict
-fill 203 64 205 205 64 205 minecraft:stone_bricks strict
-fill 204 64 48 206 64 49 minecraft:stone_bricks strict
-fill 204 64 120 207 64 120 minecraft:stone_bricks strict
-fill 204 64 123 205 64 124 minecraft:stone_bricks strict
-fill 204 64 198 205 64 198 minecraft:stone_bricks strict
-setblock 204 64 199 minecraft:stone_bricks strict
-fill 204 64 203 205 64 204 minecraft:stone_bricks strict
-setblock 204 64 207 minecraft:stone_bricks strict
-setblock 205 64 117 minecraft:stone_bricks strict
-fill 205 64 121 207 64 122 minecraft:stone_bricks strict
-setblock 205 64 201 minecraft:stone_bricks strict
-setblock 206 64 124 minecraft:stone_bricks strict
-fill 206 64 202 207 64 202 minecraft:stone_bricks strict
-fill 206 64 206 207 64 207 minecraft:stone_bricks strict
-fill 207 64 49 227 64 49 minecraft:stone_bricks strict
-setblock 207 64 50 minecraft:stone_bricks strict
-fill 207 64 118 208 64 118 minecraft:stone_bricks strict
-setblock 207 64 119 minecraft:stone_bricks strict
-setblock 207 64 125 minecraft:stone_bricks strict
-setblock 207 64 198 minecraft:stone_bricks strict
-fill 207 64 204 208 64 205 minecraft:stone_bricks strict
-fill 208 64 48 227 64 48 minecraft:stone_bricks strict
-fill 208 64 122 209 64 122 minecraft:stone_bricks strict
-fill 208 64 197 210 64 197 minecraft:stone_bricks strict
-setblock 208 64 207 minecraft:stone_bricks strict
-fill 209 64 119 210 64 119 minecraft:stone_bricks strict
-setblock 209 64 198 minecraft:stone_bricks strict
-fill 209 64 200 211 64 200 minecraft:stone_bricks strict
-setblock 209 64 206 minecraft:stone_bricks strict
-fill 210 64 117 210 64 118 minecraft:stone_bricks strict
-setblock 210 64 123 minecraft:stone_bricks strict
-setblock 210 64 199 minecraft:stone_bricks strict
-setblock 210 64 204 minecraft:stone_bricks strict
-fill 210 64 207 211 64 207 minecraft:stone_bricks strict
-setblock 211 64 124 minecraft:stone_bricks strict
-fill 211 64 198 212 64 198 minecraft:stone_bricks strict
-fill 211 64 202 215 64 202 minecraft:stone_bricks strict
-fill 211 64 205 213 64 206 minecraft:stone_bricks strict
-setblock 212 64 50 minecraft:stone_bricks strict
-setblock 212 64 117 minecraft:stone_bricks strict
-setblock 212 64 119 minecraft:stone_bricks strict
-fill 212 64 121 213 64 121 minecraft:stone_bricks strict
-setblock 212 64 201 minecraft:stone_bricks strict
-fill 213 64 118 214 64 118 minecraft:stone_bricks strict
-setblock 213 64 124 minecraft:stone_bricks strict
-fill 213 64 203 214 64 203 minecraft:stone_bricks strict
-setblock 213 64 207 minecraft:stone_bricks strict
-setblock 214 64 50 minecraft:stone_bricks strict
-fill 214 64 120 215 64 120 minecraft:stone_bricks strict
-setblock 214 64 123 minecraft:stone_bricks strict
-setblock 214 64 125 minecraft:stone_bricks strict
-fill 214 64 197 217 64 197 minecraft:stone_bricks strict
-setblock 214 64 198 minecraft:stone_bricks strict
-setblock 214 64 200 minecraft:stone_bricks strict
-fill 214 64 206 227 64 206 minecraft:stone_bricks strict
-setblock 215 64 124 minecraft:stone_bricks strict
-fill 215 64 205 227 64 205 minecraft:stone_bricks strict
-setblock 216 64 50 minecraft:stone_bricks strict
-fill 216 64 117 217 64 117 minecraft:stone_bricks strict
-fill 216 64 119 218 64 119 minecraft:stone_bricks strict
-fill 216 64 198 216 64 199 minecraft:stone_bricks strict
-setblock 216 64 201 minecraft:stone_bricks strict
-setblock 216 64 204 minecraft:stone_bricks strict
-setblock 216 64 207 minecraft:stone_bricks strict
-fill 217 64 120 218 64 120 minecraft:stone_bricks strict
-setblock 217 64 125 minecraft:stone_bricks strict
-fill 217 64 200 218 64 200 minecraft:stone_bricks strict
-setblock 217 64 203 minecraft:stone_bricks strict
-fill 218 62 46 226 64 47 minecraft:stone_bricks strict
-fill 218 64 50 227 64 50 minecraft:stone_bricks strict
-fill 218 62 51 226 64 52 minecraft:stone_bricks strict
-fill 218 64 118 219 64 118 minecraft:stone_bricks strict
-fill 218 64 126 225 64 126 minecraft:stone_bricks strict
-setblock 218 64 127 minecraft:stone_bricks strict
-setblock 218 64 201 minecraft:stone_bricks strict
-setblock 218 64 204 minecraft:stone_bricks strict
-fill 218 64 207 227 64 207 minecraft:stone_bricks strict
-fill 218 63 208 226 64 209 minecraft:stone_bricks strict
-fill 219 64 45 222 64 45 minecraft:stone_bricks strict
-fill 219 62 53 219 64 53 minecraft:stone_bricks strict
-setblock 219 64 122 minecraft:stone_bricks strict
-setblock 219 64 124 minecraft:stone_bricks strict
-fill 219 64 197 223 64 197 minecraft:stone_bricks strict
-setblock 219 64 199 minecraft:stone_bricks strict
-setblock 220 64 120 minecraft:stone_bricks strict
-fill 220 64 123 221 64 123 minecraft:stone_bricks strict
-fill 220 64 127 226 64 127 minecraft:stone_bricks strict
-setblock 220 64 198 minecraft:stone_bricks strict
-fill 220 64 200 221 64 200 minecraft:stone_bricks strict
-fill 220 64 204 226 64 204 minecraft:stone_bricks strict
-fill 221 64 44 222 64 44 minecraft:stone_bricks strict
-fill 221 64 53 221 64 72 minecraft:stone_bricks strict
-fill 221 64 74 222 64 74 minecraft:stone_bricks strict
-setblock 221 64 76 minecraft:stone_bricks strict
-fill 221 64 78 222 64 79 minecraft:stone_bricks strict
-setblock 221 64 81 minecraft:stone_bricks strict
-fill 221 64 87 222 64 87 minecraft:stone_bricks strict
-fill 221 64 89 222 64 92 minecraft:stone_bricks strict
-fill 221 64 99 223 64 101 minecraft:stone_bricks strict
-fill 221 64 103 222 64 103 minecraft:stone_bricks strict
-fill 221 64 105 223 64 106 minecraft:stone_bricks strict
-setblock 221 64 108 minecraft:stone_bricks strict
-setblock 221 64 110 minecraft:stone_bricks strict
-fill 221 64 114 221 64 116 minecraft:stone_bricks strict
-fill 221 64 118 222 64 119 minecraft:stone_bricks strict
-setblock 221 64 121 minecraft:stone_bricks strict
-fill 221 64 124 225 64 125 minecraft:stone_bricks strict
-fill 221 64 128 226 64 128 minecraft:stone_bricks strict
-fill 221 64 129 225 64 130 minecraft:stone_bricks strict
-fill 221 64 131 223 64 132 minecraft:stone_bricks strict
-setblock 221 64 133 minecraft:stone_bricks strict
-fill 221 64 135 221 64 141 minecraft:stone_bricks strict
-fill 221 64 143 221 64 144 minecraft:stone_bricks strict
-fill 221 64 147 222 64 149 minecraft:stone_bricks strict
-fill 221 64 151 221 64 155 minecraft:stone_bricks strict
-fill 221 64 157 221 64 163 minecraft:stone_bricks strict
-fill 221 64 166 221 64 168 minecraft:stone_bricks strict
-fill 221 64 170 223 64 170 minecraft:stone_bricks strict
-fill 221 64 171 221 64 175 minecraft:stone_bricks strict
-fill 221 64 177 223 64 177 minecraft:stone_bricks strict
-fill 221 64 179 222 64 180 minecraft:stone_bricks strict
-fill 221 64 181 221 64 182 minecraft:stone_bricks strict
-setblock 221 64 186 minecraft:stone_bricks strict
-fill 221 64 188 223 64 188 minecraft:stone_bricks strict
-fill 221 64 191 223 64 191 minecraft:stone_bricks strict
-setblock 221 64 194 minecraft:stone_bricks strict
-fill 221 64 203 226 64 203 minecraft:stone_bricks strict
-fill 222 64 54 223 64 54 minecraft:stone_bricks strict
-fill 222 64 55 222 64 60 minecraft:stone_bricks strict
-setblock 222 64 62 minecraft:stone_bricks strict
-fill 222 64 67 223 64 67 minecraft:stone_bricks strict
-fill 222 64 68 222 64 69 minecraft:stone_bricks strict
-fill 222 64 72 222 64 73 minecraft:stone_bricks strict
-fill 222 64 75 223 64 75 minecraft:stone_bricks strict
-fill 222 64 77 223 64 77 minecraft:stone_bricks strict
-fill 222 64 80 223 64 80 minecraft:stone_bricks strict
-fill 222 64 82 223 64 83 minecraft:stone_bricks strict
-setblock 222 64 85 minecraft:stone_bricks strict
-fill 222 64 88 223 64 88 minecraft:stone_bricks strict
-fill 222 64 96 223 64 96 minecraft:stone_bricks strict
-setblock 222 64 104 minecraft:stone_bricks strict
-setblock 222 64 109 minecraft:stone_bricks strict
-fill 222 64 111 223 64 111 minecraft:stone_bricks strict
-fill 222 64 113 223 64 113 minecraft:stone_bricks strict
-fill 222 64 115 222 64 116 minecraft:stone_bricks strict
-fill 222 64 120 223 64 120 minecraft:stone_bricks strict
-fill 222 64 122 223 64 122 minecraft:stone_bricks strict
-fill 222 64 134 223 64 134 minecraft:stone_bricks strict
-setblock 222 64 138 minecraft:stone_bricks strict
-fill 222 64 141 222 64 142 minecraft:stone_bricks strict
-fill 222 64 152 222 64 153 minecraft:stone_bricks strict
-fill 222 64 158 223 64 159 minecraft:stone_bricks strict
-fill 222 64 162 223 64 162 minecraft:stone_bricks strict
-fill 222 64 163 222 64 164 minecraft:stone_bricks strict
-fill 222 64 167 223 64 168 minecraft:stone_bricks strict
-fill 222 64 173 223 64 173 minecraft:stone_bricks strict
-fill 222 64 174 222 64 176 minecraft:stone_bricks strict
-fill 222 64 178 223 64 178 minecraft:stone_bricks strict
-setblock 222 64 182 minecraft:stone_bricks strict
-fill 222 64 184 222 64 185 minecraft:stone_bricks strict
-setblock 222 64 187 minecraft:stone_bricks strict
-setblock 222 64 189 minecraft:stone_bricks strict
-setblock 222 64 195 minecraft:stone_bricks strict
-fill 222 64 198 223 64 198 minecraft:stone_bricks strict
-setblock 222 64 199 minecraft:stone_bricks strict
-fill 222 64 201 223 64 201 minecraft:stone_bricks strict
-fill 223 64 53 224 64 53 minecraft:stone_bricks strict
-setblock 223 64 56 minecraft:stone_bricks strict
-fill 223 64 58 223 64 59 minecraft:stone_bricks strict
-fill 223 64 63 223 64 65 minecraft:stone_bricks strict
-fill 223 64 69 223 64 70 minecraft:stone_bricks strict
-setblock 223 64 73 minecraft:stone_bricks strict
-setblock 223 64 79 minecraft:stone_bricks strict
-fill 223 63 81 223 64 81 minecraft:stone_bricks strict
-fill 223 63 86 223 64 86 minecraft:stone_bricks strict
-setblock 223 64 94 minecraft:stone_bricks strict
-fill 223 64 97 223 64 98 minecraft:stone_bricks strict
-fill 223 63 102 223 64 102 minecraft:stone_bricks strict
-fill 223 64 107 223 64 108 minecraft:stone_bricks strict
-setblock 223 64 114 minecraft:stone_bricks strict
-setblock 223 64 116 minecraft:stone_bricks strict
-setblock 223 64 119 minecraft:stone_bricks strict
-setblock 223 64 121 minecraft:stone_bricks strict
-setblock 223 64 123 minecraft:stone_bricks strict
-setblock 223 64 133 minecraft:stone_bricks strict
-setblock 223 64 136 minecraft:stone_bricks strict
-fill 223 64 139 223 64 140 minecraft:stone_bricks strict
-fill 223 64 143 223 64 146 minecraft:stone_bricks strict
-fill 223 64 149 223 64 151 minecraft:stone_bricks strict
-setblock 223 64 154 minecraft:stone_bricks strict
 bossbar set rufu:build value 82
 schedule function rufu:build/p82 1t

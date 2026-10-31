@@ -869,9 +869,6 @@ fill 118 65 189 118 65 190 minecraft:barrel[facing=up] strict
 setblock 123 65 163 minecraft:barrel[facing=up] strict
 setblock 123 65 177 minecraft:barrel[facing=up] strict
 setblock 128 65 163 minecraft:barrel[facing=up] strict
-fill 21 67 225 23 67 225 minecraft:birch_leaves[persistent=true] strict
-fill 21 67 226 21 67 227 minecraft:birch_leaves[persistent=true] strict
-fill 23 67 226 23 67 227 minecraft:birch_leaves[persistent=true] strict
 fill 37 67 100 39 67 100 minecraft:birch_leaves[persistent=true] strict
 fill 37 67 101 37 67 102 minecraft:birch_leaves[persistent=true] strict
 fill 38 67 102 39 67 102 minecraft:birch_leaves[persistent=true] strict
@@ -901,22 +898,12 @@ fill 205 67 223 207 67 223 minecraft:birch_leaves[persistent=true] strict
 fill 205 67 224 205 67 225 minecraft:birch_leaves[persistent=true] strict
 fill 206 67 225 207 67 225 minecraft:birch_leaves[persistent=true] strict
 setblock 207 67 224 minecraft:birch_leaves[persistent=true] strict
-fill 20 68 225 23 68 225 minecraft:birch_leaves[persistent=true] strict
-fill 20 68 226 21 68 227 minecraft:birch_leaves[persistent=true] strict
-setblock 21 68 224 minecraft:birch_leaves[persistent=true] strict
-fill 21 68 228 23 68 228 minecraft:birch_leaves[persistent=true] strict
-fill 22 68 227 24 68 227 minecraft:birch_leaves[persistent=true] strict
-setblock 23 68 224 minecraft:birch_leaves[persistent=true] strict
-fill 23 68 226 24 68 226 minecraft:birch_leaves[persistent=true] strict
 fill 36 68 100 38 68 100 minecraft:birch_leaves[persistent=true] strict
 fill 36 68 101 37 68 102 minecraft:birch_leaves[persistent=true] strict
 fill 37 68 99 39 68 99 minecraft:birch_leaves[persistent=true] strict
 fill 37 68 103 39 68 103 minecraft:birch_leaves[persistent=true] strict
 fill 38 68 102 40 68 102 minecraft:birch_leaves[persistent=true] strict
 fill 39 68 101 40 68 101 minecraft:birch_leaves[persistent=true] strict
-fill 43 68 235 45 68 235 minecraft:birch_leaves[persistent=true] strict
-fill 44 68 233 47 68 234 minecraft:birch_leaves[persistent=true] strict
-fill 44 68 236 46 68 237 minecraft:birch_leaves[persistent=true] strict
 fill 45 68 100 48 68 100 minecraft:birch_leaves[persistent=true] strict
 fill 45 68 101 46 68 102 minecraft:birch_leaves[persistent=true] strict
 fill 45 68 178 49 68 178 minecraft:birch_leaves[persistent=true] strict
@@ -924,15 +911,10 @@ fill 45 68 179 46 68 180 minecraft:birch_leaves[persistent=true] strict
 fill 46 68 99 48 68 99 minecraft:birch_leaves[persistent=true] strict
 fill 46 68 103 48 68 103 minecraft:birch_leaves[persistent=true] strict
 fill 46 68 181 48 68 181 minecraft:birch_leaves[persistent=true] strict
-setblock 46 68 232 minecraft:birch_leaves[persistent=true] strict
-setblock 46 68 238 minecraft:birch_leaves[persistent=true] strict
 fill 47 67 102 48 68 102 minecraft:birch_leaves[persistent=true] strict
 fill 47 68 180 49 68 180 minecraft:birch_leaves[persistent=true] strict
-fill 47 68 237 48 68 237 minecraft:birch_leaves[persistent=true] strict
 fill 48 67 101 48 68 101 minecraft:birch_leaves[persistent=true] strict
 fill 48 68 179 49 68 179 minecraft:birch_leaves[persistent=true] strict
-setblock 48 68 234 minecraft:birch_leaves[persistent=true] strict
-setblock 48 68 236 minecraft:birch_leaves[persistent=true] strict
 fill 53 68 94 55 68 94 minecraft:birch_leaves[persistent=true] strict
 fill 54 68 92 54 68 93 minecraft:birch_leaves[persistent=true] strict
 setblock 54 68 95 minecraft:birch_leaves[persistent=true] strict
@@ -984,22 +966,12 @@ fill 205 68 226 207 68 226 minecraft:birch_leaves[persistent=true] strict
 fill 206 68 222 207 68 222 minecraft:birch_leaves[persistent=true] strict
 fill 206 68 225 208 68 225 minecraft:birch_leaves[persistent=true] strict
 fill 207 68 224 208 68 224 minecraft:birch_leaves[persistent=true] strict
-fill 21 69 225 23 69 227 minecraft:birch_leaves[persistent=true] strict
 fill 37 69 100 39 69 100 minecraft:birch_leaves[persistent=true] strict
 fill 37 69 101 38 69 101 minecraft:birch_leaves[persistent=true] strict
 setblock 37 69 102 minecraft:birch_leaves[persistent=true] strict
 setblock 39 69 102 minecraft:birch_leaves[persistent=true] strict
-fill 43 69 234 49 69 234 minecraft:birch_leaves[persistent=true] strict
-fill 43 69 235 44 69 236 minecraft:birch_leaves[persistent=true] strict
-fill 44 69 233 48 69 233 minecraft:birch_leaves[persistent=true] strict
-fill 44 69 237 48 69 237 minecraft:birch_leaves[persistent=true] strict
-fill 45 69 232 47 69 232 minecraft:birch_leaves[persistent=true] strict
-setblock 45 69 238 minecraft:birch_leaves[persistent=true] strict
 fill 46 69 100 48 69 102 minecraft:birch_leaves[persistent=true] strict
 fill 46 69 178 48 69 180 minecraft:birch_leaves[persistent=true] strict
-fill 46 69 236 49 69 236 minecraft:birch_leaves[persistent=true] strict
-fill 47 68 235 49 69 235 minecraft:birch_leaves[persistent=true] strict
-setblock 47 69 238 minecraft:birch_leaves[persistent=true] strict
 fill 53 69 93 59 69 93 minecraft:birch_leaves[persistent=true] strict
 fill 53 69 94 55 69 95 minecraft:birch_leaves[persistent=true] strict
 fill 54 69 92 58 69 92 minecraft:birch_leaves[persistent=true] strict
@@ -1062,16 +1034,6 @@ fill 201 69 251 201 69 252 minecraft:birch_leaves[persistent=true] strict
 fill 202 69 252 203 69 252 minecraft:birch_leaves[persistent=true] strict
 setblock 203 69 251 minecraft:birch_leaves[persistent=true] strict
 fill 205 69 223 207 69 225 minecraft:birch_leaves[persistent=true] strict
-fill 43 70 235 49 70 235 minecraft:birch_leaves[persistent=true] strict
-fill 44 70 233 44 70 234 minecraft:birch_leaves[persistent=true] strict
-fill 44 70 236 44 70 237 minecraft:birch_leaves[persistent=true] strict
-fill 45 70 234 48 70 234 minecraft:birch_leaves[persistent=true] strict
-setblock 45 70 237 minecraft:birch_leaves[persistent=true] strict
-fill 46 70 232 46 70 233 minecraft:birch_leaves[persistent=true] strict
-fill 46 70 236 48 70 236 minecraft:birch_leaves[persistent=true] strict
-setblock 46 70 238 minecraft:birch_leaves[persistent=true] strict
-fill 47 70 233 48 70 233 minecraft:birch_leaves[persistent=true] strict
-fill 47 70 237 48 70 237 minecraft:birch_leaves[persistent=true] strict
 fill 53 70 94 59 70 94 minecraft:birch_leaves[persistent=true] strict
 fill 54 70 92 58 70 93 minecraft:birch_leaves[persistent=true] strict
 fill 54 70 95 58 70 95 minecraft:birch_leaves[persistent=true] strict
@@ -1119,11 +1081,6 @@ setblock 201 70 253 minecraft:birch_leaves[persistent=true] strict
 fill 202 70 252 204 70 252 minecraft:birch_leaves[persistent=true] strict
 fill 203 70 250 204 70 251 minecraft:birch_leaves[persistent=true] strict
 setblock 203 70 253 minecraft:birch_leaves[persistent=true] strict
-fill 44 71 235 48 71 235 minecraft:birch_leaves[persistent=true] strict
-fill 45 71 234 46 71 234 minecraft:birch_leaves[persistent=true] strict
-fill 45 71 236 47 71 236 minecraft:birch_leaves[persistent=true] strict
-setblock 46 71 233 minecraft:birch_leaves[persistent=true] strict
-setblock 46 71 237 minecraft:birch_leaves[persistent=true] strict
 fill 54 71 94 57 71 94 minecraft:birch_leaves[persistent=true] strict
 fill 55 71 93 57 71 93 minecraft:birch_leaves[persistent=true] strict
 setblock 56 71 92 minecraft:birch_leaves[persistent=true] strict
@@ -1184,7 +1141,6 @@ fill 59 73 63 61 73 63 minecraft:birch_leaves[persistent=true] strict
 fill 59 73 65 61 73 65 minecraft:birch_leaves[persistent=true] strict
 setblock 60 73 62 minecraft:birch_leaves[persistent=true] strict
 setblock 60 73 66 minecraft:birch_leaves[persistent=true] strict
-fill 22 65 226 22 68 226 minecraft:birch_log[axis=y] strict
 fill 38 65 101 38 68 101 minecraft:birch_log[axis=y] strict
 fill 47 65 101 47 68 101 minecraft:birch_log[axis=y] strict
 fill 47 65 179 47 68 179 minecraft:birch_log[axis=y] strict
@@ -1193,10 +1149,54 @@ fill 68 65 101 68 68 101 minecraft:birch_log[axis=y] strict
 fill 77 65 101 77 68 101 minecraft:birch_log[axis=y] strict
 fill 83 65 179 83 68 179 minecraft:birch_log[axis=y] strict
 fill 206 65 224 206 68 224 minecraft:birch_log[axis=y] strict
-fill 46 65 235 46 69 235 minecraft:birch_log[axis=y] strict
 fill 56 65 94 56 69 94 minecraft:birch_log[axis=y] strict
 fill 144 65 80 144 69 80 minecraft:birch_log[axis=y] strict
 fill 162 65 84 162 69 84 minecraft:birch_log[axis=y] strict
 fill 168 65 246 168 69 246 minecraft:birch_log[axis=y] strict
+fill 192 65 245 192 69 245 minecraft:birch_log[axis=y] strict
+fill 81 65 229 81 70 229 minecraft:birch_log[axis=y] strict
+fill 84 65 56 84 70 56 minecraft:birch_log[axis=y] strict
+fill 173 65 218 173 70 218 minecraft:birch_log[axis=y] strict
+fill 202 65 251 202 70 251 minecraft:birch_log[axis=y] strict
+fill 60 65 64 60 71 64 minecraft:birch_log[axis=y] strict
+fill 14 65 220 50 80 220 minecraft:black_concrete strict
+fill 14 65 221 14 80 254 minecraft:black_concrete strict
+fill 16 65 254 48 80 254 minecraft:black_concrete strict
+fill 50 65 221 50 80 254 minecraft:black_concrete strict
+fill 14 81 220 50 81 254 minecraft:black_concrete strict
+fill 150 64 59 154 64 59 minecraft:blackstone strict
+setblock 150 64 60 minecraft:blackstone strict
+fill 151 64 61 152 64 61 minecraft:blackstone strict
+setblock 152 64 60 minecraft:blackstone strict
+setblock 154 64 60 minecraft:blackstone strict
+setblock 39 65 61 minecraft:blue_orchid strict
+setblock 41 65 69 minecraft:blue_orchid strict
+setblock 45 65 70 minecraft:blue_orchid strict
+setblock 47 65 70 minecraft:blue_orchid strict
+setblock 53 65 67 minecraft:blue_orchid strict
+setblock 54 65 62 minecraft:blue_orchid strict
+fill 40 67 117 40 67 118 minecraft:blue_wool strict
+fill 42 67 117 42 67 118 minecraft:blue_wool strict
+setblock 88 67 118 minecraft:blue_wool strict
+setblock 90 67 118 minecraft:blue_wool strict
+fill 35 64 138 48 64 138 minecraft:bricks strict
+fill 35 64 139 35 64 144 minecraft:bricks strict
+fill 36 64 144 48 64 144 minecraft:bricks strict
+fill 48 64 139 48 64 143 minecraft:bricks strict
+fill 65 64 105 75 64 105 minecraft:bricks strict
+fill 65 64 106 65 64 116 minecraft:bricks strict
+fill 66 64 116 75 64 116 minecraft:bricks strict
+setblock 70 64 117 minecraft:bricks strict
+fill 99 64 106 108 64 106 minecraft:bricks strict
+fill 99 64 107 99 64 115 minecraft:bricks strict
+fill 100 64 115 108 64 115 minecraft:bricks strict
+fill 106 64 78 117 64 78 minecraft:bricks strict
+fill 106 64 79 106 64 89 minecraft:bricks strict
+fill 107 64 89 117 64 89 minecraft:bricks strict
+fill 108 64 107 108 64 114 minecraft:bricks strict
+setblock 109 64 110 minecraft:bricks strict
+setblock 111 64 90 minecraft:bricks strict
+fill 111 64 95 122 64 95 minecraft:bricks strict
+fill 111 64 96 111 64 101 minecraft:bricks strict
 bossbar set rufu:build value 63
 schedule function rufu:build/p63 1t

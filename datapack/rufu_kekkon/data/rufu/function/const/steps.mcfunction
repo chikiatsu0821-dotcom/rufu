@@ -1,1 +1,1 @@
-scoreboard players set #last rufu 41
+scoreboard players set #last rufu 40

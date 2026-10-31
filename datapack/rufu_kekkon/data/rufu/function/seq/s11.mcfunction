@@ -1,4 +1,5 @@
-execute if score #seq_t rufu matches 30 run function rufu:seq/s11/t30
-execute if score #seq_t rufu matches 120 run function rufu:seq/s11/t120
-execute if score #seq_t rufu matches 230 run function rufu:seq/s11/t230
-execute if score #seq_t rufu matches 230.. run scoreboard players set #seq rufu 0
+execute if score #seq_t rufu matches 1 run function rufu:seq/s11/t1
+execute if score #seq_t rufu matches 21 run function rufu:seq/s11/t21
+execute if score #seq_t rufu matches 41 run function rufu:seq/s11/t41
+execute if score #seq_t rufu matches 61 run function rufu:seq/s11/t61
+execute if score #seq_t rufu matches 61.. run scoreboard players set #seq rufu 0

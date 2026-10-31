@@ -1,55 +1,3 @@
-setblock 174 61 205 minecraft:mossy_stone_bricks strict
-fill 175 61 206 176 61 206 minecraft:mossy_stone_bricks strict
-setblock 176 61 49 minecraft:mossy_stone_bricks strict
-fill 176 61 205 177 61 205 minecraft:mossy_stone_bricks strict
-setblock 177 61 207 minecraft:mossy_stone_bricks strict
-fill 178 61 48 178 61 50 minecraft:mossy_stone_bricks strict
-setblock 179 61 207 minecraft:mossy_stone_bricks strict
-fill 180 61 49 181 61 49 minecraft:mossy_stone_bricks strict
-fill 181 61 48 182 61 48 minecraft:mossy_stone_bricks strict
-fill 181 61 206 181 61 207 minecraft:mossy_stone_bricks strict
-setblock 183 61 205 minecraft:mossy_stone_bricks strict
-fill 183 61 207 184 61 207 minecraft:mossy_stone_bricks strict
-setblock 185 61 49 minecraft:mossy_stone_bricks strict
-setblock 185 61 205 minecraft:mossy_stone_bricks strict
-setblock 188 61 50 minecraft:mossy_stone_bricks strict
-fill 188 61 206 189 61 206 minecraft:mossy_stone_bricks strict
-fill 191 61 49 191 61 50 minecraft:mossy_stone_bricks strict
-setblock 192 61 48 minecraft:mossy_stone_bricks strict
-fill 192 61 207 194 61 207 minecraft:mossy_stone_bricks strict
-fill 193 61 49 194 61 49 minecraft:mossy_stone_bricks strict
-setblock 193 61 50 minecraft:mossy_stone_bricks strict
-fill 195 61 205 195 61 206 minecraft:mossy_stone_bricks strict
-setblock 196 61 49 minecraft:mossy_stone_bricks strict
-fill 196 60 206 196 61 206 minecraft:mossy_stone_bricks strict
-setblock 197 61 48 minecraft:mossy_stone_bricks strict
-setblock 197 61 207 minecraft:mossy_stone_bricks strict
-fill 198 61 49 200 61 49 minecraft:mossy_stone_bricks strict
-fill 198 61 205 199 61 205 minecraft:mossy_stone_bricks strict
-setblock 198 61 206 minecraft:mossy_stone_bricks strict
-setblock 200 61 48 minecraft:mossy_stone_bricks strict
-setblock 202 61 49 minecraft:mossy_stone_bricks strict
-setblock 202 61 205 minecraft:mossy_stone_bricks strict
-fill 203 60 48 205 61 48 minecraft:mossy_stone_bricks strict
-setblock 203 61 50 minecraft:mossy_stone_bricks strict
-setblock 203 61 206 minecraft:mossy_stone_bricks strict
-setblock 204 61 207 minecraft:mossy_stone_bricks strict
-setblock 206 61 49 minecraft:mossy_stone_bricks strict
-setblock 206 61 206 minecraft:mossy_stone_bricks strict
-fill 207 61 48 208 61 48 minecraft:mossy_stone_bricks strict
-setblock 207 61 50 minecraft:mossy_stone_bricks strict
-fill 208 61 205 208 61 207 minecraft:mossy_stone_bricks strict
-fill 209 61 49 209 61 50 minecraft:mossy_stone_bricks strict
-setblock 210 61 206 minecraft:mossy_stone_bricks strict
-fill 211 61 48 212 61 48 minecraft:mossy_stone_bricks strict
-fill 211 61 50 212 61 50 minecraft:mossy_stone_bricks strict
-setblock 212 61 207 minecraft:mossy_stone_bricks strict
-setblock 213 61 206 minecraft:mossy_stone_bricks strict
-fill 214 60 50 214 61 50 minecraft:mossy_stone_bricks strict
-setblock 215 61 49 minecraft:mossy_stone_bricks strict
-setblock 215 61 205 minecraft:mossy_stone_bricks strict
-setblock 215 61 207 minecraft:mossy_stone_bricks strict
-setblock 216 61 48 minecraft:mossy_stone_bricks strict
 setblock 216 61 206 minecraft:mossy_stone_bricks strict
 fill 218 60 47 218 61 47 minecraft:mossy_stone_bricks strict
 setblock 221 61 60 minecraft:mossy_stone_bricks strict
@@ -1198,5 +1146,57 @@ fill 166 63 206 166 64 206 minecraft:mossy_stone_bricks strict
 setblock 167 64 49 minecraft:mossy_stone_bricks strict
 fill 167 63 205 167 64 205 minecraft:mossy_stone_bricks strict
 fill 168 64 207 169 64 207 minecraft:mossy_stone_bricks strict
+fill 169 64 48 169 64 49 minecraft:mossy_stone_bricks strict
+fill 170 64 49 171 64 49 minecraft:mossy_stone_bricks strict
+setblock 171 64 206 minecraft:mossy_stone_bricks strict
+setblock 172 64 205 minecraft:mossy_stone_bricks strict
+setblock 173 64 50 minecraft:mossy_stone_bricks strict
+fill 173 63 207 174 64 207 minecraft:mossy_stone_bricks strict
+setblock 174 64 49 minecraft:mossy_stone_bricks strict
+setblock 176 64 50 minecraft:mossy_stone_bricks strict
+fill 176 64 206 177 64 206 minecraft:mossy_stone_bricks strict
+setblock 176 64 207 minecraft:mossy_stone_bricks strict
+setblock 177 64 48 minecraft:mossy_stone_bricks strict
+setblock 179 64 50 minecraft:mossy_stone_bricks strict
+fill 179 64 206 180 64 206 minecraft:mossy_stone_bricks strict
+setblock 179 64 207 minecraft:mossy_stone_bricks strict
+fill 180 64 48 180 64 49 minecraft:mossy_stone_bricks strict
+setblock 180 64 205 minecraft:mossy_stone_bricks strict
+setblock 181 64 50 minecraft:mossy_stone_bricks strict
+setblock 181 64 207 minecraft:mossy_stone_bricks strict
+setblock 182 64 205 minecraft:mossy_stone_bricks strict
+fill 184 64 206 185 64 206 minecraft:mossy_stone_bricks strict
+setblock 184 64 207 minecraft:mossy_stone_bricks strict
+fill 185 64 48 190 64 48 minecraft:mossy_stone_bricks strict
+fill 185 64 205 186 64 205 minecraft:mossy_stone_bricks strict
+fill 188 64 205 188 64 206 minecraft:mossy_stone_bricks strict
+fill 189 64 49 190 64 49 minecraft:mossy_stone_bricks strict
+setblock 189 64 206 minecraft:mossy_stone_bricks strict
+fill 191 64 207 194 64 207 minecraft:mossy_stone_bricks strict
+fill 192 63 205 192 64 205 minecraft:mossy_stone_bricks strict
+fill 194 64 48 194 64 49 minecraft:mossy_stone_bricks strict
+setblock 194 64 205 minecraft:mossy_stone_bricks strict
+fill 195 64 206 196 64 206 minecraft:mossy_stone_bricks strict
+setblock 196 64 48 minecraft:mossy_stone_bricks strict
+setblock 196 64 50 minecraft:mossy_stone_bricks strict
+fill 197 64 49 198 64 49 minecraft:mossy_stone_bricks strict
+setblock 197 64 205 minecraft:mossy_stone_bricks strict
+fill 199 64 205 199 64 207 minecraft:mossy_stone_bricks strict
+setblock 200 64 49 minecraft:mossy_stone_bricks strict
+fill 201 64 205 202 64 205 minecraft:mossy_stone_bricks strict
+fill 201 64 206 201 64 207 minecraft:mossy_stone_bricks strict
+fill 202 64 49 203 64 49 minecraft:mossy_stone_bricks strict
+setblock 203 64 207 minecraft:mossy_stone_bricks strict
+fill 205 64 206 205 64 207 minecraft:mossy_stone_bricks strict
+setblock 206 64 50 minecraft:mossy_stone_bricks strict
+setblock 206 64 205 minecraft:mossy_stone_bricks strict
+setblock 207 64 48 minecraft:mossy_stone_bricks strict
+setblock 208 64 50 minecraft:mossy_stone_bricks strict
+setblock 208 64 206 minecraft:mossy_stone_bricks strict
+fill 209 64 205 210 64 205 minecraft:mossy_stone_bricks strict
+setblock 209 64 207 minecraft:mossy_stone_bricks strict
+fill 210 64 50 211 64 50 minecraft:mossy_stone_bricks strict
+setblock 210 64 206 minecraft:mossy_stone_bricks strict
+setblock 212 64 207 minecraft:mossy_stone_bricks strict
 bossbar set rufu:build value 71
 schedule function rufu:build/p71 1t

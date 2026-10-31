@@ -1,43 +1,3 @@
-fill 192 65 245 192 69 245 minecraft:birch_log[axis=y] strict
-fill 81 65 229 81 70 229 minecraft:birch_log[axis=y] strict
-fill 84 65 56 84 70 56 minecraft:birch_log[axis=y] strict
-fill 173 65 218 173 70 218 minecraft:birch_log[axis=y] strict
-fill 202 65 251 202 70 251 minecraft:birch_log[axis=y] strict
-fill 60 65 64 60 71 64 minecraft:birch_log[axis=y] strict
-fill 150 64 59 154 64 59 minecraft:blackstone strict
-setblock 150 64 60 minecraft:blackstone strict
-fill 151 64 61 152 64 61 minecraft:blackstone strict
-setblock 152 64 60 minecraft:blackstone strict
-setblock 154 64 60 minecraft:blackstone strict
-setblock 39 65 61 minecraft:blue_orchid strict
-setblock 41 65 69 minecraft:blue_orchid strict
-setblock 45 65 70 minecraft:blue_orchid strict
-setblock 47 65 70 minecraft:blue_orchid strict
-setblock 53 65 67 minecraft:blue_orchid strict
-setblock 54 65 62 minecraft:blue_orchid strict
-fill 40 67 117 40 67 118 minecraft:blue_wool strict
-fill 42 67 117 42 67 118 minecraft:blue_wool strict
-setblock 88 67 118 minecraft:blue_wool strict
-setblock 90 67 118 minecraft:blue_wool strict
-fill 35 64 138 48 64 138 minecraft:bricks strict
-fill 35 64 139 35 64 144 minecraft:bricks strict
-fill 36 64 144 48 64 144 minecraft:bricks strict
-fill 48 64 139 48 64 143 minecraft:bricks strict
-fill 65 64 105 75 64 105 minecraft:bricks strict
-fill 65 64 106 65 64 116 minecraft:bricks strict
-fill 66 64 116 75 64 116 minecraft:bricks strict
-setblock 70 64 117 minecraft:bricks strict
-fill 99 64 106 108 64 106 minecraft:bricks strict
-fill 99 64 107 99 64 115 minecraft:bricks strict
-fill 100 64 115 108 64 115 minecraft:bricks strict
-fill 106 64 78 117 64 78 minecraft:bricks strict
-fill 106 64 79 106 64 89 minecraft:bricks strict
-fill 107 64 89 117 64 89 minecraft:bricks strict
-fill 108 64 107 108 64 114 minecraft:bricks strict
-setblock 109 64 110 minecraft:bricks strict
-setblock 111 64 90 minecraft:bricks strict
-fill 111 64 95 122 64 95 minecraft:bricks strict
-fill 111 64 96 111 64 101 minecraft:bricks strict
 fill 112 64 101 122 64 101 minecraft:bricks strict
 setblock 116 64 102 minecraft:bricks strict
 fill 146 64 138 157 64 138 minecraft:bricks strict
@@ -752,26 +712,14 @@ setblock 134 81 155 minecraft:calcite strict
 setblock 134 81 157 minecraft:calcite strict
 setblock 149 81 155 minecraft:calcite strict
 setblock 149 81 157 minecraft:calcite strict
-fill 12 67 231 16 67 231 minecraft:cherry_leaves[persistent=true] strict
-fill 12 67 232 12 67 233 minecraft:cherry_leaves[persistent=true] strict
-fill 13 67 233 16 67 233 minecraft:cherry_leaves[persistent=true] strict
-setblock 16 67 232 minecraft:cherry_leaves[persistent=true] strict
 fill 167 67 249 167 67 250 minecraft:cherry_leaves[persistent=true] strict
 fill 168 67 248 169 67 248 minecraft:cherry_leaves[persistent=true] strict
 fill 168 67 250 169 67 250 minecraft:cherry_leaves[persistent=true] strict
 setblock 169 67 249 minecraft:cherry_leaves[persistent=true] strict
 fill 9 68 218 11 68 218 minecraft:cherry_leaves[persistent=true] strict
 fill 9 68 219 9 68 220 minecraft:cherry_leaves[persistent=true] strict
-fill 10 68 220 11 68 220 minecraft:cherry_leaves[persistent=true] strict
 setblock 11 68 219 minecraft:cherry_leaves[persistent=true] strict
-fill 11 68 231 16 68 231 minecraft:cherry_leaves[persistent=true] strict
-fill 11 68 232 12 68 233 minecraft:cherry_leaves[persistent=true] strict
-setblock 12 68 230 minecraft:cherry_leaves[persistent=true] strict
-fill 12 68 234 16 68 234 minecraft:cherry_leaves[persistent=true] strict
-fill 13 68 233 15 68 233 minecraft:cherry_leaves[persistent=true] strict
-fill 14 67 232 14 68 232 minecraft:cherry_leaves[persistent=true] strict
-fill 16 68 232 17 68 232 minecraft:cherry_leaves[persistent=true] strict
-setblock 17 68 233 minecraft:cherry_leaves[persistent=true] strict
+fill 11 68 231 11 68 233 minecraft:cherry_leaves[persistent=true] strict
 fill 116 68 248 118 68 249 minecraft:cherry_leaves[persistent=true] strict
 fill 116 68 251 120 68 252 minecraft:cherry_leaves[persistent=true] strict
 setblock 118 68 247 minecraft:cherry_leaves[persistent=true] strict
@@ -792,15 +740,8 @@ fill 169 68 249 170 68 249 minecraft:cherry_leaves[persistent=true] strict
 fill 8 69 218 9 69 220 minecraft:cherry_leaves[persistent=true] strict
 fill 9 69 217 11 69 217 minecraft:cherry_leaves[persistent=true] strict
 fill 9 69 221 10 69 221 minecraft:cherry_leaves[persistent=true] strict
-fill 10 69 220 12 69 220 minecraft:cherry_leaves[persistent=true] strict
-fill 11 69 218 12 69 219 minecraft:cherry_leaves[persistent=true] strict
-fill 12 69 231 17 69 233 minecraft:cherry_leaves[persistent=true] strict
-fill 14 68 230 15 69 230 minecraft:cherry_leaves[persistent=true] strict
-fill 15 69 229 19 69 229 minecraft:cherry_leaves[persistent=true] strict
-fill 16 69 228 19 69 228 minecraft:cherry_leaves[persistent=true] strict
-setblock 17 69 227 minecraft:cherry_leaves[persistent=true] strict
-fill 18 69 232 19 69 232 minecraft:cherry_leaves[persistent=true] strict
-setblock 19 69 231 minecraft:cherry_leaves[persistent=true] strict
+fill 10 68 220 11 69 220 minecraft:cherry_leaves[persistent=true] strict
+fill 11 69 218 11 69 219 minecraft:cherry_leaves[persistent=true] strict
 fill 85 69 64 87 69 64 minecraft:cherry_leaves[persistent=true] strict
 fill 85 69 92 87 69 92 minecraft:cherry_leaves[persistent=true] strict
 fill 86 69 63 88 69 63 minecraft:cherry_leaves[persistent=true] strict
@@ -843,14 +784,6 @@ fill 227 69 253 228 69 253 minecraft:cherry_leaves[persistent=true] strict
 setblock 228 69 252 minecraft:cherry_leaves[persistent=true] strict
 fill 9 70 218 11 70 219 minecraft:cherry_leaves[persistent=true] strict
 setblock 10 70 220 minecraft:cherry_leaves[persistent=true] strict
-fill 14 70 229 20 70 229 minecraft:cherry_leaves[persistent=true] strict
-fill 14 70 230 16 70 231 minecraft:cherry_leaves[persistent=true] strict
-fill 15 70 228 19 70 228 minecraft:cherry_leaves[persistent=true] strict
-fill 15 70 232 19 70 232 minecraft:cherry_leaves[persistent=true] strict
-fill 16 70 227 18 70 227 minecraft:cherry_leaves[persistent=true] strict
-fill 16 70 233 18 70 233 minecraft:cherry_leaves[persistent=true] strict
-fill 17 70 231 20 70 231 minecraft:cherry_leaves[persistent=true] strict
-fill 18 69 230 20 70 230 minecraft:cherry_leaves[persistent=true] strict
 fill 37 70 54 39 70 54 minecraft:cherry_leaves[persistent=true] strict
 fill 38 70 52 42 70 52 minecraft:cherry_leaves[persistent=true] strict
 setblock 38 70 53 minecraft:cherry_leaves[persistent=true] strict
@@ -901,12 +834,6 @@ fill 226 70 250 228 70 250 minecraft:cherry_leaves[persistent=true] strict
 fill 226 70 253 229 70 253 minecraft:cherry_leaves[persistent=true] strict
 fill 226 70 254 228 70 254 minecraft:cherry_leaves[persistent=true] strict
 fill 228 70 252 229 70 252 minecraft:cherry_leaves[persistent=true] strict
-fill 14 71 230 20 71 230 minecraft:cherry_leaves[persistent=true] strict
-fill 15 71 229 19 71 229 minecraft:cherry_leaves[persistent=true] strict
-fill 15 71 231 19 71 232 minecraft:cherry_leaves[persistent=true] strict
-fill 16 71 228 19 71 228 minecraft:cherry_leaves[persistent=true] strict
-setblock 17 71 227 minecraft:cherry_leaves[persistent=true] strict
-setblock 17 71 233 minecraft:cherry_leaves[persistent=true] strict
 fill 37 71 53 39 71 55 minecraft:cherry_leaves[persistent=true] strict
 fill 38 71 52 39 71 52 minecraft:cherry_leaves[persistent=true] strict
 setblock 38 71 56 minecraft:cherry_leaves[persistent=true] strict
@@ -944,11 +871,6 @@ fill 118 71 248 118 71 249 minecraft:cherry_leaves[persistent=true] strict
 setblock 118 71 252 minecraft:cherry_leaves[persistent=true] strict
 setblock 119 71 249 minecraft:cherry_leaves[persistent=true] strict
 fill 226 71 251 228 71 253 minecraft:cherry_leaves[persistent=true] strict
-fill 15 72 230 19 72 230 minecraft:cherry_leaves[persistent=true] strict
-fill 16 72 229 18 72 229 minecraft:cherry_leaves[persistent=true] strict
-fill 16 72 231 18 72 231 minecraft:cherry_leaves[persistent=true] strict
-setblock 17 72 228 minecraft:cherry_leaves[persistent=true] strict
-setblock 17 72 232 minecraft:cherry_leaves[persistent=true] strict
 fill 37 72 54 38 72 54 minecraft:cherry_leaves[persistent=true] strict
 fill 38 72 52 42 72 52 minecraft:cherry_leaves[persistent=true] strict
 fill 38 72 55 42 72 56 minecraft:cherry_leaves[persistent=true] strict
@@ -987,8 +909,6 @@ setblock 73 73 93 minecraft:cherry_leaves[persistent=true] strict
 setblock 74 73 90 minecraft:cherry_leaves[persistent=true] strict
 setblock 74 73 94 minecraft:cherry_leaves[persistent=true] strict
 setblock 75 73 93 minecraft:cherry_leaves[persistent=true] strict
-fill 13 65 232 13 68 232 minecraft:cherry_log[axis=y] strict
-fill 15 65 232 15 68 232 minecraft:cherry_log[axis=y] strict
 fill 52 65 162 52 68 162 minecraft:cherry_log[axis=y] strict
 fill 52 65 173 52 68 173 minecraft:cherry_log[axis=y] strict
 fill 145 65 196 145 68 196 minecraft:cherry_log[axis=y] strict
@@ -1003,7 +923,6 @@ fill 10 65 219 10 69 219 minecraft:cherry_log[axis=y] strict
 fill 118 65 250 118 69 250 minecraft:cherry_log[axis=y] strict
 fill 142 65 56 142 69 56 minecraft:cherry_log[axis=y] strict
 fill 162 65 58 162 69 58 minecraft:cherry_log[axis=y] strict
-fill 17 65 230 17 70 230 minecraft:cherry_log[axis=y] strict
 fill 88 65 64 88 70 64 minecraft:cherry_log[axis=y] strict
 fill 88 65 92 88 70 92 minecraft:cherry_log[axis=y] strict
 fill 227 65 252 227 70 252 minecraft:cherry_log[axis=y] strict
@@ -1198,5 +1117,86 @@ setblock 26 59 61 minecraft:clay strict
 setblock 26 59 64 minecraft:clay strict
 fill 26 59 66 27 59 66 minecraft:clay strict
 setblock 26 59 68 minecraft:clay strict
+setblock 26 59 75 minecraft:clay strict
+setblock 26 59 77 minecraft:clay strict
+setblock 26 59 80 minecraft:clay strict
+setblock 26 59 85 minecraft:clay strict
+setblock 26 59 87 minecraft:clay strict
+fill 26 59 100 27 59 100 minecraft:clay strict
+fill 26 59 102 27 59 102 minecraft:clay strict
+fill 26 59 109 27 59 109 minecraft:clay strict
+setblock 26 59 114 minecraft:clay strict
+fill 26 59 116 26 59 117 minecraft:clay strict
+setblock 26 59 122 minecraft:clay strict
+setblock 26 59 124 minecraft:clay strict
+setblock 26 59 132 minecraft:clay strict
+setblock 26 59 138 minecraft:clay strict
+fill 26 59 148 26 59 149 minecraft:clay strict
+fill 26 59 154 27 59 154 minecraft:clay strict
+setblock 26 59 157 minecraft:clay strict
+setblock 26 59 164 minecraft:clay strict
+fill 26 59 172 27 59 173 minecraft:clay strict
+setblock 26 59 178 minecraft:clay strict
+fill 26 59 191 26 59 192 minecraft:clay strict
+setblock 26 59 194 minecraft:clay strict
+fill 26 59 200 27 59 200 minecraft:clay strict
+setblock 26 59 212 minecraft:clay strict
+fill 26 59 214 28 59 214 minecraft:clay strict
+setblock 27 59 43 minecraft:clay strict
+setblock 27 59 47 minecraft:clay strict
+setblock 27 59 54 minecraft:clay strict
+fill 27 59 57 27 59 59 minecraft:clay strict
+setblock 27 59 63 minecraft:clay strict
+setblock 27 59 71 minecraft:clay strict
+fill 27 59 86 28 59 86 minecraft:clay strict
+setblock 27 59 90 minecraft:clay strict
+fill 27 59 117 27 59 120 minecraft:clay strict
+setblock 27 59 123 minecraft:clay strict
+fill 27 59 130 27 59 131 minecraft:clay strict
+fill 27 59 134 28 59 134 minecraft:clay strict
+fill 27 59 140 29 59 140 minecraft:clay strict
+setblock 27 59 141 minecraft:clay strict
+fill 27 59 143 29 59 143 minecraft:clay strict
+setblock 27 59 147 minecraft:clay strict
+setblock 27 59 153 minecraft:clay strict
+setblock 27 59 156 minecraft:clay strict
+fill 27 59 160 28 59 160 minecraft:clay strict
+setblock 27 59 163 minecraft:clay strict
+setblock 27 59 171 minecraft:clay strict
+setblock 27 59 175 minecraft:clay strict
+setblock 27 59 177 minecraft:clay strict
+setblock 27 59 180 minecraft:clay strict
+setblock 27 59 182 minecraft:clay strict
+fill 27 59 184 28 59 184 minecraft:clay strict
+fill 27 59 188 28 59 188 minecraft:clay strict
+setblock 27 59 189 minecraft:clay strict
+setblock 27 59 193 minecraft:clay strict
+fill 27 59 197 27 59 199 minecraft:clay strict
+setblock 27 59 203 minecraft:clay strict
+fill 27 59 210 28 59 210 minecraft:clay strict
+setblock 27 59 213 minecraft:clay strict
+setblock 28 59 41 minecraft:clay strict
+setblock 28 59 61 minecraft:clay strict
+setblock 28 59 64 minecraft:clay strict
+fill 28 59 70 29 59 70 minecraft:clay strict
+fill 28 59 74 30 59 74 minecraft:clay strict
+setblock 28 59 76 minecraft:clay strict
+setblock 28 59 78 minecraft:clay strict
+setblock 28 59 81 minecraft:clay strict
+setblock 28 59 93 minecraft:clay strict
+setblock 28 59 96 minecraft:clay strict
+setblock 28 59 114 minecraft:clay strict
+fill 28 59 118 28 59 119 minecraft:clay strict
+fill 28 59 127 28 59 128 minecraft:clay strict
+fill 28 59 142 29 59 142 minecraft:clay strict
+setblock 28 59 149 minecraft:clay strict
+setblock 28 59 158 minecraft:clay strict
+setblock 28 59 167 minecraft:clay strict
+fill 28 59 170 30 59 170 minecraft:clay strict
+setblock 28 59 174 minecraft:clay strict
+setblock 28 59 179 minecraft:clay strict
+setblock 28 59 202 minecraft:clay strict
+setblock 28 59 211 minecraft:clay strict
+setblock 29 59 43 minecraft:clay strict
 bossbar set rufu:build value 64
 schedule function rufu:build/p64 1t

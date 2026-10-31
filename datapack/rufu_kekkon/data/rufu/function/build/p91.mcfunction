@@ -1,3 +1,1082 @@
+setblock 180 65 229 minecraft:allium strict
+setblock 184 65 251 minecraft:allium strict
+setblock 189 65 226 minecraft:allium strict
+setblock 194 65 131 minecraft:allium strict
+setblock 195 65 239 minecraft:allium strict
+setblock 196 65 141 minecraft:allium strict
+setblock 197 65 236 minecraft:allium strict
+setblock 199 65 142 minecraft:allium strict
+setblock 204 65 133 minecraft:allium strict
+setblock 207 65 138 minecraft:allium strict
+setblock 208 65 141 minecraft:allium strict
+setblock 210 65 221 minecraft:allium strict
+setblock 212 65 246 minecraft:allium strict
+setblock 213 65 136 minecraft:allium strict
+setblock 215 65 219 minecraft:allium strict
+setblock 218 65 219 minecraft:allium strict
+setblock 218 65 248 minecraft:allium strict
+setblock 224 65 225 minecraft:allium strict
+setblock 230 65 220 minecraft:allium strict
+setblock 232 65 254 minecraft:allium strict
+setblock 244 65 224 minecraft:allium strict
+setblock 124 65 148 minecraft:andesite_slab[type=bottom] strict
+setblock 132 65 148 minecraft:andesite_slab[type=bottom] strict
+setblock 46 65 244 minecraft:anvil[facing=north] strict
+setblock 11 65 250 minecraft:azure_bluet strict
+setblock 36 65 99 minecraft:azure_bluet strict
+fill 37 65 82 37 65 83 minecraft:azure_bluet strict
+setblock 38 65 81 minecraft:azure_bluet strict
+setblock 39 65 84 minecraft:azure_bluet strict
+setblock 39 65 178 minecraft:azure_bluet strict
+setblock 42 65 84 minecraft:azure_bluet strict
+setblock 45 65 181 minecraft:azure_bluet strict
+setblock 47 65 174 minecraft:azure_bluet strict
+setblock 54 65 87 minecraft:azure_bluet strict
+setblock 55 65 86 minecraft:azure_bluet strict
+setblock 58 65 234 minecraft:azure_bluet strict
+setblock 62 65 182 minecraft:azure_bluet strict
+setblock 64 65 179 minecraft:azure_bluet strict
+setblock 66 65 237 minecraft:azure_bluet strict
+setblock 69 65 55 minecraft:azure_bluet strict
+setblock 70 65 223 minecraft:azure_bluet strict
+setblock 71 65 56 minecraft:azure_bluet strict
+setblock 72 65 244 minecraft:azure_bluet strict
+fill 73 65 55 73 65 56 minecraft:azure_bluet strict
+setblock 73 65 239 minecraft:azure_bluet strict
+fill 74 65 54 75 65 54 minecraft:azure_bluet strict
+fill 74 65 56 74 65 57 minecraft:azure_bluet strict
+setblock 74 65 183 minecraft:azure_bluet strict
+setblock 75 65 60 minecraft:azure_bluet strict
+setblock 75 65 229 minecraft:azure_bluet strict
+setblock 78 65 226 minecraft:azure_bluet strict
+setblock 79 65 61 minecraft:azure_bluet strict
+setblock 79 65 64 minecraft:azure_bluet strict
+setblock 79 65 84 minecraft:azure_bluet strict
+setblock 79 65 86 minecraft:azure_bluet strict
+setblock 79 65 103 minecraft:azure_bluet strict
+setblock 80 65 88 minecraft:azure_bluet strict
+setblock 81 65 86 minecraft:azure_bluet strict
+setblock 81 65 243 minecraft:azure_bluet strict
+setblock 82 65 84 minecraft:azure_bluet strict
+fill 84 65 72 85 65 72 minecraft:azure_bluet strict
+setblock 85 65 100 minecraft:azure_bluet strict
+setblock 85 65 221 minecraft:azure_bluet strict
+setblock 88 65 68 minecraft:azure_bluet strict
+setblock 101 65 221 minecraft:azure_bluet strict
+setblock 104 65 225 minecraft:azure_bluet strict
+setblock 120 65 126 minecraft:azure_bluet strict
+setblock 121 65 113 minecraft:azure_bluet strict
+setblock 121 65 125 minecraft:azure_bluet strict
+setblock 122 65 129 minecraft:azure_bluet strict
+setblock 123 65 116 minecraft:azure_bluet strict
+setblock 123 65 249 minecraft:azure_bluet strict
+setblock 132 65 250 minecraft:azure_bluet strict
+setblock 134 65 116 minecraft:azure_bluet strict
+setblock 135 65 114 minecraft:azure_bluet strict
+setblock 135 65 127 minecraft:azure_bluet strict
+setblock 144 65 54 minecraft:azure_bluet strict
+setblock 144 65 70 minecraft:azure_bluet strict
+setblock 149 65 228 minecraft:azure_bluet strict
+setblock 150 65 245 minecraft:azure_bluet strict
+setblock 153 65 227 minecraft:azure_bluet strict
+setblock 156 65 63 minecraft:azure_bluet strict
+setblock 157 65 223 minecraft:azure_bluet strict
+setblock 159 65 81 minecraft:azure_bluet strict
+setblock 161 65 234 minecraft:azure_bluet strict
+setblock 165 65 58 minecraft:azure_bluet strict
+setblock 166 65 235 minecraft:azure_bluet strict
+setblock 168 65 254 minecraft:azure_bluet strict
+setblock 178 65 233 minecraft:azure_bluet strict
+setblock 180 65 236 minecraft:azure_bluet strict
+setblock 182 65 252 minecraft:azure_bluet strict
+setblock 187 65 216 minecraft:azure_bluet strict
+setblock 187 65 231 minecraft:azure_bluet strict
+setblock 192 65 142 minecraft:azure_bluet strict
+setblock 193 65 133 minecraft:azure_bluet strict
+fill 193 65 136 193 65 137 minecraft:azure_bluet strict
+setblock 193 65 233 minecraft:azure_bluet strict
+setblock 196 65 230 minecraft:azure_bluet strict
+setblock 197 65 241 minecraft:azure_bluet strict
+setblock 199 65 132 minecraft:azure_bluet strict
+setblock 201 65 140 minecraft:azure_bluet strict
+setblock 202 65 133 minecraft:azure_bluet strict
+setblock 203 65 131 minecraft:azure_bluet strict
+setblock 203 65 136 minecraft:azure_bluet strict
+setblock 209 65 244 minecraft:azure_bluet strict
+setblock 209 65 247 minecraft:azure_bluet strict
+setblock 213 65 221 minecraft:azure_bluet strict
+setblock 216 65 219 minecraft:azure_bluet strict
+setblock 217 65 135 minecraft:azure_bluet strict
+setblock 228 65 224 minecraft:azure_bluet strict
+setblock 230 65 227 minecraft:azure_bluet strict
+setblock 231 65 219 minecraft:azure_bluet strict
+setblock 231 65 229 minecraft:azure_bluet strict
+setblock 234 65 254 minecraft:azure_bluet strict
+setblock 236 65 241 minecraft:azure_bluet strict
+setblock 238 65 249 minecraft:azure_bluet strict
+setblock 243 65 253 minecraft:azure_bluet strict
+setblock 128 86 85 minecraft:bell[attachment=ceiling,facing=south] strict
+setblock 116 70 101 minecraft:bell[attachment=single_wall,facing=south] strict
+fill 54 65 72 54 67 72 minecraft:birch_fence[north=false,south=false,west=false,east=false] strict
+fill 54 65 80 54 67 80 minecraft:birch_fence[north=false,south=false,west=false,east=false] strict
+fill 60 65 66 60 67 66 minecraft:birch_fence[north=false,south=false,west=false,east=false] strict
+fill 60 65 86 60 67 86 minecraft:birch_fence[north=false,south=false,west=false,east=false] strict
+fill 68 65 66 68 67 66 minecraft:birch_fence[north=false,south=false,west=false,east=false] strict
+fill 68 65 86 68 67 86 minecraft:birch_fence[north=false,south=false,west=false,east=false] strict
+fill 74 65 72 74 67 72 minecraft:birch_fence[north=false,south=false,west=false,east=false] strict
+fill 74 65 80 74 67 80 minecraft:birch_fence[north=false,south=false,west=false,east=false] strict
+fill 59 65 76 59 68 76 minecraft:birch_fence[north=false,south=false,west=false,east=false] strict
+fill 61 65 73 61 68 73 minecraft:birch_fence[north=false,south=false,west=false,east=false] strict
+fill 61 65 79 61 68 79 minecraft:birch_fence[north=false,south=false,west=false,east=false] strict
+fill 64 65 71 64 68 71 minecraft:birch_fence[north=false,south=false,west=false,east=false] strict
+fill 64 65 81 64 68 81 minecraft:birch_fence[north=false,south=false,west=false,east=false] strict
+fill 67 65 73 67 68 73 minecraft:birch_fence[north=false,south=false,west=false,east=false] strict
+fill 67 65 79 67 68 79 minecraft:birch_fence[north=false,south=false,west=false,east=false] strict
+fill 69 65 76 69 68 76 minecraft:birch_fence[north=false,south=false,west=false,east=false] strict
+fill 202 78 107 203 78 117 minecraft:brick_slab[type=bottom] strict
+fill 56 79 125 57 79 135 minecraft:brick_slab[type=bottom] strict
+fill 106 79 185 118 79 186 minecraft:brick_slab[type=bottom] strict
+setblock 122 79 246 minecraft:brick_slab[type=bottom] strict
+setblock 37 80 142 minecraft:brick_slab[type=bottom] strict
+setblock 46 80 154 minecraft:brick_slab[type=bottom] strict
+setblock 84 80 132 minecraft:brick_slab[type=bottom] strict
+setblock 37 81 194 minecraft:brick_slab[type=bottom] strict
+setblock 45 82 171 minecraft:brick_slab[type=bottom] strict
+setblock 54 82 156 minecraft:brick_slab[type=bottom] strict
+setblock 82 82 145 minecraft:brick_slab[type=bottom] strict
+setblock 85 82 164 minecraft:brick_slab[type=bottom] strict
+setblock 152 82 172 minecraft:brick_slab[type=bottom] strict
+setblock 59 83 164 minecraft:brick_slab[type=bottom] strict
+setblock 73 83 171 minecraft:brick_slab[type=bottom] strict
+setblock 85 83 194 minecraft:brick_slab[type=bottom] strict
+setblock 97 83 161 minecraft:brick_slab[type=bottom] strict
+setblock 37 84 147 minecraft:brick_slab[type=bottom] strict
+setblock 46 84 128 minecraft:brick_slab[type=bottom] strict
+fill 62 84 190 72 84 191 minecraft:brick_slab[type=bottom] strict
+setblock 104 84 194 minecraft:brick_slab[type=bottom] strict
+setblock 62 85 156 minecraft:brick_slab[type=bottom] strict
+setblock 68 85 164 minecraft:brick_slab[type=bottom] strict
+setblock 104 85 156 minecraft:brick_slab[type=bottom] strict
+setblock 101 86 140 minecraft:brick_slab[type=bottom] strict
+setblock 147 86 153 minecraft:brick_slab[type=bottom] strict
+setblock 148 86 145 minecraft:brick_slab[type=bottom] strict
+setblock 150 86 108 minecraft:brick_slab[type=bottom] strict
+setblock 155 86 129 minecraft:brick_slab[type=bottom] strict
+setblock 159 86 194 minecraft:brick_slab[type=bottom] strict
+setblock 67 88 128 minecraft:brick_slab[type=bottom] strict
+setblock 109 88 160 minecraft:brick_slab[type=bottom] strict
+setblock 115 90 165 minecraft:brick_slab[type=bottom] strict
+fill 122 70 180 122 70 191 minecraft:brick_stairs[facing=east,half=bottom,shape=straight] strict
+fill 123 71 180 123 71 191 minecraft:brick_stairs[facing=east,half=bottom,shape=straight] strict
+fill 124 72 180 124 72 191 minecraft:brick_stairs[facing=east,half=bottom,shape=straight] strict
+setblock 51 73 125 minecraft:brick_stairs[facing=east,half=bottom,shape=straight] strict
+fill 53 73 184 53 73 197 minecraft:brick_stairs[facing=east,half=bottom,shape=straight] strict
+fill 125 73 180 125 73 191 minecraft:brick_stairs[facing=east,half=bottom,shape=straight] strict
+fill 198 73 107 198 73 117 minecraft:brick_stairs[facing=east,half=bottom,shape=straight] strict
+fill 52 74 125 52 74 134 minecraft:brick_stairs[facing=east,half=bottom,shape=straight] strict
+fill 54 74 184 54 74 197 minecraft:brick_stairs[facing=east,half=bottom,shape=straight] strict
+fill 126 74 180 126 74 191 minecraft:brick_stairs[facing=east,half=bottom,shape=straight] strict
+fill 199 74 107 199 74 117 minecraft:brick_stairs[facing=east,half=bottom,shape=straight] strict
+fill 53 75 125 53 75 134 minecraft:brick_stairs[facing=east,half=bottom,shape=straight] strict
+fill 55 75 184 55 75 197 minecraft:brick_stairs[facing=east,half=bottom,shape=straight] strict
+fill 127 75 180 127 75 191 minecraft:brick_stairs[facing=east,half=bottom,shape=straight] strict
+fill 200 75 107 200 75 117 minecraft:brick_stairs[facing=east,half=bottom,shape=straight] strict
+fill 54 76 125 54 76 134 minecraft:brick_stairs[facing=east,half=bottom,shape=straight] strict
+fill 56 76 184 56 76 197 minecraft:brick_stairs[facing=east,half=bottom,shape=straight] strict
+fill 201 76 107 201 76 109 minecraft:brick_stairs[facing=east,half=bottom,shape=straight] strict
+fill 201 76 111 201 76 117 minecraft:brick_stairs[facing=east,half=bottom,shape=straight] strict
+fill 55 77 125 55 77 134 minecraft:brick_stairs[facing=east,half=bottom,shape=straight] strict
+fill 57 77 184 57 77 197 minecraft:brick_stairs[facing=east,half=bottom,shape=straight] strict
+fill 94 77 190 94 77 197 minecraft:brick_stairs[facing=east,half=bottom,shape=straight] strict
+fill 202 77 107 202 77 117 minecraft:brick_stairs[facing=east,half=bottom,shape=straight] strict
+fill 56 78 125 56 78 135 minecraft:brick_stairs[facing=east,half=bottom,shape=straight] strict
+fill 95 78 190 95 78 197 minecraft:brick_stairs[facing=east,half=bottom,shape=straight] strict
+fill 96 79 190 96 79 197 minecraft:brick_stairs[facing=east,half=bottom,shape=straight] strict
+fill 97 80 190 97 80 197 minecraft:brick_stairs[facing=east,half=bottom,shape=straight] strict
+fill 112 73 191 118 73 191 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
+fill 133 73 102 145 73 102 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
+fill 179 73 117 193 73 117 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
+setblock 108 74 190 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
+fill 110 74 190 118 74 190 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
+fill 133 74 101 144 74 101 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
+setblock 149 74 180 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
+fill 151 74 180 160 74 180 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
+setblock 162 74 180 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
+fill 179 74 116 193 74 116 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
+fill 106 75 189 118 75 189 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
+fill 133 75 100 144 75 100 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
+fill 149 75 179 162 75 179 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
+fill 179 75 115 193 75 115 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
+fill 106 76 188 114 76 188 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
+fill 116 76 188 118 76 188 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
+fill 133 76 99 145 76 99 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
+fill 149 76 178 162 76 178 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
+fill 179 76 114 189 76 114 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
+fill 191 76 114 193 76 114 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
+fill 62 77 197 72 77 197 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
+fill 106 77 187 118 77 187 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
+fill 149 77 177 162 77 177 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
+fill 179 77 113 193 77 113 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
+fill 62 78 196 72 78 196 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
+fill 106 78 186 118 78 186 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
+fill 149 78 176 162 78 176 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
+fill 62 79 195 72 79 195 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
+fill 62 80 194 72 80 194 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
+fill 62 81 193 72 81 193 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
+fill 62 82 192 72 82 192 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
+fill 62 83 191 72 83 191 minecraft:brick_stairs[facing=north,half=bottom,shape=straight] strict
+fill 108 73 180 118 73 180 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
+fill 133 73 94 146 73 94 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
+fill 149 73 169 162 73 169 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
+fill 179 73 107 193 73 107 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
+fill 107 74 181 118 74 181 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
+fill 133 74 95 145 74 95 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
+fill 149 74 170 162 74 170 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
+fill 179 74 108 193 74 108 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
+fill 106 75 182 118 75 182 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
+fill 133 75 96 145 75 96 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
+fill 149 75 171 162 75 171 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
+fill 179 75 109 193 75 109 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
+fill 106 76 183 118 76 183 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
+fill 133 76 97 145 76 97 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
+fill 149 76 172 151 76 172 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
+fill 153 76 172 162 76 172 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
+fill 179 76 110 193 76 110 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
+fill 62 77 184 72 77 184 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
+fill 106 77 184 118 77 184 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
+fill 149 77 173 162 77 173 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
+fill 179 77 111 193 77 111 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
+fill 62 78 185 72 78 185 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
+fill 106 78 185 118 78 185 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
+fill 149 78 174 162 78 174 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
+fill 62 79 186 72 79 186 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
+fill 62 80 187 68 80 187 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
+fill 70 80 187 72 80 187 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
+fill 62 81 188 72 81 188 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
+fill 62 82 189 72 82 189 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
+fill 62 83 190 72 83 190 minecraft:brick_stairs[facing=south,half=bottom,shape=straight] strict
+fill 134 70 180 134 70 191 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
+fill 133 71 180 133 71 191 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
+fill 132 72 180 132 72 191 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
+setblock 62 73 125 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
+setblock 63 73 184 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
+setblock 63 73 197 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
+fill 131 73 180 131 73 191 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
+fill 61 74 125 61 74 134 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
+fill 62 74 184 62 74 186 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
+fill 62 74 188 62 74 197 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
+fill 130 74 180 130 74 191 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
+setblock 206 74 107 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
+fill 206 74 109 206 74 115 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
+setblock 206 74 117 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
+fill 60 75 125 60 75 134 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
+fill 61 75 184 61 75 197 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
+fill 129 75 180 129 75 191 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
+fill 205 75 107 205 75 117 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
+fill 59 76 125 59 76 131 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
+fill 59 76 133 59 76 134 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
+fill 60 76 184 60 76 197 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
+fill 204 76 107 204 76 117 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
+fill 58 77 125 58 77 134 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
+fill 59 77 184 59 77 197 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
+fill 203 77 107 203 77 117 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
+fill 57 78 125 57 78 135 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
+setblock 101 78 190 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
+fill 101 78 192 101 78 195 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
+setblock 101 78 197 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
+fill 100 79 190 100 79 197 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
+fill 99 80 190 99 80 197 minecraft:brick_stairs[facing=west,half=bottom,shape=straight] strict
+setblock 175 66 65 minecraft:bush strict
+setblock 199 66 55 minecraft:bush strict
+setblock 206 66 102 minecraft:bush strict
+setblock 171 67 81 minecraft:bush strict
+setblock 213 67 64 minecraft:bush strict
+setblock 216 67 68 minecraft:bush strict
+setblock 216 68 89 minecraft:bush strict
+setblock 174 69 73 minecraft:bush strict
+setblock 188 69 59 minecraft:bush strict
+setblock 180 70 96 minecraft:bush strict
+setblock 189 70 59 minecraft:bush strict
+setblock 213 70 68 minecraft:bush strict
+setblock 174 71 81 minecraft:bush strict
+setblock 215 71 74 minecraft:bush strict
+setblock 176 73 86 minecraft:bush strict
+setblock 184 73 97 minecraft:bush strict
+setblock 204 73 98 minecraft:bush strict
+setblock 215 73 78 minecraft:bush strict
+setblock 203 74 98 minecraft:bush strict
+setblock 182 78 69 minecraft:bush strict
+setblock 201 78 96 minecraft:bush strict
+setblock 180 79 74 minecraft:bush strict
+setblock 211 79 82 minecraft:bush strict
+setblock 182 80 87 minecraft:bush strict
+setblock 209 81 83 minecraft:bush strict
+setblock 73 66 118 minecraft:cake strict
+setblock 136 80 143 minecraft:campfire[lit=true,signal_fire=false] strict
+setblock 149 80 194 minecraft:campfire[lit=true,signal_fire=false] strict
+setblock 78 81 107 minecraft:campfire[lit=true,signal_fire=false] strict
+setblock 190 81 114 minecraft:campfire[lit=true,signal_fire=false] strict
+setblock 201 81 110 minecraft:campfire[lit=true,signal_fire=false] strict
+setblock 45 82 194 minecraft:campfire[lit=true,signal_fire=false] strict
+setblock 59 82 132 minecraft:campfire[lit=true,signal_fire=false] strict
+setblock 64 82 140 minecraft:campfire[lit=true,signal_fire=false] strict
+setblock 82 82 151 minecraft:campfire[lit=true,signal_fire=false] strict
+setblock 93 82 107 minecraft:campfire[lit=true,signal_fire=false] strict
+setblock 101 82 108 minecraft:campfire[lit=true,signal_fire=false] strict
+setblock 115 82 188 minecraft:campfire[lit=true,signal_fire=false] strict
+setblock 172 82 114 minecraft:campfire[lit=true,signal_fire=false] strict
+setblock 57 83 107 minecraft:campfire[lit=true,signal_fire=false] strict
+setblock 101 83 54 minecraft:campfire[lit=true,signal_fire=false] strict
+setblock 108 83 80 minecraft:campfire[lit=true,signal_fire=false] strict
+setblock 139 83 165 minecraft:campfire[lit=true,signal_fire=false] strict
+setblock 152 83 153 minecraft:campfire[lit=true,signal_fire=false] strict
+setblock 100 85 80 minecraft:campfire[lit=true,signal_fire=false] strict
+setblock 101 86 134 minecraft:campfire[lit=true,signal_fire=false] strict
+setblock 108 86 97 minecraft:campfire[lit=true,signal_fire=false] strict
+setblock 148 86 97 minecraft:campfire[lit=true,signal_fire=false] strict
+setblock 69 87 187 minecraft:campfire[lit=true,signal_fire=false] strict
+setblock 128 80 171 minecraft:campfire[lit=true] strict
+setblock 76 66 124 minecraft:candle[candles=3,lit=true] strict
+setblock 89 66 118 minecraft:candle[candles=3,lit=true] strict
+setblock 128 67 59 minecraft:candle[candles=3,lit=true] strict
+setblock 51 65 140 minecraft:cauldron strict
+setblock 51 65 147 minecraft:cauldron strict
+setblock 52 65 161 minecraft:cauldron strict
+setblock 81 65 161 minecraft:cauldron strict
+setblock 85 65 150 minecraft:cauldron strict
+setblock 47 65 162 minecraft:cherry_door[facing=north,half=lower,hinge=left,open=false] strict
+setblock 47 66 162 minecraft:cherry_door[facing=north,half=upper,hinge=left,open=false] strict
+setblock 38 65 196 minecraft:cherry_door[facing=south,half=lower,hinge=left,open=false] strict
+setblock 148 65 196 minecraft:cherry_door[facing=south,half=lower,hinge=left,open=false] strict
+setblock 174 65 116 minecraft:cherry_door[facing=south,half=lower,hinge=left,open=false] strict
+setblock 38 66 196 minecraft:cherry_door[facing=south,half=upper,hinge=left,open=false] strict
+setblock 148 66 196 minecraft:cherry_door[facing=south,half=upper,hinge=left,open=false] strict
+setblock 174 66 116 minecraft:cherry_door[facing=south,half=upper,hinge=left,open=false] strict
+setblock 148 65 131 minecraft:cherry_door[facing=west,half=lower,hinge=left,open=false] strict
+setblock 148 66 131 minecraft:cherry_door[facing=west,half=upper,hinge=left,open=false] strict
+fill 158 66 128 158 67 128 minecraft:cherry_trapdoor[facing=east,half=bottom,open=true] strict
+fill 158 66 130 158 67 130 minecraft:cherry_trapdoor[facing=east,half=bottom,open=true] strict
+fill 158 70 128 158 71 128 minecraft:cherry_trapdoor[facing=east,half=bottom,open=true] strict
+fill 158 70 130 158 71 130 minecraft:cherry_trapdoor[facing=east,half=bottom,open=true] strict
+setblock 150 75 152 minecraft:cherry_trapdoor[facing=east,half=bottom,open=true] strict
+setblock 150 75 154 minecraft:cherry_trapdoor[facing=east,half=bottom,open=true] strict
+fill 158 74 128 158 75 128 minecraft:cherry_trapdoor[facing=east,half=bottom,open=true] strict
+fill 158 74 130 158 75 130 minecraft:cherry_trapdoor[facing=east,half=bottom,open=true] strict
+fill 158 74 132 158 75 132 minecraft:cherry_trapdoor[facing=east,half=bottom,open=true] strict
+fill 158 74 134 158 75 134 minecraft:cherry_trapdoor[facing=east,half=bottom,open=true] strict
+setblock 158 73 129 minecraft:cherry_trapdoor[facing=east,half=top,open=false] strict
+setblock 48 66 161 minecraft:cherry_trapdoor[facing=north,half=bottom,open=true] strict
+fill 36 66 184 36 67 184 minecraft:cherry_trapdoor[facing=north,half=bottom,open=true] strict
+fill 38 66 184 38 67 184 minecraft:cherry_trapdoor[facing=north,half=bottom,open=true] strict
+fill 44 66 161 44 67 161 minecraft:cherry_trapdoor[facing=north,half=bottom,open=true] strict
+fill 46 66 161 46 67 161 minecraft:cherry_trapdoor[facing=north,half=bottom,open=true] strict
+fill 146 66 190 146 67 190 minecraft:cherry_trapdoor[facing=north,half=bottom,open=true] strict
+fill 148 66 190 148 67 190 minecraft:cherry_trapdoor[facing=north,half=bottom,open=true] strict
+fill 171 66 107 171 67 107 minecraft:cherry_trapdoor[facing=north,half=bottom,open=true] strict
+fill 173 66 107 173 67 107 minecraft:cherry_trapdoor[facing=north,half=bottom,open=true] strict
+fill 175 66 107 175 67 107 minecraft:cherry_trapdoor[facing=north,half=bottom,open=true] strict
+fill 177 66 107 177 67 107 minecraft:cherry_trapdoor[facing=north,half=bottom,open=true] strict
+fill 36 70 184 36 71 184 minecraft:cherry_trapdoor[facing=north,half=bottom,open=true] strict
+fill 38 70 184 38 71 184 minecraft:cherry_trapdoor[facing=north,half=bottom,open=true] strict
+fill 44 70 161 44 71 161 minecraft:cherry_trapdoor[facing=north,half=bottom,open=true] strict
+fill 46 70 161 46 71 161 minecraft:cherry_trapdoor[facing=north,half=bottom,open=true] strict
+fill 48 70 161 48 71 161 minecraft:cherry_trapdoor[facing=north,half=bottom,open=true] strict
+fill 146 70 190 146 71 190 minecraft:cherry_trapdoor[facing=north,half=bottom,open=true] strict
+fill 148 70 190 148 71 190 minecraft:cherry_trapdoor[facing=north,half=bottom,open=true] strict
+fill 149 70 126 149 71 126 minecraft:cherry_trapdoor[facing=north,half=bottom,open=true] strict
+fill 151 70 126 151 71 126 minecraft:cherry_trapdoor[facing=north,half=bottom,open=true] strict
+fill 171 70 107 171 71 107 minecraft:cherry_trapdoor[facing=north,half=bottom,open=true] strict
+fill 173 70 107 173 71 107 minecraft:cherry_trapdoor[facing=north,half=bottom,open=true] strict
+fill 149 74 126 149 75 126 minecraft:cherry_trapdoor[facing=north,half=bottom,open=true] strict
+fill 151 74 126 151 75 126 minecraft:cherry_trapdoor[facing=north,half=bottom,open=true] strict
+setblock 48 67 161 minecraft:cherry_trapdoor[facing=north,half=top,open=false] strict
+setblock 37 69 184 minecraft:cherry_trapdoor[facing=north,half=top,open=false] strict
+setblock 150 69 126 minecraft:cherry_trapdoor[facing=north,half=top,open=false] strict
+setblock 154 69 126 minecraft:cherry_trapdoor[facing=north,half=top,open=false] strict
+setblock 176 69 107 minecraft:cherry_trapdoor[facing=north,half=top,open=false] strict
+setblock 150 73 126 minecraft:cherry_trapdoor[facing=north,half=top,open=false] strict
+setblock 175 66 117 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
+fill 36 66 197 36 67 197 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
+fill 38 66 197 38 67 197 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
+fill 44 66 174 44 67 174 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
+fill 46 66 174 46 67 174 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
+fill 48 66 174 48 67 174 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
+fill 50 66 174 50 67 174 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
+fill 139 66 162 139 67 162 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
+fill 141 66 162 141 67 162 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
+fill 146 66 197 146 67 197 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
+fill 148 66 197 148 67 197 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
+fill 171 66 117 171 67 117 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
+fill 173 66 117 173 67 117 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
+fill 177 66 117 177 67 117 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
+fill 36 70 197 36 71 197 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
+fill 38 70 197 38 71 197 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
+fill 44 70 174 44 71 174 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
+fill 46 70 174 46 71 174 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
+fill 48 70 174 48 71 174 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
+fill 50 70 174 50 71 174 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
+fill 135 70 162 135 71 162 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
+fill 137 70 162 137 71 162 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
+fill 139 70 162 139 71 162 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
+fill 141 70 162 141 71 162 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
+fill 155 70 137 155 71 137 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
+fill 171 70 117 171 71 117 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
+fill 173 70 117 173 71 117 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
+fill 175 70 117 175 71 117 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
+fill 177 70 117 177 71 117 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
+fill 139 74 162 139 75 162 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
+fill 141 74 162 141 75 162 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
+fill 143 74 162 143 75 162 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
+fill 145 74 162 145 75 162 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
+fill 149 74 137 149 75 137 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
+fill 155 74 137 155 75 137 minecraft:cherry_trapdoor[facing=south,half=bottom,open=true] strict
+setblock 39 67 197 minecraft:cherry_trapdoor[facing=south,half=top,open=false] strict
+setblock 149 67 197 minecraft:cherry_trapdoor[facing=south,half=top,open=false] strict
+setblock 175 67 117 minecraft:cherry_trapdoor[facing=south,half=top,open=false] strict
+setblock 37 69 197 minecraft:cherry_trapdoor[facing=south,half=top,open=false] strict
+setblock 49 69 174 minecraft:cherry_trapdoor[facing=south,half=top,open=false] strict
+setblock 144 69 162 minecraft:cherry_trapdoor[facing=south,half=top,open=false] strict
+setblock 147 69 197 minecraft:cherry_trapdoor[facing=south,half=top,open=false] strict
+setblock 176 69 117 minecraft:cherry_trapdoor[facing=south,half=top,open=false] strict
+setblock 140 73 162 minecraft:cherry_trapdoor[facing=south,half=top,open=false] strict
+setblock 150 73 137 minecraft:cherry_trapdoor[facing=south,half=top,open=false] strict
+setblock 147 66 132 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
+fill 34 66 190 34 67 190 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
+fill 34 66 192 34 67 192 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
+fill 42 66 163 42 67 163 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
+fill 42 66 165 42 67 165 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
+fill 42 66 167 42 67 167 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
+fill 42 66 169 42 67 169 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
+fill 133 66 152 133 67 152 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
+fill 133 66 154 133 67 154 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
+fill 133 66 156 133 67 156 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
+fill 133 66 158 133 67 158 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
+fill 147 66 128 147 67 128 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
+fill 147 66 130 147 67 130 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
+fill 147 66 134 147 67 134 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
+fill 34 70 186 34 71 186 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
+fill 34 70 188 34 71 188 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
+fill 34 70 190 34 71 190 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
+fill 34 70 192 34 71 192 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
+fill 42 70 167 42 71 167 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
+fill 42 70 169 42 71 169 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
+fill 133 70 156 133 71 156 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
+fill 133 70 158 133 71 158 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
+fill 144 70 192 144 71 192 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
+fill 144 70 194 144 71 194 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
+fill 169 70 109 169 71 109 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
+fill 169 70 111 169 71 111 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
+fill 169 70 113 169 71 113 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
+fill 169 70 115 169 71 115 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
+fill 133 74 156 133 75 156 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
+fill 133 74 158 133 75 158 minecraft:cherry_trapdoor[facing=west,half=bottom,open=true] strict
+setblock 147 67 132 minecraft:cherry_trapdoor[facing=west,half=top,open=false] strict
+setblock 34 69 191 minecraft:cherry_trapdoor[facing=west,half=top,open=false] strict
+setblock 42 69 164 minecraft:cherry_trapdoor[facing=west,half=top,open=false] strict
+setblock 42 69 168 minecraft:cherry_trapdoor[facing=west,half=top,open=false] strict
+setblock 133 69 157 minecraft:cherry_trapdoor[facing=west,half=top,open=false] strict
+setblock 147 69 129 minecraft:cherry_trapdoor[facing=west,half=top,open=false] strict
+setblock 169 69 110 minecraft:cherry_trapdoor[facing=west,half=top,open=false] strict
+setblock 169 69 114 minecraft:cherry_trapdoor[facing=west,half=top,open=false] strict
+setblock 133 73 157 minecraft:cherry_trapdoor[facing=west,half=top,open=false] strict
+setblock 147 73 133 minecraft:cherry_trapdoor[facing=west,half=top,open=false] strict
+setblock 125 65 151 minecraft:cobblestone_slab[type=bottom] strict
+fill 118 66 181 122 66 181 minecraft:cobblestone_wall[north=none,south=none,west=low,east=low,up=false] strict
+fill 118 65 181 122 65 181 minecraft:cobblestone_wall[north=none,south=none,west=tall,east=tall,up=true] strict
+setblock 51 65 154 minecraft:composter strict
+setblock 62 65 131 minecraft:composter strict
+setblock 81 65 133 minecraft:composter strict
+setblock 85 65 154 minecraft:composter strict
+setblock 87 65 153 minecraft:composter strict
+setblock 118 65 163 minecraft:composter strict
+setblock 128 65 177 minecraft:composter strict
+setblock 10 65 245 minecraft:cornflower strict
+setblock 36 65 177 minecraft:cornflower strict
+setblock 37 65 81 minecraft:cornflower strict
+setblock 38 65 82 minecraft:cornflower strict
+setblock 39 65 80 minecraft:cornflower strict
+setblock 41 65 82 minecraft:cornflower strict
+setblock 43 65 100 minecraft:cornflower strict
+setblock 43 65 102 minecraft:cornflower strict
+fill 46 65 179 46 65 180 minecraft:cornflower strict
+setblock 51 65 177 minecraft:cornflower strict
+setblock 52 65 175 minecraft:cornflower strict
+setblock 52 65 181 minecraft:cornflower strict
+setblock 53 65 252 minecraft:cornflower strict
+setblock 55 65 88 minecraft:cornflower strict
+setblock 55 65 175 minecraft:cornflower strict
+setblock 56 65 86 minecraft:cornflower strict
+setblock 57 65 251 minecraft:cornflower strict
+setblock 59 65 179 minecraft:cornflower strict
+setblock 61 65 179 minecraft:cornflower strict
+setblock 61 65 247 minecraft:cornflower strict
+setblock 63 65 181 minecraft:cornflower strict
+setblock 67 65 178 minecraft:cornflower strict
+setblock 70 65 56 minecraft:cornflower strict
+setblock 70 65 244 minecraft:cornflower strict
+setblock 71 65 227 minecraft:cornflower strict
+setblock 72 65 56 minecraft:cornflower strict
+setblock 75 65 179 minecraft:cornflower strict
+setblock 76 65 63 minecraft:cornflower strict
+setblock 76 65 176 minecraft:cornflower strict
+setblock 77 65 61 minecraft:cornflower strict
+setblock 77 65 64 minecraft:cornflower strict
+setblock 77 65 225 minecraft:cornflower strict
+setblock 78 65 63 minecraft:cornflower strict
+fill 78 65 87 79 65 87 minecraft:cornflower strict
+setblock 79 65 88 minecraft:cornflower strict
+setblock 80 65 246 minecraft:cornflower strict
+setblock 82 65 85 minecraft:cornflower strict
+setblock 83 65 182 minecraft:cornflower strict
+setblock 83 65 229 minecraft:cornflower strict
+fill 84 65 70 85 65 70 minecraft:cornflower strict
+setblock 85 65 71 minecraft:cornflower strict
+setblock 85 65 223 minecraft:cornflower strict
+setblock 86 65 228 minecraft:cornflower strict
+setblock 88 65 70 minecraft:cornflower strict
+setblock 89 65 71 minecraft:cornflower strict
+setblock 89 65 102 minecraft:cornflower strict
+fill 89 65 221 89 65 222 minecraft:cornflower strict
+setblock 104 65 224 minecraft:cornflower strict
+setblock 105 65 241 minecraft:cornflower strict
+setblock 107 65 223 minecraft:cornflower strict
+setblock 120 65 115 minecraft:cornflower strict
+setblock 120 65 127 minecraft:cornflower strict
+setblock 121 65 249 minecraft:cornflower strict
+setblock 123 65 113 minecraft:cornflower strict
+setblock 123 65 115 minecraft:cornflower strict
+fill 133 65 114 133 65 115 minecraft:cornflower strict
+setblock 135 65 115 minecraft:cornflower strict
+setblock 136 65 116 minecraft:cornflower strict
+setblock 136 65 128 minecraft:cornflower strict
+setblock 139 65 76 minecraft:cornflower strict
+setblock 141 65 79 minecraft:cornflower strict
+setblock 142 65 84 minecraft:cornflower strict
+setblock 145 65 85 minecraft:cornflower strict
+setblock 155 65 238 minecraft:cornflower strict
+setblock 157 65 75 minecraft:cornflower strict
+setblock 158 65 239 minecraft:cornflower strict
+setblock 158 65 243 minecraft:cornflower strict
+setblock 159 65 245 minecraft:cornflower strict
+setblock 160 65 53 minecraft:cornflower strict
+setblock 160 65 237 minecraft:cornflower strict
+setblock 161 65 73 minecraft:cornflower strict
+setblock 163 65 225 minecraft:cornflower strict
+setblock 164 65 221 minecraft:cornflower strict
+setblock 165 65 60 minecraft:cornflower strict
+setblock 166 65 59 minecraft:cornflower strict
+setblock 166 65 75 minecraft:cornflower strict
+setblock 172 65 227 minecraft:cornflower strict
+setblock 178 65 254 minecraft:cornflower strict
+setblock 179 65 233 minecraft:cornflower strict
+setblock 180 65 217 minecraft:cornflower strict
+setblock 182 65 249 minecraft:cornflower strict
+setblock 190 65 131 minecraft:cornflower strict
+setblock 192 65 243 minecraft:cornflower strict
+setblock 195 65 141 minecraft:cornflower strict
+setblock 196 65 235 minecraft:cornflower strict
+setblock 196 65 237 minecraft:cornflower strict
+setblock 199 65 241 minecraft:cornflower strict
+setblock 201 65 220 minecraft:cornflower strict
+setblock 201 65 231 minecraft:cornflower strict
+setblock 202 65 137 minecraft:cornflower strict
+setblock 207 65 130 minecraft:cornflower strict
+setblock 209 65 239 minecraft:cornflower strict
+setblock 211 65 137 minecraft:cornflower strict
+setblock 211 65 140 minecraft:cornflower strict
+setblock 213 65 251 minecraft:cornflower strict
+setblock 217 65 232 minecraft:cornflower strict
+setblock 221 65 241 minecraft:cornflower strict
+setblock 235 65 220 minecraft:cornflower strict
+setblock 242 65 233 minecraft:cornflower strict
+setblock 243 65 234 minecraft:cornflower strict
+setblock 246 65 250 minecraft:cornflower strict
+setblock 187 67 102 minecraft:cornflower strict
+setblock 192 68 57 minecraft:cornflower strict
+setblock 194 71 59 minecraft:cornflower strict
+setblock 213 72 70 minecraft:cornflower strict
+setblock 181 73 66 minecraft:cornflower strict
+setblock 213 74 87 minecraft:cornflower strict
+setblock 190 75 98 minecraft:cornflower strict
+setblock 193 75 61 minecraft:cornflower strict
+setblock 184 77 94 minecraft:cornflower strict
+setblock 200 77 97 minecraft:cornflower strict
+setblock 203 77 64 minecraft:cornflower strict
+setblock 192 79 96 minecraft:cornflower strict
+setblock 187 81 68 minecraft:cornflower strict
+setblock 9 65 181 minecraft:dandelion strict
+setblock 9 65 205 minecraft:dandelion strict
+setblock 10 65 84 minecraft:dandelion strict
+setblock 10 65 183 minecraft:dandelion strict
+setblock 10 65 243 minecraft:dandelion strict
+setblock 11 65 194 minecraft:dandelion strict
+setblock 12 65 195 minecraft:dandelion strict
+setblock 14 65 147 minecraft:dandelion strict
+setblock 14 65 217 minecraft:dandelion strict
+setblock 18 65 51 minecraft:dandelion strict
+setblock 36 65 159 minecraft:dandelion strict
+fill 41 65 81 42 65 81 minecraft:dandelion strict
+setblock 42 65 182 minecraft:dandelion strict
+setblock 43 65 83 minecraft:dandelion strict
+setblock 43 65 174 minecraft:dandelion strict
+setblock 46 65 21 minecraft:dandelion strict
+fill 51 65 86 51 65 87 minecraft:dandelion strict
+setblock 53 65 87 minecraft:dandelion strict
+setblock 56 65 89 minecraft:dandelion strict
+setblock 56 65 224 minecraft:dandelion strict
+setblock 57 65 87 minecraft:dandelion strict
+setblock 57 65 252 minecraft:dandelion strict
+setblock 58 65 103 minecraft:dandelion strict
+setblock 58 65 235 minecraft:dandelion strict
+setblock 60 65 230 minecraft:dandelion strict
+setblock 62 65 181 minecraft:dandelion strict
+setblock 62 65 223 minecraft:dandelion strict
+setblock 62 65 254 minecraft:dandelion strict
+setblock 64 65 228 minecraft:dandelion strict
+setblock 66 65 100 minecraft:dandelion strict
+setblock 66 65 180 minecraft:dandelion strict
+setblock 67 65 183 minecraft:dandelion strict
+setblock 69 65 54 minecraft:dandelion strict
+setblock 70 65 55 minecraft:dandelion strict
+setblock 70 65 104 minecraft:dandelion strict
+setblock 73 65 54 minecraft:dandelion strict
+setblock 73 65 218 minecraft:dandelion strict
+setblock 74 65 61 minecraft:dandelion strict
+setblock 75 65 64 minecraft:dandelion strict
+setblock 76 65 240 minecraft:dandelion strict
+setblock 77 65 62 minecraft:dandelion strict
+fill 77 65 84 77 65 86 minecraft:dandelion strict
+setblock 77 65 177 minecraft:dandelion strict
+setblock 77 65 183 minecraft:dandelion strict
+setblock 79 65 104 minecraft:dandelion strict
+setblock 80 65 87 minecraft:dandelion strict
+setblock 81 65 245 minecraft:dandelion strict
+setblock 82 65 181 minecraft:dandelion strict
+setblock 82 65 255 minecraft:dandelion strict
+setblock 83 65 71 minecraft:dandelion strict
+setblock 83 65 87 minecraft:dandelion strict
+setblock 84 65 68 minecraft:dandelion strict
+setblock 85 65 225 minecraft:dandelion strict
+setblock 86 65 71 minecraft:dandelion strict
+setblock 89 65 70 minecraft:dandelion strict
+setblock 89 65 72 minecraft:dandelion strict
+setblock 94 65 238 minecraft:dandelion strict
+setblock 98 65 61 minecraft:dandelion strict
+setblock 100 65 245 minecraft:dandelion strict
+setblock 101 65 39 minecraft:dandelion strict
+setblock 102 65 228 minecraft:dandelion strict
+setblock 102 65 255 minecraft:dandelion strict
+setblock 104 65 34 minecraft:dandelion strict
+setblock 105 65 217 minecraft:dandelion strict
+setblock 110 65 241 minecraft:dandelion strict
+setblock 115 65 253 minecraft:dandelion strict
+setblock 117 65 249 minecraft:dandelion strict
+setblock 120 65 37 minecraft:dandelion strict
+setblock 120 65 249 minecraft:dandelion strict
+setblock 121 65 114 minecraft:dandelion strict
+setblock 122 65 116 minecraft:dandelion strict
+setblock 123 65 128 minecraft:dandelion strict
+setblock 124 65 116 minecraft:dandelion strict
+fill 132 65 126 132 65 127 minecraft:dandelion strict
+setblock 133 65 127 minecraft:dandelion strict
+setblock 134 65 117 minecraft:dandelion strict
+setblock 141 65 58 minecraft:dandelion strict
+setblock 144 65 19 minecraft:dandelion strict
+setblock 145 65 21 minecraft:dandelion strict
+setblock 145 65 83 minecraft:dandelion strict
+setblock 146 65 224 minecraft:dandelion strict
+setblock 149 65 235 minecraft:dandelion strict
+setblock 152 65 36 minecraft:dandelion strict
+setblock 152 65 240 minecraft:dandelion strict
+setblock 153 65 30 minecraft:dandelion strict
+setblock 154 65 219 minecraft:dandelion strict
+setblock 160 65 80 minecraft:dandelion strict
+setblock 161 65 58 minecraft:dandelion strict
+setblock 161 65 216 minecraft:dandelion strict
+setblock 162 65 36 minecraft:dandelion strict
+setblock 162 65 60 minecraft:dandelion strict
+setblock 169 65 219 minecraft:dandelion strict
+setblock 172 65 139 minecraft:dandelion strict
+setblock 173 65 252 minecraft:dandelion strict
+setblock 175 65 134 minecraft:dandelion strict
+setblock 176 65 247 minecraft:dandelion strict
+setblock 177 65 53 minecraft:dandelion strict
+setblock 178 65 32 minecraft:dandelion strict
+setblock 179 65 234 minecraft:dandelion strict
+setblock 181 65 127 minecraft:dandelion strict
+setblock 181 65 250 minecraft:dandelion strict
+setblock 184 65 16 minecraft:dandelion strict
+setblock 187 65 133 minecraft:dandelion strict
+setblock 190 65 176 minecraft:dandelion strict
+setblock 193 65 140 minecraft:dandelion strict
+setblock 199 65 194 minecraft:dandelion strict
+setblock 201 65 18 minecraft:dandelion strict
+setblock 202 65 136 minecraft:dandelion strict
+setblock 202 65 142 minecraft:dandelion strict
+setblock 202 65 175 minecraft:dandelion strict
+setblock 202 65 232 minecraft:dandelion strict
+setblock 205 65 151 minecraft:dandelion strict
+setblock 206 65 149 minecraft:dandelion strict
+setblock 207 65 140 minecraft:dandelion strict
+setblock 208 65 247 minecraft:dandelion strict
+setblock 209 65 134 minecraft:dandelion strict
+setblock 212 65 136 minecraft:dandelion strict
+setblock 213 65 133 minecraft:dandelion strict
+fill 213 65 237 214 65 237 minecraft:dandelion strict
+setblock 215 65 144 minecraft:dandelion strict
+setblock 215 65 163 minecraft:dandelion strict
+setblock 218 65 168 minecraft:dandelion strict
+setblock 218 65 242 minecraft:dandelion strict
+setblock 222 65 232 minecraft:dandelion strict
+setblock 229 65 216 minecraft:dandelion strict
+setblock 229 65 218 minecraft:dandelion strict
+setblock 232 65 170 minecraft:dandelion strict
+setblock 232 65 232 minecraft:dandelion strict
+setblock 233 65 229 minecraft:dandelion strict
+setblock 234 65 182 minecraft:dandelion strict
+setblock 235 65 136 minecraft:dandelion strict
+setblock 237 65 90 minecraft:dandelion strict
+setblock 238 65 246 minecraft:dandelion strict
+setblock 239 65 16 minecraft:dandelion strict
+setblock 240 65 107 minecraft:dandelion strict
+setblock 240 65 177 minecraft:dandelion strict
+setblock 241 65 187 minecraft:dandelion strict
+setblock 243 65 83 minecraft:dandelion strict
+setblock 244 65 228 minecraft:dandelion strict
+setblock 245 65 223 minecraft:dandelion strict
+setblock 246 65 196 minecraft:dandelion strict
+setblock 173 66 68 minecraft:dandelion strict
+setblock 218 66 72 minecraft:dandelion strict
+setblock 173 67 88 minecraft:dandelion strict
+setblock 193 67 56 minecraft:dandelion strict
+setblock 208 67 60 minecraft:dandelion strict
+setblock 175 68 92 minecraft:dandelion strict
+setblock 178 68 64 minecraft:dandelion strict
+setblock 216 68 70 minecraft:dandelion strict
+setblock 214 69 68 minecraft:dandelion strict
+setblock 215 70 88 minecraft:dandelion strict
+setblock 192 71 101 minecraft:dandelion strict
+setblock 216 71 81 minecraft:dandelion strict
+setblock 208 73 95 minecraft:dandelion strict
+setblock 209 73 94 minecraft:dandelion strict
+setblock 207 74 65 minecraft:dandelion strict
+setblock 212 74 89 minecraft:dandelion strict
+setblock 180 75 91 minecraft:dandelion strict
+setblock 185 75 96 minecraft:dandelion strict
+setblock 214 75 80 minecraft:dandelion strict
+setblock 204 77 65 minecraft:dandelion strict
+setblock 193 79 64 minecraft:dandelion strict
+setblock 181 80 74 minecraft:dandelion strict
+setblock 196 80 65 minecraft:dandelion strict
+setblock 182 81 80 minecraft:dandelion strict
+setblock 185 81 80 minecraft:dandelion strict
+setblock 188 81 80 minecraft:dandelion strict
+setblock 188 81 85 minecraft:dandelion strict
+setblock 191 81 93 minecraft:dandelion strict
+setblock 194 81 66 minecraft:dandelion strict
+setblock 202 81 88 minecraft:dandelion strict
+setblock 203 81 78 minecraft:dandelion strict
+setblock 203 81 81 minecraft:dandelion strict
+setblock 203 81 87 minecraft:dandelion strict
+setblock 204 81 80 minecraft:dandelion strict
+setblock 206 81 83 minecraft:dandelion strict
+setblock 48 65 141 minecraft:dark_oak_door[facing=east,half=lower,hinge=left,open=false] strict
+setblock 108 65 110 minecraft:dark_oak_door[facing=east,half=lower,hinge=left,open=false] strict
+setblock 161 65 155 minecraft:dark_oak_door[facing=east,half=lower,hinge=left,open=false] strict
+setblock 48 66 141 minecraft:dark_oak_door[facing=east,half=upper,hinge=left,open=false] strict
+setblock 108 66 110 minecraft:dark_oak_door[facing=east,half=upper,hinge=left,open=false] strict
+setblock 161 66 155 minecraft:dark_oak_door[facing=east,half=upper,hinge=left,open=false] strict
+setblock 38 65 162 minecraft:dark_oak_door[facing=north,half=lower,hinge=left,open=false] strict
+setblock 151 65 138 minecraft:dark_oak_door[facing=north,half=lower,hinge=left,open=false] strict
+setblock 38 66 162 minecraft:dark_oak_door[facing=north,half=upper,hinge=left,open=false] strict
+setblock 151 66 138 minecraft:dark_oak_door[facing=north,half=upper,hinge=left,open=false] strict
+setblock 67 65 147 minecraft:dark_oak_door[facing=south,half=lower,hinge=left,open=false] strict
+setblock 70 65 116 minecraft:dark_oak_door[facing=south,half=lower,hinge=left,open=false] strict
+setblock 78 65 147 minecraft:dark_oak_door[facing=south,half=lower,hinge=left,open=false] strict
+setblock 111 65 89 minecraft:dark_oak_door[facing=south,half=lower,hinge=left,open=false] strict
+setblock 116 65 101 minecraft:dark_oak_door[facing=south,half=lower,hinge=left,open=false] strict
+setblock 151 65 104 minecraft:dark_oak_door[facing=south,half=lower,hinge=left,open=false] strict
+setblock 213 65 116 minecraft:dark_oak_door[facing=south,half=lower,hinge=left,open=false] strict
+setblock 67 66 147 minecraft:dark_oak_door[facing=south,half=upper,hinge=left,open=false] strict
+setblock 70 66 116 minecraft:dark_oak_door[facing=south,half=upper,hinge=left,open=false] strict
+setblock 78 66 147 minecraft:dark_oak_door[facing=south,half=upper,hinge=left,open=false] strict
+setblock 111 66 89 minecraft:dark_oak_door[facing=south,half=upper,hinge=left,open=false] strict
+setblock 116 66 101 minecraft:dark_oak_door[facing=south,half=upper,hinge=left,open=false] strict
+setblock 151 66 104 minecraft:dark_oak_door[facing=south,half=upper,hinge=left,open=false] strict
+setblock 213 66 116 minecraft:dark_oak_door[facing=south,half=upper,hinge=left,open=false] strict
+setblock 148 65 110 minecraft:dark_oak_door[facing=west,half=lower,hinge=left,open=false] strict
+setblock 148 66 110 minecraft:dark_oak_door[facing=west,half=upper,hinge=left,open=false] strict
+fill 92 65 123 92 66 123 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
+fill 38 65 123 38 67 123 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
+fill 47 65 119 47 67 119 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
+fill 56 65 123 56 67 123 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
+fill 65 65 119 65 67 119 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
+fill 74 65 123 74 67 123 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
+fill 83 65 119 83 67 119 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
+fill 114 65 117 114 67 117 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
+fill 114 65 125 114 67 125 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
+fill 117 65 110 117 67 110 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
+fill 117 65 132 117 67 132 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
+fill 124 65 107 124 67 107 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
+fill 124 65 135 124 67 135 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
+fill 132 65 107 132 67 107 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
+fill 132 65 135 132 67 135 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
+fill 139 65 110 139 67 110 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
+fill 139 65 132 139 67 132 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
+fill 142 65 117 142 67 117 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
+fill 142 65 125 142 67 125 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
+fill 164 65 117 164 67 117 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
+fill 168 65 125 168 67 125 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
+fill 177 65 125 177 67 125 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
+fill 182 66 117 182 67 117 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
+fill 186 65 125 186 67 125 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
+fill 195 65 125 195 67 125 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
+fill 204 65 125 204 67 125 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
+fill 209 66 117 209 67 117 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
+fill 213 65 125 213 67 125 minecraft:dark_oak_fence[north=false,south=false,west=false,east=false] strict
+setblock 92 67 123 minecraft:dark_oak_fence[north=false,south=true,west=false,east=false] strict
+setblock 173 65 117 minecraft:dark_oak_fence[north=true,south=false,west=false,east=false] strict
+setblock 182 65 117 minecraft:dark_oak_fence[north=true,south=false,west=false,east=false] strict
+setblock 191 65 117 minecraft:dark_oak_fence[north=true,south=false,west=false,east=false] strict
+setblock 200 65 117 minecraft:dark_oak_fence[north=true,south=false,west=false,east=false] strict
+setblock 209 65 117 minecraft:dark_oak_fence[north=true,south=false,west=false,east=false] strict
+setblock 218 65 117 minecraft:dark_oak_fence[north=true,south=false,west=false,east=false] strict
+fill 222 65 125 222 67 125 minecraft:dark_oak_fence[north=true,south=false,west=false,east=false] strict
+fill 68 79 153 85 79 154 minecraft:dark_oak_slab[type=bottom] strict
+fill 45 80 110 60 80 111 minecraft:dark_oak_slab[type=bottom] strict
+fill 100 80 176 101 80 191 minecraft:dark_oak_slab[type=bottom] strict
+fill 101 81 193 112 81 193 minecraft:dark_oak_slab[type=bottom] strict
+fill 101 81 194 103 81 194 minecraft:dark_oak_slab[type=bottom] strict
+fill 105 81 194 112 81 194 minecraft:dark_oak_slab[type=bottom] strict
+fill 101 82 77 102 82 90 minecraft:dark_oak_slab[type=bottom] strict
+fill 103 83 126 104 83 137 minecraft:dark_oak_slab[type=bottom] strict
+fill 113 85 150 114 85 163 minecraft:dark_oak_slab[type=bottom] strict
+fill 106 87 171 118 87 172 minecraft:dark_oak_slab[type=bottom] strict
+fill 34 73 104 34 73 117 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
+fill 94 73 176 94 73 191 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
+fill 171 73 167 171 73 185 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
+fill 35 74 104 35 74 117 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
+fill 95 74 176 95 74 190 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
+fill 172 74 167 172 74 185 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
+fill 36 75 104 36 75 117 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
+fill 96 75 176 96 75 189 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
+fill 173 75 167 173 75 185 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
+fill 37 76 104 37 76 117 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
+fill 97 76 176 97 76 190 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
+fill 174 76 167 174 76 185 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
+fill 38 77 104 38 77 117 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
+fill 97 77 77 97 77 90 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
+fill 98 77 126 98 77 136 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
+fill 98 77 176 98 77 190 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
+fill 106 77 160 106 77 161 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
+setblock 106 77 163 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
+fill 175 77 167 175 77 185 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
+fill 39 78 104 39 78 117 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
+fill 98 78 77 98 78 90 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
+fill 99 78 126 99 78 137 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
+fill 99 78 176 99 78 190 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
+setblock 107 78 150 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
+fill 107 78 152 107 78 157 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
+fill 107 78 159 107 78 162 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
+fill 176 78 167 176 78 185 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
+fill 99 79 77 99 79 90 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
+fill 100 79 126 100 79 137 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
+fill 100 79 176 100 79 189 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
+fill 108 79 150 108 79 163 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
+fill 177 79 167 177 79 185 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
+fill 100 80 77 100 80 79 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
+fill 100 80 81 100 80 90 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
+fill 101 80 126 101 80 133 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
+fill 101 80 135 101 80 137 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
+fill 109 80 150 109 80 159 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
+fill 109 80 161 109 80 163 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
+fill 178 80 167 178 80 185 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
+fill 101 81 77 101 81 90 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
+fill 102 81 126 102 81 137 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
+fill 110 81 150 110 81 163 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
+fill 103 82 126 103 82 137 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
+fill 111 82 150 111 82 163 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
+fill 112 83 150 112 83 163 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
+fill 113 84 150 113 84 163 minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight] strict
+fill 34 73 159 48 73 159 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
+fill 45 73 117 60 73 117 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
+fill 98 73 65 113 73 65 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
+fill 110 73 148 123 73 148 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
+fill 133 73 148 146 73 148 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
+fill 34 74 158 48 74 158 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
+fill 45 74 116 60 74 116 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
+fill 68 74 158 84 74 158 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
+fill 98 74 64 113 74 64 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
+fill 110 74 147 123 74 147 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
+fill 133 74 147 146 74 147 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
+fill 34 75 157 48 75 157 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
+fill 45 75 115 60 75 115 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
+fill 68 75 157 84 75 157 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
+fill 98 75 63 113 75 63 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
+fill 110 75 146 123 75 146 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
+fill 133 75 146 146 75 146 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
+fill 34 76 156 48 76 156 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
+fill 45 76 114 60 76 114 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
+fill 68 76 156 84 76 156 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
+fill 98 76 62 113 76 62 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
+fill 110 76 145 123 76 145 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
+fill 133 76 145 146 76 145 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
+fill 45 77 113 60 77 113 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
+fill 68 77 155 84 77 155 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
+fill 98 77 61 113 77 61 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
+fill 101 77 197 112 77 197 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
+fill 106 77 181 118 77 181 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
+fill 149 77 170 162 77 170 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
+fill 45 78 112 60 78 112 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
+fill 68 78 154 85 78 154 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
+fill 98 78 60 113 78 60 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
+fill 101 78 196 112 78 196 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
+fill 106 78 180 118 78 180 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
+fill 149 78 169 162 78 169 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
+fill 45 79 111 60 79 111 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
+fill 98 79 59 113 79 59 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
+fill 101 79 195 112 79 195 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
+fill 106 79 179 118 79 179 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
+fill 149 79 168 162 79 168 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
+fill 101 80 194 103 80 194 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
+fill 105 80 194 112 80 194 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
+fill 106 80 178 118 80 178 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
+fill 149 80 167 162 80 167 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
+fill 106 81 177 118 81 177 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
+fill 149 81 166 162 81 166 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
+fill 106 82 176 118 82 176 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
+fill 106 83 175 118 83 175 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
+fill 106 84 174 118 84 174 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
+fill 106 85 173 118 85 173 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
+fill 106 86 172 118 86 172 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight] strict
+fill 34 73 151 48 73 151 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 45 73 104 48 73 104 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 52 73 104 60 73 104 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 68 73 148 84 73 148 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 98 73 51 113 73 51 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 110 73 140 123 73 140 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 133 73 140 146 73 140 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 34 74 152 48 74 152 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 45 74 105 60 74 105 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 68 74 149 84 74 149 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 98 74 52 113 74 52 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 110 74 141 123 74 141 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 133 74 141 146 74 141 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 34 75 153 48 75 153 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 45 75 106 60 75 106 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 68 75 150 84 75 150 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 98 75 53 113 75 53 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 110 75 142 123 75 142 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 133 75 142 146 75 142 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 34 76 154 45 76 154 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 45 76 107 56 76 107 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 47 76 154 48 76 154 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 58 76 107 60 76 107 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 68 76 151 81 76 151 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 83 76 151 84 76 151 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 98 76 54 100 76 54 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 102 76 54 113 76 54 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 110 76 143 123 76 143 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 133 76 143 135 76 143 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 137 76 143 146 76 143 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 45 77 108 60 77 108 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 68 77 152 84 77 152 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 98 77 55 113 77 55 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 101 77 190 112 77 190 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 106 77 162 118 77 162 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 149 77 160 162 77 160 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 45 78 109 60 78 109 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 68 78 153 85 78 153 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 98 78 56 113 78 56 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 101 78 191 112 78 191 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 106 78 163 118 78 163 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 149 78 161 162 78 161 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 45 79 110 60 79 110 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 98 79 57 113 79 57 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 101 79 192 112 79 192 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 106 79 164 118 79 164 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 149 79 162 162 79 162 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 101 80 193 112 80 193 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 106 80 165 114 80 165 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 116 80 165 118 80 165 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 149 80 163 162 80 163 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 106 81 166 118 81 166 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 149 81 164 162 81 164 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 106 82 167 118 82 167 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 106 83 168 118 83 168 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 106 84 169 118 84 169 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 106 85 170 118 85 170 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 106 86 171 118 86 171 minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight] strict
+fill 121 65 66 125 65 66 minecraft:dark_oak_stairs[facing=south,half=bottom] strict
+fill 121 65 68 125 65 68 minecraft:dark_oak_stairs[facing=south,half=bottom] strict
+fill 121 65 70 125 65 70 minecraft:dark_oak_stairs[facing=south,half=bottom] strict
+fill 121 65 72 125 65 72 minecraft:dark_oak_stairs[facing=south,half=bottom] strict
+fill 121 65 74 125 65 74 minecraft:dark_oak_stairs[facing=south,half=bottom] strict
+fill 121 65 76 125 65 76 minecraft:dark_oak_stairs[facing=south,half=bottom] strict
+fill 121 65 78 125 65 78 minecraft:dark_oak_stairs[facing=south,half=bottom] strict
+fill 131 65 66 135 65 66 minecraft:dark_oak_stairs[facing=south,half=bottom] strict
+fill 131 65 68 135 65 68 minecraft:dark_oak_stairs[facing=south,half=bottom] strict
+fill 131 65 70 135 65 70 minecraft:dark_oak_stairs[facing=south,half=bottom] strict
+fill 131 65 72 135 65 72 minecraft:dark_oak_stairs[facing=south,half=bottom] strict
+fill 131 65 74 135 65 74 minecraft:dark_oak_stairs[facing=south,half=bottom] strict
+fill 131 65 76 135 65 76 minecraft:dark_oak_stairs[facing=south,half=bottom] strict
+fill 131 65 78 135 65 78 minecraft:dark_oak_stairs[facing=south,half=bottom] strict
+fill 107 73 176 107 73 190 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
+fill 187 73 167 187 73 185 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
+setblock 45 74 104 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
+fill 45 74 106 45 74 115 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
+setblock 45 74 117 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
+fill 106 74 176 106 74 190 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
+fill 186 74 167 186 74 185 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
+fill 44 75 104 44 75 117 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
+fill 105 75 176 105 75 189 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
+fill 185 75 167 185 75 185 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
+fill 43 76 104 43 76 117 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
+fill 104 76 176 104 76 190 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
+fill 184 76 167 184 76 185 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
+fill 42 77 104 42 77 117 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
+fill 103 77 176 103 77 189 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
+fill 106 77 77 106 77 90 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
+fill 109 77 126 109 77 136 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
+fill 121 77 150 121 77 163 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
+fill 183 77 167 183 77 185 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
+fill 41 78 104 41 78 117 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
+fill 102 78 176 102 78 190 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
+fill 105 78 77 105 78 90 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
+fill 108 78 126 108 78 137 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
+fill 120 78 150 120 78 163 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
+fill 182 78 167 182 78 185 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
+fill 101 79 176 101 79 191 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
+fill 104 79 77 104 79 90 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
+fill 107 79 126 107 79 137 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
+fill 119 79 150 119 79 163 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
+fill 181 79 167 181 79 185 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
+fill 103 80 77 103 80 90 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
+fill 106 80 126 106 80 137 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
+fill 118 80 150 118 80 163 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
+fill 180 80 167 180 80 185 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
+fill 102 81 77 102 81 90 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
+fill 105 81 126 105 81 137 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
+fill 117 81 150 117 81 163 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
+fill 104 82 126 104 82 137 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
+fill 116 82 150 116 82 163 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
+fill 115 83 150 115 83 163 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
+fill 114 84 150 114 84 163 minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight] strict
+setblock 162 66 156 minecraft:dark_oak_trapdoor[facing=east,half=bottom,open=true] strict
+fill 109 66 107 109 67 107 minecraft:dark_oak_trapdoor[facing=east,half=bottom,open=true] strict
+fill 109 66 109 109 67 109 minecraft:dark_oak_trapdoor[facing=east,half=bottom,open=true] strict
+fill 118 66 83 118 67 83 minecraft:dark_oak_trapdoor[facing=east,half=bottom,open=true] strict
+fill 118 66 85 118 67 85 minecraft:dark_oak_trapdoor[facing=east,half=bottom,open=true] strict
+fill 158 66 107 158 67 107 minecraft:dark_oak_trapdoor[facing=east,half=bottom,open=true] strict
+fill 158 66 109 158 67 109 minecraft:dark_oak_trapdoor[facing=east,half=bottom,open=true] strict
+fill 158 66 111 158 67 111 minecraft:dark_oak_trapdoor[facing=east,half=bottom,open=true] strict
+fill 158 66 113 158 67 113 minecraft:dark_oak_trapdoor[facing=east,half=bottom,open=true] strict
+fill 158 66 143 158 67 143 minecraft:dark_oak_trapdoor[facing=east,half=bottom,open=true] strict
+fill 158 66 145 158 67 145 minecraft:dark_oak_trapdoor[facing=east,half=bottom,open=true] strict
+fill 162 66 158 162 67 158 minecraft:dark_oak_trapdoor[facing=east,half=bottom,open=true] strict
+fill 221 66 113 221 67 113 minecraft:dark_oak_trapdoor[facing=east,half=bottom,open=true] strict
+fill 221 66 115 221 67 115 minecraft:dark_oak_trapdoor[facing=east,half=bottom,open=true] strict
+fill 109 70 107 109 71 107 minecraft:dark_oak_trapdoor[facing=east,half=bottom,open=true] strict
 fill 109 70 109 109 71 109 minecraft:dark_oak_trapdoor[facing=east,half=bottom,open=true] strict
 fill 109 70 111 109 71 111 minecraft:dark_oak_trapdoor[facing=east,half=bottom,open=true] strict
 fill 109 70 113 109 71 113 minecraft:dark_oak_trapdoor[facing=east,half=bottom,open=true] strict
@@ -119,1084 +1198,5 @@ fill 66 70 117 66 71 117 minecraft:dark_oak_trapdoor[facing=south,half=bottom,op
 fill 68 70 117 68 71 117 minecraft:dark_oak_trapdoor[facing=south,half=bottom,open=true] strict
 fill 69 70 148 69 71 148 minecraft:dark_oak_trapdoor[facing=south,half=bottom,open=true] strict
 fill 70 70 117 70 71 117 minecraft:dark_oak_trapdoor[facing=south,half=bottom,open=true] strict
-fill 72 70 117 72 71 117 minecraft:dark_oak_trapdoor[facing=south,half=bottom,open=true] strict
-fill 104 70 116 104 71 116 minecraft:dark_oak_trapdoor[facing=south,half=bottom,open=true] strict
-fill 106 70 116 106 71 116 minecraft:dark_oak_trapdoor[facing=south,half=bottom,open=true] strict
-fill 107 70 90 107 71 90 minecraft:dark_oak_trapdoor[facing=south,half=bottom,open=true] strict
-fill 109 70 90 109 71 90 minecraft:dark_oak_trapdoor[facing=south,half=bottom,open=true] strict
-fill 111 70 90 111 71 90 minecraft:dark_oak_trapdoor[facing=south,half=bottom,open=true] strict
-fill 113 70 90 113 71 90 minecraft:dark_oak_trapdoor[facing=south,half=bottom,open=true] strict
-fill 116 70 102 116 71 102 minecraft:dark_oak_trapdoor[facing=south,half=bottom,open=true] strict
-fill 118 70 102 118 71 102 minecraft:dark_oak_trapdoor[facing=south,half=bottom,open=true] strict
-fill 147 70 105 147 71 105 minecraft:dark_oak_trapdoor[facing=south,half=bottom,open=true] strict
-fill 153 70 116 153 71 116 minecraft:dark_oak_trapdoor[facing=south,half=bottom,open=true] strict
-fill 155 70 116 155 71 116 minecraft:dark_oak_trapdoor[facing=south,half=bottom,open=true] strict
-fill 208 70 117 208 71 117 minecraft:dark_oak_trapdoor[facing=south,half=bottom,open=true] strict
-fill 210 70 117 210 71 117 minecraft:dark_oak_trapdoor[facing=south,half=bottom,open=true] strict
-fill 212 70 117 212 71 117 minecraft:dark_oak_trapdoor[facing=south,half=bottom,open=true] strict
-fill 214 70 117 214 71 117 minecraft:dark_oak_trapdoor[facing=south,half=bottom,open=true] strict
-fill 216 70 117 216 71 117 minecraft:dark_oak_trapdoor[facing=south,half=bottom,open=true] strict
-fill 218 70 117 218 71 117 minecraft:dark_oak_trapdoor[facing=south,half=bottom,open=true] strict
-fill 147 74 105 147 75 105 minecraft:dark_oak_trapdoor[facing=south,half=bottom,open=true] strict
-fill 149 74 105 149 75 105 minecraft:dark_oak_trapdoor[facing=south,half=bottom,open=true] strict
-fill 149 74 116 149 75 116 minecraft:dark_oak_trapdoor[facing=south,half=bottom,open=true] strict
-fill 151 74 105 151 75 105 minecraft:dark_oak_trapdoor[facing=south,half=bottom,open=true] strict
-fill 151 74 116 151 75 116 minecraft:dark_oak_trapdoor[facing=south,half=bottom,open=true] strict
-fill 153 74 116 153 75 116 minecraft:dark_oak_trapdoor[facing=south,half=bottom,open=true] strict
-fill 155 74 116 155 75 116 minecraft:dark_oak_trapdoor[facing=south,half=bottom,open=true] strict
-setblock 68 67 148 minecraft:dark_oak_trapdoor[facing=south,half=top,open=false] strict
-setblock 71 67 117 minecraft:dark_oak_trapdoor[facing=south,half=top,open=false] strict
-setblock 79 67 148 minecraft:dark_oak_trapdoor[facing=south,half=top,open=false] strict
-setblock 112 67 90 minecraft:dark_oak_trapdoor[facing=south,half=top,open=false] strict
-setblock 117 67 102 minecraft:dark_oak_trapdoor[facing=south,half=top,open=false] strict
-setblock 152 67 105 minecraft:dark_oak_trapdoor[facing=south,half=top,open=false] strict
-setblock 214 67 117 minecraft:dark_oak_trapdoor[facing=south,half=top,open=false] strict
-setblock 64 69 148 minecraft:dark_oak_trapdoor[facing=south,half=top,open=false] strict
-setblock 68 69 148 minecraft:dark_oak_trapdoor[facing=south,half=top,open=false] strict
-setblock 79 69 148 minecraft:dark_oak_trapdoor[facing=south,half=top,open=false] strict
-setblock 112 69 90 minecraft:dark_oak_trapdoor[facing=south,half=top,open=false] strict
-setblock 148 69 148 minecraft:dark_oak_trapdoor[facing=south,half=top,open=false] strict
-setblock 152 69 105 minecraft:dark_oak_trapdoor[facing=south,half=top,open=false] strict
-setblock 154 69 116 minecraft:dark_oak_trapdoor[facing=south,half=top,open=false] strict
-setblock 150 73 116 minecraft:dark_oak_trapdoor[facing=south,half=top,open=false] strict
-setblock 152 73 105 minecraft:dark_oak_trapdoor[facing=south,half=top,open=false] strict
-setblock 154 73 116 minecraft:dark_oak_trapdoor[facing=south,half=top,open=false] strict
-setblock 147 66 111 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 61 66 139 61 67 139 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 61 66 141 61 67 141 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 64 66 110 64 67 110 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 64 66 112 64 67 112 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 72 66 143 72 67 143 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 72 66 145 72 67 145 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 105 66 83 105 67 83 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 105 66 85 105 67 85 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 110 66 96 110 67 96 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 110 66 98 110 67 98 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 122 66 168 122 67 168 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 122 66 170 122 67 170 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 122 66 172 122 67 172 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 122 66 174 122 67 174 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 145 66 139 145 67 139 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 147 66 107 147 67 107 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 147 66 109 147 67 109 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 147 66 113 147 67 113 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 149 66 152 149 67 152 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 149 66 154 149 67 154 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 149 66 156 149 67 156 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 149 66 158 149 67 158 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 206 66 109 206 67 109 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 206 66 111 206 67 111 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 206 66 113 206 67 113 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 206 66 115 206 67 115 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 34 70 139 34 71 139 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 34 70 141 34 71 141 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 34 70 163 34 71 163 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 34 70 165 34 71 165 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 61 70 143 61 71 143 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 61 70 145 61 71 145 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 64 70 106 64 71 106 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 64 70 108 64 71 108 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 72 70 139 72 71 139 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 72 70 141 72 71 141 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 72 70 143 72 71 143 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 72 70 145 72 71 145 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 105 70 79 105 71 79 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 105 70 81 105 71 81 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 110 70 96 110 71 96 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 110 70 98 110 71 98 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 145 70 96 145 71 96 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 145 70 98 145 71 98 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 145 70 100 145 71 100 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 145 70 102 145 71 102 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 145 70 139 145 71 139 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 147 70 111 147 71 111 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 147 70 113 147 71 113 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 149 70 152 149 71 152 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 149 70 154 149 71 154 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 149 70 156 149 71 156 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 149 70 158 149 71 158 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 206 70 113 206 71 113 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 206 70 115 206 71 115 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 145 74 100 145 75 100 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 145 74 102 145 75 102 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 145 74 139 145 75 139 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-setblock 145 75 141 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 147 74 107 147 75 107 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-fill 147 74 109 147 75 109 minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true] strict
-setblock 147 67 111 minecraft:dark_oak_trapdoor[facing=west,half=top,open=false] strict
-setblock 34 69 140 minecraft:dark_oak_trapdoor[facing=west,half=top,open=false] strict
-setblock 34 69 168 minecraft:dark_oak_trapdoor[facing=west,half=top,open=false] strict
-setblock 61 69 144 minecraft:dark_oak_trapdoor[facing=west,half=top,open=false] strict
-setblock 105 69 80 minecraft:dark_oak_trapdoor[facing=west,half=top,open=false] strict
-setblock 145 69 140 minecraft:dark_oak_trapdoor[facing=west,half=top,open=false] strict
-setblock 147 69 108 minecraft:dark_oak_trapdoor[facing=west,half=top,open=false] strict
-setblock 149 69 153 minecraft:dark_oak_trapdoor[facing=west,half=top,open=false] strict
-setblock 206 69 110 minecraft:dark_oak_trapdoor[facing=west,half=top,open=false] strict
-setblock 145 73 97 minecraft:dark_oak_trapdoor[facing=west,half=top,open=false] strict
-setblock 145 73 101 minecraft:dark_oak_trapdoor[facing=west,half=top,open=false] strict
-setblock 147 73 112 minecraft:dark_oak_trapdoor[facing=west,half=top,open=false] strict
-fill 61 79 142 85 79 143 minecraft:deepslate_tile_slab[type=bottom] strict
-fill 34 80 167 43 80 168 minecraft:deepslate_tile_slab[type=bottom] strict
-fill 145 83 99 158 83 100 minecraft:deepslate_tile_slab[type=bottom] strict
-fill 122 71 166 122 71 177 minecraft:deepslate_tile_stairs[facing=east,half=bottom,shape=straight] strict
-fill 123 72 166 123 72 177 minecraft:deepslate_tile_stairs[facing=east,half=bottom,shape=straight] strict
-fill 124 73 166 124 73 177 minecraft:deepslate_tile_stairs[facing=east,half=bottom,shape=straight] strict
-fill 125 74 166 125 74 177 minecraft:deepslate_tile_stairs[facing=east,half=bottom,shape=straight] strict
-fill 126 75 166 126 75 177 minecraft:deepslate_tile_stairs[facing=east,half=bottom,shape=straight] strict
-fill 127 76 166 127 76 177 minecraft:deepslate_tile_stairs[facing=east,half=bottom,shape=straight] strict
-fill 119 77 57 119 77 81 minecraft:deepslate_tile_stairs[facing=east,half=bottom,shape=straight] strict
-fill 120 78 57 120 78 81 minecraft:deepslate_tile_stairs[facing=east,half=bottom,shape=straight] strict
-fill 121 79 57 121 79 81 minecraft:deepslate_tile_stairs[facing=east,half=bottom,shape=straight] strict
-fill 122 80 57 122 80 81 minecraft:deepslate_tile_stairs[facing=east,half=bottom,shape=straight] strict
-fill 123 81 57 123 81 80 minecraft:deepslate_tile_stairs[facing=east,half=bottom,shape=straight] strict
-fill 124 82 57 124 82 80 minecraft:deepslate_tile_stairs[facing=east,half=bottom,shape=straight] strict
-fill 125 83 57 125 83 80 minecraft:deepslate_tile_stairs[facing=east,half=bottom,shape=straight] strict
-fill 126 84 57 126 84 80 minecraft:deepslate_tile_stairs[facing=east,half=bottom,shape=straight] strict
-fill 127 85 57 127 85 80 minecraft:deepslate_tile_stairs[facing=east,half=bottom,shape=straight] strict
-fill 34 73 174 41 73 174 minecraft:deepslate_tile_stairs[facing=north,half=bottom,shape=straight] strict
-setblock 43 73 174 minecraft:deepslate_tile_stairs[facing=north,half=bottom,shape=straight] strict
-setblock 61 73 148 minecraft:deepslate_tile_stairs[facing=north,half=bottom,shape=straight] strict
-fill 63 73 148 65 73 148 minecraft:deepslate_tile_stairs[facing=north,half=bottom,shape=straight] strict
-setblock 67 73 148 minecraft:deepslate_tile_stairs[facing=north,half=bottom,shape=straight] strict
-fill 34 74 173 42 74 173 minecraft:deepslate_tile_stairs[facing=north,half=bottom,shape=straight] strict
-fill 61 74 147 84 74 147 minecraft:deepslate_tile_stairs[facing=north,half=bottom,shape=straight] strict
-fill 34 75 172 43 75 172 minecraft:deepslate_tile_stairs[facing=north,half=bottom,shape=straight] strict
-fill 61 75 146 84 75 146 minecraft:deepslate_tile_stairs[facing=north,half=bottom,shape=straight] strict
-fill 34 76 171 43 76 171 minecraft:deepslate_tile_stairs[facing=north,half=bottom,shape=straight] strict
-fill 61 76 145 81 76 145 minecraft:deepslate_tile_stairs[facing=north,half=bottom,shape=straight] strict
-fill 83 76 145 84 76 145 minecraft:deepslate_tile_stairs[facing=north,half=bottom,shape=straight] strict
-fill 34 77 170 43 77 170 minecraft:deepslate_tile_stairs[facing=north,half=bottom,shape=straight] strict
-fill 61 77 144 84 77 144 minecraft:deepslate_tile_stairs[facing=north,half=bottom,shape=straight] strict
-fill 145 77 105 146 77 105 minecraft:deepslate_tile_stairs[facing=north,half=bottom,shape=straight] strict
-fill 34 78 169 43 78 169 minecraft:deepslate_tile_stairs[facing=north,half=bottom,shape=straight] strict
-fill 61 78 143 85 78 143 minecraft:deepslate_tile_stairs[facing=north,half=bottom,shape=straight] strict
-fill 145 78 104 158 78 104 minecraft:deepslate_tile_stairs[facing=north,half=bottom,shape=straight] strict
-fill 34 79 168 43 79 168 minecraft:deepslate_tile_stairs[facing=north,half=bottom,shape=straight] strict
-fill 145 79 103 158 79 103 minecraft:deepslate_tile_stairs[facing=north,half=bottom,shape=straight] strict
-fill 145 80 102 158 80 102 minecraft:deepslate_tile_stairs[facing=north,half=bottom,shape=straight] strict
-fill 145 81 101 158 81 101 minecraft:deepslate_tile_stairs[facing=north,half=bottom,shape=straight] strict
-fill 145 82 100 158 82 100 minecraft:deepslate_tile_stairs[facing=north,half=bottom,shape=straight] strict
-fill 34 73 161 41 73 161 minecraft:deepslate_tile_stairs[facing=south,half=bottom,shape=straight] strict
-setblock 43 73 161 minecraft:deepslate_tile_stairs[facing=south,half=bottom,shape=straight] strict
-fill 34 74 162 42 74 162 minecraft:deepslate_tile_stairs[facing=south,half=bottom,shape=straight] strict
-fill 61 74 138 84 74 138 minecraft:deepslate_tile_stairs[facing=south,half=bottom,shape=straight] strict
-fill 34 75 163 43 75 163 minecraft:deepslate_tile_stairs[facing=south,half=bottom,shape=straight] strict
-fill 61 75 139 84 75 139 minecraft:deepslate_tile_stairs[facing=south,half=bottom,shape=straight] strict
-fill 34 76 164 43 76 164 minecraft:deepslate_tile_stairs[facing=south,half=bottom,shape=straight] strict
-fill 61 76 140 63 76 140 minecraft:deepslate_tile_stairs[facing=south,half=bottom,shape=straight] strict
-fill 65 76 140 84 76 140 minecraft:deepslate_tile_stairs[facing=south,half=bottom,shape=straight] strict
-fill 34 77 165 43 77 165 minecraft:deepslate_tile_stairs[facing=south,half=bottom,shape=straight] strict
-fill 61 77 141 84 77 141 minecraft:deepslate_tile_stairs[facing=south,half=bottom,shape=straight] strict
-fill 145 77 94 158 77 94 minecraft:deepslate_tile_stairs[facing=south,half=bottom,shape=straight] strict
-fill 34 78 166 43 78 166 minecraft:deepslate_tile_stairs[facing=south,half=bottom,shape=straight] strict
-fill 61 78 142 85 78 142 minecraft:deepslate_tile_stairs[facing=south,half=bottom,shape=straight] strict
-fill 145 78 95 158 78 95 minecraft:deepslate_tile_stairs[facing=south,half=bottom,shape=straight] strict
-fill 34 79 167 43 79 167 minecraft:deepslate_tile_stairs[facing=south,half=bottom,shape=straight] strict
-fill 145 79 96 158 79 96 minecraft:deepslate_tile_stairs[facing=south,half=bottom,shape=straight] strict
-fill 145 80 97 147 80 97 minecraft:deepslate_tile_stairs[facing=south,half=bottom,shape=straight] strict
-fill 149 80 97 158 80 97 minecraft:deepslate_tile_stairs[facing=south,half=bottom,shape=straight] strict
-fill 145 81 98 158 81 98 minecraft:deepslate_tile_stairs[facing=south,half=bottom,shape=straight] strict
-fill 145 82 99 158 82 99 minecraft:deepslate_tile_stairs[facing=south,half=bottom,shape=straight] strict
-fill 134 71 166 134 71 177 minecraft:deepslate_tile_stairs[facing=west,half=bottom,shape=straight] strict
-fill 133 72 166 133 72 177 minecraft:deepslate_tile_stairs[facing=west,half=bottom,shape=straight] strict
-fill 132 73 166 132 73 177 minecraft:deepslate_tile_stairs[facing=west,half=bottom,shape=straight] strict
-fill 131 74 166 131 74 177 minecraft:deepslate_tile_stairs[facing=west,half=bottom,shape=straight] strict
-fill 130 75 166 130 75 177 minecraft:deepslate_tile_stairs[facing=west,half=bottom,shape=straight] strict
-fill 129 76 166 129 76 177 minecraft:deepslate_tile_stairs[facing=west,half=bottom,shape=straight] strict
-fill 137 77 57 137 77 81 minecraft:deepslate_tile_stairs[facing=west,half=bottom,shape=straight] strict
-fill 136 78 57 136 78 81 minecraft:deepslate_tile_stairs[facing=west,half=bottom,shape=straight] strict
-fill 135 79 57 135 79 81 minecraft:deepslate_tile_stairs[facing=west,half=bottom,shape=straight] strict
-fill 134 80 57 134 80 81 minecraft:deepslate_tile_stairs[facing=west,half=bottom,shape=straight] strict
-fill 133 81 57 133 81 80 minecraft:deepslate_tile_stairs[facing=west,half=bottom,shape=straight] strict
-fill 132 82 57 132 82 80 minecraft:deepslate_tile_stairs[facing=west,half=bottom,shape=straight] strict
-fill 131 83 57 131 83 80 minecraft:deepslate_tile_stairs[facing=west,half=bottom,shape=straight] strict
-fill 130 84 57 130 84 80 minecraft:deepslate_tile_stairs[facing=west,half=bottom,shape=straight] strict
-fill 129 85 57 129 85 80 minecraft:deepslate_tile_stairs[facing=west,half=bottom,shape=straight] strict
-fill 49 64 76 51 64 85 minecraft:dirt_path strict
-fill 49 64 86 50 64 98 minecraft:dirt_path strict
-fill 51 64 91 51 64 98 minecraft:dirt_path strict
-fill 52 64 85 67 64 85 minecraft:dirt_path strict
-fill 55 64 73 58 64 73 minecraft:dirt_path strict
-fill 55 64 74 57 64 79 minecraft:dirt_path strict
-fill 56 64 71 59 64 71 minecraft:dirt_path strict
-fill 56 64 72 58 64 72 minecraft:dirt_path strict
-fill 56 64 80 58 64 81 minecraft:dirt_path strict
-fill 57 64 70 61 64 70 minecraft:dirt_path strict
-fill 57 64 82 64 64 82 minecraft:dirt_path strict
-fill 58 64 69 70 64 69 minecraft:dirt_path strict
-setblock 58 64 79 minecraft:dirt_path strict
-fill 58 64 83 70 64 83 minecraft:dirt_path strict
-fill 58 64 86 64 64 87 minecraft:dirt_path strict
-fill 59 64 68 69 64 68 minecraft:dirt_path strict
-fill 59 64 81 61 64 81 minecraft:dirt_path strict
-fill 59 64 84 69 64 84 minecraft:dirt_path strict
-setblock 60 64 80 minecraft:dirt_path strict
-fill 60 64 88 64 64 98 minecraft:dirt_path strict
-fill 61 64 67 67 64 67 minecraft:dirt_path strict
-fill 67 64 70 71 64 70 minecraft:dirt_path strict
-fill 67 64 82 71 64 82 minecraft:dirt_path strict
-fill 69 64 71 72 64 71 minecraft:dirt_path strict
-fill 69 64 81 72 64 81 minecraft:dirt_path strict
-fill 70 64 72 72 64 73 minecraft:dirt_path strict
-fill 70 64 79 73 64 79 minecraft:dirt_path strict
-fill 70 64 80 72 64 80 minecraft:dirt_path strict
-fill 71 64 74 73 64 78 minecraft:dirt_path strict
-setblock 73 64 73 minecraft:dirt_path strict
-setblock 116 64 216 minecraft:dirt_path strict
-fill 116 64 233 119 64 233 minecraft:dirt_path strict
-fill 116 64 234 116 64 235 minecraft:dirt_path strict
-fill 117 64 236 117 64 237 minecraft:dirt_path strict
-setblock 120 64 236 minecraft:dirt_path strict
-fill 122 64 234 130 64 234 minecraft:dirt_path strict
-setblock 122 64 236 minecraft:dirt_path strict
-setblock 123 64 217 minecraft:dirt_path strict
-setblock 124 64 216 minecraft:dirt_path strict
-fill 125 64 233 130 64 233 minecraft:dirt_path strict
-fill 125 64 237 130 64 237 minecraft:dirt_path strict
-setblock 126 64 216 minecraft:dirt_path strict
-fill 126 64 235 131 64 235 minecraft:dirt_path strict
-fill 126 64 236 130 64 236 minecraft:dirt_path strict
-setblock 128 64 217 minecraft:dirt_path strict
-setblock 129 64 216 minecraft:dirt_path strict
-fill 131 64 217 132 64 217 minecraft:dirt_path strict
-setblock 132 64 237 minecraft:dirt_path strict
-setblock 134 64 217 minecraft:dirt_path strict
-setblock 134 64 234 minecraft:dirt_path strict
-fill 134 64 236 134 64 237 minecraft:dirt_path strict
-fill 135 64 235 136 64 235 minecraft:dirt_path strict
-fill 136 64 236 138 64 236 minecraft:dirt_path strict
-fill 136 64 237 137 64 237 minecraft:dirt_path strict
-setblock 138 64 217 minecraft:dirt_path strict
-fill 138 64 233 138 64 234 minecraft:dirt_path strict
-setblock 139 64 234 minecraft:dirt_path strict
-setblock 140 64 217 minecraft:dirt_path strict
-setblock 140 64 235 minecraft:dirt_path strict
-fill 150 64 62 153 64 89 minecraft:dirt_path strict
-fill 170 64 140 184 64 144 minecraft:dirt_path strict
-fill 176 64 128 184 64 139 minecraft:dirt_path strict
-fill 176 64 162 195 64 166 minecraft:dirt_path strict
-fill 176 64 167 184 64 167 minecraft:dirt_path strict
-fill 176 64 185 184 64 195 minecraft:dirt_path strict
-fill 188 64 161 214 64 161 minecraft:dirt_path strict
-fill 211 64 162 214 64 166 minecraft:dirt_path strict
-setblock 128 104 85 minecraft:end_rod[facing=up] strict
-setblock 128 106 85 minecraft:end_rod[facing=up] strict
-fill 172 64 146 175 64 160 minecraft:farmland[moisture=7] strict
-fill 177 64 146 181 64 160 minecraft:farmland[moisture=7] strict
-fill 183 64 146 186 64 160 minecraft:farmland[moisture=7] strict
-setblock 8 65 159 minecraft:fern strict
-setblock 11 65 24 minecraft:fern strict
-setblock 11 65 104 minecraft:fern strict
-setblock 21 65 238 minecraft:fern strict
-setblock 22 65 243 minecraft:fern strict
-setblock 24 65 240 minecraft:fern strict
-setblock 35 65 26 minecraft:fern strict
-setblock 38 65 63 minecraft:fern strict
-setblock 40 65 218 minecraft:fern strict
-setblock 41 65 179 minecraft:fern strict
-setblock 46 65 30 minecraft:fern strict
-setblock 48 65 58 minecraft:fern strict
-setblock 48 65 177 minecraft:fern strict
-setblock 49 65 70 minecraft:fern strict
-setblock 53 65 61 minecraft:fern strict
-setblock 54 65 66 minecraft:fern strict
-setblock 60 65 148 minecraft:fern strict
-setblock 62 65 175 minecraft:fern strict
-setblock 63 65 241 minecraft:fern strict
-setblock 64 65 236 minecraft:fern strict
-setblock 77 65 221 minecraft:fern strict
-setblock 80 65 235 minecraft:fern strict
-setblock 86 65 237 minecraft:fern strict
-setblock 87 65 37 minecraft:fern strict
-setblock 88 65 19 minecraft:fern strict
-setblock 90 65 225 minecraft:fern strict
-setblock 92 65 216 minecraft:fern strict
-setblock 93 65 56 minecraft:fern strict
-setblock 93 65 66 minecraft:fern strict
-setblock 101 65 25 minecraft:fern strict
-setblock 105 65 71 minecraft:fern strict
-setblock 107 65 224 minecraft:fern strict
-setblock 122 65 34 minecraft:fern strict
-setblock 138 65 18 minecraft:fern strict
-setblock 145 65 68 minecraft:fern strict
-setblock 149 65 54 minecraft:fern strict
-setblock 152 65 53 minecraft:fern strict
-setblock 153 65 222 minecraft:fern strict
-setblock 153 65 252 minecraft:fern strict
-setblock 157 65 18 minecraft:fern strict
-setblock 158 65 238 minecraft:fern strict
-setblock 161 65 115 minecraft:fern strict
-setblock 162 65 81 minecraft:fern strict
-setblock 164 65 34 minecraft:fern strict
-setblock 167 65 84 minecraft:fern strict
-setblock 170 65 94 minecraft:fern strict
-setblock 171 65 20 minecraft:fern strict
-setblock 172 65 23 minecraft:fern strict
-setblock 176 65 39 minecraft:fern strict
-setblock 187 65 143 minecraft:fern strict
-setblock 197 65 31 minecraft:fern strict
-setblock 200 65 244 minecraft:fern strict
-setblock 201 65 174 minecraft:fern strict
-setblock 203 65 39 minecraft:fern strict
-setblock 206 65 185 minecraft:fern strict
-setblock 213 65 53 minecraft:fern strict
-setblock 215 65 180 minecraft:fern strict
-setblock 216 65 184 minecraft:fern strict
-setblock 217 65 60 minecraft:fern strict
-setblock 218 65 177 minecraft:fern strict
-setblock 219 65 102 minecraft:fern strict
-setblock 229 65 221 minecraft:fern strict
-setblock 233 65 46 minecraft:fern strict
-setblock 234 65 112 minecraft:fern strict
-setblock 235 65 181 minecraft:fern strict
-setblock 236 65 21 minecraft:fern strict
-setblock 236 65 160 minecraft:fern strict
-setblock 238 65 191 minecraft:fern strict
-setblock 240 65 44 minecraft:fern strict
-setblock 240 65 77 minecraft:fern strict
-setblock 241 65 21 minecraft:fern strict
-setblock 242 65 29 minecraft:fern strict
-setblock 242 65 52 minecraft:fern strict
-setblock 243 65 212 minecraft:fern strict
-setblock 245 65 32 minecraft:fern strict
-setblock 246 65 48 minecraft:fern strict
-setblock 246 65 190 minecraft:fern strict
-setblock 247 65 106 minecraft:fern strict
-setblock 171 66 88 minecraft:fern strict
-setblock 173 69 82 minecraft:fern strict
-setblock 176 69 92 minecraft:fern strict
-setblock 216 69 88 minecraft:fern strict
-setblock 176 70 90 minecraft:fern strict
-setblock 181 71 64 minecraft:fern strict
-setblock 177 72 70 minecraft:fern strict
-setblock 190 72 60 minecraft:fern strict
-setblock 176 74 83 minecraft:fern strict
-setblock 181 75 93 minecraft:fern strict
-setblock 187 79 94 minecraft:fern strict
-setblock 190 79 65 minecraft:fern strict
-setblock 203 79 94 minecraft:fern strict
-setblock 209 79 72 minecraft:fern strict
-setblock 60 70 155 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-setblock 62 70 164 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-setblock 62 70 168 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-setblock 72 70 191 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-setblock 154 70 191 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-setblock 158 70 191 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 45 70 185 45 71 185 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 45 70 196 45 71 196 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 49 70 185 49 71 185 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 49 70 196 49 71 196 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 52 70 140 52 71 140 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 52 70 144 52 71 144 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 54 70 138 54 71 138 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 54 70 147 54 71 147 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 58 70 138 58 71 138 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 58 70 147 58 71 147 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 62 70 149 62 71 149 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 62 70 158 62 71 158 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 64 70 162 64 71 162 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 64 70 173 64 71 173 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 66 70 149 66 71 149 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 66 70 158 66 71 158 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 68 70 162 68 71 162 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 68 70 173 68 71 173 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 74 70 185 74 71 185 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 74 70 196 74 71 196 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 78 70 185 78 71 185 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 78 70 196 78 71 196 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 82 70 185 82 71 185 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 82 70 196 82 71 196 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 87 70 187 87 71 187 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 87 70 191 87 71 191 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 99 70 140 99 71 140 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 99 70 144 99 71 144 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 101 70 138 101 71 138 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 101 70 147 101 71 147 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 105 70 138 105 71 138 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 105 70 147 105 71 147 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 110 70 140 110 71 140 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 137 70 165 137 71 165 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 137 70 169 137 71 169 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 137 70 173 137 71 173 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 137 70 177 137 71 177 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 137 70 181 137 71 181 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 137 70 185 137 71 185 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 139 70 163 139 71 163 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 139 70 190 139 71 190 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 143 70 163 143 71 163 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 143 70 190 143 71 190 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 147 70 163 147 71 163 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 154 70 196 154 71 196 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 158 70 196 158 71 196 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 161 70 193 161 71 193 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-setblock 62 74 164 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-setblock 62 74 168 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 52 74 140 52 75 140 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 52 74 144 52 75 144 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 54 74 138 54 75 138 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 54 74 147 54 75 147 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 58 74 138 58 75 138 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 58 74 147 58 75 147 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 62 74 149 62 75 149 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 62 74 158 62 75 158 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 64 74 162 64 75 162 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 64 74 173 64 75 173 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 66 74 149 66 75 149 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 66 74 158 66 75 158 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 68 74 162 68 75 162 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 68 74 173 68 75 173 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 99 74 140 99 75 140 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 99 74 144 99 75 144 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 101 74 138 101 75 138 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 101 74 147 101 75 147 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 105 74 138 105 75 138 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 105 74 147 105 75 147 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 110 74 140 110 75 140 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 154 74 196 154 75 196 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 158 74 196 158 75 196 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-fill 161 74 193 161 75 193 minecraft:glass_pane[north=false,south=false,west=false,east=false] strict
-setblock 41 66 116 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-setblock 49 66 196 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-setblock 68 66 147 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-setblock 71 66 116 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-setblock 79 66 147 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-setblock 91 66 116 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-setblock 105 66 104 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-setblock 105 66 138 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-setblock 112 66 89 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-setblock 117 66 101 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-setblock 117 66 141 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-setblock 140 66 101 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-setblock 140 66 141 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-setblock 152 66 104 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-setblock 152 66 138 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 42 66 164 42 67 164 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 42 66 168 42 67 168 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 42 66 187 42 67 187 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 52 66 105 52 67 105 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-setblock 52 67 116 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 52 66 168 52 67 168 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 53 66 187 53 67 187 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 59 66 151 59 67 151 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 59 66 155 59 67 155 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 61 66 140 61 67 140 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 62 66 191 62 67 191 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 68 66 155 68 67 155 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 70 66 164 70 67 164 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 71 66 191 71 67 191 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 72 66 144 72 67 144 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 77 66 164 77 67 164 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 84 66 107 84 67 107 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 84 66 111 84 67 111 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 105 66 84 105 67 84 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 110 66 97 110 67 97 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 149 66 153 149 67 153 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 149 66 157 149 67 157 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 149 66 185 149 67 185 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 151 66 193 151 67 193 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 179 66 110 179 67 110 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 179 66 114 179 67 114 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 182 66 168 182 67 168 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 206 66 110 206 67 110 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 206 66 114 206 67 114 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-setblock 117 70 101 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-setblock 42 71 168 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 42 70 187 42 71 187 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 42 70 191 42 71 191 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 45 70 107 45 71 107 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-setblock 45 71 111 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 52 70 105 52 71 105 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 52 70 116 52 71 116 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 52 70 168 52 71 168 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-setblock 53 71 187 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-setblock 53 71 191 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 59 70 151 59 71 151 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-setblock 59 71 155 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 61 70 140 61 71 140 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-setblock 61 71 144 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-setblock 61 71 164 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-setblock 61 71 168 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 62 70 187 62 71 187 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-setblock 62 71 191 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-setblock 68 71 151 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 68 70 155 68 71 155 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-setblock 70 71 164 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 70 70 168 70 71 168 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 71 70 187 71 71 187 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 72 70 140 72 71 140 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 72 70 144 72 71 144 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-setblock 75 71 111 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 84 70 107 84 71 107 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-setblock 101 71 193 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-setblock 105 71 80 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 110 70 97 110 71 97 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 110 70 144 110 71 144 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 145 70 97 145 71 97 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-setblock 149 71 153 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 149 70 157 149 71 157 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 149 70 165 149 71 165 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 149 70 169 149 71 169 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 149 70 177 149 71 177 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 149 70 181 149 71 181 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 149 70 185 149 71 185 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 206 70 114 206 71 114 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 61 74 140 61 75 140 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 61 74 144 61 75 144 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 68 74 151 68 75 151 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 68 74 155 68 75 155 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 70 74 164 70 75 164 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 70 74 168 70 75 168 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-fill 110 74 144 110 75 144 minecraft:glass_pane[north=false,south=false,west=false,east=true] strict
-setblock 37 66 162 minecraft:glass_pane[north=false,south=false,west=true,east=false] strict
-setblock 37 66 196 minecraft:glass_pane[north=false,south=false,west=true,east=false] strict
-setblock 54 66 149 minecraft:glass_pane[north=false,south=false,west=true,east=false] strict
-setblock 73 66 162 minecraft:glass_pane[north=false,south=false,west=true,east=false] strict
-setblock 75 66 149 minecraft:glass_pane[north=false,south=false,west=true,east=false] strict
-setblock 78 66 196 minecraft:glass_pane[north=false,south=false,west=true,east=false] strict
-setblock 97 66 196 minecraft:glass_pane[north=false,south=false,west=true,east=false] strict
-setblock 100 66 89 minecraft:glass_pane[north=false,south=false,west=true,east=false] strict
-setblock 147 66 196 minecraft:glass_pane[north=false,south=false,west=true,east=false] strict
-setblock 201 66 116 minecraft:glass_pane[north=false,south=false,west=true,east=false] strict
-fill 48 66 105 48 67 105 minecraft:glass_pane[north=false,south=false,west=true,east=false] strict
-fill 48 66 116 48 67 116 minecraft:glass_pane[north=false,south=false,west=true,east=false] strict
-fill 107 66 153 107 67 153 minecraft:glass_pane[north=false,south=false,west=true,east=false] strict
-fill 107 66 183 107 67 183 minecraft:glass_pane[north=false,south=false,west=true,east=false] strict
-fill 107 66 187 107 67 187 minecraft:glass_pane[north=false,south=false,west=true,east=false] strict
-fill 43 70 187 43 71 187 minecraft:glass_pane[north=false,south=false,west=true,east=false] strict
-fill 43 70 191 43 71 191 minecraft:glass_pane[north=false,south=false,west=true,east=false] strict
-fill 48 70 105 48 71 105 minecraft:glass_pane[north=false,south=false,west=true,east=false] strict
-fill 48 70 116 48 71 116 minecraft:glass_pane[north=false,south=false,west=true,east=false] strict
-fill 60 70 151 60 71 151 minecraft:glass_pane[north=false,south=false,west=true,east=false] strict
-setblock 60 71 155 minecraft:glass_pane[north=false,south=false,west=true,east=false] strict
-setblock 62 71 164 minecraft:glass_pane[north=false,south=false,west=true,east=false] strict
-setblock 62 71 168 minecraft:glass_pane[north=false,south=false,west=true,east=false] strict
-fill 72 70 187 72 71 187 minecraft:glass_pane[north=false,south=false,west=true,east=false] strict
-setblock 72 71 191 minecraft:glass_pane[north=false,south=false,west=true,east=false] strict
-fill 107 70 153 107 71 153 minecraft:glass_pane[north=false,south=false,west=true,east=false] strict
-fill 107 70 187 107 71 187 minecraft:glass_pane[north=false,south=false,west=true,east=false] strict
-fill 152 70 193 152 71 193 minecraft:glass_pane[north=false,south=false,west=true,east=false] strict
-fill 60 74 151 60 75 151 minecraft:glass_pane[north=false,south=false,west=true,east=false] strict
-fill 60 74 155 60 75 155 minecraft:glass_pane[north=false,south=false,west=true,east=false] strict
-setblock 62 75 164 minecraft:glass_pane[north=false,south=false,west=true,east=false] strict
-setblock 62 75 168 minecraft:glass_pane[north=false,south=false,west=true,east=false] strict
-fill 107 74 153 107 75 153 minecraft:glass_pane[north=false,south=false,west=true,east=false] strict
-fill 152 74 193 152 75 193 minecraft:glass_pane[north=false,south=false,west=true,east=false] strict
-setblock 45 66 126 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-setblock 56 66 116 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-setblock 75 66 126 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-setblock 106 66 104 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-setblock 106 66 138 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-setblock 118 66 101 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-setblock 118 66 141 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-setblock 141 66 101 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-setblock 141 66 141 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-setblock 153 66 104 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-setblock 153 66 138 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 37 66 105 37 67 105 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 37 66 116 37 67 116 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 37 66 126 37 67 126 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 37 66 134 37 67 134 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 37 66 138 37 67 138 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 37 66 158 37 67 158 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-setblock 37 67 162 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 37 66 173 37 67 173 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 37 66 185 37 67 185 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-setblock 37 67 196 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 41 66 105 41 67 105 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-setblock 41 67 116 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-setblock 41 67 126 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 41 66 134 41 67 134 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 41 66 138 41 67 138 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 41 66 158 41 67 158 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 45 66 134 45 67 134 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 45 66 138 45 67 138 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 45 66 158 45 67 158 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 45 66 162 45 67 162 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 45 66 173 45 67 173 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 45 66 185 45 67 185 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 45 66 196 45 67 196 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 49 66 162 49 67 162 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 49 66 173 49 67 173 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 49 66 185 49 67 185 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-setblock 49 67 196 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 54 66 126 54 67 126 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 54 66 134 54 67 134 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 54 66 138 54 67 138 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 54 66 147 54 67 147 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-setblock 54 67 149 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 54 66 158 54 67 158 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 55 66 162 55 67 162 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 55 66 173 55 67 173 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 56 66 105 56 67 105 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 56 66 185 56 67 185 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 56 66 196 56 67 196 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 58 66 126 58 67 126 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 58 66 134 58 67 134 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 58 66 138 58 67 138 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 58 66 147 58 67 147 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 59 66 162 59 67 162 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 59 66 173 59 67 173 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 60 66 185 60 67 185 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 60 66 196 60 67 196 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 62 66 149 62 67 149 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 62 66 158 62 67 158 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 64 66 138 64 67 138 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 64 66 147 64 67 147 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 64 66 162 64 67 162 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 64 66 173 64 67 173 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 65 66 185 65 67 185 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 65 66 196 65 67 196 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 66 66 149 66 67 149 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 66 66 158 66 67 158 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 67 66 105 67 67 105 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 67 66 116 67 67 116 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 67 66 126 67 67 126 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 67 66 134 67 67 134 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 68 66 138 68 67 138 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-setblock 68 67 147 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 68 66 162 68 67 162 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 68 66 173 68 67 173 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 69 66 185 69 67 185 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 69 66 196 69 67 196 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 71 66 105 71 67 105 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-setblock 71 67 116 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-setblock 71 67 126 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 71 66 134 71 67 134 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 71 66 149 71 67 149 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 71 66 158 71 67 158 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-setblock 73 67 162 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 73 66 173 73 67 173 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 74 66 185 74 67 185 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 74 66 196 74 67 196 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 75 66 134 75 67 134 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 75 66 138 75 67 138 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 75 66 147 75 67 147 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-setblock 75 67 149 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 75 66 158 75 67 158 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 78 66 105 78 67 105 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 78 66 116 78 67 116 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 78 66 185 78 67 185 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-setblock 78 67 196 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 79 66 138 79 67 138 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-setblock 79 67 147 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 79 66 149 79 67 149 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 79 66 158 79 67 158 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 80 66 162 80 67 162 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 80 66 173 80 67 173 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 82 66 105 82 67 105 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 82 66 116 82 67 116 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 82 66 185 82 67 185 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 82 66 196 82 67 196 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-setblock 84 67 126 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 84 66 134 84 67 134 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 84 66 162 84 67 162 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 84 66 173 84 67 173 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 87 66 105 87 67 105 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 87 66 116 87 67 116 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 91 66 105 91 67 105 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-setblock 91 67 116 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-setblock 97 67 196 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 100 66 78 100 67 78 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-setblock 100 67 89 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 101 66 52 101 67 52 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 101 66 64 101 67 64 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 101 66 95 102 67 95 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 101 66 104 102 67 104 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 101 66 106 102 67 106 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 101 66 115 102 67 115 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 101 66 127 102 67 127 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 101 66 136 102 67 136 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 101 66 138 102 67 138 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 101 66 147 102 67 147 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 104 66 95 106 67 95 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 104 67 104 106 67 104 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 104 66 106 106 67 106 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 104 66 115 106 67 115 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 104 66 127 106 67 127 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 104 66 136 106 67 136 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 104 67 138 106 67 138 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 104 66 147 106 67 147 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 104 66 196 104 67 196 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 105 66 52 105 67 52 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 105 66 64 105 67 64 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 108 66 78 108 67 78 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 108 66 89 108 67 89 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 108 66 95 108 67 95 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 108 66 104 108 67 104 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 108 66 138 108 67 138 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 108 66 147 108 67 147 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 108 66 196 108 67 196 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 109 66 52 109 67 52 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 109 66 64 109 67 64 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 112 66 78 112 67 78 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-setblock 112 67 89 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 113 66 95 114 67 95 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 113 66 101 114 67 101 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 113 66 141 114 67 141 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 113 66 147 114 67 147 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 113 66 190 113 67 190 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 116 66 95 118 67 95 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 116 67 101 118 67 101 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 116 67 141 118 67 141 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 116 66 147 118 67 147 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 120 66 95 120 67 95 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 120 66 101 120 67 101 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 120 66 141 120 67 141 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 120 66 147 120 67 147 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 122 66 238 122 67 238 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 122 66 248 122 67 248 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 125 66 154 125 67 154 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 125 66 162 125 67 162 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 125 66 167 125 67 167 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 125 66 176 125 67 176 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 125 66 181 125 67 181 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 125 66 190 125 67 190 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 126 66 238 126 67 238 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 126 66 248 126 67 248 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 129 66 154 129 67 154 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 129 66 162 129 67 162 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 129 66 167 129 67 167 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 129 66 176 129 67 176 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 129 66 181 129 67 181 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 129 66 190 129 67 190 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 130 66 238 130 67 238 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 130 66 248 130 67 248 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 134 66 238 134 67 238 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 134 66 248 134 67 248 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 136 66 95 137 67 95 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 136 66 101 137 67 101 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 136 66 141 137 67 141 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 136 66 147 137 67 147 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 139 66 95 141 67 95 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 139 67 101 141 67 101 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 139 67 141 141 67 141 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 139 66 147 141 67 147 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 139 66 163 139 67 163 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 139 66 190 139 67 190 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 140 66 161 140 67 161 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 143 66 95 143 67 95 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 143 66 101 143 67 101 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 143 66 141 143 67 141 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 143 66 147 143 67 147 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 143 66 163 143 67 163 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 143 66 190 143 67 190 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 144 66 161 144 67 161 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 147 66 163 147 67 163 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-setblock 147 67 196 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 148 66 95 149 67 95 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 148 66 104 149 67 104 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 148 66 138 149 67 138 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 148 66 147 149 67 147 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 150 66 106 151 67 106 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 150 66 115 151 67 115 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 150 66 127 151 67 127 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 150 66 136 151 67 136 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 151 66 95 153 67 95 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 151 67 104 153 67 104 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 151 67 138 153 67 138 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 151 66 147 153 67 147 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 153 66 106 155 67 106 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 153 66 115 155 67 115 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 153 66 127 155 67 127 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 153 66 136 155 67 136 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 154 66 196 154 67 196 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 155 66 95 155 67 95 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 155 66 104 155 67 104 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 155 66 138 155 67 138 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 155 66 147 155 67 147 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 158 66 196 158 67 196 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 172 66 108 172 67 108 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 172 66 116 172 67 116 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 174 66 168 174 67 168 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 174 66 184 174 67 184 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 176 66 108 176 67 108 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 176 66 116 176 67 116 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 178 66 184 178 67 184 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 182 66 108 182 67 108 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 182 66 116 182 67 116 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 182 66 184 182 67 184 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 186 66 108 186 67 108 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-setblock 186 67 116 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 190 66 108 190 67 108 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 190 66 116 190 67 116 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 201 66 108 201 67 108 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-setblock 201 67 116 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 209 66 108 209 67 108 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 209 66 116 209 67 116 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 213 66 108 213 67 108 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-setblock 213 67 116 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 217 66 108 217 67 108 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 217 66 116 217 67 116 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-setblock 37 70 152 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-setblock 41 70 145 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-setblock 41 70 152 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-setblock 45 70 145 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-setblock 45 70 152 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-setblock 97 70 159 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-setblock 97 70 191 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-setblock 109 70 163 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-setblock 109 70 181 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-setblock 113 70 181 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-setblock 152 70 161 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-setblock 152 70 170 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-setblock 152 70 181 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-setblock 156 70 161 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-setblock 156 70 170 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-setblock 156 70 181 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 37 70 105 37 71 105 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 37 70 116 37 71 116 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 37 70 126 37 71 126 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 37 70 134 37 71 134 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 37 70 138 37 71 138 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 37 70 158 37 71 158 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 37 70 162 37 71 162 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 37 70 173 37 71 173 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 37 70 185 37 71 185 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 37 70 196 37 71 196 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 41 70 105 41 71 105 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 41 70 116 41 71 116 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 41 70 126 41 71 126 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 41 70 134 41 71 134 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 41 70 138 41 71 138 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 41 70 158 41 71 158 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 45 70 126 45 71 126 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 45 70 134 45 71 134 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 45 70 138 45 71 138 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 45 70 158 45 71 158 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 45 70 162 45 71 162 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 45 70 173 45 71 173 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 49 70 162 49 71 162 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 49 70 173 49 71 173 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 54 70 126 54 71 126 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 54 70 134 54 71 134 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 54 70 149 54 71 149 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 54 70 158 54 71 158 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 55 70 162 55 71 162 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 55 70 173 55 71 173 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 56 70 105 56 71 105 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 56 70 116 56 71 116 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 56 70 185 56 71 185 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 56 70 196 56 71 196 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 58 70 126 58 71 126 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 58 70 134 58 71 134 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 59 70 162 59 71 162 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 59 70 173 59 71 173 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 60 70 185 60 71 185 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 60 70 196 60 71 196 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 64 70 138 64 71 138 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 64 70 147 64 71 147 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 65 70 185 65 71 185 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 65 70 196 65 71 196 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 67 70 105 67 71 105 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 67 70 116 67 71 116 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 67 70 126 67 71 126 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 67 70 134 67 71 134 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 68 70 138 68 71 138 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 68 70 147 68 71 147 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 69 70 185 69 71 185 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 69 70 196 69 71 196 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 71 70 105 71 71 105 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 71 70 116 71 71 116 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 71 70 126 71 71 126 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 71 70 134 71 71 134 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 71 70 149 71 71 149 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 71 70 158 71 71 158 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 73 70 162 73 71 162 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 73 70 173 73 71 173 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 75 70 126 75 71 126 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 75 70 134 75 71 134 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 75 70 138 75 71 138 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 75 70 147 75 71 147 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 75 70 149 75 71 149 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 75 70 158 75 71 158 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 78 70 105 78 71 105 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 78 70 116 78 71 116 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 79 70 138 79 71 138 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 79 70 147 79 71 147 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 79 70 149 79 71 149 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 79 70 158 79 71 158 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 80 70 162 80 71 162 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 80 70 173 80 71 173 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 82 70 105 82 71 105 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 82 70 116 82 71 116 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 84 70 126 84 71 126 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 84 70 134 84 71 134 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 84 70 162 84 71 162 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 84 70 173 84 71 173 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 87 70 105 87 71 105 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 87 70 116 87 71 116 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 91 70 105 91 71 105 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 91 70 116 91 71 116 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 97 70 196 97 71 196 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 100 70 78 100 71 78 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 100 70 89 100 71 89 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 101 70 52 101 71 52 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 101 70 64 101 71 64 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 101 70 95 101 71 95 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 101 70 104 101 71 104 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 101 70 106 101 71 106 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 101 70 115 101 71 115 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 101 70 127 101 71 127 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 101 70 136 101 71 136 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 104 70 196 104 71 196 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 105 70 52 105 71 52 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 105 70 64 105 71 64 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 105 70 95 105 71 95 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 105 70 104 105 71 104 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 105 70 106 105 71 106 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 105 70 115 105 71 115 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 105 70 127 105 71 127 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 105 70 136 105 71 136 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 108 70 78 108 71 78 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 108 70 89 108 71 89 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 108 70 196 108 71 196 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 109 70 52 109 71 52 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 109 70 64 109 71 64 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 112 70 78 112 71 78 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 112 70 89 112 71 89 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 113 70 95 113 71 95 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 113 70 101 113 71 101 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 113 70 141 113 71 141 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 113 70 147 113 71 147 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 113 70 190 113 71 190 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 117 70 95 117 71 95 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-setblock 117 71 101 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 117 70 141 117 71 141 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 117 70 147 117 71 147 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 136 70 95 136 71 95 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 136 70 101 136 71 101 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 136 70 141 136 71 141 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 136 70 147 136 71 147 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-setblock 136 71 161 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 140 70 95 140 71 95 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 140 70 101 140 71 101 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 140 70 141 140 71 141 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 140 70 147 140 71 147 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 140 70 161 140 71 161 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 144 70 161 144 71 161 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 147 70 196 147 71 196 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 148 70 95 148 71 95 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 148 70 104 148 71 104 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 148 70 138 148 71 138 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 148 70 147 148 71 147 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 150 70 106 150 71 106 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 150 70 115 150 71 115 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 150 70 127 150 71 127 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 150 70 136 150 71 136 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 152 70 95 152 71 95 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 152 70 104 152 71 104 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 152 70 138 152 71 138 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 152 70 147 152 71 147 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 154 70 106 154 71 106 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 154 70 115 154 71 115 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 154 70 127 154 71 127 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 154 70 136 154 71 136 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 172 70 108 172 71 108 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 172 70 116 172 71 116 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 174 70 168 174 71 168 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 174 70 184 174 71 184 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 176 70 108 176 71 108 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 176 70 116 176 71 116 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 178 70 168 178 71 168 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 178 70 184 178 71 184 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 182 70 108 182 71 108 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 182 70 116 182 71 116 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 182 70 168 182 71 168 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 182 70 184 182 71 184 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 186 70 108 186 71 108 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 186 70 116 186 71 116 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 190 70 108 190 71 108 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 190 70 116 190 71 116 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 201 70 108 201 71 108 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 201 70 116 201 71 116 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 209 70 108 209 71 108 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 209 70 116 209 71 116 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 213 70 108 213 71 108 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 213 70 116 213 71 116 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 217 70 108 217 71 108 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 217 70 116 217 71 116 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-setblock 104 74 191 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-setblock 152 74 161 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 37 74 145 37 75 145 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 37 74 151 37 75 151 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 41 74 145 41 75 145 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 41 74 151 41 75 151 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 45 74 145 45 75 145 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 45 74 151 45 75 151 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 65 74 185 65 75 185 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 65 74 196 65 75 196 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 67 74 126 67 75 126 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 67 74 134 67 75 134 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 69 74 185 69 75 185 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 69 74 196 69 75 196 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 71 74 126 71 75 126 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 71 74 134 71 75 134 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 75 74 126 75 75 126 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 75 74 134 75 75 134 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 97 74 151 97 75 151 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 97 74 196 97 75 196 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 100 74 78 100 75 78 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 100 74 89 100 75 89 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 101 74 95 101 75 95 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 101 74 104 101 75 104 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 101 74 127 101 75 127 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 101 74 136 101 75 136 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 101 74 151 101 75 151 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 104 74 196 104 75 196 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 105 74 95 105 75 95 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 105 74 104 105 75 104 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 105 74 127 105 75 127 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 105 74 136 105 75 136 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 108 74 191 108 75 191 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 108 74 196 108 75 196 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 109 74 151 109 75 151 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 109 74 180 109 75 180 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 113 74 151 113 75 151 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 113 74 180 113 75 180 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 117 74 151 117 75 151 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 136 74 151 136 75 151 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 136 74 161 136 75 161 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 140 74 151 140 75 151 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 140 74 161 140 75 161 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 144 74 151 144 75 151 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 144 74 161 144 75 161 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 148 74 95 148 75 95 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 148 74 104 148 75 104 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 148 74 138 148 75 138 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 148 74 147 148 75 147 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 150 74 106 150 75 106 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 150 74 115 150 75 115 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 150 74 127 150 75 127 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 150 74 136 150 75 136 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 152 74 95 152 75 95 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 152 74 104 152 75 104 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 152 74 138 152 75 138 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 152 74 147 152 75 147 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 152 74 169 152 75 169 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 154 74 106 154 75 106 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 154 74 115 154 75 115 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 154 74 127 154 75 127 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 154 74 136 154 75 136 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-fill 156 74 169 156 75 169 minecraft:glass_pane[north=false,south=false,west=true,east=true] strict
-setblock 95 66 165 minecraft:glass_pane[north=false,south=true,west=false,east=false] strict
-setblock 161 66 176 minecraft:glass_pane[north=false,south=true,west=false,east=false] strict
-fill 37 66 144 37 67 144 minecraft:glass_pane[north=false,south=true,west=false,east=false] strict
-fill 37 66 151 37 67 151 minecraft:glass_pane[north=false,south=true,west=false,east=false] strict
-fill 41 66 144 41 67 144 minecraft:glass_pane[north=false,south=true,west=false,east=false] strict
-fill 41 66 151 41 67 151 minecraft:glass_pane[north=false,south=true,west=false,east=false] strict
-fill 45 66 151 45 67 151 minecraft:glass_pane[north=false,south=true,west=false,east=false] strict
-fill 97 66 158 97 67 158 minecraft:glass_pane[north=false,south=true,west=false,east=false] strict
-fill 97 66 169 97 67 169 minecraft:glass_pane[north=false,south=true,west=false,east=false] strict
-fill 97 66 176 97 67 176 minecraft:glass_pane[north=false,south=true,west=false,east=false] strict
-fill 101 66 169 101 67 169 minecraft:glass_pane[north=false,south=true,west=false,east=false] strict
-fill 101 66 176 101 67 176 minecraft:glass_pane[north=false,south=true,west=false,east=false] strict
-fill 109 66 162 109 67 162 minecraft:glass_pane[north=false,south=true,west=false,east=false] strict
-fill 109 66 180 109 67 180 minecraft:glass_pane[north=false,south=true,west=false,east=false] strict
-fill 113 66 162 113 67 162 minecraft:glass_pane[north=false,south=true,west=false,east=false] strict
-fill 147 66 190 147 67 190 minecraft:glass_pane[north=false,south=true,west=false,east=false] strict
-fill 152 66 160 152 67 160 minecraft:glass_pane[north=false,south=true,west=false,east=false] strict
-fill 152 66 169 152 67 169 minecraft:glass_pane[north=false,south=true,west=false,east=false] strict
-fill 152 66 180 152 67 180 minecraft:glass_pane[north=false,south=true,west=false,east=false] strict
-fill 156 66 169 156 67 169 minecraft:glass_pane[north=false,south=true,west=false,east=false] strict
 bossbar set rufu:build value 92
 schedule function rufu:build/p92 1t

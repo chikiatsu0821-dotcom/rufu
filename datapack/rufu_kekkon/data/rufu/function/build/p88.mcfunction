@@ -1,3 +1,1108 @@
+fill 221 78 44 223 79 44 minecraft:stone_bricks strict
+fill 221 78 53 224 79 53 minecraft:stone_bricks strict
+fill 221 79 124 222 79 124 minecraft:stone_bricks strict
+fill 221 79 130 223 79 131 minecraft:stone_bricks strict
+fill 221 78 210 221 79 211 minecraft:stone_bricks strict
+setblock 222 79 211 minecraft:stone_bricks strict
+setblock 223 79 45 minecraft:stone_bricks strict
+setblock 223 79 54 minecraft:stone_bricks strict
+fill 223 79 210 224 79 210 minecraft:stone_bricks strict
+fill 224 76 125 225 79 125 minecraft:stone_bricks strict
+fill 224 79 129 225 79 129 minecraft:stone_bricks strict
+setblock 225 79 46 minecraft:stone_bricks strict
+fill 225 69 52 226 79 52 minecraft:stone_bricks strict
+fill 225 78 124 225 79 124 minecraft:stone_bricks strict
+setblock 225 79 127 minecraft:stone_bricks strict
+setblock 225 79 130 minecraft:stone_bricks strict
+setblock 226 79 126 minecraft:stone_bricks strict
+fill 226 77 128 226 79 128 minecraft:stone_bricks strict
+fill 226 79 204 226 79 207 minecraft:stone_bricks strict
+fill 227 78 48 227 79 48 minecraft:stone_bricks strict
+fill 227 78 50 227 79 50 minecraft:stone_bricks strict
+setblock 227 79 207 minecraft:stone_bricks strict
+fill 28 80 48 29 80 49 minecraft:stone_bricks strict
+setblock 28 80 50 minecraft:stone_bricks strict
+fill 28 80 205 29 80 207 minecraft:stone_bricks strict
+fill 29 75 46 30 80 46 minecraft:stone_bricks strict
+fill 29 80 126 37 80 128 minecraft:stone_bricks strict
+fill 29 80 208 29 80 209 minecraft:stone_bricks strict
+fill 30 80 45 34 80 45 minecraft:stone_bricks strict
+fill 30 80 124 36 80 125 minecraft:stone_bricks strict
+fill 30 80 129 36 80 130 minecraft:stone_bricks strict
+fill 30 80 202 35 80 202 minecraft:stone_bricks strict
+fill 31 80 210 32 80 210 minecraft:stone_bricks strict
+fill 32 80 123 34 80 123 minecraft:stone_bricks strict
+fill 32 80 131 34 80 131 minecraft:stone_bricks strict
+fill 32 79 211 34 80 211 minecraft:stone_bricks strict
+fill 33 80 44 34 80 44 minecraft:stone_bricks strict
+fill 34 80 210 36 80 210 minecraft:stone_bricks strict
+fill 36 77 203 37 80 203 minecraft:stone_bricks strict
+fill 37 79 47 37 80 51 minecraft:stone_bricks strict
+fill 37 79 204 37 80 208 minecraft:stone_bricks strict
+fill 38 80 48 38 80 49 minecraft:stone_bricks strict
+fill 38 80 205 38 80 207 minecraft:stone_bricks strict
+fill 119 79 203 125 80 203 minecraft:stone_bricks strict
+fill 119 80 204 119 80 206 minecraft:stone_bricks strict
+fill 119 80 208 119 80 209 minecraft:stone_bricks strict
+fill 120 80 209 123 80 209 minecraft:stone_bricks strict
+fill 123 80 49 131 80 49 minecraft:stone_bricks strict
+fill 123 80 58 133 80 58 minecraft:stone_bricks strict
+fill 123 80 80 133 80 80 minecraft:stone_bricks strict
+fill 123 80 81 125 80 81 minecraft:stone_bricks strict
+fill 123 80 82 123 80 89 minecraft:stone_bricks strict
+fill 124 80 46 130 80 48 minecraft:stone_bricks strict
+fill 124 80 50 131 80 50 minecraft:stone_bricks strict
+fill 124 80 51 130 80 52 minecraft:stone_bricks strict
+fill 124 80 89 133 80 89 minecraft:stone_bricks strict
+fill 125 80 204 125 80 209 minecraft:stone_bricks strict
+fill 126 80 45 128 80 45 minecraft:stone_bricks strict
+fill 126 80 53 128 80 53 minecraft:stone_bricks strict
+fill 127 80 81 133 80 81 minecraft:stone_bricks strict
+fill 131 80 204 131 80 205 minecraft:stone_bricks strict
+fill 131 80 207 131 80 208 minecraft:stone_bricks strict
+fill 133 80 82 133 80 88 minecraft:stone_bricks strict
+fill 137 80 204 137 80 208 minecraft:stone_bricks strict
+setblock 193 80 94 minecraft:stone_bricks strict
+setblock 197 80 94 minecraft:stone_bricks strict
+fill 217 80 48 218 80 49 minecraft:stone_bricks strict
+fill 217 80 205 218 80 207 minecraft:stone_bricks strict
+fill 218 70 46 219 80 46 minecraft:stone_bricks strict
+fill 218 80 126 226 80 128 minecraft:stone_bricks strict
+fill 218 80 208 218 80 209 minecraft:stone_bricks strict
+fill 219 80 45 225 80 45 minecraft:stone_bricks strict
+fill 219 80 124 225 80 125 minecraft:stone_bricks strict
+fill 219 80 129 225 80 130 minecraft:stone_bricks strict
+fill 219 78 209 219 80 210 minecraft:stone_bricks strict
+fill 220 80 53 221 80 53 minecraft:stone_bricks strict
+fill 220 80 210 225 80 210 minecraft:stone_bricks strict
+fill 221 79 123 223 80 123 minecraft:stone_bricks strict
+fill 221 76 201 223 80 201 minecraft:stone_bricks strict
+fill 221 80 211 223 80 211 minecraft:stone_bricks strict
+fill 222 80 44 223 80 44 minecraft:stone_bricks strict
+fill 222 80 131 223 80 131 minecraft:stone_bricks strict
+fill 223 80 53 224 80 53 minecraft:stone_bricks strict
+fill 225 80 46 226 80 46 minecraft:stone_bricks strict
+setblock 225 80 52 minecraft:stone_bricks strict
+fill 225 75 203 226 80 203 minecraft:stone_bricks strict
+fill 225 74 209 226 80 209 minecraft:stone_bricks strict
+fill 226 78 47 226 80 51 minecraft:stone_bricks strict
+setblock 226 80 204 minecraft:stone_bricks strict
+fill 226 80 206 227 80 206 minecraft:stone_bricks strict
+setblock 226 80 207 minecraft:stone_bricks strict
+fill 227 79 205 227 80 205 minecraft:stone_bricks strict
+fill 28 81 48 29 81 50 minecraft:stone_bricks strict
+fill 28 81 205 29 81 206 minecraft:stone_bricks strict
+setblock 28 81 207 minecraft:stone_bricks strict
+fill 29 69 47 29 81 47 minecraft:stone_bricks strict
+fill 29 80 51 29 81 52 minecraft:stone_bricks strict
+setblock 29 81 127 minecraft:stone_bricks strict
+fill 29 73 203 30 81 203 minecraft:stone_bricks strict
+fill 29 79 204 29 81 204 minecraft:stone_bricks strict
+setblock 29 81 208 minecraft:stone_bricks strict
+fill 30 81 45 31 81 45 minecraft:stone_bricks strict
+setblock 30 81 46 minecraft:stone_bricks strict
+fill 30 78 52 30 81 53 minecraft:stone_bricks strict
+setblock 30 81 124 minecraft:stone_bricks strict
+setblock 30 81 126 minecraft:stone_bricks strict
+setblock 30 81 128 minecraft:stone_bricks strict
+setblock 30 81 130 minecraft:stone_bricks strict
+fill 30 81 202 34 81 202 minecraft:stone_bricks strict
+fill 30 80 209 30 81 210 minecraft:stone_bricks strict
+fill 31 80 53 36 81 53 minecraft:stone_bricks strict
+setblock 31 81 125 minecraft:stone_bricks strict
+setblock 31 81 129 minecraft:stone_bricks strict
+setblock 31 81 210 minecraft:stone_bricks strict
+setblock 32 81 44 minecraft:stone_bricks strict
+setblock 32 81 124 minecraft:stone_bricks strict
+setblock 32 81 130 minecraft:stone_bricks strict
+fill 33 81 45 36 81 45 minecraft:stone_bricks strict
+setblock 33 81 123 minecraft:stone_bricks strict
+setblock 33 81 131 minecraft:stone_bricks strict
+fill 33 81 210 36 81 210 minecraft:stone_bricks strict
+fill 33 81 211 34 81 211 minecraft:stone_bricks strict
+setblock 34 81 44 minecraft:stone_bricks strict
+setblock 34 81 124 minecraft:stone_bricks strict
+setblock 34 81 130 minecraft:stone_bricks strict
+setblock 35 81 125 minecraft:stone_bricks strict
+setblock 35 81 129 minecraft:stone_bricks strict
+fill 36 66 46 37 81 46 minecraft:stone_bricks strict
+fill 36 80 52 37 81 52 minecraft:stone_bricks strict
+setblock 36 81 124 minecraft:stone_bricks strict
+setblock 36 81 126 minecraft:stone_bricks strict
+setblock 36 81 128 minecraft:stone_bricks strict
+setblock 36 81 130 minecraft:stone_bricks strict
+fill 36 81 202 36 81 203 minecraft:stone_bricks strict
+fill 36 69 209 37 81 209 minecraft:stone_bricks strict
+fill 37 81 47 37 81 50 minecraft:stone_bricks strict
+setblock 37 81 127 minecraft:stone_bricks strict
+fill 37 81 203 37 81 208 minecraft:stone_bricks strict
+fill 38 81 48 38 81 50 minecraft:stone_bricks strict
+fill 38 81 205 38 81 206 minecraft:stone_bricks strict
+fill 119 81 203 120 81 203 minecraft:stone_bricks strict
+fill 119 81 204 119 81 209 minecraft:stone_bricks strict
+setblock 120 81 209 minecraft:stone_bricks strict
+setblock 122 81 203 minecraft:stone_bricks strict
+fill 122 81 209 123 81 209 minecraft:stone_bricks strict
+setblock 123 81 49 minecraft:stone_bricks strict
+fill 123 81 81 124 81 81 minecraft:stone_bricks strict
+setblock 123 81 82 minecraft:stone_bricks strict
+fill 123 81 84 123 81 89 minecraft:stone_bricks strict
+setblock 124 81 46 minecraft:stone_bricks strict
+setblock 124 81 48 minecraft:stone_bricks strict
+setblock 124 81 50 minecraft:stone_bricks strict
+setblock 124 81 52 minecraft:stone_bricks strict
+fill 124 81 58 132 81 58 minecraft:stone_bricks strict
+fill 124 81 80 132 81 80 minecraft:stone_bricks strict
+fill 124 81 89 125 81 89 minecraft:stone_bricks strict
+setblock 125 81 47 minecraft:stone_bricks strict
+setblock 125 81 51 minecraft:stone_bricks strict
+fill 125 81 203 125 81 209 minecraft:stone_bricks strict
+setblock 126 81 46 minecraft:stone_bricks strict
+setblock 126 81 52 minecraft:stone_bricks strict
+fill 126 81 81 133 81 81 minecraft:stone_bricks strict
+setblock 127 81 45 minecraft:stone_bricks strict
+setblock 127 81 53 minecraft:stone_bricks strict
+fill 127 81 89 130 81 89 minecraft:stone_bricks strict
+setblock 128 81 46 minecraft:stone_bricks strict
+setblock 128 81 52 minecraft:stone_bricks strict
+setblock 129 81 47 minecraft:stone_bricks strict
+setblock 129 81 51 minecraft:stone_bricks strict
+setblock 130 81 46 minecraft:stone_bricks strict
+setblock 130 81 48 minecraft:stone_bricks strict
+setblock 130 81 50 minecraft:stone_bricks strict
+setblock 130 81 52 minecraft:stone_bricks strict
+setblock 131 81 49 minecraft:stone_bricks strict
+fill 131 81 204 131 81 208 minecraft:stone_bricks strict
+setblock 132 81 89 minecraft:stone_bricks strict
+fill 132 80 203 137 81 203 minecraft:stone_bricks strict
+fill 132 79 209 137 81 209 minecraft:stone_bricks strict
+fill 133 81 82 133 81 83 minecraft:stone_bricks strict
+fill 133 81 85 133 81 88 minecraft:stone_bricks strict
+fill 137 81 204 137 81 206 minecraft:stone_bricks strict
+setblock 137 81 208 minecraft:stone_bricks strict
+fill 217 81 48 217 81 50 minecraft:stone_bricks strict
+fill 217 81 205 217 81 207 minecraft:stone_bricks strict
+fill 218 80 47 218 81 47 minecraft:stone_bricks strict
+fill 218 80 50 218 81 52 minecraft:stone_bricks strict
+setblock 218 81 126 minecraft:stone_bricks strict
+setblock 218 81 128 minecraft:stone_bricks strict
+fill 218 80 203 219 81 203 minecraft:stone_bricks strict
+fill 218 79 204 218 81 204 minecraft:stone_bricks strict
+fill 218 81 206 218 81 207 minecraft:stone_bricks strict
+fill 218 81 209 219 81 209 minecraft:stone_bricks strict
+fill 219 81 45 219 81 46 minecraft:stone_bricks strict
+fill 219 80 52 219 81 53 minecraft:stone_bricks strict
+setblock 219 81 125 minecraft:stone_bricks strict
+setblock 219 81 127 minecraft:stone_bricks strict
+setblock 219 81 129 minecraft:stone_bricks strict
+fill 220 81 53 223 81 53 minecraft:stone_bricks strict
+setblock 220 81 124 minecraft:stone_bricks strict
+setblock 220 81 130 minecraft:stone_bricks strict
+fill 221 81 44 221 81 45 minecraft:stone_bricks strict
+fill 221 80 54 223 81 54 minecraft:stone_bricks strict
+setblock 221 81 123 minecraft:stone_bricks strict
+setblock 221 81 131 minecraft:stone_bricks strict
+setblock 221 81 211 minecraft:stone_bricks strict
+fill 222 81 45 223 81 45 minecraft:stone_bricks strict
+setblock 222 81 124 minecraft:stone_bricks strict
+setblock 222 81 130 minecraft:stone_bricks strict
+setblock 223 81 44 minecraft:stone_bricks strict
+setblock 223 81 123 minecraft:stone_bricks strict
+setblock 223 81 131 minecraft:stone_bricks strict
+setblock 223 81 211 minecraft:stone_bricks strict
+setblock 224 81 124 minecraft:stone_bricks strict
+setblock 224 81 130 minecraft:stone_bricks strict
+fill 225 81 45 225 81 46 minecraft:stone_bricks strict
+fill 225 81 52 226 81 52 minecraft:stone_bricks strict
+setblock 225 81 53 minecraft:stone_bricks strict
+setblock 225 81 125 minecraft:stone_bricks strict
+setblock 225 81 127 minecraft:stone_bricks strict
+setblock 225 81 129 minecraft:stone_bricks strict
+setblock 225 81 203 minecraft:stone_bricks strict
+fill 226 81 46 226 81 51 minecraft:stone_bricks strict
+setblock 226 81 126 minecraft:stone_bricks strict
+setblock 226 81 128 minecraft:stone_bricks strict
+fill 226 81 204 226 81 209 minecraft:stone_bricks strict
+fill 227 80 48 227 81 50 minecraft:stone_bricks strict
+fill 227 81 206 227 81 207 minecraft:stone_bricks strict
+fill 28 82 48 38 82 50 minecraft:stone_bricks strict
+fill 28 82 205 38 82 207 minecraft:stone_bricks strict
+fill 29 82 46 37 82 47 minecraft:stone_bricks strict
+fill 29 82 51 37 82 52 minecraft:stone_bricks strict
+fill 29 82 203 37 82 204 minecraft:stone_bricks strict
+fill 29 82 208 37 82 209 minecraft:stone_bricks strict
+fill 30 82 45 36 82 45 minecraft:stone_bricks strict
+fill 30 82 53 36 82 53 minecraft:stone_bricks strict
+fill 30 82 202 36 82 202 minecraft:stone_bricks strict
+fill 30 82 210 36 82 210 minecraft:stone_bricks strict
+fill 32 82 44 34 82 44 minecraft:stone_bricks strict
+fill 32 78 54 34 82 54 minecraft:stone_bricks strict
+fill 32 79 201 34 82 201 minecraft:stone_bricks strict
+fill 32 82 211 34 82 211 minecraft:stone_bricks strict
+fill 119 82 203 125 82 209 minecraft:stone_bricks strict
+fill 123 82 81 133 82 81 minecraft:stone_bricks strict
+fill 123 82 83 123 82 89 minecraft:stone_bricks strict
+fill 125 82 58 131 82 58 minecraft:stone_bricks strict
+fill 125 82 80 131 82 80 minecraft:stone_bricks strict
+fill 125 82 89 133 82 89 minecraft:stone_bricks strict
+fill 131 82 203 137 82 209 minecraft:stone_bricks strict
+fill 133 82 82 133 82 88 minecraft:stone_bricks strict
+fill 217 82 48 227 82 50 minecraft:stone_bricks strict
+fill 217 82 205 227 82 207 minecraft:stone_bricks strict
+fill 218 82 46 226 82 47 minecraft:stone_bricks strict
+fill 218 82 51 226 82 52 minecraft:stone_bricks strict
+fill 218 82 203 226 82 204 minecraft:stone_bricks strict
+fill 218 82 208 226 82 209 minecraft:stone_bricks strict
+fill 219 82 45 225 82 45 minecraft:stone_bricks strict
+fill 219 82 53 225 82 53 minecraft:stone_bricks strict
+fill 219 80 202 225 82 202 minecraft:stone_bricks strict
+fill 219 81 210 225 82 210 minecraft:stone_bricks strict
+fill 221 82 54 222 82 54 minecraft:stone_bricks strict
+fill 221 81 201 222 82 201 minecraft:stone_bricks strict
+fill 221 82 211 223 82 211 minecraft:stone_bricks strict
+fill 222 82 44 223 82 44 minecraft:stone_bricks strict
+setblock 28 83 48 minecraft:stone_bricks strict
+setblock 28 83 50 minecraft:stone_bricks strict
+setblock 28 83 206 minecraft:stone_bricks strict
+setblock 29 83 47 minecraft:stone_bricks strict
+setblock 29 83 49 minecraft:stone_bricks strict
+setblock 29 83 51 minecraft:stone_bricks strict
+setblock 29 83 203 minecraft:stone_bricks strict
+setblock 29 83 205 minecraft:stone_bricks strict
+setblock 29 83 207 minecraft:stone_bricks strict
+setblock 29 83 209 minecraft:stone_bricks strict
+setblock 30 83 46 minecraft:stone_bricks strict
+setblock 30 83 52 minecraft:stone_bricks strict
+setblock 30 83 202 minecraft:stone_bricks strict
+setblock 30 83 210 minecraft:stone_bricks strict
+setblock 31 83 45 minecraft:stone_bricks strict
+setblock 31 83 53 minecraft:stone_bricks strict
+setblock 32 83 44 minecraft:stone_bricks strict
+setblock 32 83 54 minecraft:stone_bricks strict
+setblock 32 83 202 minecraft:stone_bricks strict
+setblock 32 83 210 minecraft:stone_bricks strict
+setblock 33 83 45 minecraft:stone_bricks strict
+setblock 33 83 53 minecraft:stone_bricks strict
+setblock 33 83 201 minecraft:stone_bricks strict
+setblock 33 83 211 minecraft:stone_bricks strict
+setblock 34 83 44 minecraft:stone_bricks strict
+setblock 34 83 54 minecraft:stone_bricks strict
+setblock 34 83 202 minecraft:stone_bricks strict
+setblock 34 83 210 minecraft:stone_bricks strict
+setblock 35 83 45 minecraft:stone_bricks strict
+setblock 35 83 53 minecraft:stone_bricks strict
+setblock 36 83 46 minecraft:stone_bricks strict
+setblock 36 83 52 minecraft:stone_bricks strict
+setblock 36 83 202 minecraft:stone_bricks strict
+setblock 36 83 210 minecraft:stone_bricks strict
+setblock 37 83 47 minecraft:stone_bricks strict
+setblock 37 83 49 minecraft:stone_bricks strict
+setblock 37 83 51 minecraft:stone_bricks strict
+setblock 37 83 203 minecraft:stone_bricks strict
+setblock 37 83 205 minecraft:stone_bricks strict
+setblock 37 83 207 minecraft:stone_bricks strict
+setblock 37 83 209 minecraft:stone_bricks strict
+setblock 38 83 48 minecraft:stone_bricks strict
+setblock 38 83 50 minecraft:stone_bricks strict
+setblock 38 83 206 minecraft:stone_bricks strict
+setblock 119 83 203 minecraft:stone_bricks strict
+setblock 119 83 205 minecraft:stone_bricks strict
+setblock 119 83 207 minecraft:stone_bricks strict
+setblock 119 83 209 minecraft:stone_bricks strict
+setblock 121 83 203 minecraft:stone_bricks strict
+setblock 121 83 209 minecraft:stone_bricks strict
+fill 123 83 81 127 83 81 minecraft:stone_bricks strict
+setblock 123 83 86 minecraft:stone_bricks strict
+setblock 123 83 88 minecraft:stone_bricks strict
+setblock 123 83 203 minecraft:stone_bricks strict
+setblock 123 83 209 minecraft:stone_bricks strict
+fill 124 83 89 127 83 89 minecraft:stone_bricks strict
+setblock 125 83 203 minecraft:stone_bricks strict
+setblock 125 83 205 minecraft:stone_bricks strict
+setblock 125 83 207 minecraft:stone_bricks strict
+setblock 125 83 209 minecraft:stone_bricks strict
+fill 126 83 58 130 83 58 minecraft:stone_bricks strict
+fill 126 83 80 130 83 80 minecraft:stone_bricks strict
+setblock 131 83 203 minecraft:stone_bricks strict
+setblock 131 83 205 minecraft:stone_bricks strict
+setblock 131 83 207 minecraft:stone_bricks strict
+setblock 131 83 209 minecraft:stone_bricks strict
+setblock 133 83 203 minecraft:stone_bricks strict
+setblock 133 83 209 minecraft:stone_bricks strict
+setblock 135 83 203 minecraft:stone_bricks strict
+setblock 135 83 209 minecraft:stone_bricks strict
+setblock 137 83 203 minecraft:stone_bricks strict
+setblock 137 83 205 minecraft:stone_bricks strict
+setblock 137 83 207 minecraft:stone_bricks strict
+setblock 137 83 209 minecraft:stone_bricks strict
+setblock 217 83 49 minecraft:stone_bricks strict
+setblock 217 83 205 minecraft:stone_bricks strict
+setblock 217 83 207 minecraft:stone_bricks strict
+setblock 218 83 46 minecraft:stone_bricks strict
+setblock 218 83 48 minecraft:stone_bricks strict
+setblock 218 83 50 minecraft:stone_bricks strict
+setblock 218 83 52 minecraft:stone_bricks strict
+setblock 218 83 204 minecraft:stone_bricks strict
+setblock 218 83 206 minecraft:stone_bricks strict
+setblock 218 83 208 minecraft:stone_bricks strict
+setblock 219 83 45 minecraft:stone_bricks strict
+setblock 219 83 53 minecraft:stone_bricks strict
+setblock 219 83 203 minecraft:stone_bricks strict
+setblock 219 83 209 minecraft:stone_bricks strict
+setblock 220 83 202 minecraft:stone_bricks strict
+setblock 220 83 210 minecraft:stone_bricks strict
+setblock 221 83 45 minecraft:stone_bricks strict
+setblock 221 83 53 minecraft:stone_bricks strict
+setblock 221 83 201 minecraft:stone_bricks strict
+setblock 221 83 211 minecraft:stone_bricks strict
+setblock 222 83 44 minecraft:stone_bricks strict
+setblock 222 83 54 minecraft:stone_bricks strict
+setblock 222 83 202 minecraft:stone_bricks strict
+setblock 222 83 210 minecraft:stone_bricks strict
+setblock 223 83 45 minecraft:stone_bricks strict
+setblock 223 83 53 minecraft:stone_bricks strict
+setblock 223 83 201 minecraft:stone_bricks strict
+setblock 223 83 211 minecraft:stone_bricks strict
+setblock 224 83 202 minecraft:stone_bricks strict
+setblock 224 83 210 minecraft:stone_bricks strict
+setblock 225 83 45 minecraft:stone_bricks strict
+setblock 225 83 53 minecraft:stone_bricks strict
+setblock 225 83 203 minecraft:stone_bricks strict
+setblock 225 83 209 minecraft:stone_bricks strict
+setblock 226 83 46 minecraft:stone_bricks strict
+setblock 226 83 48 minecraft:stone_bricks strict
+setblock 226 83 50 minecraft:stone_bricks strict
+setblock 226 83 52 minecraft:stone_bricks strict
+setblock 226 83 204 minecraft:stone_bricks strict
+setblock 226 83 206 minecraft:stone_bricks strict
+setblock 226 83 208 minecraft:stone_bricks strict
+setblock 227 83 49 minecraft:stone_bricks strict
+setblock 227 83 205 minecraft:stone_bricks strict
+setblock 227 83 207 minecraft:stone_bricks strict
+fill 121 84 204 123 84 204 minecraft:stone_bricks strict
+fill 121 84 208 123 84 208 minecraft:stone_bricks strict
+fill 123 84 86 123 84 89 minecraft:stone_bricks strict
+setblock 124 84 89 minecraft:stone_bricks strict
+fill 126 84 89 127 84 89 minecraft:stone_bricks strict
+fill 127 84 58 129 84 58 minecraft:stone_bricks strict
+fill 127 84 80 129 84 80 minecraft:stone_bricks strict
+fill 129 83 89 133 84 89 minecraft:stone_bricks strict
+fill 133 84 204 135 84 204 minecraft:stone_bricks strict
+fill 133 84 208 135 84 208 minecraft:stone_bricks strict
+setblock 122 85 204 minecraft:stone_bricks strict
+setblock 122 85 208 minecraft:stone_bricks strict
+fill 123 84 81 125 85 81 minecraft:stone_bricks strict
+fill 123 83 82 123 85 84 minecraft:stone_bricks strict
+fill 123 85 87 123 85 89 minecraft:stone_bricks strict
+fill 124 85 89 125 85 89 minecraft:stone_bricks strict
+fill 127 84 81 127 85 81 minecraft:stone_bricks strict
+setblock 127 85 89 minecraft:stone_bricks strict
+setblock 128 85 58 minecraft:stone_bricks strict
+setblock 128 85 80 minecraft:stone_bricks strict
+fill 129 83 81 133 85 81 minecraft:stone_bricks strict
+fill 130 85 89 133 85 89 minecraft:stone_bricks strict
+fill 133 83 82 133 85 84 minecraft:stone_bricks strict
+setblock 134 85 204 minecraft:stone_bricks strict
+setblock 134 85 208 minecraft:stone_bricks strict
+fill 123 86 81 123 86 84 minecraft:stone_bricks strict
+fill 123 86 86 123 86 89 minecraft:stone_bricks strict
+fill 124 86 89 127 86 89 minecraft:stone_bricks strict
+fill 125 86 81 127 86 81 minecraft:stone_bricks strict
+fill 129 86 81 130 86 81 minecraft:stone_bricks strict
+fill 129 86 89 131 86 89 minecraft:stone_bricks strict
+fill 132 86 81 133 86 81 minecraft:stone_bricks strict
+fill 133 86 83 133 86 84 minecraft:stone_bricks strict
+fill 133 83 86 133 86 88 minecraft:stone_bricks strict
+fill 123 87 81 126 87 89 minecraft:stone_bricks strict
+fill 127 87 82 133 87 88 minecraft:stone_bricks strict
+setblock 127 87 89 minecraft:stone_bricks strict
+fill 128 87 81 129 87 81 minecraft:stone_bricks strict
+fill 129 87 89 133 87 89 minecraft:stone_bricks strict
+fill 131 87 81 133 87 81 minecraft:stone_bricks strict
+fill 123 88 81 128 88 81 minecraft:stone_bricks strict
+fill 123 88 82 123 88 86 minecraft:stone_bricks strict
+fill 123 88 88 123 88 89 minecraft:stone_bricks strict
+fill 125 88 89 129 88 89 minecraft:stone_bricks strict
+fill 130 88 81 132 88 81 minecraft:stone_bricks strict
+fill 131 88 89 133 88 89 minecraft:stone_bricks strict
+fill 133 88 83 133 88 88 minecraft:stone_bricks strict
+setblock 125 89 81 minecraft:stone_bricks strict
+setblock 125 89 89 minecraft:stone_bricks strict
+setblock 127 89 81 minecraft:stone_bricks strict
+setblock 127 89 89 minecraft:stone_bricks strict
+setblock 129 89 81 minecraft:stone_bricks strict
+setblock 129 89 89 minecraft:stone_bricks strict
+setblock 131 89 81 minecraft:stone_bricks strict
+setblock 131 89 89 minecraft:stone_bricks strict
+fill 192 68 185 193 68 185 minecraft:stripped_birch_log[axis=y] strict
+fill 192 68 186 192 68 187 minecraft:stripped_birch_log[axis=y] strict
+fill 193 68 183 195 68 183 minecraft:stripped_birch_log[axis=y] strict
+setblock 193 68 184 minecraft:stripped_birch_log[axis=y] strict
+fill 193 68 187 193 68 189 minecraft:stripped_birch_log[axis=y] strict
+fill 194 68 189 195 68 189 minecraft:stripped_birch_log[axis=y] strict
+fill 195 68 182 197 68 182 minecraft:stripped_birch_log[axis=y] strict
+fill 195 68 190 197 68 190 minecraft:stripped_birch_log[axis=y] strict
+fill 197 68 183 199 68 183 minecraft:stripped_birch_log[axis=y] strict
+fill 197 68 189 199 68 189 minecraft:stripped_birch_log[axis=y] strict
+fill 199 68 184 199 68 185 minecraft:stripped_birch_log[axis=y] strict
+fill 199 68 187 200 68 187 minecraft:stripped_birch_log[axis=y] strict
+setblock 199 68 188 minecraft:stripped_birch_log[axis=y] strict
+fill 200 68 185 200 68 186 minecraft:stripped_birch_log[axis=y] strict
+fill 193 72 185 194 72 185 minecraft:stripped_birch_log[axis=y] strict
+fill 193 72 186 193 72 187 minecraft:stripped_birch_log[axis=y] strict
+fill 194 72 184 195 72 184 minecraft:stripped_birch_log[axis=y] strict
+fill 194 72 187 194 72 188 minecraft:stripped_birch_log[axis=y] strict
+fill 195 72 183 197 72 183 minecraft:stripped_birch_log[axis=y] strict
+fill 195 72 188 195 72 189 minecraft:stripped_birch_log[axis=y] strict
+fill 196 72 189 197 72 189 minecraft:stripped_birch_log[axis=y] strict
+fill 197 72 184 198 72 184 minecraft:stripped_birch_log[axis=y] strict
+fill 197 72 188 198 72 188 minecraft:stripped_birch_log[axis=y] strict
+fill 198 72 185 199 72 185 minecraft:stripped_birch_log[axis=y] strict
+fill 198 72 187 199 72 187 minecraft:stripped_birch_log[axis=y] strict
+setblock 199 72 186 minecraft:stripped_birch_log[axis=y] strict
+fill 194 76 185 195 76 185 minecraft:stripped_birch_log[axis=y] strict
+fill 194 76 186 194 76 187 minecraft:stripped_birch_log[axis=y] strict
+fill 195 76 184 197 76 184 minecraft:stripped_birch_log[axis=y] strict
+fill 195 76 187 195 76 188 minecraft:stripped_birch_log[axis=y] strict
+fill 196 76 188 197 76 188 minecraft:stripped_birch_log[axis=y] strict
+fill 197 76 185 198 76 185 minecraft:stripped_birch_log[axis=y] strict
+fill 197 76 187 198 76 187 minecraft:stripped_birch_log[axis=y] strict
+setblock 198 76 186 minecraft:stripped_birch_log[axis=y] strict
+fill 36 68 185 41 68 185 minecraft:stripped_cherry_log[axis=x] strict
+fill 36 68 196 41 68 196 minecraft:stripped_cherry_log[axis=x] strict
+fill 44 68 162 51 68 162 minecraft:stripped_cherry_log[axis=x] strict
+fill 44 68 173 51 68 173 minecraft:stripped_cherry_log[axis=x] strict
+fill 135 68 151 148 68 151 minecraft:stripped_cherry_log[axis=x] strict
+fill 135 68 161 148 68 161 minecraft:stripped_cherry_log[axis=x] strict
+fill 146 68 191 150 68 191 minecraft:stripped_cherry_log[axis=x] strict
+fill 146 68 196 150 68 196 minecraft:stripped_cherry_log[axis=x] strict
+fill 149 68 127 156 68 127 minecraft:stripped_cherry_log[axis=x] strict
+fill 149 68 136 156 68 136 minecraft:stripped_cherry_log[axis=x] strict
+fill 171 68 108 178 68 108 minecraft:stripped_cherry_log[axis=x] strict
+fill 171 68 116 178 68 116 minecraft:stripped_cherry_log[axis=x] strict
+fill 36 72 185 41 72 185 minecraft:stripped_cherry_log[axis=x] strict
+fill 36 72 196 41 72 196 minecraft:stripped_cherry_log[axis=x] strict
+fill 44 72 162 51 72 162 minecraft:stripped_cherry_log[axis=x] strict
+fill 44 72 173 51 72 173 minecraft:stripped_cherry_log[axis=x] strict
+fill 135 72 151 148 72 151 minecraft:stripped_cherry_log[axis=x] strict
+fill 135 72 161 148 72 161 minecraft:stripped_cherry_log[axis=x] strict
+fill 146 72 191 150 72 191 minecraft:stripped_cherry_log[axis=x] strict
+fill 146 72 196 150 72 196 minecraft:stripped_cherry_log[axis=x] strict
+fill 149 72 127 156 72 127 minecraft:stripped_cherry_log[axis=x] strict
+fill 149 72 136 156 72 136 minecraft:stripped_cherry_log[axis=x] strict
+fill 171 72 108 178 72 108 minecraft:stripped_cherry_log[axis=x] strict
+fill 171 72 116 178 72 116 minecraft:stripped_cherry_log[axis=x] strict
+fill 135 76 151 148 76 151 minecraft:stripped_cherry_log[axis=x] strict
+fill 135 76 161 148 76 161 minecraft:stripped_cherry_log[axis=x] strict
+fill 149 76 127 156 76 127 minecraft:stripped_cherry_log[axis=x] strict
+fill 149 76 136 156 76 136 minecraft:stripped_cherry_log[axis=x] strict
+fill 35 68 186 35 68 195 minecraft:stripped_cherry_log[axis=z] strict
+fill 42 68 186 42 68 195 minecraft:stripped_cherry_log[axis=z] strict
+fill 43 68 163 43 68 172 minecraft:stripped_cherry_log[axis=z] strict
+fill 52 68 163 52 68 172 minecraft:stripped_cherry_log[axis=z] strict
+fill 134 68 152 134 68 160 minecraft:stripped_cherry_log[axis=z] strict
+fill 145 68 192 145 68 195 minecraft:stripped_cherry_log[axis=z] strict
+fill 148 68 128 148 68 135 minecraft:stripped_cherry_log[axis=z] strict
+fill 149 68 152 149 68 160 minecraft:stripped_cherry_log[axis=z] strict
+fill 151 68 192 151 68 195 minecraft:stripped_cherry_log[axis=z] strict
+fill 157 68 128 157 68 135 minecraft:stripped_cherry_log[axis=z] strict
+fill 170 68 109 170 68 115 minecraft:stripped_cherry_log[axis=z] strict
+fill 179 68 109 179 68 115 minecraft:stripped_cherry_log[axis=z] strict
+fill 35 72 186 35 72 195 minecraft:stripped_cherry_log[axis=z] strict
+fill 42 72 186 42 72 195 minecraft:stripped_cherry_log[axis=z] strict
+fill 43 72 163 43 72 172 minecraft:stripped_cherry_log[axis=z] strict
+fill 52 72 163 52 72 172 minecraft:stripped_cherry_log[axis=z] strict
+fill 134 72 152 134 72 160 minecraft:stripped_cherry_log[axis=z] strict
+fill 145 72 192 145 72 195 minecraft:stripped_cherry_log[axis=z] strict
+fill 148 72 128 148 72 135 minecraft:stripped_cherry_log[axis=z] strict
+fill 149 72 152 149 72 160 minecraft:stripped_cherry_log[axis=z] strict
+fill 151 72 192 151 72 195 minecraft:stripped_cherry_log[axis=z] strict
+fill 157 72 128 157 72 135 minecraft:stripped_cherry_log[axis=z] strict
+fill 170 72 109 170 72 115 minecraft:stripped_cherry_log[axis=z] strict
+fill 179 72 109 179 72 115 minecraft:stripped_cherry_log[axis=z] strict
+fill 134 76 152 134 76 160 minecraft:stripped_cherry_log[axis=z] strict
+fill 148 76 128 148 76 135 minecraft:stripped_cherry_log[axis=z] strict
+fill 149 76 152 149 76 160 minecraft:stripped_cherry_log[axis=z] strict
+fill 157 76 128 157 76 135 minecraft:stripped_cherry_log[axis=z] strict
+fill 36 68 138 47 68 138 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 36 68 144 47 68 144 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 36 68 162 41 68 162 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 36 68 173 41 68 173 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 63 68 138 71 68 138 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 63 68 147 71 68 147 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 66 68 105 74 68 105 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 66 68 116 74 68 116 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 74 68 138 83 68 138 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 74 68 147 83 68 147 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 100 68 106 107 68 106 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 100 68 115 107 68 115 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 107 68 78 116 68 78 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 107 68 89 116 68 89 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 112 68 95 121 68 95 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 112 68 101 121 68 101 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 124 68 167 132 68 167 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 124 68 176 132 68 176 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 147 68 95 156 68 95 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 147 68 104 156 68 104 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 147 68 138 156 68 138 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 147 68 147 156 68 147 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 149 68 106 156 68 106 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 149 68 115 156 68 115 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 151 68 151 160 68 151 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 151 68 160 160 68 160 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 208 68 108 219 68 108 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 208 68 116 219 68 116 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 36 72 138 47 72 138 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 36 72 144 47 72 144 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 36 72 162 41 72 162 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 36 72 173 41 72 173 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 63 72 138 71 72 138 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 63 72 147 71 72 147 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 66 72 105 74 72 105 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 66 72 116 74 72 116 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 74 72 138 83 72 138 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 74 72 147 83 72 147 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 100 72 106 107 72 106 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 100 72 115 107 72 115 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 107 72 78 116 72 78 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 107 72 89 116 72 89 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 112 72 95 121 72 95 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 112 72 101 121 72 101 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 147 72 95 156 72 95 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 147 72 104 156 72 104 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 147 72 138 156 72 138 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 147 72 147 156 72 147 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 149 72 106 156 72 106 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 149 72 115 156 72 115 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 151 72 151 160 72 151 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 151 72 160 160 72 160 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 208 72 108 219 72 108 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 208 72 116 219 72 116 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 147 76 95 156 76 95 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 147 76 104 156 76 104 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 147 76 138 156 76 138 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 147 76 147 156 76 147 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 149 76 106 156 76 106 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 149 76 115 156 76 115 minecraft:stripped_dark_oak_log[axis=x] strict
+fill 126 65 208 126 71 208 minecraft:stripped_dark_oak_log[axis=y] strict
+fill 130 65 208 130 71 208 minecraft:stripped_dark_oak_log[axis=y] strict
+fill 35 68 139 35 68 143 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 35 68 163 35 68 172 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 42 68 163 42 68 172 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 48 68 139 48 68 143 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 62 68 139 62 68 146 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 65 68 106 65 68 115 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 72 68 139 73 68 146 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 75 68 106 75 68 115 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 84 68 139 84 68 146 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 99 68 107 99 68 114 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 106 68 79 106 68 88 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 108 68 107 108 68 114 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 111 68 96 111 68 100 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 117 68 79 117 68 88 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 122 68 96 122 68 100 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 123 68 168 123 68 175 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 133 68 168 133 68 175 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 146 68 96 146 68 103 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 146 68 139 146 68 146 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 148 68 107 148 68 114 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 150 68 152 150 68 159 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 157 68 96 157 68 103 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 157 68 107 157 68 114 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 157 68 139 157 68 146 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 161 68 152 161 68 159 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 207 68 109 207 68 115 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 220 68 109 220 68 115 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 35 72 139 35 72 143 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 35 72 163 35 72 172 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 42 72 163 42 72 172 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 48 72 139 48 72 143 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 62 72 139 62 72 146 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 65 72 106 65 72 115 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 72 72 139 73 72 146 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 75 72 106 75 72 115 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 84 72 139 84 72 146 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 99 72 107 99 72 114 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 106 72 79 106 72 88 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 108 72 107 108 72 114 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 111 72 96 111 72 100 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 117 72 79 117 72 88 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 122 72 96 122 72 100 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 146 72 96 146 72 103 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 146 72 139 146 72 146 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 148 72 107 148 72 114 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 150 72 152 150 72 159 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 157 72 96 157 72 103 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 157 72 107 157 72 114 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 157 72 139 157 72 146 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 161 72 152 161 72 159 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 207 72 109 207 72 115 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 220 72 109 220 72 115 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 146 76 96 146 76 103 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 146 76 139 146 76 142 minecraft:stripped_dark_oak_log[axis=z] strict
+setblock 146 76 144 minecraft:stripped_dark_oak_log[axis=z] strict
+setblock 146 76 146 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 148 76 107 148 76 114 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 157 76 96 157 76 103 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 157 76 107 157 76 114 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 157 76 139 157 76 146 minecraft:stripped_dark_oak_log[axis=z] strict
+fill 36 68 126 47 68 126 minecraft:stripped_mangrove_log[axis=x] strict
+fill 36 68 134 47 68 134 minecraft:stripped_mangrove_log[axis=x] strict
+fill 54 68 162 60 68 162 minecraft:stripped_mangrove_log[axis=x] strict
+fill 54 68 173 60 68 173 minecraft:stripped_mangrove_log[axis=x] strict
+fill 151 68 181 160 68 181 minecraft:stripped_mangrove_log[axis=x] strict
+fill 151 68 190 160 68 190 minecraft:stripped_mangrove_log[axis=x] strict
+fill 36 72 126 47 72 126 minecraft:stripped_mangrove_log[axis=x] strict
+fill 36 72 134 47 72 134 minecraft:stripped_mangrove_log[axis=x] strict
+fill 54 72 162 60 72 162 minecraft:stripped_mangrove_log[axis=x] strict
+fill 54 72 173 60 72 173 minecraft:stripped_mangrove_log[axis=x] strict
+fill 151 72 181 160 72 181 minecraft:stripped_mangrove_log[axis=x] strict
+fill 151 72 190 160 72 190 minecraft:stripped_mangrove_log[axis=x] strict
+fill 35 68 127 35 68 133 minecraft:stripped_mangrove_log[axis=z] strict
+fill 48 68 127 48 68 133 minecraft:stripped_mangrove_log[axis=z] strict
+fill 53 68 163 53 68 172 minecraft:stripped_mangrove_log[axis=z] strict
+fill 61 68 163 61 68 172 minecraft:stripped_mangrove_log[axis=z] strict
+fill 150 68 182 150 68 189 minecraft:stripped_mangrove_log[axis=z] strict
+fill 161 68 182 161 68 189 minecraft:stripped_mangrove_log[axis=z] strict
+fill 35 72 127 35 72 133 minecraft:stripped_mangrove_log[axis=z] strict
+fill 48 72 127 48 72 133 minecraft:stripped_mangrove_log[axis=z] strict
+fill 53 72 163 53 72 172 minecraft:stripped_mangrove_log[axis=z] strict
+fill 61 72 163 61 72 172 minecraft:stripped_mangrove_log[axis=z] strict
+fill 150 72 182 150 72 189 minecraft:stripped_mangrove_log[axis=z] strict
+fill 161 72 182 161 72 189 minecraft:stripped_mangrove_log[axis=z] strict
+fill 36 68 145 47 68 145 minecraft:stripped_oak_log[axis=x] strict
+fill 36 68 151 47 68 151 minecraft:stripped_oak_log[axis=x] strict
+fill 53 68 149 58 68 149 minecraft:stripped_oak_log[axis=x] strict
+fill 53 68 158 58 68 158 minecraft:stripped_oak_log[axis=x] strict
+fill 66 68 126 77 68 126 minecraft:stripped_oak_log[axis=x] strict
+fill 66 68 134 77 68 134 minecraft:stripped_oak_log[axis=x] strict
+fill 72 68 162 76 68 162 minecraft:stripped_oak_log[axis=x] strict
+fill 72 68 173 76 68 173 minecraft:stripped_oak_log[axis=x] strict
+fill 77 68 105 83 68 105 minecraft:stripped_oak_log[axis=x] strict
+fill 77 68 116 83 68 116 minecraft:stripped_oak_log[axis=x] strict
+fill 79 68 162 86 68 162 minecraft:stripped_oak_log[axis=x] strict
+fill 79 68 173 86 68 173 minecraft:stripped_oak_log[axis=x] strict
+fill 83 68 126 86 68 126 minecraft:stripped_oak_log[axis=x] strict
+fill 83 68 134 86 68 134 minecraft:stripped_oak_log[axis=x] strict
+fill 86 68 105 94 68 105 minecraft:stripped_oak_log[axis=x] strict
+fill 86 68 116 94 68 116 minecraft:stripped_oak_log[axis=x] strict
+fill 96 68 151 105 68 151 minecraft:stripped_oak_log[axis=x] strict
+fill 96 68 158 105 68 159 minecraft:stripped_oak_log[axis=x] strict
+fill 96 68 169 105 68 170 minecraft:stripped_oak_log[axis=x] strict
+fill 96 68 176 105 68 176 minecraft:stripped_oak_log[axis=x] strict
+fill 100 68 95 109 68 95 minecraft:stripped_oak_log[axis=x] strict
+fill 100 68 104 109 68 104 minecraft:stripped_oak_log[axis=x] strict
+fill 121 68 238 135 68 238 minecraft:stripped_oak_log[axis=x] strict
+fill 121 68 248 135 68 248 minecraft:stripped_oak_log[axis=x] strict
+fill 124 68 154 132 68 154 minecraft:stripped_oak_log[axis=x] strict
+fill 124 68 162 132 68 162 minecraft:stripped_oak_log[axis=x] strict
+fill 36 72 145 47 72 145 minecraft:stripped_oak_log[axis=x] strict
+fill 36 72 151 47 72 151 minecraft:stripped_oak_log[axis=x] strict
+fill 53 72 149 58 72 149 minecraft:stripped_oak_log[axis=x] strict
+fill 53 72 158 58 72 158 minecraft:stripped_oak_log[axis=x] strict
+fill 66 72 126 77 72 126 minecraft:stripped_oak_log[axis=x] strict
+fill 66 72 134 77 72 134 minecraft:stripped_oak_log[axis=x] strict
+fill 72 72 162 76 72 162 minecraft:stripped_oak_log[axis=x] strict
+fill 72 72 173 76 72 173 minecraft:stripped_oak_log[axis=x] strict
+fill 77 72 105 83 72 105 minecraft:stripped_oak_log[axis=x] strict
+fill 77 72 116 83 72 116 minecraft:stripped_oak_log[axis=x] strict
+fill 79 72 162 86 72 162 minecraft:stripped_oak_log[axis=x] strict
+fill 79 72 173 86 72 173 minecraft:stripped_oak_log[axis=x] strict
+fill 83 72 126 86 72 126 minecraft:stripped_oak_log[axis=x] strict
+fill 83 72 134 86 72 134 minecraft:stripped_oak_log[axis=x] strict
+fill 86 72 105 94 72 105 minecraft:stripped_oak_log[axis=x] strict
+fill 86 72 116 94 72 116 minecraft:stripped_oak_log[axis=x] strict
+fill 96 72 151 105 72 151 minecraft:stripped_oak_log[axis=x] strict
+fill 96 72 158 105 72 159 minecraft:stripped_oak_log[axis=x] strict
+fill 96 72 169 105 72 170 minecraft:stripped_oak_log[axis=x] strict
+fill 96 72 176 105 72 176 minecraft:stripped_oak_log[axis=x] strict
+fill 100 72 95 109 72 95 minecraft:stripped_oak_log[axis=x] strict
+fill 100 72 104 109 72 104 minecraft:stripped_oak_log[axis=x] strict
+fill 36 76 145 47 76 145 minecraft:stripped_oak_log[axis=x] strict
+fill 36 76 151 47 76 151 minecraft:stripped_oak_log[axis=x] strict
+fill 66 76 126 77 76 126 minecraft:stripped_oak_log[axis=x] strict
+fill 66 76 134 77 76 134 minecraft:stripped_oak_log[axis=x] strict
+fill 96 76 151 105 76 151 minecraft:stripped_oak_log[axis=x] strict
+setblock 96 76 158 minecraft:stripped_oak_log[axis=x] strict
+fill 98 76 158 103 76 158 minecraft:stripped_oak_log[axis=x] strict
+fill 100 76 95 109 76 95 minecraft:stripped_oak_log[axis=x] strict
+fill 100 76 104 109 76 104 minecraft:stripped_oak_log[axis=x] strict
+setblock 105 76 158 minecraft:stripped_oak_log[axis=x] strict
+fill 35 68 146 35 68 150 minecraft:stripped_oak_log[axis=z] strict
+fill 48 68 146 48 68 150 minecraft:stripped_oak_log[axis=z] strict
+fill 52 68 150 52 68 157 minecraft:stripped_oak_log[axis=z] strict
+fill 59 68 150 59 68 157 minecraft:stripped_oak_log[axis=z] strict
+fill 65 68 127 65 68 133 minecraft:stripped_oak_log[axis=z] strict
+fill 71 68 163 71 68 172 minecraft:stripped_oak_log[axis=z] strict
+fill 76 68 106 76 68 115 minecraft:stripped_oak_log[axis=z] strict
+fill 77 68 163 78 68 172 minecraft:stripped_oak_log[axis=z] strict
+fill 78 68 127 78 68 133 minecraft:stripped_oak_log[axis=z] strict
+fill 82 68 127 82 68 133 minecraft:stripped_oak_log[axis=z] strict
+fill 84 68 106 85 68 115 minecraft:stripped_oak_log[axis=z] strict
+fill 87 68 127 87 68 133 minecraft:stripped_oak_log[axis=z] strict
+fill 87 68 163 87 68 172 minecraft:stripped_oak_log[axis=z] strict
+fill 95 68 106 95 68 115 minecraft:stripped_oak_log[axis=z] strict
+fill 95 68 152 95 68 157 minecraft:stripped_oak_log[axis=z] strict
+fill 95 68 160 95 68 168 minecraft:stripped_oak_log[axis=z] strict
+fill 95 68 171 95 68 175 minecraft:stripped_oak_log[axis=z] strict
+fill 99 68 96 99 68 103 minecraft:stripped_oak_log[axis=z] strict
+fill 106 68 152 106 68 157 minecraft:stripped_oak_log[axis=z] strict
+fill 106 68 160 106 68 168 minecraft:stripped_oak_log[axis=z] strict
+fill 106 68 171 106 68 175 minecraft:stripped_oak_log[axis=z] strict
+fill 110 68 96 110 68 103 minecraft:stripped_oak_log[axis=z] strict
+fill 120 68 239 120 68 247 minecraft:stripped_oak_log[axis=z] strict
+fill 123 68 155 123 68 161 minecraft:stripped_oak_log[axis=z] strict
+fill 133 68 155 133 68 161 minecraft:stripped_oak_log[axis=z] strict
+fill 136 68 239 136 68 247 minecraft:stripped_oak_log[axis=z] strict
+fill 35 72 146 35 72 150 minecraft:stripped_oak_log[axis=z] strict
+fill 48 72 146 48 72 150 minecraft:stripped_oak_log[axis=z] strict
+fill 52 72 150 52 72 157 minecraft:stripped_oak_log[axis=z] strict
+fill 59 72 150 59 72 157 minecraft:stripped_oak_log[axis=z] strict
+fill 65 72 127 65 72 133 minecraft:stripped_oak_log[axis=z] strict
+fill 71 72 163 71 72 172 minecraft:stripped_oak_log[axis=z] strict
+fill 76 72 106 76 72 115 minecraft:stripped_oak_log[axis=z] strict
+fill 77 72 163 78 72 172 minecraft:stripped_oak_log[axis=z] strict
+fill 78 72 127 78 72 133 minecraft:stripped_oak_log[axis=z] strict
+fill 82 72 127 82 72 133 minecraft:stripped_oak_log[axis=z] strict
+fill 84 72 106 85 72 115 minecraft:stripped_oak_log[axis=z] strict
+fill 87 72 127 87 72 133 minecraft:stripped_oak_log[axis=z] strict
+fill 87 72 163 87 72 172 minecraft:stripped_oak_log[axis=z] strict
+fill 95 72 106 95 72 115 minecraft:stripped_oak_log[axis=z] strict
+fill 95 72 152 95 72 157 minecraft:stripped_oak_log[axis=z] strict
+fill 95 72 160 95 72 168 minecraft:stripped_oak_log[axis=z] strict
+fill 95 72 171 95 72 175 minecraft:stripped_oak_log[axis=z] strict
+fill 99 72 96 99 72 103 minecraft:stripped_oak_log[axis=z] strict
+fill 106 72 152 106 72 157 minecraft:stripped_oak_log[axis=z] strict
+fill 106 72 160 106 72 168 minecraft:stripped_oak_log[axis=z] strict
+fill 106 72 171 106 72 175 minecraft:stripped_oak_log[axis=z] strict
+fill 110 72 96 110 72 103 minecraft:stripped_oak_log[axis=z] strict
+fill 35 76 146 35 76 150 minecraft:stripped_oak_log[axis=z] strict
+fill 48 76 146 48 76 150 minecraft:stripped_oak_log[axis=z] strict
+fill 65 76 127 65 76 133 minecraft:stripped_oak_log[axis=z] strict
+fill 78 76 127 78 76 133 minecraft:stripped_oak_log[axis=z] strict
+fill 95 76 152 95 76 157 minecraft:stripped_oak_log[axis=z] strict
+fill 99 76 96 99 76 103 minecraft:stripped_oak_log[axis=z] strict
+fill 106 76 152 106 76 157 minecraft:stripped_oak_log[axis=z] strict
+setblock 110 76 96 minecraft:stripped_oak_log[axis=z] strict
+setblock 110 76 98 minecraft:stripped_oak_log[axis=z] strict
+fill 110 76 100 110 76 103 minecraft:stripped_oak_log[axis=z] strict
+fill 44 68 185 52 68 185 minecraft:stripped_spruce_log[axis=x] strict
+fill 44 68 196 52 68 196 minecraft:stripped_spruce_log[axis=x] strict
+fill 53 68 126 60 68 126 minecraft:stripped_spruce_log[axis=x] strict
+fill 53 68 134 60 68 134 minecraft:stripped_spruce_log[axis=x] strict
+fill 53 68 138 60 68 138 minecraft:stripped_spruce_log[axis=x] strict
+fill 53 68 147 60 68 147 minecraft:stripped_spruce_log[axis=x] strict
+fill 55 68 185 61 68 185 minecraft:stripped_spruce_log[axis=x] strict
+fill 55 68 196 61 68 196 minecraft:stripped_spruce_log[axis=x] strict
+fill 61 68 149 67 68 149 minecraft:stripped_spruce_log[axis=x] strict
+fill 61 68 158 67 68 158 minecraft:stripped_spruce_log[axis=x] strict
+fill 63 68 162 69 68 162 minecraft:stripped_spruce_log[axis=x] strict
+fill 63 68 173 69 68 173 minecraft:stripped_spruce_log[axis=x] strict
+fill 64 68 185 70 68 185 minecraft:stripped_spruce_log[axis=x] strict
+fill 64 68 196 70 68 196 minecraft:stripped_spruce_log[axis=x] strict
+fill 73 68 185 86 68 185 minecraft:stripped_spruce_log[axis=x] strict
+fill 73 68 196 86 68 196 minecraft:stripped_spruce_log[axis=x] strict
+fill 96 68 191 100 68 191 minecraft:stripped_spruce_log[axis=x] strict
+fill 96 68 196 100 68 196 minecraft:stripped_spruce_log[axis=x] strict
+fill 100 68 138 109 68 138 minecraft:stripped_spruce_log[axis=x] strict
+fill 100 68 147 109 68 147 minecraft:stripped_spruce_log[axis=x] strict
+fill 108 68 181 116 68 181 minecraft:stripped_spruce_log[axis=x] strict
+fill 108 68 190 116 68 190 minecraft:stripped_spruce_log[axis=x] strict
+fill 124 68 181 132 68 181 minecraft:stripped_spruce_log[axis=x] strict
+fill 124 68 190 132 68 190 minecraft:stripped_spruce_log[axis=x] strict
+fill 135 68 95 144 68 95 minecraft:stripped_spruce_log[axis=x] strict
+fill 135 68 101 144 68 101 minecraft:stripped_spruce_log[axis=x] strict
+fill 138 68 163 148 68 163 minecraft:stripped_spruce_log[axis=x] strict
+fill 138 68 190 148 68 190 minecraft:stripped_spruce_log[axis=x] strict
+fill 151 68 170 160 68 170 minecraft:stripped_spruce_log[axis=x] strict
+fill 151 68 180 160 68 180 minecraft:stripped_spruce_log[axis=x] strict
+fill 153 68 191 160 68 191 minecraft:stripped_spruce_log[axis=x] strict
+fill 153 68 196 160 68 196 minecraft:stripped_spruce_log[axis=x] strict
+fill 181 68 108 191 68 108 minecraft:stripped_spruce_log[axis=x] strict
+fill 181 68 116 191 68 116 minecraft:stripped_spruce_log[axis=x] strict
+fill 200 68 108 205 68 108 minecraft:stripped_spruce_log[axis=x] strict
+fill 200 68 116 205 68 116 minecraft:stripped_spruce_log[axis=x] strict
+fill 44 72 185 52 72 185 minecraft:stripped_spruce_log[axis=x] strict
+fill 44 72 196 52 72 196 minecraft:stripped_spruce_log[axis=x] strict
+fill 53 72 126 60 72 126 minecraft:stripped_spruce_log[axis=x] strict
+fill 53 72 134 60 72 134 minecraft:stripped_spruce_log[axis=x] strict
+fill 53 72 138 60 72 138 minecraft:stripped_spruce_log[axis=x] strict
+fill 53 72 147 60 72 147 minecraft:stripped_spruce_log[axis=x] strict
+fill 55 72 185 61 72 185 minecraft:stripped_spruce_log[axis=x] strict
+fill 55 72 196 61 72 196 minecraft:stripped_spruce_log[axis=x] strict
+fill 61 72 149 67 72 149 minecraft:stripped_spruce_log[axis=x] strict
+fill 61 72 158 67 72 158 minecraft:stripped_spruce_log[axis=x] strict
+fill 63 72 162 69 72 162 minecraft:stripped_spruce_log[axis=x] strict
+fill 63 72 173 69 72 173 minecraft:stripped_spruce_log[axis=x] strict
+fill 64 72 185 70 72 185 minecraft:stripped_spruce_log[axis=x] strict
+fill 64 72 196 70 72 196 minecraft:stripped_spruce_log[axis=x] strict
+fill 73 72 185 86 72 185 minecraft:stripped_spruce_log[axis=x] strict
+fill 73 72 196 86 72 196 minecraft:stripped_spruce_log[axis=x] strict
+fill 96 72 191 100 72 191 minecraft:stripped_spruce_log[axis=x] strict
+fill 96 72 196 100 72 196 minecraft:stripped_spruce_log[axis=x] strict
+fill 100 72 138 109 72 138 minecraft:stripped_spruce_log[axis=x] strict
+fill 100 72 147 109 72 147 minecraft:stripped_spruce_log[axis=x] strict
+fill 108 72 181 116 72 181 minecraft:stripped_spruce_log[axis=x] strict
+fill 108 72 190 116 72 190 minecraft:stripped_spruce_log[axis=x] strict
+fill 135 72 95 144 72 95 minecraft:stripped_spruce_log[axis=x] strict
+fill 135 72 101 144 72 101 minecraft:stripped_spruce_log[axis=x] strict
+fill 138 72 163 148 72 163 minecraft:stripped_spruce_log[axis=x] strict
+fill 138 72 190 148 72 190 minecraft:stripped_spruce_log[axis=x] strict
+fill 151 72 170 160 72 170 minecraft:stripped_spruce_log[axis=x] strict
+fill 151 72 180 160 72 180 minecraft:stripped_spruce_log[axis=x] strict
+fill 153 72 191 160 72 191 minecraft:stripped_spruce_log[axis=x] strict
+fill 153 72 196 160 72 196 minecraft:stripped_spruce_log[axis=x] strict
+fill 181 72 108 191 72 108 minecraft:stripped_spruce_log[axis=x] strict
+fill 181 72 116 191 72 116 minecraft:stripped_spruce_log[axis=x] strict
+fill 200 72 108 205 72 108 minecraft:stripped_spruce_log[axis=x] strict
+fill 200 72 116 205 72 116 minecraft:stripped_spruce_log[axis=x] strict
+fill 53 76 138 60 76 138 minecraft:stripped_spruce_log[axis=x] strict
+fill 53 76 147 60 76 147 minecraft:stripped_spruce_log[axis=x] strict
+fill 61 76 149 67 76 149 minecraft:stripped_spruce_log[axis=x] strict
+fill 61 76 158 67 76 158 minecraft:stripped_spruce_log[axis=x] strict
+fill 63 76 162 69 76 162 minecraft:stripped_spruce_log[axis=x] strict
+fill 63 76 173 69 76 173 minecraft:stripped_spruce_log[axis=x] strict
+fill 64 76 185 70 76 185 minecraft:stripped_spruce_log[axis=x] strict
+fill 64 76 196 70 76 196 minecraft:stripped_spruce_log[axis=x] strict
+fill 96 76 191 100 76 191 minecraft:stripped_spruce_log[axis=x] strict
+fill 96 76 196 100 76 196 minecraft:stripped_spruce_log[axis=x] strict
+fill 100 76 138 109 76 138 minecraft:stripped_spruce_log[axis=x] strict
+fill 100 76 147 109 76 147 minecraft:stripped_spruce_log[axis=x] strict
+fill 153 76 191 160 76 191 minecraft:stripped_spruce_log[axis=x] strict
+fill 153 76 196 160 76 196 minecraft:stripped_spruce_log[axis=x] strict
+setblock 107 65 180 minecraft:stripped_spruce_log[axis=y] strict
+fill 48 65 152 48 68 152 minecraft:stripped_spruce_log[axis=y] strict
+fill 48 65 158 48 68 158 minecraft:stripped_spruce_log[axis=y] strict
+fill 59 65 105 59 68 105 minecraft:stripped_spruce_log[axis=y] strict
+fill 59 65 116 59 68 116 minecraft:stripped_spruce_log[axis=y] strict
+fill 69 65 158 69 68 158 minecraft:stripped_spruce_log[axis=y] strict
+fill 84 65 158 84 68 158 minecraft:stripped_spruce_log[axis=y] strict
+fill 95 65 190 95 68 190 minecraft:stripped_spruce_log[axis=y] strict
+fill 99 65 136 99 68 136 minecraft:stripped_spruce_log[axis=y] strict
+fill 102 65 196 102 68 196 minecraft:stripped_spruce_log[axis=y] strict
+fill 106 65 190 106 68 190 minecraft:stripped_spruce_log[axis=y] strict
+fill 108 65 127 108 68 127 minecraft:stripped_spruce_log[axis=y] strict
+fill 108 65 136 108 68 136 minecraft:stripped_spruce_log[axis=y] strict
+fill 111 65 191 111 68 191 minecraft:stripped_spruce_log[axis=y] strict
+fill 111 65 196 111 68 196 minecraft:stripped_spruce_log[axis=y] strict
+fill 112 65 52 112 68 52 minecraft:stripped_spruce_log[axis=y] strict
+fill 112 65 64 112 68 64 minecraft:stripped_spruce_log[axis=y] strict
+fill 117 65 180 117 68 180 minecraft:stripped_spruce_log[axis=y] strict
+fill 120 65 151 120 68 151 minecraft:stripped_spruce_log[axis=y] strict
+fill 120 65 162 120 68 162 minecraft:stripped_spruce_log[axis=y] strict
+setblock 103 69 190 minecraft:stripped_spruce_log[axis=y] strict
+setblock 107 69 171 minecraft:stripped_spruce_log[axis=y] strict
+fill 107 68 180 107 69 180 minecraft:stripped_spruce_log[axis=y] strict
+fill 35 69 109 35 71 109 minecraft:stripped_spruce_log[axis=y] strict
+fill 35 69 113 35 71 113 minecraft:stripped_spruce_log[axis=y] strict
+fill 35 69 156 35 71 156 minecraft:stripped_spruce_log[axis=y] strict
+fill 39 69 105 39 71 105 minecraft:stripped_spruce_log[axis=y] strict
+fill 39 69 116 39 71 116 minecraft:stripped_spruce_log[axis=y] strict
+fill 39 69 152 39 71 152 minecraft:stripped_spruce_log[axis=y] strict
+fill 39 69 158 39 71 158 minecraft:stripped_spruce_log[axis=y] strict
+fill 43 69 105 43 71 105 minecraft:stripped_spruce_log[axis=y] strict
+fill 43 69 116 43 71 116 minecraft:stripped_spruce_log[axis=y] strict
+fill 43 69 152 43 71 152 minecraft:stripped_spruce_log[axis=y] strict
+fill 43 69 158 43 71 158 minecraft:stripped_spruce_log[axis=y] strict
+fill 45 69 109 46 71 109 minecraft:stripped_spruce_log[axis=y] strict
+fill 45 69 113 46 71 113 minecraft:stripped_spruce_log[axis=y] strict
+fill 47 69 152 48 71 152 minecraft:stripped_spruce_log[axis=y] strict
+fill 47 69 158 48 71 158 minecraft:stripped_spruce_log[axis=y] strict
+fill 48 69 156 48 71 156 minecraft:stripped_spruce_log[axis=y] strict
+fill 54 69 105 54 71 105 minecraft:stripped_spruce_log[axis=y] strict
+fill 54 69 116 54 71 116 minecraft:stripped_spruce_log[axis=y] strict
+fill 58 69 105 59 71 105 minecraft:stripped_spruce_log[axis=y] strict
+fill 58 69 116 59 71 116 minecraft:stripped_spruce_log[axis=y] strict
+fill 59 69 109 59 71 109 minecraft:stripped_spruce_log[axis=y] strict
+fill 59 69 113 59 71 113 minecraft:stripped_spruce_log[axis=y] strict
+fill 69 69 153 69 71 153 minecraft:stripped_spruce_log[axis=y] strict
+fill 69 69 157 69 71 158 minecraft:stripped_spruce_log[axis=y] strict
+fill 73 69 149 73 71 149 minecraft:stripped_spruce_log[axis=y] strict
+fill 73 69 158 73 71 158 minecraft:stripped_spruce_log[axis=y] strict
+fill 77 69 149 77 71 149 minecraft:stripped_spruce_log[axis=y] strict
+fill 77 69 158 77 71 158 minecraft:stripped_spruce_log[axis=y] strict
+fill 81 69 149 81 71 149 minecraft:stripped_spruce_log[axis=y] strict
+fill 81 69 158 81 71 158 minecraft:stripped_spruce_log[axis=y] strict
+fill 84 69 153 84 71 153 minecraft:stripped_spruce_log[axis=y] strict
+fill 84 69 157 84 71 158 minecraft:stripped_spruce_log[axis=y] strict
+fill 95 69 181 95 71 181 minecraft:stripped_spruce_log[axis=y] strict
+fill 95 69 185 95 71 185 minecraft:stripped_spruce_log[axis=y] strict
+fill 95 69 189 95 71 190 minecraft:stripped_spruce_log[axis=y] strict
+fill 98 69 82 98 71 82 minecraft:stripped_spruce_log[axis=y] strict
+fill 98 69 86 98 71 86 minecraft:stripped_spruce_log[axis=y] strict
+fill 99 69 56 99 71 56 minecraft:stripped_spruce_log[axis=y] strict
+fill 99 69 60 99 71 60 minecraft:stripped_spruce_log[axis=y] strict
+fill 99 69 131 99 71 131 minecraft:stripped_spruce_log[axis=y] strict
+fill 99 69 135 99 71 136 minecraft:stripped_spruce_log[axis=y] strict
+fill 99 69 177 99 71 177 minecraft:stripped_spruce_log[axis=y] strict
+fill 99 69 190 99 71 190 minecraft:stripped_spruce_log[axis=y] strict
+fill 102 69 78 102 71 78 minecraft:stripped_spruce_log[axis=y] strict
+fill 102 69 89 102 71 89 minecraft:stripped_spruce_log[axis=y] strict
+fill 102 69 195 102 71 196 minecraft:stripped_spruce_log[axis=y] strict
+fill 103 69 52 103 71 52 minecraft:stripped_spruce_log[axis=y] strict
+fill 103 69 64 103 71 64 minecraft:stripped_spruce_log[axis=y] strict
+fill 103 69 127 103 71 127 minecraft:stripped_spruce_log[axis=y] strict
+fill 103 69 136 103 71 136 minecraft:stripped_spruce_log[axis=y] strict
+fill 103 69 177 103 71 177 minecraft:stripped_spruce_log[axis=y] strict
+fill 105 69 82 105 71 82 minecraft:stripped_spruce_log[axis=y] strict
+fill 105 69 86 105 71 86 minecraft:stripped_spruce_log[axis=y] strict
+fill 106 69 181 106 71 181 minecraft:stripped_spruce_log[axis=y] strict
+fill 106 69 185 106 71 185 minecraft:stripped_spruce_log[axis=y] strict
+fill 106 69 189 106 71 191 minecraft:stripped_spruce_log[axis=y] strict
+fill 106 69 196 106 71 196 minecraft:stripped_spruce_log[axis=y] strict
+fill 107 69 52 107 71 52 minecraft:stripped_spruce_log[axis=y] strict
+fill 107 69 64 107 71 64 minecraft:stripped_spruce_log[axis=y] strict
+fill 107 69 127 108 71 127 minecraft:stripped_spruce_log[axis=y] strict
+fill 107 69 136 108 71 136 minecraft:stripped_spruce_log[axis=y] strict
+fill 107 69 155 107 71 155 minecraft:stripped_spruce_log[axis=y] strict
+fill 107 69 159 107 71 159 minecraft:stripped_spruce_log[axis=y] strict
+fill 107 69 167 107 71 167 minecraft:stripped_spruce_log[axis=y] strict
+fill 107 69 175 107 71 175 minecraft:stripped_spruce_log[axis=y] strict
+setblock 107 71 179 minecraft:stripped_spruce_log[axis=y] strict
+fill 108 69 131 108 71 131 minecraft:stripped_spruce_log[axis=y] strict
+fill 108 69 135 108 71 135 minecraft:stripped_spruce_log[axis=y] strict
+fill 110 69 191 111 71 191 minecraft:stripped_spruce_log[axis=y] strict
+fill 110 69 196 111 71 196 minecraft:stripped_spruce_log[axis=y] strict
+fill 111 69 52 112 71 52 minecraft:stripped_spruce_log[axis=y] strict
+fill 111 69 64 112 71 64 minecraft:stripped_spruce_log[axis=y] strict
+fill 111 69 145 111 71 145 minecraft:stripped_spruce_log[axis=y] strict
+fill 111 69 151 111 71 151 minecraft:stripped_spruce_log[axis=y] strict
+fill 111 69 162 111 71 163 minecraft:stripped_spruce_log[axis=y] strict
+fill 111 69 180 111 71 180 minecraft:stripped_spruce_log[axis=y] strict
+fill 111 69 195 111 71 195 minecraft:stripped_spruce_log[axis=y] strict
+fill 112 69 56 112 71 56 minecraft:stripped_spruce_log[axis=y] strict
+fill 112 69 60 112 71 60 minecraft:stripped_spruce_log[axis=y] strict
+fill 115 69 141 115 71 141 minecraft:stripped_spruce_log[axis=y] strict
+fill 115 69 147 115 71 147 minecraft:stripped_spruce_log[axis=y] strict
+fill 115 69 151 115 71 151 minecraft:stripped_spruce_log[axis=y] strict
+fill 115 69 162 115 71 163 minecraft:stripped_spruce_log[axis=y] strict
+fill 115 69 180 115 71 180 minecraft:stripped_spruce_log[axis=y] strict
+fill 117 69 167 117 71 167 minecraft:stripped_spruce_log[axis=y] strict
+fill 117 69 171 117 71 171 minecraft:stripped_spruce_log[axis=y] strict
+fill 117 69 175 117 71 175 minecraft:stripped_spruce_log[axis=y] strict
+fill 117 69 179 117 71 180 minecraft:stripped_spruce_log[axis=y] strict
+fill 119 69 141 119 71 141 minecraft:stripped_spruce_log[axis=y] strict
+fill 119 69 147 119 71 147 minecraft:stripped_spruce_log[axis=y] strict
+fill 119 69 151 120 71 151 minecraft:stripped_spruce_log[axis=y] strict
+fill 119 69 162 120 71 162 minecraft:stripped_spruce_log[axis=y] strict
+fill 120 69 155 120 71 155 minecraft:stripped_spruce_log[axis=y] strict
+fill 120 69 159 120 71 159 minecraft:stripped_spruce_log[axis=y] strict
+fill 122 69 145 122 71 145 minecraft:stripped_spruce_log[axis=y] strict
+fill 134 69 145 134 71 145 minecraft:stripped_spruce_log[axis=y] strict
+fill 138 69 141 138 71 141 minecraft:stripped_spruce_log[axis=y] strict
+fill 138 69 147 138 71 147 minecraft:stripped_spruce_log[axis=y] strict
+fill 142 69 141 142 71 141 minecraft:stripped_spruce_log[axis=y] strict
+fill 142 69 147 142 71 147 minecraft:stripped_spruce_log[axis=y] strict
+fill 145 69 145 145 71 145 minecraft:stripped_spruce_log[axis=y] strict
+fill 150 69 165 150 71 165 minecraft:stripped_spruce_log[axis=y] strict
+fill 154 69 161 154 71 161 minecraft:stripped_spruce_log[axis=y] strict
+fill 154 69 169 154 71 169 minecraft:stripped_spruce_log[axis=y] strict
+fill 158 69 161 158 71 161 minecraft:stripped_spruce_log[axis=y] strict
+fill 158 69 169 158 71 169 minecraft:stripped_spruce_log[axis=y] strict
+fill 161 69 165 161 71 165 minecraft:stripped_spruce_log[axis=y] strict
+fill 172 69 172 172 71 172 minecraft:stripped_spruce_log[axis=y] strict
+fill 172 69 176 172 71 176 minecraft:stripped_spruce_log[axis=y] strict
+fill 172 69 180 172 71 180 minecraft:stripped_spruce_log[axis=y] strict
+fill 176 69 168 176 71 168 minecraft:stripped_spruce_log[axis=y] strict
+fill 176 69 184 176 71 184 minecraft:stripped_spruce_log[axis=y] strict
+fill 180 69 168 180 71 168 minecraft:stripped_spruce_log[axis=y] strict
+fill 180 69 184 180 71 184 minecraft:stripped_spruce_log[axis=y] strict
+fill 184 69 168 184 71 168 minecraft:stripped_spruce_log[axis=y] strict
+fill 184 69 184 184 71 184 minecraft:stripped_spruce_log[axis=y] strict
+fill 186 69 172 186 71 172 minecraft:stripped_spruce_log[axis=y] strict
+fill 186 69 176 186 71 176 minecraft:stripped_spruce_log[axis=y] strict
+fill 186 69 180 186 71 180 minecraft:stripped_spruce_log[axis=y] strict
+fill 35 65 105 35 72 105 minecraft:stripped_spruce_log[axis=y] strict
+fill 35 65 116 35 72 116 minecraft:stripped_spruce_log[axis=y] strict
+fill 35 65 152 35 72 152 minecraft:stripped_spruce_log[axis=y] strict
+fill 35 65 158 35 72 158 minecraft:stripped_spruce_log[axis=y] strict
+fill 45 65 105 46 72 105 minecraft:stripped_spruce_log[axis=y] strict
+fill 45 65 116 46 72 116 minecraft:stripped_spruce_log[axis=y] strict
+setblock 48 72 152 minecraft:stripped_spruce_log[axis=y] strict
+setblock 48 72 158 minecraft:stripped_spruce_log[axis=y] strict
+setblock 59 72 105 minecraft:stripped_spruce_log[axis=y] strict
+setblock 59 72 116 minecraft:stripped_spruce_log[axis=y] strict
+fill 69 65 149 69 72 149 minecraft:stripped_spruce_log[axis=y] strict
+setblock 69 72 158 minecraft:stripped_spruce_log[axis=y] strict
+fill 84 65 149 84 72 149 minecraft:stripped_spruce_log[axis=y] strict
+setblock 84 72 158 minecraft:stripped_spruce_log[axis=y] strict
+fill 95 65 177 95 72 177 minecraft:stripped_spruce_log[axis=y] strict
+setblock 95 72 190 minecraft:stripped_spruce_log[axis=y] strict
+fill 99 65 52 99 72 52 minecraft:stripped_spruce_log[axis=y] strict
+fill 99 65 64 99 72 64 minecraft:stripped_spruce_log[axis=y] strict
+setblock 99 72 136 minecraft:stripped_spruce_log[axis=y] strict
+setblock 102 72 196 minecraft:stripped_spruce_log[axis=y] strict
+fill 105 65 78 105 72 78 minecraft:stripped_spruce_log[axis=y] strict
+fill 105 65 89 105 72 89 minecraft:stripped_spruce_log[axis=y] strict
+fill 106 65 177 106 72 177 minecraft:stripped_spruce_log[axis=y] strict
+setblock 106 72 190 minecraft:stripped_spruce_log[axis=y] strict
+fill 107 65 162 107 72 163 minecraft:stripped_spruce_log[axis=y] strict
+setblock 107 72 180 minecraft:stripped_spruce_log[axis=y] strict
+setblock 108 72 127 minecraft:stripped_spruce_log[axis=y] strict
+setblock 108 72 136 minecraft:stripped_spruce_log[axis=y] strict
+fill 111 65 141 111 72 141 minecraft:stripped_spruce_log[axis=y] strict
+fill 111 65 147 111 72 147 minecraft:stripped_spruce_log[axis=y] strict
+setblock 111 72 191 minecraft:stripped_spruce_log[axis=y] strict
+setblock 111 72 196 minecraft:stripped_spruce_log[axis=y] strict
+setblock 112 72 52 minecraft:stripped_spruce_log[axis=y] strict
+setblock 112 72 64 minecraft:stripped_spruce_log[axis=y] strict
+setblock 117 72 180 minecraft:stripped_spruce_log[axis=y] strict
+setblock 120 72 151 minecraft:stripped_spruce_log[axis=y] strict
+setblock 120 72 162 minecraft:stripped_spruce_log[axis=y] strict
+fill 122 65 141 122 72 141 minecraft:stripped_spruce_log[axis=y] strict
+fill 122 65 147 122 72 147 minecraft:stripped_spruce_log[axis=y] strict
+fill 134 65 141 134 72 141 minecraft:stripped_spruce_log[axis=y] strict
+fill 134 65 147 134 72 147 minecraft:stripped_spruce_log[axis=y] strict
+fill 145 65 141 145 72 141 minecraft:stripped_spruce_log[axis=y] strict
+fill 145 65 147 145 72 147 minecraft:stripped_spruce_log[axis=y] strict
+fill 150 65 169 150 72 169 minecraft:stripped_spruce_log[axis=y] strict
+fill 161 65 169 161 72 169 minecraft:stripped_spruce_log[axis=y] strict
+fill 172 65 168 172 72 168 minecraft:stripped_spruce_log[axis=y] strict
+fill 172 65 184 172 72 184 minecraft:stripped_spruce_log[axis=y] strict
+fill 186 65 168 186 72 168 minecraft:stripped_spruce_log[axis=y] strict
+fill 186 65 184 186 72 184 minecraft:stripped_spruce_log[axis=y] strict
+setblock 117 73 179 minecraft:stripped_spruce_log[axis=y] strict
+fill 107 73 171 107 74 171 minecraft:stripped_spruce_log[axis=y] strict
+fill 107 73 175 107 74 175 minecraft:stripped_spruce_log[axis=y] strict
+fill 98 73 82 98 75 82 minecraft:stripped_spruce_log[axis=y] strict
+fill 98 73 86 98 75 86 minecraft:stripped_spruce_log[axis=y] strict
+fill 99 73 131 99 75 131 minecraft:stripped_spruce_log[axis=y] strict
+fill 99 73 135 99 75 136 minecraft:stripped_spruce_log[axis=y] strict
+fill 102 73 78 102 75 78 minecraft:stripped_spruce_log[axis=y] strict
+fill 102 73 89 102 75 89 minecraft:stripped_spruce_log[axis=y] strict
+fill 102 73 195 102 75 196 minecraft:stripped_spruce_log[axis=y] strict
+fill 103 73 127 103 75 127 minecraft:stripped_spruce_log[axis=y] strict
+fill 103 73 136 103 75 136 minecraft:stripped_spruce_log[axis=y] strict
+fill 105 74 82 105 75 82 minecraft:stripped_spruce_log[axis=y] strict
+fill 105 74 86 105 75 86 minecraft:stripped_spruce_log[axis=y] strict
+fill 106 73 191 106 75 191 minecraft:stripped_spruce_log[axis=y] strict
+fill 106 73 196 106 75 196 minecraft:stripped_spruce_log[axis=y] strict
+fill 107 73 127 108 75 127 minecraft:stripped_spruce_log[axis=y] strict
+fill 107 73 136 108 75 136 minecraft:stripped_spruce_log[axis=y] strict
+fill 107 73 155 107 75 155 minecraft:stripped_spruce_log[axis=y] strict
+fill 107 74 159 107 75 159 minecraft:stripped_spruce_log[axis=y] strict
+fill 107 74 167 107 75 167 minecraft:stripped_spruce_log[axis=y] strict
+fill 107 74 179 107 75 180 minecraft:stripped_spruce_log[axis=y] strict
+fill 108 73 131 108 75 131 minecraft:stripped_spruce_log[axis=y] strict
+fill 108 73 135 108 75 135 minecraft:stripped_spruce_log[axis=y] strict
+fill 110 73 191 111 75 191 minecraft:stripped_spruce_log[axis=y] strict
+fill 110 73 196 111 75 196 minecraft:stripped_spruce_log[axis=y] strict
+fill 111 73 151 111 75 151 minecraft:stripped_spruce_log[axis=y] strict
+fill 111 73 162 111 75 163 minecraft:stripped_spruce_log[axis=y] strict
+fill 111 74 180 111 75 180 minecraft:stripped_spruce_log[axis=y] strict
+fill 111 73 195 111 75 195 minecraft:stripped_spruce_log[axis=y] strict
+fill 115 73 151 115 75 151 minecraft:stripped_spruce_log[axis=y] strict
+fill 115 73 162 115 75 163 minecraft:stripped_spruce_log[axis=y] strict
+fill 115 74 180 115 75 180 minecraft:stripped_spruce_log[axis=y] strict
+fill 117 73 167 117 75 167 minecraft:stripped_spruce_log[axis=y] strict
+fill 117 73 171 117 75 171 minecraft:stripped_spruce_log[axis=y] strict
+fill 117 73 175 117 75 175 minecraft:stripped_spruce_log[axis=y] strict
+fill 117 74 179 117 75 180 minecraft:stripped_spruce_log[axis=y] strict
+fill 119 73 151 120 75 151 minecraft:stripped_spruce_log[axis=y] strict
+fill 119 73 162 120 75 162 minecraft:stripped_spruce_log[axis=y] strict
+fill 120 73 155 120 75 155 minecraft:stripped_spruce_log[axis=y] strict
+fill 120 73 159 120 75 159 minecraft:stripped_spruce_log[axis=y] strict
+fill 150 73 165 150 75 165 minecraft:stripped_spruce_log[axis=y] strict
 fill 154 73 161 154 75 161 minecraft:stripped_spruce_log[axis=y] strict
 fill 154 74 169 154 75 169 minecraft:stripped_spruce_log[axis=y] strict
 fill 158 73 161 158 75 161 minecraft:stripped_spruce_log[axis=y] strict
@@ -93,1110 +1198,5 @@ fill 206 68 109 206 68 115 minecraft:stripped_spruce_log[axis=z] strict
 fill 43 72 186 43 72 195 minecraft:stripped_spruce_log[axis=z] strict
 fill 52 72 127 52 72 133 minecraft:stripped_spruce_log[axis=z] strict
 fill 52 72 139 52 72 146 minecraft:stripped_spruce_log[axis=z] strict
-fill 53 72 186 54 72 195 minecraft:stripped_spruce_log[axis=z] strict
-fill 60 72 150 60 72 157 minecraft:stripped_spruce_log[axis=z] strict
-fill 61 72 127 61 72 133 minecraft:stripped_spruce_log[axis=z] strict
-fill 61 72 139 61 72 146 minecraft:stripped_spruce_log[axis=z] strict
-fill 62 72 163 62 72 172 minecraft:stripped_spruce_log[axis=z] strict
-fill 62 72 186 63 72 195 minecraft:stripped_spruce_log[axis=z] strict
-fill 68 72 150 68 72 157 minecraft:stripped_spruce_log[axis=z] strict
-fill 70 72 163 70 72 172 minecraft:stripped_spruce_log[axis=z] strict
-fill 71 72 186 72 72 195 minecraft:stripped_spruce_log[axis=z] strict
-fill 87 72 186 87 72 195 minecraft:stripped_spruce_log[axis=z] strict
-fill 95 72 192 95 72 195 minecraft:stripped_spruce_log[axis=z] strict
-fill 99 72 139 99 72 146 minecraft:stripped_spruce_log[axis=z] strict
-fill 101 72 192 101 72 195 minecraft:stripped_spruce_log[axis=z] strict
-fill 107 72 182 107 72 189 minecraft:stripped_spruce_log[axis=z] strict
-fill 110 72 139 110 72 146 minecraft:stripped_spruce_log[axis=z] strict
-fill 117 72 182 117 72 189 minecraft:stripped_spruce_log[axis=z] strict
-fill 134 72 96 134 72 100 minecraft:stripped_spruce_log[axis=z] strict
-fill 137 72 164 137 72 189 minecraft:stripped_spruce_log[axis=z] strict
-fill 145 72 96 145 72 100 minecraft:stripped_spruce_log[axis=z] strict
-fill 149 72 164 149 72 189 minecraft:stripped_spruce_log[axis=z] strict
-fill 150 72 171 150 72 179 minecraft:stripped_spruce_log[axis=z] strict
-fill 152 72 192 152 72 195 minecraft:stripped_spruce_log[axis=z] strict
-fill 161 72 171 161 72 179 minecraft:stripped_spruce_log[axis=z] strict
-fill 161 72 192 161 72 195 minecraft:stripped_spruce_log[axis=z] strict
-fill 180 72 109 180 72 115 minecraft:stripped_spruce_log[axis=z] strict
-fill 192 72 109 192 72 115 minecraft:stripped_spruce_log[axis=z] strict
-fill 199 72 109 199 72 115 minecraft:stripped_spruce_log[axis=z] strict
-fill 206 72 109 206 72 115 minecraft:stripped_spruce_log[axis=z] strict
-fill 52 76 139 52 76 146 minecraft:stripped_spruce_log[axis=z] strict
-fill 60 76 150 60 76 157 minecraft:stripped_spruce_log[axis=z] strict
-setblock 61 76 139 minecraft:stripped_spruce_log[axis=z] strict
-fill 61 76 141 61 76 144 minecraft:stripped_spruce_log[axis=z] strict
-setblock 61 76 146 minecraft:stripped_spruce_log[axis=z] strict
-fill 62 76 163 62 76 172 minecraft:stripped_spruce_log[axis=z] strict
-fill 63 76 186 63 76 195 minecraft:stripped_spruce_log[axis=z] strict
-setblock 68 76 150 minecraft:stripped_spruce_log[axis=z] strict
-fill 68 76 152 68 76 155 minecraft:stripped_spruce_log[axis=z] strict
-setblock 68 76 157 minecraft:stripped_spruce_log[axis=z] strict
-setblock 70 76 163 minecraft:stripped_spruce_log[axis=z] strict
-fill 70 76 165 70 76 170 minecraft:stripped_spruce_log[axis=z] strict
-setblock 70 76 172 minecraft:stripped_spruce_log[axis=z] strict
-setblock 71 76 186 minecraft:stripped_spruce_log[axis=z] strict
-fill 71 76 188 71 76 193 minecraft:stripped_spruce_log[axis=z] strict
-setblock 71 76 195 minecraft:stripped_spruce_log[axis=z] strict
-fill 95 76 192 95 76 195 minecraft:stripped_spruce_log[axis=z] strict
-fill 99 76 139 99 76 146 minecraft:stripped_spruce_log[axis=z] strict
-fill 101 76 192 101 76 195 minecraft:stripped_spruce_log[axis=z] strict
-fill 110 76 139 110 76 142 minecraft:stripped_spruce_log[axis=z] strict
-setblock 110 76 144 minecraft:stripped_spruce_log[axis=z] strict
-setblock 110 76 146 minecraft:stripped_spruce_log[axis=z] strict
-fill 152 76 192 152 76 195 minecraft:stripped_spruce_log[axis=z] strict
-fill 161 76 192 161 76 195 minecraft:stripped_spruce_log[axis=z] strict
-fill 24 64 40 231 64 40 minecraft:tuff_bricks strict
-fill 24 64 41 24 64 215 minecraft:tuff_bricks strict
-fill 25 64 215 231 64 215 minecraft:tuff_bricks strict
-fill 231 64 41 231 64 214 minecraft:tuff_bricks strict
-fill 63 73 76 65 73 76 minecraft:waxed_oxidized_copper strict
-setblock 64 73 75 minecraft:waxed_oxidized_copper strict
-setblock 64 73 77 minecraft:waxed_oxidized_copper strict
-fill 59 69 74 69 69 78 minecraft:waxed_oxidized_cut_copper strict
-fill 60 69 73 68 69 73 minecraft:waxed_oxidized_cut_copper strict
-fill 60 69 79 68 69 79 minecraft:waxed_oxidized_cut_copper strict
-fill 61 69 72 67 69 72 minecraft:waxed_oxidized_cut_copper strict
-fill 61 69 80 67 69 80 minecraft:waxed_oxidized_cut_copper strict
-fill 62 69 71 66 69 71 minecraft:waxed_oxidized_cut_copper strict
-fill 62 69 81 66 69 81 minecraft:waxed_oxidized_cut_copper strict
-fill 60 70 75 68 70 77 minecraft:waxed_oxidized_cut_copper strict
-fill 61 70 73 67 70 74 minecraft:waxed_oxidized_cut_copper strict
-fill 61 70 78 67 70 79 minecraft:waxed_oxidized_cut_copper strict
-fill 63 70 72 65 70 72 minecraft:waxed_oxidized_cut_copper strict
-fill 63 70 80 65 70 80 minecraft:waxed_oxidized_cut_copper strict
-fill 61 71 75 67 71 77 minecraft:waxed_oxidized_cut_copper strict
-fill 62 71 74 66 71 74 minecraft:waxed_oxidized_cut_copper strict
-fill 62 71 78 66 71 78 minecraft:waxed_oxidized_cut_copper strict
-fill 63 71 73 65 71 73 minecraft:waxed_oxidized_cut_copper strict
-fill 63 71 79 65 71 79 minecraft:waxed_oxidized_cut_copper strict
-fill 62 72 76 66 72 76 minecraft:waxed_oxidized_cut_copper strict
-fill 63 72 75 65 72 75 minecraft:waxed_oxidized_cut_copper strict
-fill 63 72 77 65 72 77 minecraft:waxed_oxidized_cut_copper strict
-setblock 64 72 74 minecraft:waxed_oxidized_cut_copper strict
-setblock 64 72 78 minecraft:waxed_oxidized_cut_copper strict
-fill 48 79 184 48 79 197 minecraft:waxed_oxidized_cut_copper strict
-fill 143 80 162 143 80 191 minecraft:waxed_oxidized_cut_copper strict
-fill 31 82 127 35 82 127 minecraft:waxed_oxidized_cut_copper strict
-fill 32 82 126 34 82 126 minecraft:waxed_oxidized_cut_copper strict
-fill 32 82 128 34 82 128 minecraft:waxed_oxidized_cut_copper strict
-setblock 33 82 125 minecraft:waxed_oxidized_cut_copper strict
-setblock 33 82 129 minecraft:waxed_oxidized_cut_copper strict
-fill 64 82 148 64 82 159 minecraft:waxed_oxidized_cut_copper strict
-fill 66 82 161 66 82 174 minecraft:waxed_oxidized_cut_copper strict
-fill 125 82 49 129 82 49 minecraft:waxed_oxidized_cut_copper strict
-fill 126 82 48 128 82 48 minecraft:waxed_oxidized_cut_copper strict
-fill 126 82 50 128 82 50 minecraft:waxed_oxidized_cut_copper strict
-setblock 127 82 47 minecraft:waxed_oxidized_cut_copper strict
-setblock 127 82 51 minecraft:waxed_oxidized_cut_copper strict
-fill 220 82 127 224 82 127 minecraft:waxed_oxidized_cut_copper strict
-fill 221 82 126 223 82 126 minecraft:waxed_oxidized_cut_copper strict
-fill 221 82 128 223 82 128 minecraft:waxed_oxidized_cut_copper strict
-setblock 222 82 125 minecraft:waxed_oxidized_cut_copper strict
-setblock 222 82 129 minecraft:waxed_oxidized_cut_copper strict
-fill 32 83 127 34 83 127 minecraft:waxed_oxidized_cut_copper strict
-setblock 33 83 126 minecraft:waxed_oxidized_cut_copper strict
-setblock 33 83 128 minecraft:waxed_oxidized_cut_copper strict
-fill 126 83 49 128 83 49 minecraft:waxed_oxidized_cut_copper strict
-setblock 127 83 48 minecraft:waxed_oxidized_cut_copper strict
-setblock 127 83 50 minecraft:waxed_oxidized_cut_copper strict
-fill 221 83 127 223 83 127 minecraft:waxed_oxidized_cut_copper strict
-setblock 222 83 126 minecraft:waxed_oxidized_cut_copper strict
-setblock 222 83 128 minecraft:waxed_oxidized_cut_copper strict
-fill 30 84 49 36 84 49 minecraft:waxed_oxidized_cut_copper strict
-fill 30 84 206 36 84 206 minecraft:waxed_oxidized_cut_copper strict
-fill 31 84 47 35 84 48 minecraft:waxed_oxidized_cut_copper strict
-fill 31 84 50 35 84 51 minecraft:waxed_oxidized_cut_copper strict
-fill 31 84 204 35 84 205 minecraft:waxed_oxidized_cut_copper strict
-fill 31 84 207 35 84 208 minecraft:waxed_oxidized_cut_copper strict
-setblock 33 84 46 minecraft:waxed_oxidized_cut_copper strict
-setblock 33 84 52 minecraft:waxed_oxidized_cut_copper strict
-setblock 33 84 203 minecraft:waxed_oxidized_cut_copper strict
-setblock 33 84 209 minecraft:waxed_oxidized_cut_copper strict
-fill 219 84 49 225 84 49 minecraft:waxed_oxidized_cut_copper strict
-fill 219 84 206 225 84 206 minecraft:waxed_oxidized_cut_copper strict
-fill 220 84 47 224 84 48 minecraft:waxed_oxidized_cut_copper strict
-fill 220 84 50 224 84 51 minecraft:waxed_oxidized_cut_copper strict
-fill 220 84 204 224 84 205 minecraft:waxed_oxidized_cut_copper strict
-fill 220 84 207 224 84 208 minecraft:waxed_oxidized_cut_copper strict
-setblock 222 84 46 minecraft:waxed_oxidized_cut_copper strict
-setblock 222 84 52 minecraft:waxed_oxidized_cut_copper strict
-setblock 222 84 203 minecraft:waxed_oxidized_cut_copper strict
-setblock 222 84 209 minecraft:waxed_oxidized_cut_copper strict
-fill 31 85 49 35 85 49 minecraft:waxed_oxidized_cut_copper strict
-fill 31 85 206 35 85 206 minecraft:waxed_oxidized_cut_copper strict
-fill 32 85 48 34 85 48 minecraft:waxed_oxidized_cut_copper strict
-fill 32 85 50 34 85 50 minecraft:waxed_oxidized_cut_copper strict
-fill 32 85 205 34 85 205 minecraft:waxed_oxidized_cut_copper strict
-fill 32 85 207 34 85 207 minecraft:waxed_oxidized_cut_copper strict
-setblock 33 85 47 minecraft:waxed_oxidized_cut_copper strict
-setblock 33 85 51 minecraft:waxed_oxidized_cut_copper strict
-setblock 33 85 204 minecraft:waxed_oxidized_cut_copper strict
-setblock 33 85 208 minecraft:waxed_oxidized_cut_copper strict
-fill 220 85 49 224 85 49 minecraft:waxed_oxidized_cut_copper strict
-fill 220 85 206 224 85 206 minecraft:waxed_oxidized_cut_copper strict
-fill 221 85 48 223 85 48 minecraft:waxed_oxidized_cut_copper strict
-fill 221 85 50 223 85 50 minecraft:waxed_oxidized_cut_copper strict
-fill 221 85 205 223 85 205 minecraft:waxed_oxidized_cut_copper strict
-fill 221 85 207 223 85 207 minecraft:waxed_oxidized_cut_copper strict
-setblock 222 85 47 minecraft:waxed_oxidized_cut_copper strict
-setblock 222 85 51 minecraft:waxed_oxidized_cut_copper strict
-setblock 222 85 204 minecraft:waxed_oxidized_cut_copper strict
-setblock 222 85 208 minecraft:waxed_oxidized_cut_copper strict
-fill 32 86 49 34 86 49 minecraft:waxed_oxidized_cut_copper strict
-fill 32 86 206 34 86 206 minecraft:waxed_oxidized_cut_copper strict
-setblock 33 86 48 minecraft:waxed_oxidized_cut_copper strict
-setblock 33 86 50 minecraft:waxed_oxidized_cut_copper strict
-fill 33 84 127 33 86 127 minecraft:waxed_oxidized_cut_copper strict
-setblock 33 86 205 minecraft:waxed_oxidized_cut_copper strict
-setblock 33 86 207 minecraft:waxed_oxidized_cut_copper strict
-fill 122 86 204 122 86 208 minecraft:waxed_oxidized_cut_copper strict
-fill 127 84 49 127 86 49 minecraft:waxed_oxidized_cut_copper strict
-fill 134 86 204 134 86 208 minecraft:waxed_oxidized_cut_copper strict
-fill 221 86 49 223 86 49 minecraft:waxed_oxidized_cut_copper strict
-fill 221 86 206 223 86 206 minecraft:waxed_oxidized_cut_copper strict
-setblock 222 86 48 minecraft:waxed_oxidized_cut_copper strict
-setblock 222 86 50 minecraft:waxed_oxidized_cut_copper strict
-fill 222 84 127 222 86 127 minecraft:waxed_oxidized_cut_copper strict
-setblock 222 86 205 minecraft:waxed_oxidized_cut_copper strict
-setblock 222 86 207 minecraft:waxed_oxidized_cut_copper strict
-fill 33 87 49 33 89 49 minecraft:waxed_oxidized_cut_copper strict
-fill 33 87 206 33 89 206 minecraft:waxed_oxidized_cut_copper strict
-fill 123 89 80 133 89 80 minecraft:waxed_oxidized_cut_copper strict
-fill 123 89 81 123 89 90 minecraft:waxed_oxidized_cut_copper strict
-fill 124 89 90 133 89 90 minecraft:waxed_oxidized_cut_copper strict
-fill 133 89 81 133 89 89 minecraft:waxed_oxidized_cut_copper strict
-fill 222 87 49 222 89 49 minecraft:waxed_oxidized_cut_copper strict
-fill 222 87 206 222 89 206 minecraft:waxed_oxidized_cut_copper strict
-fill 124 91 81 132 91 81 minecraft:waxed_oxidized_cut_copper strict
-fill 124 91 82 124 91 89 minecraft:waxed_oxidized_cut_copper strict
-fill 125 91 89 132 91 89 minecraft:waxed_oxidized_cut_copper strict
-fill 132 91 82 132 91 88 minecraft:waxed_oxidized_cut_copper strict
-fill 125 93 82 131 93 82 minecraft:waxed_oxidized_cut_copper strict
-fill 125 93 83 125 93 88 minecraft:waxed_oxidized_cut_copper strict
-fill 126 93 88 131 93 88 minecraft:waxed_oxidized_cut_copper strict
-fill 131 93 83 131 93 87 minecraft:waxed_oxidized_cut_copper strict
-fill 126 95 83 130 95 83 minecraft:waxed_oxidized_cut_copper strict
-fill 126 95 84 126 95 87 minecraft:waxed_oxidized_cut_copper strict
-fill 127 95 87 130 95 87 minecraft:waxed_oxidized_cut_copper strict
-fill 130 95 84 130 95 86 minecraft:waxed_oxidized_cut_copper strict
-fill 127 97 84 129 97 84 minecraft:waxed_oxidized_cut_copper strict
-fill 127 97 85 127 97 86 minecraft:waxed_oxidized_cut_copper strict
-fill 128 97 86 129 97 86 minecraft:waxed_oxidized_cut_copper strict
-setblock 129 97 85 minecraft:waxed_oxidized_cut_copper strict
-setblock 128 100 85 minecraft:waxed_oxidized_cut_copper strict
-setblock 128 103 85 minecraft:waxed_oxidized_cut_copper strict
-fill 35 69 139 35 69 141 minecraft:white_concrete strict
-fill 36 69 138 38 69 138 minecraft:white_concrete strict
-fill 36 69 144 38 69 144 minecraft:white_concrete strict
-fill 40 69 138 42 69 138 minecraft:white_concrete strict
-setblock 40 69 144 minecraft:white_concrete strict
-setblock 42 69 144 minecraft:white_concrete strict
-fill 44 69 138 46 69 138 minecraft:white_concrete strict
-setblock 44 69 144 minecraft:white_concrete strict
-setblock 46 69 144 minecraft:white_concrete strict
-fill 48 69 139 48 69 141 minecraft:white_concrete strict
-fill 65 69 106 65 69 108 minecraft:white_concrete strict
-fill 65 69 110 65 69 112 minecraft:white_concrete strict
-fill 66 69 105 68 69 105 minecraft:white_concrete strict
-fill 66 69 116 68 69 116 minecraft:white_concrete strict
-fill 70 69 105 72 69 105 minecraft:white_concrete strict
-fill 70 69 116 72 69 116 minecraft:white_concrete strict
-fill 75 69 106 75 69 108 minecraft:white_concrete strict
-setblock 75 69 110 minecraft:white_concrete strict
-setblock 75 69 112 minecraft:white_concrete strict
-fill 99 69 107 99 69 109 minecraft:white_concrete strict
-fill 99 69 111 99 69 113 minecraft:white_concrete strict
-fill 100 69 106 102 69 106 minecraft:white_concrete strict
-fill 100 69 115 102 69 115 minecraft:white_concrete strict
-fill 104 69 106 106 69 106 minecraft:white_concrete strict
-fill 104 69 115 106 69 115 minecraft:white_concrete strict
-fill 106 69 79 106 69 81 minecraft:white_concrete strict
-fill 106 69 83 106 69 85 minecraft:white_concrete strict
-fill 107 69 78 109 69 78 minecraft:white_concrete strict
-fill 107 69 89 109 69 89 minecraft:white_concrete strict
-fill 108 69 107 108 69 109 minecraft:white_concrete strict
-fill 108 69 111 108 69 113 minecraft:white_concrete strict
-fill 111 69 78 113 69 78 minecraft:white_concrete strict
-fill 111 69 89 113 69 89 minecraft:white_concrete strict
-fill 111 69 96 111 69 98 minecraft:white_concrete strict
-fill 112 69 95 114 69 95 minecraft:white_concrete strict
-fill 112 69 101 114 69 101 minecraft:white_concrete strict
-fill 116 69 95 118 69 95 minecraft:white_concrete strict
-fill 116 69 101 118 69 101 minecraft:white_concrete strict
-fill 117 69 79 117 69 81 minecraft:white_concrete strict
-fill 117 69 83 117 69 85 minecraft:white_concrete strict
-fill 122 69 96 122 69 98 minecraft:white_concrete strict
-fill 146 69 139 146 69 141 minecraft:white_concrete strict
-fill 146 69 143 146 69 145 minecraft:white_concrete strict
-fill 147 69 138 149 69 138 minecraft:white_concrete strict
-fill 147 69 147 149 69 147 minecraft:white_concrete strict
-fill 148 69 107 148 69 109 minecraft:white_concrete strict
-fill 148 69 111 148 69 113 minecraft:white_concrete strict
-fill 149 69 106 151 69 106 minecraft:white_concrete strict
-fill 149 69 115 151 69 115 minecraft:white_concrete strict
-fill 150 69 152 150 69 154 minecraft:white_concrete strict
-fill 150 69 156 150 69 158 minecraft:white_concrete strict
-fill 151 69 138 153 69 138 minecraft:white_concrete strict
-fill 151 69 147 153 69 147 minecraft:white_concrete strict
-fill 151 69 151 153 69 151 minecraft:white_concrete strict
-setblock 151 69 160 minecraft:white_concrete strict
-fill 153 69 106 155 69 106 minecraft:white_concrete strict
-fill 153 69 115 155 69 115 minecraft:white_concrete strict
-setblock 153 69 160 minecraft:white_concrete strict
-fill 155 69 151 157 69 151 minecraft:white_concrete strict
-fill 157 69 107 157 69 109 minecraft:white_concrete strict
-fill 157 69 111 157 69 113 minecraft:white_concrete strict
-fill 157 69 139 157 69 141 minecraft:white_concrete strict
-fill 157 69 143 157 69 145 minecraft:white_concrete strict
-fill 161 69 152 161 69 154 minecraft:white_concrete strict
-fill 161 69 156 161 69 158 minecraft:white_concrete strict
-fill 207 69 109 207 69 111 minecraft:white_concrete strict
-fill 207 69 113 207 69 115 minecraft:white_concrete strict
-fill 208 69 108 210 69 108 minecraft:white_concrete strict
-fill 208 69 116 210 69 116 minecraft:white_concrete strict
-fill 212 69 108 214 69 108 minecraft:white_concrete strict
-fill 212 69 116 214 69 116 minecraft:white_concrete strict
-fill 216 69 108 218 69 108 minecraft:white_concrete strict
-fill 216 69 116 218 69 116 minecraft:white_concrete strict
-fill 220 69 109 220 69 111 minecraft:white_concrete strict
-fill 220 69 113 220 69 115 minecraft:white_concrete strict
-fill 35 70 139 35 71 139 minecraft:white_concrete strict
-fill 35 70 141 35 71 141 minecraft:white_concrete strict
-fill 35 69 143 35 71 143 minecraft:white_concrete strict
-fill 36 70 138 36 71 138 minecraft:white_concrete strict
-fill 38 70 138 38 71 138 minecraft:white_concrete strict
-fill 40 70 138 40 71 138 minecraft:white_concrete strict
-fill 42 70 138 42 71 138 minecraft:white_concrete strict
-fill 44 70 138 44 71 138 minecraft:white_concrete strict
-fill 46 70 138 46 71 138 minecraft:white_concrete strict
-fill 48 70 139 48 71 139 minecraft:white_concrete strict
-fill 48 70 141 48 71 141 minecraft:white_concrete strict
-fill 48 69 143 48 71 143 minecraft:white_concrete strict
-fill 65 70 106 65 71 106 minecraft:white_concrete strict
-fill 65 70 108 65 71 108 minecraft:white_concrete strict
-fill 65 70 110 65 71 110 minecraft:white_concrete strict
-fill 65 70 112 65 71 112 minecraft:white_concrete strict
-fill 65 69 114 65 71 115 minecraft:white_concrete strict
-fill 66 70 105 66 71 105 minecraft:white_concrete strict
-fill 66 70 116 66 71 116 minecraft:white_concrete strict
-fill 68 70 105 68 71 105 minecraft:white_concrete strict
-fill 68 70 116 68 71 116 minecraft:white_concrete strict
-fill 70 70 105 70 71 105 minecraft:white_concrete strict
-fill 70 70 116 70 71 116 minecraft:white_concrete strict
-fill 72 70 105 72 71 105 minecraft:white_concrete strict
-fill 72 70 116 72 71 116 minecraft:white_concrete strict
-fill 74 69 105 74 71 105 minecraft:white_concrete strict
-fill 74 69 116 74 71 116 minecraft:white_concrete strict
-fill 75 70 106 75 71 106 minecraft:white_concrete strict
-fill 75 70 108 75 71 108 minecraft:white_concrete strict
-fill 75 69 114 75 71 115 minecraft:white_concrete strict
-fill 99 70 107 99 71 107 minecraft:white_concrete strict
-fill 99 70 109 99 71 109 minecraft:white_concrete strict
-fill 99 70 111 99 71 111 minecraft:white_concrete strict
-fill 99 70 113 99 71 113 minecraft:white_concrete strict
-fill 100 70 106 100 71 106 minecraft:white_concrete strict
-fill 100 70 115 100 71 115 minecraft:white_concrete strict
-fill 102 70 106 102 71 106 minecraft:white_concrete strict
-fill 102 70 115 102 71 115 minecraft:white_concrete strict
-fill 104 70 106 104 71 106 minecraft:white_concrete strict
-fill 104 70 115 104 71 115 minecraft:white_concrete strict
-fill 106 70 79 106 71 79 minecraft:white_concrete strict
-fill 106 70 81 106 71 81 minecraft:white_concrete strict
-fill 106 70 83 106 71 83 minecraft:white_concrete strict
-fill 106 70 85 106 71 85 minecraft:white_concrete strict
-fill 106 69 87 106 71 88 minecraft:white_concrete strict
-fill 106 70 106 106 71 106 minecraft:white_concrete strict
-fill 106 70 115 106 71 115 minecraft:white_concrete strict
-fill 107 70 78 107 71 78 minecraft:white_concrete strict
-fill 107 70 89 107 71 89 minecraft:white_concrete strict
-fill 108 70 107 108 71 107 minecraft:white_concrete strict
-fill 108 70 109 108 71 109 minecraft:white_concrete strict
-fill 108 70 111 108 71 111 minecraft:white_concrete strict
-fill 108 70 113 108 71 113 minecraft:white_concrete strict
-fill 109 70 78 109 71 78 minecraft:white_concrete strict
-fill 109 70 89 109 71 89 minecraft:white_concrete strict
-fill 111 70 78 111 71 78 minecraft:white_concrete strict
-fill 111 70 89 111 71 89 minecraft:white_concrete strict
-fill 111 70 96 111 71 96 minecraft:white_concrete strict
-fill 111 70 98 111 71 98 minecraft:white_concrete strict
-fill 111 69 100 111 71 100 minecraft:white_concrete strict
-fill 112 70 95 112 71 95 minecraft:white_concrete strict
-fill 112 70 101 112 71 101 minecraft:white_concrete strict
-fill 113 70 78 113 71 78 minecraft:white_concrete strict
-fill 113 70 89 113 71 89 minecraft:white_concrete strict
-fill 114 70 95 114 71 95 minecraft:white_concrete strict
-fill 114 70 101 114 71 101 minecraft:white_concrete strict
-fill 115 69 78 116 71 78 minecraft:white_concrete strict
-fill 115 69 89 116 71 89 minecraft:white_concrete strict
-fill 116 70 95 116 71 95 minecraft:white_concrete strict
-setblock 116 71 101 minecraft:white_concrete strict
-fill 117 70 79 117 71 79 minecraft:white_concrete strict
-fill 117 70 81 117 71 81 minecraft:white_concrete strict
-fill 117 70 83 117 71 83 minecraft:white_concrete strict
-fill 117 70 85 117 71 85 minecraft:white_concrete strict
-fill 117 69 87 117 71 88 minecraft:white_concrete strict
-fill 118 70 95 118 71 95 minecraft:white_concrete strict
-fill 118 70 101 118 71 101 minecraft:white_concrete strict
-fill 120 69 95 121 71 95 minecraft:white_concrete strict
-fill 120 69 101 121 71 101 minecraft:white_concrete strict
-fill 122 70 96 122 71 96 minecraft:white_concrete strict
-fill 122 70 98 122 71 98 minecraft:white_concrete strict
-fill 122 69 100 122 71 100 minecraft:white_concrete strict
-fill 146 70 139 146 71 139 minecraft:white_concrete strict
-fill 146 70 141 146 71 141 minecraft:white_concrete strict
-fill 146 70 143 146 71 143 minecraft:white_concrete strict
-fill 146 70 145 146 71 145 minecraft:white_concrete strict
-fill 147 70 138 147 71 138 minecraft:white_concrete strict
-fill 147 70 147 147 71 147 minecraft:white_concrete strict
-fill 148 70 107 148 71 107 minecraft:white_concrete strict
-fill 148 70 109 148 71 109 minecraft:white_concrete strict
-fill 148 70 111 148 71 111 minecraft:white_concrete strict
-fill 148 70 113 148 71 113 minecraft:white_concrete strict
-fill 149 70 106 149 71 106 minecraft:white_concrete strict
-fill 149 70 115 149 71 115 minecraft:white_concrete strict
-fill 149 70 138 149 71 138 minecraft:white_concrete strict
-fill 149 70 147 149 71 147 minecraft:white_concrete strict
-fill 150 70 152 150 71 152 minecraft:white_concrete strict
-fill 150 70 154 150 71 154 minecraft:white_concrete strict
-fill 150 70 156 150 71 156 minecraft:white_concrete strict
-fill 150 70 158 150 71 158 minecraft:white_concrete strict
-fill 151 70 106 151 71 106 minecraft:white_concrete strict
-fill 151 70 115 151 71 115 minecraft:white_concrete strict
-fill 151 70 138 151 71 138 minecraft:white_concrete strict
-fill 151 70 147 151 71 147 minecraft:white_concrete strict
-fill 151 70 151 151 71 151 minecraft:white_concrete strict
-fill 153 70 106 153 71 106 minecraft:white_concrete strict
-fill 153 70 115 153 71 115 minecraft:white_concrete strict
-fill 153 70 138 153 71 138 minecraft:white_concrete strict
-fill 153 70 147 153 71 147 minecraft:white_concrete strict
-fill 153 70 151 153 71 151 minecraft:white_concrete strict
-fill 155 70 106 155 71 106 minecraft:white_concrete strict
-fill 155 70 115 155 71 115 minecraft:white_concrete strict
-fill 155 69 138 156 71 138 minecraft:white_concrete strict
-fill 155 69 147 156 71 147 minecraft:white_concrete strict
-fill 155 70 151 155 71 151 minecraft:white_concrete strict
-fill 155 69 160 155 71 160 minecraft:white_concrete strict
-fill 157 70 107 157 71 107 minecraft:white_concrete strict
-fill 157 70 109 157 71 109 minecraft:white_concrete strict
-fill 157 70 111 157 71 111 minecraft:white_concrete strict
-fill 157 70 113 157 71 113 minecraft:white_concrete strict
-fill 157 70 139 157 71 139 minecraft:white_concrete strict
-fill 157 70 141 157 71 141 minecraft:white_concrete strict
-fill 157 70 143 157 71 143 minecraft:white_concrete strict
-fill 157 70 145 157 71 145 minecraft:white_concrete strict
-fill 157 70 151 157 71 151 minecraft:white_concrete strict
-fill 157 69 160 157 71 160 minecraft:white_concrete strict
-fill 159 69 151 160 71 151 minecraft:white_concrete strict
-fill 159 69 160 160 71 160 minecraft:white_concrete strict
-fill 161 70 152 161 71 152 minecraft:white_concrete strict
-fill 161 70 154 161 71 154 minecraft:white_concrete strict
-fill 161 70 156 161 71 156 minecraft:white_concrete strict
-fill 161 70 158 161 71 158 minecraft:white_concrete strict
-fill 207 70 109 207 71 109 minecraft:white_concrete strict
-fill 207 70 111 207 71 111 minecraft:white_concrete strict
-fill 207 70 113 207 71 113 minecraft:white_concrete strict
-fill 207 70 115 207 71 115 minecraft:white_concrete strict
-fill 208 70 108 208 71 108 minecraft:white_concrete strict
-fill 208 70 116 208 71 116 minecraft:white_concrete strict
-fill 210 70 108 210 71 108 minecraft:white_concrete strict
-fill 210 70 116 210 71 116 minecraft:white_concrete strict
-fill 212 70 108 212 71 108 minecraft:white_concrete strict
-fill 212 70 116 212 71 116 minecraft:white_concrete strict
-fill 214 70 108 214 71 108 minecraft:white_concrete strict
-fill 214 70 116 214 71 116 minecraft:white_concrete strict
-fill 216 70 108 216 71 108 minecraft:white_concrete strict
-fill 216 70 116 216 71 116 minecraft:white_concrete strict
-fill 218 70 108 218 71 108 minecraft:white_concrete strict
-fill 218 70 116 218 71 116 minecraft:white_concrete strict
-fill 220 70 109 220 71 109 minecraft:white_concrete strict
-fill 220 70 111 220 71 111 minecraft:white_concrete strict
-fill 220 70 113 220 71 113 minecraft:white_concrete strict
-fill 220 70 115 220 71 115 minecraft:white_concrete strict
-fill 35 73 138 35 73 140 minecraft:white_concrete strict
-fill 35 73 142 35 73 144 minecraft:white_concrete strict
-fill 48 73 138 48 73 140 minecraft:white_concrete strict
-fill 48 73 142 48 73 144 minecraft:white_concrete strict
-fill 65 73 105 69 73 105 minecraft:white_concrete strict
-fill 65 73 116 69 73 116 minecraft:white_concrete strict
-fill 99 73 106 99 73 109 minecraft:white_concrete strict
-fill 99 73 112 99 73 115 minecraft:white_concrete strict
-fill 106 73 78 110 73 78 minecraft:white_concrete strict
-fill 106 73 89 110 73 89 minecraft:white_concrete strict
-fill 108 73 106 108 73 109 minecraft:white_concrete strict
-fill 108 73 112 108 73 115 minecraft:white_concrete strict
-fill 111 73 95 111 73 97 minecraft:white_concrete strict
-fill 111 73 99 111 73 101 minecraft:white_concrete strict
-fill 113 73 78 117 73 78 minecraft:white_concrete strict
-fill 113 73 89 117 73 89 minecraft:white_concrete strict
-fill 122 73 95 122 73 97 minecraft:white_concrete strict
-fill 122 73 99 122 73 101 minecraft:white_concrete strict
-setblock 146 73 141 minecraft:white_concrete strict
-fill 146 73 143 146 73 145 minecraft:white_concrete strict
-fill 147 73 138 149 73 138 minecraft:white_concrete strict
-fill 147 73 147 149 73 147 minecraft:white_concrete strict
-fill 148 73 107 148 73 109 minecraft:white_concrete strict
-fill 148 73 111 148 73 113 minecraft:white_concrete strict
-fill 149 73 106 151 73 106 minecraft:white_concrete strict
-fill 149 73 115 151 73 115 minecraft:white_concrete strict
-fill 150 73 151 154 73 151 minecraft:white_concrete strict
-fill 150 73 160 151 73 160 minecraft:white_concrete strict
-fill 151 73 138 153 73 138 minecraft:white_concrete strict
-fill 151 73 147 153 73 147 minecraft:white_concrete strict
-fill 153 73 106 155 73 106 minecraft:white_concrete strict
-fill 153 73 115 155 73 115 minecraft:white_concrete strict
-fill 157 73 107 157 73 109 minecraft:white_concrete strict
-fill 157 73 111 157 73 113 minecraft:white_concrete strict
-fill 157 73 139 157 73 141 minecraft:white_concrete strict
-fill 157 73 143 157 73 145 minecraft:white_concrete strict
-fill 157 73 151 161 73 151 minecraft:white_concrete strict
-fill 157 73 160 161 73 160 minecraft:white_concrete strict
-fill 207 73 108 207 73 111 minecraft:white_concrete strict
-fill 207 73 113 207 73 116 minecraft:white_concrete strict
-fill 220 73 108 220 73 111 minecraft:white_concrete strict
-fill 220 73 113 220 73 116 minecraft:white_concrete strict
-fill 35 74 139 35 74 140 minecraft:white_concrete strict
-fill 35 74 142 35 74 143 minecraft:white_concrete strict
-fill 48 74 139 48 74 140 minecraft:white_concrete strict
-fill 48 74 142 48 74 143 minecraft:white_concrete strict
-fill 66 74 105 69 74 105 minecraft:white_concrete strict
-fill 66 74 116 69 74 116 minecraft:white_concrete strict
-fill 71 73 105 74 74 105 minecraft:white_concrete strict
-fill 71 73 116 74 74 116 minecraft:white_concrete strict
-fill 99 74 107 99 74 109 minecraft:white_concrete strict
-fill 99 74 112 99 74 114 minecraft:white_concrete strict
-fill 107 74 78 110 74 78 minecraft:white_concrete strict
-fill 107 74 89 110 74 89 minecraft:white_concrete strict
-fill 108 74 107 108 74 109 minecraft:white_concrete strict
-fill 108 74 112 108 74 114 minecraft:white_concrete strict
-fill 111 74 96 111 74 97 minecraft:white_concrete strict
-fill 111 74 99 111 74 100 minecraft:white_concrete strict
-fill 113 74 78 116 74 78 minecraft:white_concrete strict
-fill 113 74 89 116 74 89 minecraft:white_concrete strict
-fill 122 74 96 122 74 97 minecraft:white_concrete strict
-fill 122 74 99 122 74 100 minecraft:white_concrete strict
-fill 151 74 151 154 74 151 minecraft:white_concrete strict
-setblock 151 74 160 minecraft:white_concrete strict
-fill 153 73 160 154 74 160 minecraft:white_concrete strict
-fill 157 74 151 160 74 151 minecraft:white_concrete strict
-fill 158 74 160 160 74 160 minecraft:white_concrete strict
-fill 207 74 109 207 74 111 minecraft:white_concrete strict
-fill 207 74 113 207 74 115 minecraft:white_concrete strict
-fill 220 74 109 220 74 111 minecraft:white_concrete strict
-fill 220 74 113 220 74 115 minecraft:white_concrete strict
-setblock 35 75 140 minecraft:white_concrete strict
-setblock 35 75 142 minecraft:white_concrete strict
-setblock 48 75 140 minecraft:white_concrete strict
-setblock 48 75 142 minecraft:white_concrete strict
-fill 67 75 105 69 75 105 minecraft:white_concrete strict
-fill 67 75 116 69 75 116 minecraft:white_concrete strict
-fill 71 75 105 73 75 105 minecraft:white_concrete strict
-fill 71 75 116 73 75 116 minecraft:white_concrete strict
-fill 99 75 108 99 75 109 minecraft:white_concrete strict
-fill 99 75 112 99 75 113 minecraft:white_concrete strict
-fill 108 75 78 110 75 78 minecraft:white_concrete strict
-fill 108 75 89 110 75 89 minecraft:white_concrete strict
-fill 108 75 108 108 75 109 minecraft:white_concrete strict
-fill 108 75 112 108 75 113 minecraft:white_concrete strict
-setblock 111 75 97 minecraft:white_concrete strict
-setblock 111 75 99 minecraft:white_concrete strict
-fill 113 75 78 115 75 78 minecraft:white_concrete strict
-fill 113 75 89 115 75 89 minecraft:white_concrete strict
-setblock 122 75 97 minecraft:white_concrete strict
-setblock 122 75 99 minecraft:white_concrete strict
-fill 146 73 139 146 75 139 minecraft:white_concrete strict
-setblock 146 75 141 minecraft:white_concrete strict
-fill 146 74 143 146 75 143 minecraft:white_concrete strict
-fill 146 74 145 146 75 145 minecraft:white_concrete strict
-fill 147 74 138 147 75 138 minecraft:white_concrete strict
-fill 147 74 147 147 75 147 minecraft:white_concrete strict
-fill 148 74 107 148 75 107 minecraft:white_concrete strict
-fill 148 74 109 148 75 109 minecraft:white_concrete strict
-fill 148 74 111 148 75 111 minecraft:white_concrete strict
-fill 148 74 113 148 75 113 minecraft:white_concrete strict
-fill 149 74 106 149 75 106 minecraft:white_concrete strict
-fill 149 74 115 149 75 115 minecraft:white_concrete strict
-fill 149 74 138 149 75 138 minecraft:white_concrete strict
-fill 149 74 147 149 75 147 minecraft:white_concrete strict
-fill 151 74 106 151 75 106 minecraft:white_concrete strict
-fill 151 74 115 151 75 115 minecraft:white_concrete strict
-fill 151 74 138 151 75 138 minecraft:white_concrete strict
-fill 151 74 147 151 75 147 minecraft:white_concrete strict
-fill 152 75 151 154 75 151 minecraft:white_concrete strict
-fill 152 75 160 154 75 160 minecraft:white_concrete strict
-fill 153 74 106 153 75 106 minecraft:white_concrete strict
-fill 153 74 115 153 75 115 minecraft:white_concrete strict
-fill 153 74 138 153 75 138 minecraft:white_concrete strict
-fill 153 74 147 153 75 147 minecraft:white_concrete strict
-fill 155 74 106 155 75 106 minecraft:white_concrete strict
-fill 155 74 115 155 75 115 minecraft:white_concrete strict
-fill 155 73 138 156 75 138 minecraft:white_concrete strict
-fill 155 73 147 156 75 147 minecraft:white_concrete strict
-fill 157 74 107 157 75 107 minecraft:white_concrete strict
-fill 157 74 109 157 75 109 minecraft:white_concrete strict
-fill 157 74 111 157 75 111 minecraft:white_concrete strict
-fill 157 74 113 157 75 113 minecraft:white_concrete strict
-fill 157 74 139 157 75 139 minecraft:white_concrete strict
-fill 157 74 141 157 75 141 minecraft:white_concrete strict
-fill 157 74 143 157 75 143 minecraft:white_concrete strict
-fill 157 74 145 157 75 145 minecraft:white_concrete strict
-fill 157 75 151 159 75 151 minecraft:white_concrete strict
-fill 158 75 160 159 75 160 minecraft:white_concrete strict
-fill 207 75 110 207 75 111 minecraft:white_concrete strict
-fill 207 75 113 207 75 114 minecraft:white_concrete strict
-fill 220 75 110 220 75 111 minecraft:white_concrete strict
-fill 220 75 113 220 75 114 minecraft:white_concrete strict
-fill 68 76 105 69 76 105 minecraft:white_concrete strict
-fill 68 76 116 69 76 116 minecraft:white_concrete strict
-fill 71 76 105 72 76 105 minecraft:white_concrete strict
-fill 71 76 116 72 76 116 minecraft:white_concrete strict
-setblock 99 76 109 minecraft:white_concrete strict
-setblock 99 76 112 minecraft:white_concrete strict
-setblock 108 76 109 minecraft:white_concrete strict
-setblock 108 76 112 minecraft:white_concrete strict
-fill 109 76 78 110 76 78 minecraft:white_concrete strict
-fill 109 76 89 110 76 89 minecraft:white_concrete strict
-fill 113 76 78 114 76 78 minecraft:white_concrete strict
-fill 113 76 89 114 76 89 minecraft:white_concrete strict
-fill 153 76 151 154 76 151 minecraft:white_concrete strict
-fill 153 76 160 154 76 160 minecraft:white_concrete strict
-fill 157 76 151 158 76 151 minecraft:white_concrete strict
-fill 157 76 160 158 76 160 minecraft:white_concrete strict
-setblock 207 76 111 minecraft:white_concrete strict
-setblock 207 76 113 minecraft:white_concrete strict
-setblock 220 76 111 minecraft:white_concrete strict
-setblock 220 76 113 minecraft:white_concrete strict
-setblock 69 77 105 minecraft:white_concrete strict
-setblock 69 77 116 minecraft:white_concrete strict
-setblock 71 77 105 minecraft:white_concrete strict
-setblock 71 77 116 minecraft:white_concrete strict
-setblock 110 77 78 minecraft:white_concrete strict
-setblock 110 77 89 minecraft:white_concrete strict
-setblock 113 77 78 minecraft:white_concrete strict
-setblock 113 77 89 minecraft:white_concrete strict
-fill 146 77 138 146 77 141 minecraft:white_concrete strict
-fill 146 77 145 146 77 147 minecraft:white_concrete strict
-fill 148 77 106 148 77 109 minecraft:white_concrete strict
-fill 148 77 112 148 77 115 minecraft:white_concrete strict
-setblock 154 77 151 minecraft:white_concrete strict
-fill 157 77 106 157 77 109 minecraft:white_concrete strict
-fill 157 77 112 157 77 115 minecraft:white_concrete strict
-fill 157 77 138 157 77 141 minecraft:white_concrete strict
-fill 157 77 144 157 77 147 minecraft:white_concrete strict
-setblock 157 77 151 minecraft:white_concrete strict
-fill 146 78 139 146 78 141 minecraft:white_concrete strict
-fill 146 78 144 146 78 146 minecraft:white_concrete strict
-fill 148 78 107 148 78 109 minecraft:white_concrete strict
-fill 148 78 112 148 78 114 minecraft:white_concrete strict
-fill 157 78 107 157 78 109 minecraft:white_concrete strict
-fill 157 78 112 157 78 114 minecraft:white_concrete strict
-fill 157 78 139 157 78 141 minecraft:white_concrete strict
-fill 157 78 144 157 78 146 minecraft:white_concrete strict
-fill 146 79 140 146 79 141 minecraft:white_concrete strict
-fill 146 79 144 146 79 145 minecraft:white_concrete strict
-fill 148 79 108 148 79 109 minecraft:white_concrete strict
-fill 148 79 112 148 79 113 minecraft:white_concrete strict
-fill 157 79 108 157 79 109 minecraft:white_concrete strict
-fill 157 79 112 157 79 113 minecraft:white_concrete strict
-fill 157 79 140 157 79 141 minecraft:white_concrete strict
-fill 157 79 144 157 79 145 minecraft:white_concrete strict
-setblock 146 80 141 minecraft:white_concrete strict
-setblock 146 80 144 minecraft:white_concrete strict
-setblock 148 80 109 minecraft:white_concrete strict
-setblock 148 80 112 minecraft:white_concrete strict
-setblock 157 80 109 minecraft:white_concrete strict
-setblock 157 80 112 minecraft:white_concrete strict
-setblock 157 80 141 minecraft:white_concrete strict
-setblock 157 80 144 minecraft:white_concrete strict
-fill 195 65 182 195 66 182 minecraft:white_terracotta strict
-fill 197 65 182 197 66 183 minecraft:white_terracotta strict
-fill 198 65 183 199 66 183 minecraft:white_terracotta strict
-fill 192 65 185 193 67 185 minecraft:white_terracotta strict
-fill 192 65 186 192 67 187 minecraft:white_terracotta strict
-fill 193 65 183 195 67 183 minecraft:white_terracotta strict
-fill 193 65 184 193 67 184 minecraft:white_terracotta strict
-fill 193 65 187 193 67 189 minecraft:white_terracotta strict
-fill 194 65 189 195 67 189 minecraft:white_terracotta strict
-fill 195 67 182 197 67 182 minecraft:white_terracotta strict
-fill 195 65 190 197 67 190 minecraft:white_terracotta strict
-fill 197 67 183 199 67 183 minecraft:white_terracotta strict
-fill 197 65 189 199 67 189 minecraft:white_terracotta strict
-fill 199 65 184 199 67 185 minecraft:white_terracotta strict
-fill 199 65 187 200 67 187 minecraft:white_terracotta strict
-fill 199 65 188 199 67 188 minecraft:white_terracotta strict
-fill 200 65 185 200 67 186 minecraft:white_terracotta strict
-fill 52 69 127 52 69 129 minecraft:white_terracotta strict
-fill 52 69 131 52 69 133 minecraft:white_terracotta strict
-fill 53 69 126 55 69 126 minecraft:white_terracotta strict
-fill 53 69 134 55 69 134 minecraft:white_terracotta strict
-fill 54 69 186 54 69 188 minecraft:white_terracotta strict
-fill 54 69 190 54 69 192 minecraft:white_terracotta strict
-fill 55 69 185 57 69 185 minecraft:white_terracotta strict
-fill 55 69 196 57 69 196 minecraft:white_terracotta strict
-fill 57 69 126 59 69 126 minecraft:white_terracotta strict
-fill 57 69 134 59 69 134 minecraft:white_terracotta strict
-fill 59 69 185 61 69 185 minecraft:white_terracotta strict
-fill 59 69 196 61 69 196 minecraft:white_terracotta strict
-fill 61 69 127 61 69 129 minecraft:white_terracotta strict
-fill 61 69 131 61 69 133 minecraft:white_terracotta strict
-fill 62 69 186 63 69 188 minecraft:white_terracotta strict
-fill 62 69 190 63 69 190 minecraft:white_terracotta strict
-fill 62 69 192 63 69 192 minecraft:white_terracotta strict
-setblock 63 69 191 minecraft:white_terracotta strict
-fill 64 69 185 66 69 185 minecraft:white_terracotta strict
-fill 64 69 196 66 69 196 minecraft:white_terracotta strict
-fill 68 69 185 70 69 185 minecraft:white_terracotta strict
-fill 68 69 196 70 69 196 minecraft:white_terracotta strict
-fill 71 69 186 71 69 188 minecraft:white_terracotta strict
-fill 95 69 192 95 69 194 minecraft:white_terracotta strict
-fill 96 69 191 98 69 191 minecraft:white_terracotta strict
-fill 96 69 196 98 69 196 minecraft:white_terracotta strict
-setblock 101 69 192 minecraft:white_terracotta strict
-setblock 101 69 194 minecraft:white_terracotta strict
-fill 107 69 182 107 69 184 minecraft:white_terracotta strict
-fill 107 69 186 107 69 188 minecraft:white_terracotta strict
-fill 108 69 181 110 69 181 minecraft:white_terracotta strict
-fill 108 69 190 110 69 190 minecraft:white_terracotta strict
-fill 112 69 181 114 69 181 minecraft:white_terracotta strict
-fill 112 69 190 114 69 190 minecraft:white_terracotta strict
-fill 117 69 182 117 69 184 minecraft:white_terracotta strict
-fill 117 69 186 117 69 188 minecraft:white_terracotta strict
-fill 123 69 181 133 69 181 minecraft:white_terracotta strict
-fill 123 69 182 123 69 190 minecraft:white_terracotta strict
-fill 124 69 190 133 69 190 minecraft:white_terracotta strict
-fill 133 69 182 133 69 189 minecraft:white_terracotta strict
-fill 134 69 96 134 69 98 minecraft:white_terracotta strict
-fill 135 69 95 137 69 95 minecraft:white_terracotta strict
-fill 135 69 101 137 69 101 minecraft:white_terracotta strict
-fill 139 69 95 141 69 95 minecraft:white_terracotta strict
-fill 139 69 101 141 69 101 minecraft:white_terracotta strict
-fill 145 69 96 145 69 98 minecraft:white_terracotta strict
-setblock 145 69 100 minecraft:white_terracotta strict
-fill 150 69 171 150 69 173 minecraft:white_terracotta strict
-fill 150 69 175 150 69 177 minecraft:white_terracotta strict
-fill 151 69 170 153 69 170 minecraft:white_terracotta strict
-fill 155 69 170 157 69 170 minecraft:white_terracotta strict
-setblock 155 69 180 minecraft:white_terracotta strict
-setblock 157 69 180 minecraft:white_terracotta strict
-fill 161 69 171 161 69 173 minecraft:white_terracotta strict
-fill 161 69 175 161 69 177 minecraft:white_terracotta strict
-fill 180 69 109 180 69 111 minecraft:white_terracotta strict
-fill 180 69 113 180 69 115 minecraft:white_terracotta strict
-fill 181 69 108 183 69 108 minecraft:white_terracotta strict
-fill 181 69 116 183 69 116 minecraft:white_terracotta strict
-fill 185 69 108 187 69 108 minecraft:white_terracotta strict
-fill 185 69 116 187 69 116 minecraft:white_terracotta strict
-fill 189 69 108 191 69 108 minecraft:white_terracotta strict
-fill 189 69 116 191 69 116 minecraft:white_terracotta strict
-fill 192 69 109 192 69 111 minecraft:white_terracotta strict
-fill 192 69 113 192 69 115 minecraft:white_terracotta strict
-fill 192 69 185 193 69 185 minecraft:white_terracotta strict
-fill 192 69 186 192 69 187 minecraft:white_terracotta strict
-fill 193 69 183 195 69 183 minecraft:white_terracotta strict
-setblock 193 69 184 minecraft:white_terracotta strict
-fill 193 69 187 193 69 189 minecraft:white_terracotta strict
-fill 194 69 189 195 69 189 minecraft:white_terracotta strict
-fill 195 69 182 197 69 182 minecraft:white_terracotta strict
-fill 195 69 190 197 69 190 minecraft:white_terracotta strict
-fill 197 69 183 199 69 183 minecraft:white_terracotta strict
-fill 197 69 189 199 69 189 minecraft:white_terracotta strict
-fill 199 69 109 199 69 111 minecraft:white_terracotta strict
-fill 199 69 113 199 69 115 minecraft:white_terracotta strict
-fill 199 69 184 199 69 185 minecraft:white_terracotta strict
-fill 199 69 187 200 69 187 minecraft:white_terracotta strict
-setblock 199 69 188 minecraft:white_terracotta strict
-fill 200 69 108 202 69 108 minecraft:white_terracotta strict
-fill 200 69 116 202 69 116 minecraft:white_terracotta strict
-fill 200 69 185 200 69 186 minecraft:white_terracotta strict
-fill 206 69 113 206 69 115 minecraft:white_terracotta strict
-fill 123 70 181 127 70 181 minecraft:white_terracotta strict
-fill 123 70 190 127 70 190 minecraft:white_terracotta strict
-fill 129 70 181 133 70 181 minecraft:white_terracotta strict
-fill 129 70 190 133 70 190 minecraft:white_terracotta strict
-fill 52 70 127 52 71 127 minecraft:white_terracotta strict
-fill 52 70 129 52 71 129 minecraft:white_terracotta strict
-fill 52 70 131 52 71 131 minecraft:white_terracotta strict
-fill 52 70 133 52 71 133 minecraft:white_terracotta strict
-fill 53 70 126 53 71 126 minecraft:white_terracotta strict
-fill 53 70 134 53 71 134 minecraft:white_terracotta strict
-fill 54 70 186 54 71 186 minecraft:white_terracotta strict
-fill 54 70 188 54 71 188 minecraft:white_terracotta strict
-fill 54 70 190 54 71 190 minecraft:white_terracotta strict
-fill 54 70 192 54 71 192 minecraft:white_terracotta strict
-fill 54 69 194 54 71 195 minecraft:white_terracotta strict
-fill 55 70 126 55 71 126 minecraft:white_terracotta strict
-fill 55 70 134 55 71 134 minecraft:white_terracotta strict
-fill 55 70 185 55 71 185 minecraft:white_terracotta strict
-fill 55 70 196 55 71 196 minecraft:white_terracotta strict
-fill 57 70 126 57 71 126 minecraft:white_terracotta strict
-fill 57 70 134 57 71 134 minecraft:white_terracotta strict
-fill 57 70 185 57 71 185 minecraft:white_terracotta strict
-fill 57 70 196 57 71 196 minecraft:white_terracotta strict
-fill 59 70 126 59 71 126 minecraft:white_terracotta strict
-fill 59 70 134 59 71 134 minecraft:white_terracotta strict
-fill 59 70 185 59 71 185 minecraft:white_terracotta strict
-fill 59 70 196 59 71 196 minecraft:white_terracotta strict
-fill 61 70 127 61 71 127 minecraft:white_terracotta strict
-fill 61 70 129 61 71 129 minecraft:white_terracotta strict
-fill 61 70 131 61 71 131 minecraft:white_terracotta strict
-fill 61 70 133 61 71 133 minecraft:white_terracotta strict
-fill 61 70 185 61 71 185 minecraft:white_terracotta strict
-fill 61 70 196 61 71 196 minecraft:white_terracotta strict
-fill 62 69 194 63 71 195 minecraft:white_terracotta strict
-fill 63 70 186 63 71 186 minecraft:white_terracotta strict
-fill 63 70 188 63 71 188 minecraft:white_terracotta strict
-fill 63 70 190 63 71 190 minecraft:white_terracotta strict
-fill 63 70 192 63 71 192 minecraft:white_terracotta strict
-fill 64 70 185 64 71 185 minecraft:white_terracotta strict
-fill 64 70 196 64 71 196 minecraft:white_terracotta strict
-fill 66 70 185 66 71 185 minecraft:white_terracotta strict
-fill 66 70 196 66 71 196 minecraft:white_terracotta strict
-fill 68 70 185 68 71 185 minecraft:white_terracotta strict
-fill 68 70 196 68 71 196 minecraft:white_terracotta strict
-fill 70 70 185 70 71 185 minecraft:white_terracotta strict
-fill 70 70 196 70 71 196 minecraft:white_terracotta strict
-fill 71 69 190 71 71 190 minecraft:white_terracotta strict
-fill 71 69 192 71 71 192 minecraft:white_terracotta strict
-fill 71 69 194 71 71 195 minecraft:white_terracotta strict
-fill 95 70 192 95 71 192 minecraft:white_terracotta strict
-fill 95 70 194 95 71 194 minecraft:white_terracotta strict
-fill 96 70 191 96 71 191 minecraft:white_terracotta strict
-fill 96 70 196 96 71 196 minecraft:white_terracotta strict
-fill 98 70 191 98 71 191 minecraft:white_terracotta strict
-fill 98 70 196 98 71 196 minecraft:white_terracotta strict
-fill 100 69 191 100 71 191 minecraft:white_terracotta strict
-fill 100 69 196 100 71 196 minecraft:white_terracotta strict
-fill 107 70 182 107 71 182 minecraft:white_terracotta strict
-fill 107 70 184 107 71 184 minecraft:white_terracotta strict
-fill 108 70 181 108 71 181 minecraft:white_terracotta strict
-fill 108 70 190 108 71 190 minecraft:white_terracotta strict
-fill 110 70 181 110 71 181 minecraft:white_terracotta strict
-fill 110 70 190 110 71 190 minecraft:white_terracotta strict
-fill 112 70 181 112 71 181 minecraft:white_terracotta strict
-fill 112 70 190 112 71 190 minecraft:white_terracotta strict
-fill 114 70 181 114 71 181 minecraft:white_terracotta strict
-fill 114 70 190 114 71 190 minecraft:white_terracotta strict
-fill 116 69 181 116 71 181 minecraft:white_terracotta strict
-fill 116 69 190 116 71 190 minecraft:white_terracotta strict
-fill 117 70 182 117 71 182 minecraft:white_terracotta strict
-fill 117 70 184 117 71 184 minecraft:white_terracotta strict
-fill 117 70 186 117 71 186 minecraft:white_terracotta strict
-fill 117 70 188 117 71 188 minecraft:white_terracotta strict
-fill 124 71 181 127 71 181 minecraft:white_terracotta strict
-fill 124 71 190 127 71 190 minecraft:white_terracotta strict
-fill 129 71 181 132 71 181 minecraft:white_terracotta strict
-fill 129 71 190 132 71 190 minecraft:white_terracotta strict
-fill 134 70 96 134 71 96 minecraft:white_terracotta strict
-fill 134 70 98 134 71 98 minecraft:white_terracotta strict
-fill 134 69 100 134 71 100 minecraft:white_terracotta strict
-fill 135 70 95 135 71 95 minecraft:white_terracotta strict
-fill 135 70 101 135 71 101 minecraft:white_terracotta strict
-fill 137 70 95 137 71 95 minecraft:white_terracotta strict
-fill 137 70 101 137 71 101 minecraft:white_terracotta strict
-fill 139 70 95 139 71 95 minecraft:white_terracotta strict
-fill 139 70 101 139 71 101 minecraft:white_terracotta strict
-fill 141 70 95 141 71 95 minecraft:white_terracotta strict
-fill 141 70 101 141 71 101 minecraft:white_terracotta strict
-fill 143 69 95 144 71 95 minecraft:white_terracotta strict
-fill 143 69 101 144 71 101 minecraft:white_terracotta strict
-fill 150 70 171 150 71 171 minecraft:white_terracotta strict
-fill 150 70 173 150 71 173 minecraft:white_terracotta strict
-fill 150 70 175 150 71 175 minecraft:white_terracotta strict
-fill 150 70 177 150 71 177 minecraft:white_terracotta strict
-fill 150 69 179 150 71 179 minecraft:white_terracotta strict
-fill 151 70 170 151 71 170 minecraft:white_terracotta strict
-fill 151 69 180 151 71 180 minecraft:white_terracotta strict
-fill 153 70 170 153 71 170 minecraft:white_terracotta strict
-fill 153 69 180 153 71 180 minecraft:white_terracotta strict
-fill 155 70 170 155 71 170 minecraft:white_terracotta strict
-fill 157 70 170 157 71 170 minecraft:white_terracotta strict
-fill 159 69 170 160 71 170 minecraft:white_terracotta strict
-fill 159 69 180 160 71 180 minecraft:white_terracotta strict
-fill 161 70 171 161 71 171 minecraft:white_terracotta strict
-fill 161 70 173 161 71 173 minecraft:white_terracotta strict
-fill 161 70 175 161 71 175 minecraft:white_terracotta strict
-fill 161 70 177 161 71 177 minecraft:white_terracotta strict
-fill 161 69 179 161 71 179 minecraft:white_terracotta strict
-fill 180 70 109 180 71 109 minecraft:white_terracotta strict
-fill 180 70 111 180 71 111 minecraft:white_terracotta strict
-fill 180 70 113 180 71 113 minecraft:white_terracotta strict
-fill 180 70 115 180 71 115 minecraft:white_terracotta strict
-fill 181 70 108 181 71 108 minecraft:white_terracotta strict
-fill 181 70 116 181 71 116 minecraft:white_terracotta strict
-fill 183 70 108 183 71 108 minecraft:white_terracotta strict
-fill 183 70 116 183 71 116 minecraft:white_terracotta strict
-fill 185 70 108 185 71 108 minecraft:white_terracotta strict
-fill 185 70 116 185 71 116 minecraft:white_terracotta strict
-fill 187 70 108 187 71 108 minecraft:white_terracotta strict
-fill 187 70 116 187 71 116 minecraft:white_terracotta strict
-fill 189 70 108 189 71 108 minecraft:white_terracotta strict
-fill 189 70 116 189 71 116 minecraft:white_terracotta strict
-fill 191 70 108 191 71 108 minecraft:white_terracotta strict
-fill 191 70 116 191 71 116 minecraft:white_terracotta strict
-fill 192 70 109 192 71 109 minecraft:white_terracotta strict
-fill 192 70 111 192 71 111 minecraft:white_terracotta strict
-fill 192 70 113 192 71 113 minecraft:white_terracotta strict
-fill 192 70 115 192 71 115 minecraft:white_terracotta strict
-fill 193 70 185 194 71 185 minecraft:white_terracotta strict
-fill 193 70 186 193 71 187 minecraft:white_terracotta strict
-fill 194 70 184 195 71 184 minecraft:white_terracotta strict
-fill 194 70 187 194 71 188 minecraft:white_terracotta strict
-fill 195 70 183 197 71 183 minecraft:white_terracotta strict
-fill 195 70 188 195 71 189 minecraft:white_terracotta strict
-fill 196 70 189 197 71 189 minecraft:white_terracotta strict
-fill 197 70 184 198 71 184 minecraft:white_terracotta strict
-fill 197 70 188 198 71 188 minecraft:white_terracotta strict
-fill 198 70 185 199 71 185 minecraft:white_terracotta strict
-fill 198 70 187 199 71 187 minecraft:white_terracotta strict
-fill 199 70 109 199 71 109 minecraft:white_terracotta strict
-fill 199 70 111 199 71 111 minecraft:white_terracotta strict
-fill 199 70 113 199 71 113 minecraft:white_terracotta strict
-fill 199 70 115 199 71 115 minecraft:white_terracotta strict
-fill 199 70 186 199 71 186 minecraft:white_terracotta strict
-fill 200 70 108 200 71 108 minecraft:white_terracotta strict
-fill 200 70 116 200 71 116 minecraft:white_terracotta strict
-fill 202 70 108 202 71 108 minecraft:white_terracotta strict
-fill 202 70 116 202 71 116 minecraft:white_terracotta strict
-fill 204 69 108 205 71 108 minecraft:white_terracotta strict
-fill 204 69 116 205 71 116 minecraft:white_terracotta strict
-fill 206 69 109 206 71 109 minecraft:white_terracotta strict
-fill 206 69 111 206 71 111 minecraft:white_terracotta strict
-fill 125 72 181 127 72 181 minecraft:white_terracotta strict
-fill 125 72 190 127 72 190 minecraft:white_terracotta strict
-fill 129 72 181 131 72 181 minecraft:white_terracotta strict
-fill 129 72 190 131 72 190 minecraft:white_terracotta strict
-fill 52 73 126 55 73 126 minecraft:white_terracotta strict
-fill 52 73 134 55 73 134 minecraft:white_terracotta strict
-fill 54 73 185 57 73 185 minecraft:white_terracotta strict
-fill 54 73 196 57 73 196 minecraft:white_terracotta strict
-fill 58 73 126 61 73 126 minecraft:white_terracotta strict
-fill 58 73 134 61 73 134 minecraft:white_terracotta strict
-fill 59 73 185 62 73 185 minecraft:white_terracotta strict
-fill 59 73 196 62 73 196 minecraft:white_terracotta strict
-fill 63 73 186 63 73 188 minecraft:white_terracotta strict
-fill 63 73 190 63 73 192 minecraft:white_terracotta strict
-fill 64 73 185 66 73 185 minecraft:white_terracotta strict
-fill 64 73 196 66 73 196 minecraft:white_terracotta strict
-fill 68 73 185 70 73 185 minecraft:white_terracotta strict
-fill 68 73 196 70 73 196 minecraft:white_terracotta strict
-fill 71 73 186 71 73 188 minecraft:white_terracotta strict
-fill 71 73 190 71 73 192 minecraft:white_terracotta strict
-fill 95 73 192 95 73 194 minecraft:white_terracotta strict
-fill 96 73 191 98 73 191 minecraft:white_terracotta strict
-fill 96 73 196 98 73 196 minecraft:white_terracotta strict
-fill 101 73 192 101 73 194 minecraft:white_terracotta strict
-fill 117 73 181 117 73 184 minecraft:white_terracotta strict
-fill 117 73 187 117 73 190 minecraft:white_terracotta strict
-fill 126 73 181 127 73 181 minecraft:white_terracotta strict
-fill 126 73 190 127 73 190 minecraft:white_terracotta strict
-fill 129 73 181 130 73 181 minecraft:white_terracotta strict
-fill 129 73 190 130 73 190 minecraft:white_terracotta strict
-fill 134 73 95 134 73 97 minecraft:white_terracotta strict
-fill 134 73 99 134 73 101 minecraft:white_terracotta strict
-fill 145 73 95 145 73 96 minecraft:white_terracotta strict
-fill 145 73 99 145 73 100 minecraft:white_terracotta strict
-fill 150 73 170 150 73 174 minecraft:white_terracotta strict
-fill 150 73 176 150 73 180 minecraft:white_terracotta strict
-fill 161 73 170 161 73 174 minecraft:white_terracotta strict
-fill 161 73 176 161 73 180 minecraft:white_terracotta strict
-fill 180 73 108 180 73 111 minecraft:white_terracotta strict
-fill 180 73 113 180 73 116 minecraft:white_terracotta strict
-fill 192 73 108 192 73 111 minecraft:white_terracotta strict
-fill 192 73 113 192 73 116 minecraft:white_terracotta strict
-fill 199 73 108 201 73 108 minecraft:white_terracotta strict
-fill 199 73 116 201 73 116 minecraft:white_terracotta strict
-fill 204 73 108 206 73 108 minecraft:white_terracotta strict
-fill 204 73 116 206 73 116 minecraft:white_terracotta strict
-fill 53 74 126 55 74 126 minecraft:white_terracotta strict
-fill 53 74 134 55 74 134 minecraft:white_terracotta strict
-fill 55 74 185 57 74 185 minecraft:white_terracotta strict
-fill 55 74 196 57 74 196 minecraft:white_terracotta strict
-fill 58 74 126 60 74 126 minecraft:white_terracotta strict
-fill 58 74 134 60 74 134 minecraft:white_terracotta strict
-fill 59 74 185 61 74 185 minecraft:white_terracotta strict
-fill 59 74 196 61 74 196 minecraft:white_terracotta strict
-setblock 71 74 186 minecraft:white_terracotta strict
-fill 71 73 194 71 74 195 minecraft:white_terracotta strict
-fill 107 74 182 107 74 184 minecraft:white_terracotta strict
-fill 107 74 187 107 74 189 minecraft:white_terracotta strict
-fill 117 74 182 117 74 184 minecraft:white_terracotta strict
-fill 117 74 187 117 74 189 minecraft:white_terracotta strict
-setblock 127 74 181 minecraft:white_terracotta strict
-setblock 127 74 190 minecraft:white_terracotta strict
-setblock 129 74 181 minecraft:white_terracotta strict
-setblock 129 74 190 minecraft:white_terracotta strict
-fill 134 74 96 134 74 97 minecraft:white_terracotta strict
-fill 134 74 99 134 74 100 minecraft:white_terracotta strict
-setblock 145 74 96 minecraft:white_terracotta strict
-fill 150 74 171 150 74 174 minecraft:white_terracotta strict
-fill 150 74 176 150 74 179 minecraft:white_terracotta strict
-fill 161 74 171 161 74 174 minecraft:white_terracotta strict
-fill 161 74 176 161 74 179 minecraft:white_terracotta strict
-fill 180 74 109 180 74 111 minecraft:white_terracotta strict
-fill 180 74 113 180 74 115 minecraft:white_terracotta strict
-fill 192 74 109 192 74 111 minecraft:white_terracotta strict
-fill 192 74 113 192 74 115 minecraft:white_terracotta strict
-fill 193 73 185 194 74 185 minecraft:white_terracotta strict
-fill 193 73 186 193 74 187 minecraft:white_terracotta strict
-fill 194 73 184 195 74 184 minecraft:white_terracotta strict
-fill 194 73 187 194 74 188 minecraft:white_terracotta strict
-fill 195 73 183 197 74 183 minecraft:white_terracotta strict
-fill 195 73 188 195 74 189 minecraft:white_terracotta strict
-fill 196 73 189 197 74 189 minecraft:white_terracotta strict
-fill 197 73 184 198 74 184 minecraft:white_terracotta strict
-fill 197 73 188 198 74 188 minecraft:white_terracotta strict
-fill 198 73 185 199 74 185 minecraft:white_terracotta strict
-fill 198 73 187 199 74 187 minecraft:white_terracotta strict
-fill 199 73 186 199 74 186 minecraft:white_terracotta strict
-fill 200 74 108 201 74 108 minecraft:white_terracotta strict
-fill 200 74 116 201 74 116 minecraft:white_terracotta strict
-fill 204 74 108 205 74 108 minecraft:white_terracotta strict
-fill 204 74 116 205 74 116 minecraft:white_terracotta strict
-fill 54 75 126 55 75 126 minecraft:white_terracotta strict
-fill 54 75 134 55 75 134 minecraft:white_terracotta strict
-fill 56 75 185 57 75 185 minecraft:white_terracotta strict
-fill 56 75 196 57 75 196 minecraft:white_terracotta strict
-fill 58 75 126 59 75 126 minecraft:white_terracotta strict
-fill 58 75 134 59 75 134 minecraft:white_terracotta strict
-fill 59 75 185 60 75 185 minecraft:white_terracotta strict
-fill 59 75 196 60 75 196 minecraft:white_terracotta strict
-fill 63 74 186 63 75 186 minecraft:white_terracotta strict
-fill 63 74 188 63 75 188 minecraft:white_terracotta strict
-fill 63 74 190 63 75 190 minecraft:white_terracotta strict
-fill 63 74 192 63 75 192 minecraft:white_terracotta strict
-fill 63 73 194 63 75 195 minecraft:white_terracotta strict
-fill 64 74 185 64 75 185 minecraft:white_terracotta strict
-fill 64 74 196 64 75 196 minecraft:white_terracotta strict
-fill 66 74 185 66 75 185 minecraft:white_terracotta strict
-fill 66 74 196 66 75 196 minecraft:white_terracotta strict
-fill 68 74 185 68 75 185 minecraft:white_terracotta strict
-fill 68 74 196 68 75 196 minecraft:white_terracotta strict
-fill 70 74 185 70 75 185 minecraft:white_terracotta strict
-fill 70 74 196 70 75 196 minecraft:white_terracotta strict
-fill 71 74 188 71 75 188 minecraft:white_terracotta strict
-fill 71 74 190 71 75 190 minecraft:white_terracotta strict
-fill 71 74 192 71 75 192 minecraft:white_terracotta strict
-setblock 71 75 194 minecraft:white_terracotta strict
-fill 95 74 192 95 75 192 minecraft:white_terracotta strict
-fill 95 74 194 95 75 194 minecraft:white_terracotta strict
-fill 96 74 191 96 75 191 minecraft:white_terracotta strict
-fill 96 74 196 96 75 196 minecraft:white_terracotta strict
-fill 98 74 191 98 75 191 minecraft:white_terracotta strict
-fill 98 74 196 98 75 196 minecraft:white_terracotta strict
-fill 100 73 191 100 75 191 minecraft:white_terracotta strict
-fill 100 73 196 100 75 196 minecraft:white_terracotta strict
-fill 101 74 192 101 75 192 minecraft:white_terracotta strict
-fill 101 74 194 101 75 194 minecraft:white_terracotta strict
-fill 107 75 183 107 75 184 minecraft:white_terracotta strict
-fill 107 75 187 107 75 188 minecraft:white_terracotta strict
-fill 117 75 183 117 75 184 minecraft:white_terracotta strict
-fill 117 75 187 117 75 188 minecraft:white_terracotta strict
-setblock 134 75 97 minecraft:white_terracotta strict
-setblock 134 75 99 minecraft:white_terracotta strict
-setblock 145 75 97 minecraft:white_terracotta strict
-fill 145 74 99 145 75 99 minecraft:white_terracotta strict
-fill 150 75 172 150 75 174 minecraft:white_terracotta strict
-fill 150 75 176 150 75 178 minecraft:white_terracotta strict
-fill 161 75 172 161 75 174 minecraft:white_terracotta strict
-fill 161 75 176 161 75 178 minecraft:white_terracotta strict
-fill 180 75 110 180 75 111 minecraft:white_terracotta strict
-fill 180 75 113 180 75 114 minecraft:white_terracotta strict
-fill 192 75 110 192 75 111 minecraft:white_terracotta strict
-fill 192 75 113 192 75 114 minecraft:white_terracotta strict
-fill 194 75 185 195 75 185 minecraft:white_terracotta strict
-fill 194 75 186 194 75 187 minecraft:white_terracotta strict
-fill 195 75 184 197 75 184 minecraft:white_terracotta strict
-fill 195 75 187 195 75 188 minecraft:white_terracotta strict
-fill 196 75 188 197 75 188 minecraft:white_terracotta strict
-fill 197 75 185 198 75 185 minecraft:white_terracotta strict
-fill 197 75 187 198 75 187 minecraft:white_terracotta strict
-setblock 198 75 186 minecraft:white_terracotta strict
-setblock 201 75 108 minecraft:white_terracotta strict
-setblock 201 75 116 minecraft:white_terracotta strict
-setblock 204 75 108 minecraft:white_terracotta strict
-setblock 204 75 116 minecraft:white_terracotta strict
-setblock 55 76 126 minecraft:white_terracotta strict
-setblock 55 76 134 minecraft:white_terracotta strict
-setblock 57 76 185 minecraft:white_terracotta strict
-setblock 57 76 196 minecraft:white_terracotta strict
-setblock 58 76 126 minecraft:white_terracotta strict
-setblock 58 76 134 minecraft:white_terracotta strict
-setblock 59 76 185 minecraft:white_terracotta strict
-setblock 59 76 196 minecraft:white_terracotta strict
-setblock 107 76 184 minecraft:white_terracotta strict
-setblock 107 76 187 minecraft:white_terracotta strict
-setblock 117 76 184 minecraft:white_terracotta strict
-setblock 117 76 187 minecraft:white_terracotta strict
-fill 150 76 173 150 76 174 minecraft:white_terracotta strict
-fill 150 76 176 150 76 177 minecraft:white_terracotta strict
-fill 161 76 173 161 76 174 minecraft:white_terracotta strict
-fill 161 76 176 161 76 177 minecraft:white_terracotta strict
-setblock 180 76 111 minecraft:white_terracotta strict
-setblock 180 76 113 minecraft:white_terracotta strict
-setblock 192 76 111 minecraft:white_terracotta strict
-setblock 192 76 113 minecraft:white_terracotta strict
-fill 63 77 185 63 77 189 minecraft:white_terracotta strict
-fill 63 77 192 63 77 196 minecraft:white_terracotta strict
-fill 71 77 185 71 77 187 minecraft:white_terracotta strict
-setblock 71 77 189 minecraft:white_terracotta strict
-setblock 71 77 192 minecraft:white_terracotta strict
-fill 71 77 194 71 77 196 minecraft:white_terracotta strict
-fill 95 77 191 97 77 191 minecraft:white_terracotta strict
-fill 95 77 196 97 77 196 minecraft:white_terracotta strict
-fill 99 77 191 101 77 191 minecraft:white_terracotta strict
-fill 99 77 196 101 77 196 minecraft:white_terracotta strict
-setblock 150 77 174 minecraft:white_terracotta strict
-setblock 150 77 176 minecraft:white_terracotta strict
-setblock 161 77 174 minecraft:white_terracotta strict
-setblock 161 77 176 minecraft:white_terracotta strict
-fill 63 78 186 63 78 189 minecraft:white_terracotta strict
-fill 63 78 192 63 78 195 minecraft:white_terracotta strict
-fill 71 78 186 71 78 188 minecraft:white_terracotta strict
-fill 71 78 193 71 78 195 minecraft:white_terracotta strict
-fill 96 78 191 97 78 191 minecraft:white_terracotta strict
-fill 96 78 196 97 78 196 minecraft:white_terracotta strict
-fill 99 78 191 100 78 191 minecraft:white_terracotta strict
-fill 99 78 196 100 78 196 minecraft:white_terracotta strict
-fill 194 77 185 195 78 185 minecraft:white_terracotta strict
-fill 194 77 186 194 78 187 minecraft:white_terracotta strict
-fill 195 77 184 197 78 184 minecraft:white_terracotta strict
-fill 195 77 187 195 78 188 minecraft:white_terracotta strict
-fill 196 77 188 197 78 188 minecraft:white_terracotta strict
-fill 197 77 185 198 78 185 minecraft:white_terracotta strict
-fill 197 77 187 198 78 187 minecraft:white_terracotta strict
-fill 198 77 186 198 78 186 minecraft:white_terracotta strict
-fill 63 79 187 63 79 189 minecraft:white_terracotta strict
-fill 63 79 192 63 79 194 minecraft:white_terracotta strict
-fill 71 79 187 71 79 189 minecraft:white_terracotta strict
-fill 71 79 192 71 79 194 minecraft:white_terracotta strict
-setblock 97 79 191 minecraft:white_terracotta strict
-setblock 97 79 196 minecraft:white_terracotta strict
-setblock 99 79 191 minecraft:white_terracotta strict
-setblock 99 79 196 minecraft:white_terracotta strict
-fill 63 80 188 63 80 189 minecraft:white_terracotta strict
-fill 63 80 192 63 80 193 minecraft:white_terracotta strict
-fill 71 80 188 71 80 189 minecraft:white_terracotta strict
-fill 71 80 192 71 80 193 minecraft:white_terracotta strict
-setblock 63 81 189 minecraft:white_terracotta strict
-setblock 63 81 192 minecraft:white_terracotta strict
-setblock 71 81 189 minecraft:white_terracotta strict
-setblock 71 81 192 minecraft:white_terracotta strict
-setblock 41 67 118 minecraft:white_wool strict
-setblock 44 67 124 minecraft:white_wool strict
-setblock 57 67 118 minecraft:white_wool strict
-fill 60 67 124 60 67 125 minecraft:white_wool strict
-fill 73 67 117 73 67 118 minecraft:white_wool strict
-setblock 76 67 124 minecraft:white_wool strict
-fill 89 67 117 89 67 118 minecraft:white_wool strict
-fill 92 67 124 92 67 125 minecraft:white_wool strict
-setblock 189 70 182 minecraft:white_wool strict
-setblock 203 70 182 minecraft:white_wool strict
-setblock 190 71 182 minecraft:white_wool strict
-setblock 202 71 182 minecraft:white_wool strict
-setblock 191 72 182 minecraft:white_wool strict
-setblock 201 72 182 minecraft:white_wool strict
-setblock 192 73 182 minecraft:white_wool strict
-setblock 200 73 182 minecraft:white_wool strict
-setblock 193 74 182 minecraft:white_wool strict
-setblock 199 74 182 minecraft:white_wool strict
 bossbar set rufu:build value 89
 schedule function rufu:build/p89 1t

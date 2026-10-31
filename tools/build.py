@@ -18,7 +18,7 @@ from core import F, fn, call, sub  # noqa: E402
 import system                     # noqa: E402
 from system import Step, add_step, STEPS, emit_steps, emit_gm_list  # noqa: E402
 import mission                    # noqa: E402
-import m1, m2, m3, m4, wed        # noqa: E402
+import m1, m2, m3, m4, wed, hall  # noqa: E402
 from mc import T, snbt, click_cmd  # noqa: E402
 
 ROOT = os.path.dirname(HERE)
@@ -145,8 +145,8 @@ def setup_and_menu(n_parts):
        tellraw("@s", T("主人公＝ドッキリのターゲット(1人)／助っ人＝協力プレイヤー(2人)／GM＝るふ（リモコン操作）", color="gray")),
        tellraw("@s", T("※ひとりでテストするときは、GMのまま自分を[主人公]にしてもOK", color="dark_gray")),
        f"execute as @a run {call('menu/line')}",
-       tellraw("@s", click_cmd(T("[✅ 準備完了 → スタート地点へ]", color="green", bold=True), "/function rufu:show/prepare",
-                               T("全員を主人公の家の前に集めて、最初の状態にします")), " ",
+       tellraw("@s", click_cmd(T("[✅ 準備完了 → 選択ホールへ（start）]", color="green", bold=True), "/function rufu:start",
+                               T("全員を選択ホールに集めて、最初の状態（段階0）にします")), " ",
                click_cmd(T("[🔄 一覧を更新]", color="aqua"), "/function rufu:menu/list")))
     fn("menu/newid", sadd("#nextid", 1), "scoreboard players operation @s rufu.id = #nextid rufu")
     fn("menu/line",
@@ -172,6 +172,7 @@ def setup_and_menu(n_parts):
        tellraw("@a[tag=rufu_gm]", T("🎮 GM：", color="gold"), {"selector": "@s"}))
     fn("role/r0", *clr, "tag @s remove rufu_gm", tellraw("@a[tag=rufu_gm]", T("— 外した：", color="gray"), {"selector": "@s"}))
 
+    fn("start", call("show/prepare"))
     fn("show/prepare",
        f"execute unless score #built rufu matches 1 run tellraw @s {snbt(T('⚠ 先に /function rufu:setup で町を建設してください', color='red'))}",
        f"execute unless entity @a[tag=rufu_hero] run tellraw @s {snbt(T('⚠ 主人公が設定されていません（テストなら自分を主人公にしてもOK）', color='yellow'))}",
@@ -182,7 +183,7 @@ def setup_and_menu(n_parts):
        f"data modify storage rufu:hud next set value {q('1. ' + STEPS[1].label)}",
        "kill @e[tag=rufu_npc]", "kill @e[tag=rufu_npcpart]", "kill @e[tag=rufu_mob]", "kill @e[tag=rufu_mob4]",
        "kill @e[tag=rufu_fox]", "kill @e[tag=rufu_ask]", "kill @e[tag=rufu_rules]", "kill @e[tag=rufu_pig]",
-       "kill @e[tag=rufu_ghast]", "kill @e[tag=rufu_seat]", "kill @e[type=marker,tag=rufu_wpm]", "kill @e[type=marker,tag=rufu_m4m]",
+       "kill @e[tag=rufu_ghast]", "kill @e[tag=rufu_seat]", "kill @e[tag=rufu_sel]", "clear @a minecraft:name_tag", "kill @e[type=marker,tag=rufu_wpm]", "kill @e[type=marker,tag=rufu_m4m]",
        "kill @e[type=interaction,tag=rufu_click]", "kill @e[type=item,tag=rufu_ringitem]",
        *[c for c in [
            "team leave @a",
@@ -196,11 +197,10 @@ def setup_and_menu(n_parts):
        *mission.clear_mission_items(),
        *unfreeze(),
        call("hud/hide"),
-       f"tp @a[tag=rufu_p] {M1_START[0]} {M1_START[1]} {M1_START[2]} 180 0",
-       f"spawnpoint @a[tag=rufu_p] {int(M1_START[0])} 65 {int(M1_START[2])}",
+       *hall.setup_hall(),
        call("m1/reset"),
        call("m1/db/up"),
-       tellraw("@a[tag=rufu_gm]", T("✅ 準備OK！ 緑のリモコン「▶ 次へ」でオープニング開始。", color="green", bold=True)),
+       tellraw("@a[tag=rufu_gm]", T("✅ 準備OK！ 選択ホールで待機中（段階0）。説明・雑談が終わったら 緑のリモコン「▶ 次へ」でタイトル→ヒロイン選択。", color="green", bold=True)),
        tellraw("@a[tag=rufu_gm]", T("   GMパネル：", color="gray"), click_cmd(T("[開く]", color="aqua", underlined=True), "/function rufu:gm/panel")))
 
 
@@ -219,6 +219,7 @@ def predicates():
         "hold_cake": hold("minecraft:cake"),
         "hold_meat": hold(["minecraft:cooked_beef", "minecraft:cooked_porkchop"]),
         "hold_berries": hold("minecraft:sweet_berries"),
+        "hold_nametag": hold("minecraft:name_tag"),
     }
     return P
 
@@ -244,7 +245,9 @@ def generate():
     m3.build_m3(top_y)
     m4.build_m4()
     wed.build_music()
+    hall.build_hall_logic()
     # steps in order
+    hall.hall_steps()
     m1.opening_steps()
     m1.m1_steps()
     m2.m2_steps()

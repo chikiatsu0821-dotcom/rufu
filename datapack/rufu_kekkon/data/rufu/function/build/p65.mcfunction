@@ -1,84 +1,3 @@
-fill 107 64 116 108 64 116 minecraft:cobblestone strict
-setblock 107 64 119 minecraft:cobblestone strict
-setblock 107 64 126 minecraft:cobblestone strict
-setblock 107 64 137 minecraft:cobblestone strict
-fill 107 64 148 108 64 148 minecraft:cobblestone strict
-fill 107 64 181 117 64 181 minecraft:cobblestone strict
-fill 107 64 182 107 64 190 minecraft:cobblestone strict
-setblock 108 64 92 minecraft:cobblestone strict
-fill 108 64 124 108 64 125 minecraft:cobblestone strict
-fill 108 64 190 134 64 190 minecraft:cobblestone strict
-setblock 109 64 105 minecraft:cobblestone strict
-fill 109 64 108 109 64 109 minecraft:cobblestone strict
-setblock 109 64 114 minecraft:cobblestone strict
-setblock 109 64 120 minecraft:cobblestone strict
-setblock 109 64 129 minecraft:cobblestone strict
-setblock 109 64 149 minecraft:cobblestone strict
-setblock 109 64 202 minecraft:cobblestone strict
-setblock 110 64 94 minecraft:cobblestone strict
-setblock 110 64 107 minecraft:cobblestone strict
-setblock 110 64 109 minecraft:cobblestone strict
-setblock 110 64 111 minecraft:cobblestone strict
-setblock 110 64 115 minecraft:cobblestone strict
-setblock 110 64 121 minecraft:cobblestone strict
-fill 110 64 126 110 64 127 minecraft:cobblestone strict
-setblock 110 64 150 minecraft:cobblestone strict
-fill 110 64 201 111 64 201 minecraft:cobblestone strict
-setblock 111 64 91 minecraft:cobblestone strict
-fill 111 64 103 112 64 103 minecraft:cobblestone strict
-setblock 111 64 105 minecraft:cobblestone strict
-setblock 111 64 137 minecraft:cobblestone strict
-fill 111 64 197 111 64 198 minecraft:cobblestone strict
-setblock 111 64 203 minecraft:cobblestone strict
-fill 112 64 90 113 64 90 minecraft:cobblestone strict
-fill 112 64 93 113 64 93 minecraft:cobblestone strict
-setblock 112 64 112 minecraft:cobblestone strict
-fill 112 64 133 113 64 133 minecraft:cobblestone strict
-setblock 112 64 134 minecraft:cobblestone strict
-setblock 113 64 110 minecraft:cobblestone strict
-setblock 113 64 131 minecraft:cobblestone strict
-setblock 113 64 136 minecraft:cobblestone strict
-fill 113 64 148 113 64 150 minecraft:cobblestone strict
-setblock 114 64 102 minecraft:cobblestone strict
-setblock 114 64 138 minecraft:cobblestone strict
-setblock 115 64 104 minecraft:cobblestone strict
-setblock 115 64 106 minecraft:cobblestone strict
-fill 115 64 136 116 64 136 minecraft:cobblestone strict
-fill 116 64 103 117 64 103 minecraft:cobblestone strict
-fill 117 64 92 117 64 93 minecraft:cobblestone strict
-setblock 117 64 106 minecraft:cobblestone strict
-fill 117 64 139 118 64 139 minecraft:cobblestone strict
-fill 117 64 182 123 64 189 minecraft:cobblestone strict
-setblock 118 64 137 minecraft:cobblestone strict
-setblock 118 64 150 minecraft:cobblestone strict
-fill 118 64 164 118 64 165 minecraft:cobblestone strict
-fill 118 64 177 118 64 180 minecraft:cobblestone strict
-setblock 119 64 93 minecraft:cobblestone strict
-setblock 119 64 102 minecraft:cobblestone strict
-setblock 119 64 104 minecraft:cobblestone strict
-setblock 119 64 106 minecraft:cobblestone strict
-setblock 119 64 140 minecraft:cobblestone strict
-setblock 119 64 149 minecraft:cobblestone strict
-fill 119 64 165 126 64 165 minecraft:cobblestone strict
-setblock 119 64 166 minecraft:cobblestone strict
-fill 119 64 179 120 64 179 minecraft:cobblestone strict
-setblock 119 64 180 minecraft:cobblestone strict
-fill 120 64 163 124 64 163 minecraft:cobblestone strict
-fill 120 64 177 123 64 177 minecraft:cobblestone strict
-setblock 121 64 102 minecraft:cobblestone strict
-fill 121 64 137 121 64 138 minecraft:cobblestone strict
-fill 121 64 148 122 64 148 minecraft:cobblestone strict
-fill 121 64 151 123 64 151 minecraft:cobblestone strict
-fill 121 64 178 122 64 178 minecraft:cobblestone strict
-setblock 122 64 91 minecraft:cobblestone strict
-fill 122 64 139 122 64 140 minecraft:cobblestone strict
-fill 122 64 152 124 64 152 minecraft:cobblestone strict
-fill 122 64 153 123 64 153 minecraft:cobblestone strict
-fill 122 64 166 123 64 166 minecraft:cobblestone strict
-setblock 123 64 92 minecraft:cobblestone strict
-fill 123 64 95 124 64 95 minecraft:cobblestone strict
-setblock 123 64 98 minecraft:cobblestone strict
-setblock 123 64 100 minecraft:cobblestone strict
 setblock 123 64 138 minecraft:cobblestone strict
 fill 123 64 141 123 64 142 minecraft:cobblestone strict
 setblock 123 64 145 minecraft:cobblestone strict
@@ -1198,5 +1117,86 @@ fill 152 69 106 152 71 106 minecraft:dark_oak_log[axis=y] strict
 fill 152 69 115 152 71 115 minecraft:dark_oak_log[axis=y] strict
 fill 154 69 95 154 71 95 minecraft:dark_oak_log[axis=y] strict
 fill 154 69 104 154 71 104 minecraft:dark_oak_log[axis=y] strict
+fill 154 69 138 154 71 138 minecraft:dark_oak_log[axis=y] strict
+fill 154 69 147 154 71 147 minecraft:dark_oak_log[axis=y] strict
+fill 154 69 151 154 71 151 minecraft:dark_oak_log[axis=y] strict
+fill 154 69 160 154 71 160 minecraft:dark_oak_log[axis=y] strict
+fill 156 69 106 157 71 106 minecraft:dark_oak_log[axis=y] strict
+fill 156 69 115 157 71 115 minecraft:dark_oak_log[axis=y] strict
+fill 157 69 99 157 71 99 minecraft:dark_oak_log[axis=y] strict
+fill 157 69 103 157 71 104 minecraft:dark_oak_log[axis=y] strict
+fill 157 69 110 157 71 110 minecraft:dark_oak_log[axis=y] strict
+fill 157 69 114 157 71 114 minecraft:dark_oak_log[axis=y] strict
+fill 157 69 142 157 71 142 minecraft:dark_oak_log[axis=y] strict
+fill 157 69 146 157 71 147 minecraft:dark_oak_log[axis=y] strict
+fill 158 69 151 158 71 151 minecraft:dark_oak_log[axis=y] strict
+fill 158 69 160 158 71 160 minecraft:dark_oak_log[axis=y] strict
+fill 161 69 155 161 71 155 minecraft:dark_oak_log[axis=y] strict
+fill 161 69 159 161 71 160 minecraft:dark_oak_log[axis=y] strict
+fill 207 69 112 207 71 112 minecraft:dark_oak_log[axis=y] strict
+fill 211 69 108 211 71 108 minecraft:dark_oak_log[axis=y] strict
+fill 211 69 116 211 71 116 minecraft:dark_oak_log[axis=y] strict
+fill 215 69 108 215 71 108 minecraft:dark_oak_log[axis=y] strict
+fill 215 69 116 215 71 116 minecraft:dark_oak_log[axis=y] strict
+fill 219 69 108 220 71 108 minecraft:dark_oak_log[axis=y] strict
+fill 219 69 116 220 71 116 minecraft:dark_oak_log[axis=y] strict
+fill 220 69 112 220 71 112 minecraft:dark_oak_log[axis=y] strict
+fill 35 65 138 35 72 138 minecraft:dark_oak_log[axis=y] strict
+fill 35 65 144 35 72 144 minecraft:dark_oak_log[axis=y] strict
+fill 35 65 162 35 72 162 minecraft:dark_oak_log[axis=y] strict
+fill 35 65 173 35 72 173 minecraft:dark_oak_log[axis=y] strict
+fill 42 65 162 42 72 162 minecraft:dark_oak_log[axis=y] strict
+fill 42 65 173 42 72 173 minecraft:dark_oak_log[axis=y] strict
+setblock 48 72 138 minecraft:dark_oak_log[axis=y] strict
+setblock 48 72 144 minecraft:dark_oak_log[axis=y] strict
+fill 62 65 138 62 72 138 minecraft:dark_oak_log[axis=y] strict
+setblock 62 72 147 minecraft:dark_oak_log[axis=y] strict
+fill 65 65 105 65 72 105 minecraft:dark_oak_log[axis=y] strict
+fill 65 65 116 65 72 116 minecraft:dark_oak_log[axis=y] strict
+fill 72 65 138 73 72 138 minecraft:dark_oak_log[axis=y] strict
+fill 72 72 147 73 72 147 minecraft:dark_oak_log[axis=y] strict
+fill 75 65 105 75 72 105 minecraft:dark_oak_log[axis=y] strict
+fill 75 65 116 75 72 116 minecraft:dark_oak_log[axis=y] strict
+fill 84 65 138 84 72 138 minecraft:dark_oak_log[axis=y] strict
+setblock 84 72 147 minecraft:dark_oak_log[axis=y] strict
+fill 99 65 106 99 72 106 minecraft:dark_oak_log[axis=y] strict
+setblock 99 72 115 minecraft:dark_oak_log[axis=y] strict
+fill 106 65 78 106 72 78 minecraft:dark_oak_log[axis=y] strict
+fill 106 65 89 106 72 89 minecraft:dark_oak_log[axis=y] strict
+setblock 108 72 106 minecraft:dark_oak_log[axis=y] strict
+setblock 108 72 115 minecraft:dark_oak_log[axis=y] strict
+fill 111 65 95 111 72 95 minecraft:dark_oak_log[axis=y] strict
+fill 111 65 101 111 72 101 minecraft:dark_oak_log[axis=y] strict
+fill 117 65 78 117 72 78 minecraft:dark_oak_log[axis=y] strict
+fill 117 65 89 117 72 89 minecraft:dark_oak_log[axis=y] strict
+fill 122 65 95 122 72 95 minecraft:dark_oak_log[axis=y] strict
+fill 122 65 101 122 72 101 minecraft:dark_oak_log[axis=y] strict
+setblock 146 72 104 minecraft:dark_oak_log[axis=y] strict
+setblock 146 72 147 minecraft:dark_oak_log[axis=y] strict
+setblock 148 72 115 minecraft:dark_oak_log[axis=y] strict
+fill 150 65 151 150 72 151 minecraft:dark_oak_log[axis=y] strict
+setblock 150 72 160 minecraft:dark_oak_log[axis=y] strict
+setblock 157 72 104 minecraft:dark_oak_log[axis=y] strict
+setblock 157 72 106 minecraft:dark_oak_log[axis=y] strict
+setblock 157 72 115 minecraft:dark_oak_log[axis=y] strict
+setblock 157 72 147 minecraft:dark_oak_log[axis=y] strict
+fill 161 65 151 161 72 151 minecraft:dark_oak_log[axis=y] strict
+setblock 161 72 160 minecraft:dark_oak_log[axis=y] strict
+fill 207 65 108 207 72 108 minecraft:dark_oak_log[axis=y] strict
+fill 207 65 116 207 72 116 minecraft:dark_oak_log[axis=y] strict
+setblock 220 72 108 minecraft:dark_oak_log[axis=y] strict
+setblock 220 72 116 minecraft:dark_oak_log[axis=y] strict
+fill 146 73 146 146 73 147 minecraft:dark_oak_log[axis=y] strict
+fill 155 73 160 156 73 160 minecraft:dark_oak_log[axis=y] strict
+fill 146 73 142 146 74 142 minecraft:dark_oak_log[axis=y] strict
+setblock 146 74 146 minecraft:dark_oak_log[axis=y] strict
+fill 146 73 99 146 75 99 minecraft:dark_oak_log[axis=y] strict
+fill 146 73 103 146 75 104 minecraft:dark_oak_log[axis=y] strict
+fill 148 73 110 148 75 110 minecraft:dark_oak_log[axis=y] strict
+fill 148 73 114 148 75 115 minecraft:dark_oak_log[axis=y] strict
+fill 150 73 95 150 75 95 minecraft:dark_oak_log[axis=y] strict
+fill 150 73 104 150 75 104 minecraft:dark_oak_log[axis=y] strict
+fill 150 73 138 150 75 138 minecraft:dark_oak_log[axis=y] strict
+fill 150 73 147 150 75 147 minecraft:dark_oak_log[axis=y] strict
 bossbar set rufu:build value 66
 schedule function rufu:build/p66 1t

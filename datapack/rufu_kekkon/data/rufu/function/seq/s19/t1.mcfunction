@@ -1,5 +1,4 @@
-execute as @a[tag=rufu_p] run attribute @s minecraft:movement_speed base set 0
-execute as @a[tag=rufu_p] run attribute @s minecraft:jump_strength base set 0
-title @a times 0 18 2
-title @a title {text:"3",color:"red",bold:true}
-execute as @a at @s run playsound minecraft:block.note_block.pling master @s ~ ~ ~ 1 0.8
+title @a times 10 50 10
+title @a subtitle {text:"",color:"white"}
+title @a title {text:"結果発表",color:"gold",bold:true}
+execute as @a at @s run playsound minecraft:ui.toast.challenge_complete master @s ~ ~ ~ 1 0.8

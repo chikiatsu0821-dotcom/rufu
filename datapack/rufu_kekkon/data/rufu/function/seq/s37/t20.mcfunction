@@ -1,0 +1,9 @@
+kill @e[tag=rufu_part_sakura]
+summon minecraft:mannequin 124.5 66 62.0 {profile:{texture:"entity/player/slim/alex",model:"slim"},CustomName:{text:"ヒロイン",color:"light_purple",bold:true},CustomNameVisible:true,hide_description:true,immovable:true,Invulnerable:true,Silent:true,Rotation:[0.0f,0.0f],Tags:["rufu_npc","rufu_look","rufu_clone","rufu_clone1","rufu_part_clones"],equipment:{chest:{id:"minecraft:leather_chestplate",count:1,components:{dyed_color:16033480}}}}
+data modify entity @e[type=mannequin,tag=rufu_clone1,limit=1] CustomName set from entity @e[type=marker,tag=rufu_namebox,limit=1] CustomName
+kill @e[tag=rufu_part_mio]
+summon minecraft:mannequin 128.5 66 62.0 {profile:{texture:"entity/player/slim/alex",model:"slim"},CustomName:{text:"ヒロイン",color:"light_purple",bold:true},CustomNameVisible:true,hide_description:true,immovable:true,Invulnerable:true,Silent:true,Rotation:[0.0f,0.0f],Tags:["rufu_npc","rufu_look","rufu_clone","rufu_clone2","rufu_part_clones"],equipment:{chest:{id:"minecraft:leather_chestplate",count:1,components:{dyed_color:16033480}}}}
+data modify entity @e[type=mannequin,tag=rufu_clone2,limit=1] CustomName set from entity @e[type=marker,tag=rufu_namebox,limit=1] CustomName
+kill @e[tag=rufu_part_hinata]
+summon minecraft:mannequin 132.5 66 62.0 {profile:{texture:"entity/player/slim/alex",model:"slim"},CustomName:{text:"ヒロイン",color:"light_purple",bold:true},CustomNameVisible:true,hide_description:true,immovable:true,Invulnerable:true,Silent:true,Rotation:[0.0f,0.0f],Tags:["rufu_npc","rufu_look","rufu_clone","rufu_clone3","rufu_part_clones"],equipment:{chest:{id:"minecraft:leather_chestplate",count:1,components:{dyed_color:16033480}}}}
+data modify entity @e[type=mannequin,tag=rufu_clone3,limit=1] CustomName set from entity @e[type=marker,tag=rufu_namebox,limit=1] CustomName

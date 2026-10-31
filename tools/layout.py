@@ -97,3 +97,18 @@ BARN = dict(x0=172, x1=186, z0=168, z1=184)
 import random as _r
 _pr = _r.Random(7)
 PIT_SURF = [[_pr.choice(["coarse_dirt", "packed_mud", "rooted_dirt"]) for r in range(5)] for c in range(8)]
+
+# ---------------------------------------------------------------- selection hall (prologue)
+HALL = dict(x0=14, x1=50, z0=220, z1=254, y0=64, y1=81)
+HALL_CX = 32
+STAGE = dict(x0=15, x1=49, z0=221, z1=229)          # top block y=65 -> stand 66
+HALL_GIRLS = [  # key, x, z, stand y
+    ("sakura", 23.5, 225.5, 66),
+    ("mio", 28.5, 225.5, 66),
+    ("hinata", 36.5, 225.5, 66),
+    ("q", 41.5, 225.5, 67),
+]
+HALL_PLAYERS = (32.5, 65, 246.5)
+HALL_ANVIL = (46, 65, 244)
+HALL_HEROINE = (32.5, 66, 226.5)
+NAMEBOX = (32.5, 70, 240.5)

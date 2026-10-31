@@ -23,7 +23,7 @@ forceload add 8 16 247 255
 kill @e[tag=rufu_deco]
 kill @e[tag=rufu_npc]
 kill @e[tag=rufu_npcpart]
-bossbar set rufu:build max 98
+bossbar set rufu:build max 99
 bossbar set rufu:build value 0
 bossbar set rufu:build players @a
 bossbar set rufu:build visible true

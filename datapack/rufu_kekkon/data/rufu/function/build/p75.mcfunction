@@ -1,100 +1,3 @@
-fill 197 95 86 198 95 86 minecraft:orange_poplar_leaves[persistent=true] strict
-fill 198 95 75 198 95 76 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 198 95 80 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 200 95 75 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 200 95 82 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 201 95 76 minecraft:orange_poplar_leaves[persistent=true] strict
-fill 201 95 78 202 95 78 minecraft:orange_poplar_leaves[persistent=true] strict
-fill 201 95 80 203 95 80 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 201 95 85 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 203 95 79 minecraft:orange_poplar_leaves[persistent=true] strict
-fill 188 96 76 189 96 76 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 188 96 80 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 189 96 79 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 189 96 81 minecraft:orange_poplar_leaves[persistent=true] strict
-fill 190 96 74 190 96 75 minecraft:orange_poplar_leaves[persistent=true] strict
-fill 190 96 82 190 96 84 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 191 96 83 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 191 96 85 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 192 96 74 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 192 96 82 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 193 96 75 minecraft:orange_poplar_leaves[persistent=true] strict
-fill 193 96 77 195 96 77 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 193 96 79 minecraft:orange_poplar_leaves[persistent=true] strict
-fill 193 96 81 195 96 81 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 193 96 83 minecraft:orange_poplar_leaves[persistent=true] strict
-fill 193 96 85 194 96 85 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 193 96 87 minecraft:orange_poplar_leaves[persistent=true] strict
-fill 194 96 73 196 96 73 minecraft:orange_poplar_leaves[persistent=true] strict
-fill 194 96 76 195 96 76 minecraft:orange_poplar_leaves[persistent=true] strict
-fill 194 95 80 194 96 80 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 194 96 84 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 195 96 72 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 195 96 86 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 196 96 82 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 197 96 78 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 197 96 83 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 197 96 85 minecraft:orange_poplar_leaves[persistent=true] strict
-fill 198 96 74 199 96 74 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 198 96 75 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 198 96 77 minecraft:orange_poplar_leaves[persistent=true] strict
-fill 198 96 81 199 96 81 minecraft:orange_poplar_leaves[persistent=true] strict
-fill 199 96 76 200 96 76 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 199 96 80 minecraft:orange_poplar_leaves[persistent=true] strict
-fill 199 96 82 201 96 82 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 200 96 73 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 200 96 78 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 200 96 86 minecraft:orange_poplar_leaves[persistent=true] strict
-fill 201 96 77 202 96 77 minecraft:orange_poplar_leaves[persistent=true] strict
-fill 201 96 79 201 96 80 minecraft:orange_poplar_leaves[persistent=true] strict
-fill 202 96 78 203 96 78 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 202 96 83 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 203 96 76 minecraft:orange_poplar_leaves[persistent=true] strict
-fill 203 95 82 203 96 82 minecraft:orange_poplar_leaves[persistent=true] strict
-fill 188 97 78 188 97 80 minecraft:orange_poplar_leaves[persistent=true] strict
-fill 189 97 77 190 97 77 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 190 97 74 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 190 97 83 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 190 97 85 minecraft:orange_poplar_leaves[persistent=true] strict
-fill 191 96 73 191 97 73 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 191 97 86 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 192 97 75 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 192 97 77 minecraft:orange_poplar_leaves[persistent=true] strict
-fill 192 97 80 192 97 81 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 192 97 84 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 193 97 74 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 193 97 85 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 194 97 73 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 194 97 75 minecraft:orange_poplar_leaves[persistent=true] strict
-fill 194 97 82 194 97 83 minecraft:orange_poplar_leaves[persistent=true] strict
-fill 194 97 86 196 97 86 minecraft:orange_poplar_leaves[persistent=true] strict
-fill 195 96 78 195 97 78 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 195 97 81 minecraft:orange_poplar_leaves[persistent=true] strict
-fill 195 97 84 195 97 85 minecraft:orange_poplar_leaves[persistent=true] strict
-fill 196 97 73 196 97 74 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 196 97 85 minecraft:orange_poplar_leaves[persistent=true] strict
-fill 197 97 72 198 97 72 minecraft:orange_poplar_leaves[persistent=true] strict
-fill 197 97 74 197 97 75 minecraft:orange_poplar_leaves[persistent=true] strict
-fill 197 97 82 198 97 82 minecraft:orange_poplar_leaves[persistent=true] strict
-fill 198 97 76 200 97 76 minecraft:orange_poplar_leaves[persistent=true] strict
-fill 198 97 86 200 97 86 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 199 97 73 minecraft:orange_poplar_leaves[persistent=true] strict
-fill 199 96 83 199 97 83 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 200 97 74 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 200 97 77 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 200 97 82 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 200 97 84 minecraft:orange_poplar_leaves[persistent=true] strict
-fill 201 97 78 201 97 79 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 201 97 81 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 201 97 83 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 201 97 85 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 202 97 82 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 189 98 76 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 189 98 78 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 190 98 75 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 190 98 80 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 191 98 81 minecraft:orange_poplar_leaves[persistent=true] strict
-setblock 192 98 76 minecraft:orange_poplar_leaves[persistent=true] strict
 fill 192 98 83 193 98 83 minecraft:orange_poplar_leaves[persistent=true] strict
 fill 192 98 85 192 98 86 minecraft:orange_poplar_leaves[persistent=true] strict
 setblock 193 98 78 minecraft:orange_poplar_leaves[persistent=true] strict
@@ -239,6 +142,16 @@ fill 125 64 218 127 64 223 minecraft:packed_mud strict
 fill 128 64 221 130 64 223 minecraft:packed_mud strict
 fill 134 64 224 136 64 226 minecraft:packed_mud strict
 fill 137 64 227 139 64 232 minecraft:packed_mud strict
+setblock 32 68 221 minecraft:pink_concrete strict
+fill 31 69 221 33 69 221 minecraft:pink_concrete strict
+fill 30 70 221 34 70 221 minecraft:pink_concrete strict
+fill 29 71 221 35 71 221 minecraft:pink_concrete strict
+fill 28 72 221 36 72 221 minecraft:pink_concrete strict
+fill 27 73 221 37 74 221 minecraft:pink_concrete strict
+fill 27 75 221 31 75 221 minecraft:pink_concrete strict
+fill 33 75 221 37 75 221 minecraft:pink_concrete strict
+fill 28 76 221 30 76 221 minecraft:pink_concrete strict
+fill 34 76 221 36 76 221 minecraft:pink_concrete strict
 fill 35 69 127 35 69 129 minecraft:pink_terracotta strict
 fill 35 69 131 35 69 133 minecraft:pink_terracotta strict
 fill 36 69 126 38 69 126 minecraft:pink_terracotta strict
@@ -1198,5 +1111,92 @@ setblock 185 64 117 minecraft:polished_andesite strict
 setblock 185 64 124 minecraft:polished_andesite strict
 setblock 185 64 199 minecraft:polished_andesite strict
 setblock 185 64 202 minecraft:polished_andesite strict
+fill 186 64 122 187 64 122 minecraft:polished_andesite strict
+setblock 186 64 125 minecraft:polished_andesite strict
+fill 186 64 204 187 64 204 minecraft:polished_andesite strict
+setblock 187 64 117 minecraft:polished_andesite strict
+setblock 188 64 118 minecraft:polished_andesite strict
+fill 188 64 120 188 64 121 minecraft:polished_andesite strict
+setblock 188 64 125 minecraft:polished_andesite strict
+setblock 188 64 199 minecraft:polished_andesite strict
+setblock 188 64 202 minecraft:polished_andesite strict
+setblock 189 64 124 minecraft:polished_andesite strict
+fill 190 64 121 190 64 122 minecraft:polished_andesite strict
+setblock 191 64 122 minecraft:polished_andesite strict
+setblock 192 64 117 minecraft:polished_andesite strict
+setblock 192 64 121 minecraft:polished_andesite strict
+setblock 192 64 123 minecraft:polished_andesite strict
+setblock 192 64 125 minecraft:polished_andesite strict
+fill 192 64 203 193 64 203 minecraft:polished_andesite strict
+setblock 193 64 122 minecraft:polished_andesite strict
+setblock 193 64 202 minecraft:polished_andesite strict
+fill 194 64 118 195 64 118 minecraft:polished_andesite strict
+setblock 195 64 121 minecraft:polished_andesite strict
+setblock 195 64 198 minecraft:polished_andesite strict
+fill 195 64 204 196 64 204 minecraft:polished_andesite strict
+setblock 196 64 119 minecraft:polished_andesite strict
+setblock 196 64 124 minecraft:polished_andesite strict
+setblock 196 64 197 minecraft:polished_andesite strict
+setblock 197 64 120 minecraft:polished_andesite strict
+setblock 197 64 122 minecraft:polished_andesite strict
+fill 198 64 117 199 64 117 minecraft:polished_andesite strict
+setblock 198 64 204 minecraft:polished_andesite strict
+fill 199 64 119 200 64 119 minecraft:polished_andesite strict
+setblock 199 64 202 minecraft:polished_andesite strict
+setblock 200 64 120 minecraft:polished_andesite strict
+setblock 200 64 125 minecraft:polished_andesite strict
+setblock 200 64 204 minecraft:polished_andesite strict
+setblock 201 64 118 minecraft:polished_andesite strict
+setblock 202 64 121 minecraft:polished_andesite strict
+fill 202 64 124 203 64 124 minecraft:polished_andesite strict
+setblock 202 64 125 minecraft:polished_andesite strict
+setblock 202 64 204 minecraft:polished_andesite strict
+setblock 203 64 120 minecraft:polished_andesite strict
+setblock 203 64 203 minecraft:polished_andesite strict
+setblock 204 64 121 minecraft:polished_andesite strict
+setblock 205 64 118 minecraft:polished_andesite strict
+setblock 205 64 199 minecraft:polished_andesite strict
+setblock 206 64 117 minecraft:polished_andesite strict
+setblock 206 64 125 minecraft:polished_andesite strict
+fill 206 64 197 207 64 197 minecraft:polished_andesite strict
+fill 206 64 203 207 64 203 minecraft:polished_andesite strict
+setblock 206 64 204 minecraft:polished_andesite strict
+fill 207 64 124 208 64 124 minecraft:polished_andesite strict
+fill 207 64 199 207 64 200 minecraft:polished_andesite strict
+fill 208 64 200 208 64 201 minecraft:polished_andesite strict
+setblock 209 64 118 minecraft:polished_andesite strict
+fill 209 64 120 212 64 120 minecraft:polished_andesite strict
+setblock 209 64 202 minecraft:polished_andesite strict
+setblock 211 64 117 minecraft:polished_andesite strict
+setblock 211 64 121 minecraft:polished_andesite strict
+setblock 211 64 123 minecraft:polished_andesite strict
+setblock 211 64 197 minecraft:polished_andesite strict
+setblock 211 64 201 minecraft:polished_andesite strict
+fill 212 64 199 213 64 199 minecraft:polished_andesite strict
+setblock 213 64 125 minecraft:polished_andesite strict
+setblock 213 64 201 minecraft:polished_andesite strict
+setblock 214 64 121 minecraft:polished_andesite strict
+setblock 215 64 200 minecraft:polished_andesite strict
+setblock 216 64 120 minecraft:polished_andesite strict
+fill 216 64 122 216 64 123 minecraft:polished_andesite strict
+setblock 216 64 125 minecraft:polished_andesite strict
+setblock 217 64 118 minecraft:polished_andesite strict
+fill 218 64 117 219 64 117 minecraft:polished_andesite strict
+setblock 218 64 125 minecraft:polished_andesite strict
+fill 218 64 197 218 64 198 minecraft:polished_andesite strict
+setblock 219 64 121 minecraft:polished_andesite strict
+setblock 219 64 198 minecraft:polished_andesite strict
+setblock 219 64 201 minecraft:polished_andesite strict
+setblock 220 64 122 minecraft:polished_andesite strict
+setblock 220 64 199 minecraft:polished_andesite strict
+setblock 220 64 203 minecraft:polished_andesite strict
+fill 35 65 106 35 65 115 minecraft:polished_andesite strict
+fill 35 65 153 35 65 157 minecraft:polished_andesite strict
+fill 36 65 105 44 65 105 minecraft:polished_andesite strict
+fill 36 65 116 39 65 116 minecraft:polished_andesite strict
+fill 36 65 152 47 65 152 minecraft:polished_andesite strict
+fill 36 65 158 47 65 158 minecraft:polished_andesite strict
+fill 41 65 116 44 65 116 minecraft:polished_andesite strict
+fill 45 64 106 46 65 115 minecraft:polished_andesite strict
 bossbar set rufu:build value 76
 schedule function rufu:build/p76 1t

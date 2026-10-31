@@ -1,0 +1,3 @@
+playsound minecraft:block.bell.use master @a 32.5 70 226 3 0.9
+summon minecraft:text_display 32.5 68.2 233.5 {Tags:["rufu_rules","rufu_stage"],billboard:"vertical",text:{text:"",extra:[{text:"結婚の試練\n\n",color:"light_purple",bold:true},{text:"・3人全員がクリアしないとやり直し\n",color:"white"},{text:"・1人でも死んだらやり直し\n",color:"white"},{text:"・好感度が0になってもやり直し\n",color:"white"},{text:"・制限時間あり",color:"white"}]},background:-684914658,line_width:240,alignment:"left",transformation:{translation:[0.0f,0.0f,0.0f],left_rotation:[0.0f,0.0f,0.0f,1.0f],right_rotation:[0.0f,0.0f,0.0f,1.0f],scale:[1.8f,1.8f,1.8f]}}
+execute at @e[tag=rufu_rules] run particle minecraft:end_rod ~ ~1 ~ 2 1.5 0.2 0 40 force

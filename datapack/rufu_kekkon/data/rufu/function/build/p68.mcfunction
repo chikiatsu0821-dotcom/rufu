@@ -1,71 +1,3 @@
-setblock 150 59 210 minecraft:gravel strict
-setblock 151 59 41 minecraft:gravel strict
-fill 151 59 208 152 59 208 minecraft:gravel strict
-fill 151 59 211 152 59 211 minecraft:gravel strict
-setblock 151 59 214 minecraft:gravel strict
-fill 152 59 43 153 59 43 minecraft:gravel strict
-fill 152 59 209 155 59 209 minecraft:gravel strict
-fill 153 59 41 154 59 41 minecraft:gravel strict
-setblock 153 59 45 minecraft:gravel strict
-setblock 153 59 47 minecraft:gravel strict
-setblock 153 59 210 minecraft:gravel strict
-fill 153 59 212 154 59 212 minecraft:gravel strict
-setblock 154 59 44 minecraft:gravel strict
-fill 154 59 211 155 59 211 minecraft:gravel strict
-fill 154 59 214 156 59 214 minecraft:gravel strict
-fill 155 59 42 155 59 43 minecraft:gravel strict
-setblock 155 59 47 minecraft:gravel strict
-fill 156 59 41 157 59 41 minecraft:gravel strict
-fill 156 59 44 156 59 45 minecraft:gravel strict
-fill 156 59 213 157 59 213 minecraft:gravel strict
-fill 157 59 43 160 59 43 minecraft:gravel strict
-fill 157 59 45 158 59 45 minecraft:gravel strict
-setblock 157 59 208 minecraft:gravel strict
-setblock 157 59 210 minecraft:gravel strict
-fill 158 59 42 159 59 42 minecraft:gravel strict
-setblock 158 59 211 minecraft:gravel strict
-fill 158 59 214 160 59 214 minecraft:gravel strict
-fill 159 59 44 160 59 44 minecraft:gravel strict
-setblock 159 59 46 minecraft:gravel strict
-fill 160 59 41 163 59 41 minecraft:gravel strict
-fill 160 59 45 164 59 45 minecraft:gravel strict
-fill 160 59 47 163 59 47 minecraft:gravel strict
-fill 160 59 210 161 59 210 minecraft:gravel strict
-fill 161 59 46 162 59 46 minecraft:gravel strict
-fill 161 59 208 165 59 208 minecraft:gravel strict
-fill 161 59 209 162 59 209 minecraft:gravel strict
-fill 161 59 211 162 59 211 minecraft:gravel strict
-fill 162 59 42 165 59 42 minecraft:gravel strict
-setblock 162 59 44 minecraft:gravel strict
-fill 162 59 212 164 59 212 minecraft:gravel strict
-setblock 162 59 214 minecraft:gravel strict
-fill 163 59 210 168 59 210 minecraft:gravel strict
-setblock 164 59 44 minecraft:gravel strict
-fill 164 59 209 165 59 209 minecraft:gravel strict
-fill 164 59 213 165 59 213 minecraft:gravel strict
-fill 165 59 41 166 59 41 minecraft:gravel strict
-fill 165 59 43 167 59 43 minecraft:gravel strict
-setblock 166 59 45 minecraft:gravel strict
-fill 166 59 47 168 59 47 minecraft:gravel strict
-setblock 166 59 212 minecraft:gravel strict
-setblock 167 59 44 minecraft:gravel strict
-fill 167 59 46 169 59 46 minecraft:gravel strict
-fill 167 59 208 169 59 208 minecraft:gravel strict
-setblock 167 59 209 minecraft:gravel strict
-fill 167 59 214 168 59 214 minecraft:gravel strict
-fill 168 59 41 168 59 42 minecraft:gravel strict
-setblock 168 59 45 minecraft:gravel strict
-setblock 168 59 213 minecraft:gravel strict
-setblock 169 59 209 minecraft:gravel strict
-setblock 170 59 42 minecraft:gravel strict
-setblock 170 59 47 minecraft:gravel strict
-fill 170 59 210 170 59 214 minecraft:gravel strict
-setblock 171 59 41 minecraft:gravel strict
-setblock 171 59 43 minecraft:gravel strict
-fill 171 59 45 171 59 46 minecraft:gravel strict
-fill 171 59 208 176 59 208 minecraft:gravel strict
-setblock 171 59 209 minecraft:gravel strict
-fill 171 59 211 171 59 213 minecraft:gravel strict
 fill 172 59 46 174 59 46 minecraft:gravel strict
 fill 172 59 47 173 59 47 minecraft:gravel strict
 setblock 172 59 210 minecraft:gravel strict
@@ -642,17 +574,13 @@ setblock 185 65 181 minecraft:hay_block[axis=y] strict
 setblock 197 65 147 minecraft:hay_block[axis=y] strict
 setblock 197 65 163 minecraft:hay_block[axis=y] strict
 setblock 17 65 216 minecraft:lily_of_the_valley strict
-setblock 19 65 227 minecraft:lily_of_the_valley strict
-setblock 26 65 238 minecraft:lily_of_the_valley strict
 setblock 37 65 104 minecraft:lily_of_the_valley strict
-setblock 38 65 238 minecraft:lily_of_the_valley strict
 setblock 39 65 82 minecraft:lily_of_the_valley strict
 setblock 39 65 181 minecraft:lily_of_the_valley strict
 setblock 40 65 80 minecraft:lily_of_the_valley strict
 setblock 40 65 180 minecraft:lily_of_the_valley strict
 setblock 44 65 177 minecraft:lily_of_the_valley strict
 setblock 51 65 175 minecraft:lily_of_the_valley strict
-setblock 51 65 218 minecraft:lily_of_the_valley strict
 setblock 53 65 88 minecraft:lily_of_the_valley strict
 fill 53 65 90 54 65 90 minecraft:lily_of_the_valley strict
 setblock 53 65 174 minecraft:lily_of_the_valley strict
@@ -733,6 +661,26 @@ fill 56 67 117 56 67 118 minecraft:lime_wool strict
 fill 58 67 117 58 67 118 minecraft:lime_wool strict
 setblock 72 67 118 minecraft:lime_wool strict
 fill 74 67 117 74 67 118 minecraft:lime_wool strict
+setblock 32 67 221 minecraft:magenta_concrete strict
+setblock 31 68 221 minecraft:magenta_concrete strict
+setblock 33 68 221 minecraft:magenta_concrete strict
+setblock 30 69 221 minecraft:magenta_concrete strict
+setblock 34 69 221 minecraft:magenta_concrete strict
+setblock 29 70 221 minecraft:magenta_concrete strict
+setblock 35 70 221 minecraft:magenta_concrete strict
+setblock 28 71 221 minecraft:magenta_concrete strict
+setblock 36 71 221 minecraft:magenta_concrete strict
+setblock 27 72 221 minecraft:magenta_concrete strict
+setblock 37 72 221 minecraft:magenta_concrete strict
+fill 26 73 221 26 75 221 minecraft:magenta_concrete strict
+setblock 32 75 221 minecraft:magenta_concrete strict
+fill 38 73 221 38 75 221 minecraft:magenta_concrete strict
+setblock 27 76 221 minecraft:magenta_concrete strict
+setblock 31 76 221 minecraft:magenta_concrete strict
+setblock 33 76 221 minecraft:magenta_concrete strict
+setblock 37 76 221 minecraft:magenta_concrete strict
+fill 28 77 221 30 77 221 minecraft:magenta_concrete strict
+fill 34 77 221 36 77 221 minecraft:magenta_concrete strict
 fill 48 65 126 48 68 126 minecraft:mangrove_log[axis=y] strict
 fill 48 65 134 48 68 134 minecraft:mangrove_log[axis=y] strict
 fill 150 65 190 150 68 190 minecraft:mangrove_log[axis=y] strict
@@ -1198,5 +1146,57 @@ setblock 96 69 105 minecraft:mossy_cobblestone strict
 fill 96 69 126 97 69 126 minecraft:mossy_cobblestone strict
 fill 96 68 137 96 69 137 minecraft:mossy_cobblestone strict
 setblock 96 69 140 minecraft:mossy_cobblestone strict
+setblock 96 69 146 minecraft:mossy_cobblestone strict
+setblock 97 69 92 minecraft:mossy_cobblestone strict
+fill 97 69 111 97 69 112 minecraft:mossy_cobblestone strict
+setblock 97 69 124 minecraft:mossy_cobblestone strict
+setblock 97 69 129 minecraft:mossy_cobblestone strict
+fill 97 69 142 97 69 143 minecraft:mossy_cobblestone strict
+setblock 97 69 147 minecraft:mossy_cobblestone strict
+setblock 99 69 93 minecraft:mossy_cobblestone strict
+fill 100 69 150 101 69 150 minecraft:mossy_cobblestone strict
+fill 101 69 92 101 69 93 minecraft:mossy_cobblestone strict
+setblock 103 69 149 minecraft:mossy_cobblestone strict
+setblock 104 69 93 minecraft:mossy_cobblestone strict
+setblock 105 69 149 minecraft:mossy_cobblestone strict
+setblock 108 69 150 minecraft:mossy_cobblestone strict
+setblock 110 69 150 minecraft:mossy_cobblestone strict
+setblock 114 69 92 minecraft:mossy_cobblestone strict
+fill 115 69 93 116 69 93 minecraft:mossy_cobblestone strict
+setblock 115 69 150 minecraft:mossy_cobblestone strict
+fill 116 68 92 116 69 92 minecraft:mossy_cobblestone strict
+fill 118 69 149 118 69 150 minecraft:mossy_cobblestone strict
+setblock 121 69 149 minecraft:mossy_cobblestone strict
+setblock 123 69 149 minecraft:mossy_cobblestone strict
+setblock 124 69 92 minecraft:mossy_cobblestone strict
+setblock 127 69 150 minecraft:mossy_cobblestone strict
+fill 132 68 149 132 69 149 minecraft:mossy_cobblestone strict
+setblock 134 69 93 minecraft:mossy_cobblestone strict
+fill 136 68 150 136 69 150 minecraft:mossy_cobblestone strict
+setblock 139 69 92 minecraft:mossy_cobblestone strict
+setblock 139 69 149 minecraft:mossy_cobblestone strict
+fill 141 69 93 144 69 93 minecraft:mossy_cobblestone strict
+setblock 141 69 149 minecraft:mossy_cobblestone strict
+setblock 143 69 92 minecraft:mossy_cobblestone strict
+setblock 148 69 149 minecraft:mossy_cobblestone strict
+setblock 149 69 93 minecraft:mossy_cobblestone strict
+fill 153 69 149 153 69 150 minecraft:mossy_cobblestone strict
+fill 156 69 149 157 69 149 minecraft:mossy_cobblestone strict
+fill 157 69 92 157 69 93 minecraft:mossy_cobblestone strict
+fill 157 69 150 158 69 150 minecraft:mossy_cobblestone strict
+fill 159 69 92 160 69 92 minecraft:mossy_cobblestone strict
+fill 159 69 94 159 69 95 minecraft:mossy_cobblestone strict
+setblock 159 69 100 minecraft:mossy_cobblestone strict
+fill 159 69 107 160 69 107 minecraft:mossy_cobblestone strict
+setblock 159 69 111 minecraft:mossy_cobblestone strict
+setblock 159 69 114 minecraft:mossy_cobblestone strict
+setblock 159 69 126 minecraft:mossy_cobblestone strict
+fill 159 68 136 159 69 137 minecraft:mossy_cobblestone strict
+fill 159 69 147 159 69 148 minecraft:mossy_cobblestone strict
+setblock 160 69 110 minecraft:mossy_cobblestone strict
+setblock 160 69 118 minecraft:mossy_cobblestone strict
+setblock 160 69 131 minecraft:mossy_cobblestone strict
+fill 160 68 134 160 69 134 minecraft:mossy_cobblestone strict
+fill 160 69 141 160 69 142 minecraft:mossy_cobblestone strict
 bossbar set rufu:build value 69
 schedule function rufu:build/p69 1t

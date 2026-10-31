@@ -1,3 +1,9 @@
-execute if score #seq_t rufu matches 10 run tellraw @a[tag=rufu_helper] {text:"🎩 助っ人のふたりは「友人代表」として最前列に座っています（スニークで立てます）",color:"gray"}
-execute if score #seq_t rufu matches 40 run scoreboard players set #lock rufu 0
-execute if score #seq_t rufu matches 40.. run scoreboard players set #seq rufu 0
+execute if score #seq_t rufu matches 1 run playsound minecraft:block.bell.use master @a 128 88 85 4 0.9
+execute if score #seq_t rufu matches 12 run playsound minecraft:block.bell.use master @a 128 88 85 4 0.75
+execute if score #seq_t rufu matches 24 run playsound minecraft:block.bell.use master @a 128 88 85 4 0.9
+execute if score #seq_t rufu matches 36 run playsound minecraft:block.bell.resonate master @a 128 88 85 3 1
+execute if score #seq_t rufu matches 50 run function rufu:seq/s21/t50
+execute if score #seq_t rufu matches 60 run execute positioned 128.5 70 70 run particle minecraft:cherry_leaves ~ ~ ~ 6 3 10 0 120 force
+execute if score #seq_t rufu matches 120 run function rufu:seq/s21/t120
+execute if score #seq_t rufu matches 200 run execute positioned 128.5 70 70 run particle minecraft:cherry_leaves ~ ~ ~ 6 3 10 0 120 force
+execute if score #seq_t rufu matches 200.. run scoreboard players set #seq rufu 0

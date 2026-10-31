@@ -1,71 +1,3 @@
-setblock 181 68 97 minecraft:grass_block strict
-setblock 182 68 62 minecraft:grass_block strict
-setblock 182 68 98 minecraft:grass_block strict
-setblock 183 68 61 minecraft:grass_block strict
-setblock 183 68 99 minecraft:grass_block strict
-setblock 185 68 60 minecraft:grass_block strict
-setblock 185 68 100 minecraft:grass_block strict
-fill 187 68 59 188 68 59 minecraft:grass_block strict
-fill 187 68 101 188 68 101 minecraft:grass_block strict
-fill 190 68 58 194 68 58 minecraft:grass_block strict
-fill 190 68 102 192 68 102 minecraft:grass_block strict
-fill 196 68 58 200 68 58 minecraft:grass_block strict
-fill 198 68 102 200 68 102 minecraft:grass_block strict
-fill 202 68 59 203 68 59 minecraft:grass_block strict
-fill 202 68 101 203 68 101 minecraft:grass_block strict
-setblock 205 68 60 minecraft:grass_block strict
-setblock 205 68 100 minecraft:grass_block strict
-setblock 207 68 61 minecraft:grass_block strict
-setblock 207 68 99 minecraft:grass_block strict
-setblock 208 68 62 minecraft:grass_block strict
-setblock 208 68 98 minecraft:grass_block strict
-setblock 209 68 63 minecraft:grass_block strict
-setblock 209 68 97 minecraft:grass_block strict
-setblock 211 68 64 minecraft:grass_block strict
-setblock 211 68 96 minecraft:grass_block strict
-setblock 212 68 66 minecraft:grass_block strict
-setblock 212 68 94 minecraft:grass_block strict
-setblock 213 68 67 minecraft:grass_block strict
-setblock 213 68 93 minecraft:grass_block strict
-setblock 214 68 68 minecraft:grass_block strict
-setblock 214 68 92 minecraft:grass_block strict
-setblock 215 68 70 minecraft:grass_block strict
-setblock 215 68 90 minecraft:grass_block strict
-fill 216 68 72 216 68 73 minecraft:grass_block strict
-fill 216 68 87 216 68 88 minecraft:grass_block strict
-fill 217 68 75 217 68 79 minecraft:grass_block strict
-fill 217 68 81 217 68 85 minecraft:grass_block strict
-setblock 173 69 80 minecraft:grass_block strict
-fill 174 69 74 174 69 75 minecraft:grass_block strict
-fill 174 69 85 174 69 86 minecraft:grass_block strict
-fill 175 69 71 175 69 72 minecraft:grass_block strict
-fill 175 69 88 175 69 89 minecraft:grass_block strict
-fill 176 69 69 176 69 70 minecraft:grass_block strict
-fill 176 69 90 176 69 91 minecraft:grass_block strict
-setblock 177 69 68 minecraft:grass_block strict
-setblock 177 69 92 minecraft:grass_block strict
-setblock 179 69 65 minecraft:grass_block strict
-setblock 179 69 95 minecraft:grass_block strict
-setblock 180 69 64 minecraft:grass_block strict
-setblock 180 69 96 minecraft:grass_block strict
-setblock 183 69 62 minecraft:grass_block strict
-setblock 183 69 98 minecraft:grass_block strict
-fill 184 69 61 185 69 61 minecraft:grass_block strict
-fill 184 69 99 185 69 99 minecraft:grass_block strict
-fill 186 69 60 187 69 60 minecraft:grass_block strict
-fill 186 69 100 187 69 100 minecraft:grass_block strict
-fill 189 69 59 190 69 59 minecraft:grass_block strict
-fill 189 69 101 190 69 101 minecraft:grass_block strict
-setblock 195 69 58 minecraft:grass_block strict
-fill 200 69 59 201 69 59 minecraft:grass_block strict
-fill 200 69 101 201 69 101 minecraft:grass_block strict
-fill 203 69 60 204 69 60 minecraft:grass_block strict
-fill 203 69 100 204 69 100 minecraft:grass_block strict
-fill 205 69 61 206 69 61 minecraft:grass_block strict
-fill 205 69 99 206 69 99 minecraft:grass_block strict
-setblock 207 69 62 minecraft:grass_block strict
-setblock 207 69 98 minecraft:grass_block strict
-setblock 210 69 64 minecraft:grass_block strict
 setblock 210 69 96 minecraft:grass_block strict
 setblock 211 69 65 minecraft:grass_block strict
 setblock 211 69 95 minecraft:grass_block strict
@@ -1198,5 +1130,73 @@ fill 149 59 213 150 59 213 minecraft:gravel strict
 fill 150 59 44 152 59 44 minecraft:gravel strict
 fill 150 59 46 157 59 46 minecraft:gravel strict
 fill 150 59 47 151 59 47 minecraft:gravel strict
+setblock 150 59 210 minecraft:gravel strict
+setblock 151 59 41 minecraft:gravel strict
+fill 151 59 208 152 59 208 minecraft:gravel strict
+fill 151 59 211 152 59 211 minecraft:gravel strict
+setblock 151 59 214 minecraft:gravel strict
+fill 152 59 43 153 59 43 minecraft:gravel strict
+fill 152 59 209 155 59 209 minecraft:gravel strict
+fill 153 59 41 154 59 41 minecraft:gravel strict
+setblock 153 59 45 minecraft:gravel strict
+setblock 153 59 47 minecraft:gravel strict
+setblock 153 59 210 minecraft:gravel strict
+fill 153 59 212 154 59 212 minecraft:gravel strict
+setblock 154 59 44 minecraft:gravel strict
+fill 154 59 211 155 59 211 minecraft:gravel strict
+fill 154 59 214 156 59 214 minecraft:gravel strict
+fill 155 59 42 155 59 43 minecraft:gravel strict
+setblock 155 59 47 minecraft:gravel strict
+fill 156 59 41 157 59 41 minecraft:gravel strict
+fill 156 59 44 156 59 45 minecraft:gravel strict
+fill 156 59 213 157 59 213 minecraft:gravel strict
+fill 157 59 43 160 59 43 minecraft:gravel strict
+fill 157 59 45 158 59 45 minecraft:gravel strict
+setblock 157 59 208 minecraft:gravel strict
+setblock 157 59 210 minecraft:gravel strict
+fill 158 59 42 159 59 42 minecraft:gravel strict
+setblock 158 59 211 minecraft:gravel strict
+fill 158 59 214 160 59 214 minecraft:gravel strict
+fill 159 59 44 160 59 44 minecraft:gravel strict
+setblock 159 59 46 minecraft:gravel strict
+fill 160 59 41 163 59 41 minecraft:gravel strict
+fill 160 59 45 164 59 45 minecraft:gravel strict
+fill 160 59 47 163 59 47 minecraft:gravel strict
+fill 160 59 210 161 59 210 minecraft:gravel strict
+fill 161 59 46 162 59 46 minecraft:gravel strict
+fill 161 59 208 165 59 208 minecraft:gravel strict
+fill 161 59 209 162 59 209 minecraft:gravel strict
+fill 161 59 211 162 59 211 minecraft:gravel strict
+fill 162 59 42 165 59 42 minecraft:gravel strict
+setblock 162 59 44 minecraft:gravel strict
+fill 162 59 212 164 59 212 minecraft:gravel strict
+setblock 162 59 214 minecraft:gravel strict
+fill 163 59 210 168 59 210 minecraft:gravel strict
+setblock 164 59 44 minecraft:gravel strict
+fill 164 59 209 165 59 209 minecraft:gravel strict
+fill 164 59 213 165 59 213 minecraft:gravel strict
+fill 165 59 41 166 59 41 minecraft:gravel strict
+fill 165 59 43 167 59 43 minecraft:gravel strict
+setblock 166 59 45 minecraft:gravel strict
+fill 166 59 47 168 59 47 minecraft:gravel strict
+setblock 166 59 212 minecraft:gravel strict
+setblock 167 59 44 minecraft:gravel strict
+fill 167 59 46 169 59 46 minecraft:gravel strict
+fill 167 59 208 169 59 208 minecraft:gravel strict
+setblock 167 59 209 minecraft:gravel strict
+fill 167 59 214 168 59 214 minecraft:gravel strict
+fill 168 59 41 168 59 42 minecraft:gravel strict
+setblock 168 59 45 minecraft:gravel strict
+setblock 168 59 213 minecraft:gravel strict
+setblock 169 59 209 minecraft:gravel strict
+setblock 170 59 42 minecraft:gravel strict
+setblock 170 59 47 minecraft:gravel strict
+fill 170 59 210 170 59 214 minecraft:gravel strict
+setblock 171 59 41 minecraft:gravel strict
+setblock 171 59 43 minecraft:gravel strict
+fill 171 59 45 171 59 46 minecraft:gravel strict
+fill 171 59 208 176 59 208 minecraft:gravel strict
+setblock 171 59 209 minecraft:gravel strict
+fill 171 59 211 171 59 213 minecraft:gravel strict
 bossbar set rufu:build value 68
 schedule function rufu:build/p68 1t
