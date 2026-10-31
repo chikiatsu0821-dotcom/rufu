@@ -1,29 +1,35 @@
 services:
   minecraft:
-    image: itzg/minecraft-server:latest
+    image: itzg/minecraft-server:java17
     container_name: mc
     restart: unless-stopped
     tty: true
     stdin_open: true
+    stop_grace_period: 1m
     ports:
       - "${MC_PORT:-25565}:25565"
     env_file: .env
     environment:
-      TYPE: "${SERVER_TYPE:-PAPER}"
-      VERSION: "${MC_VERSION:-LATEST}"
+      TYPE: FORGE
+      VERSION: "${MC_VERSION:-1.20.1}"
+      FORGE_VERSION: "${FORGE_VERSION:-}"
       EULA: "${EULA:-FALSE}"
-      MEMORY: "${MEMORY:-4G}"
+      MEMORY: "${MEMORY:-6G}"
+      LEVEL: "${LEVEL:-world}"
       TZ: "${TZ:-Asia/Tokyo}"
       ENABLE_RCON: "true"
-      RCON_PASSWORD: "${RCON_PASSWORD:?.env に RCON_PASSWORD を設定してください}"
+      RCON_PASSWORD: "${RCON_PASSWORD:?.env に RCON_PASSWORD を設定してください（./mc setup）}"
+      MODRINTH_DOWNLOAD_DEPENDENCIES: required
     volumes:
       - ./data:/data
+      - ./mods:/data/mods
+      - ./config:/data/config
     healthcheck:
       test: ["CMD", "mc-health"]
       interval: 30s
       timeout: 10s
-      retries: 5
-      start_period: 2m
+      retries: 10
+      start_period: 5m
 
   backup:
     image: itzg/mc-backup:latest
@@ -41,4 +47,5 @@ services:
       TZ: "${TZ:-Asia/Tokyo}"
     volumes:
       - ./data:/data:ro
+      - ./config:/data/config:ro
       - ./backups:/backups
