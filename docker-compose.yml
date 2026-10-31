@@ -1,0 +1,44 @@
+services:
+  minecraft:
+    image: itzg/minecraft-server:latest
+    container_name: mc
+    restart: unless-stopped
+    tty: true
+    stdin_open: true
+    ports:
+      - "${MC_PORT:-25565}:25565"
+    env_file: .env
+    environment:
+      TYPE: "${SERVER_TYPE:-PAPER}"
+      VERSION: "${MC_VERSION:-LATEST}"
+      EULA: "${EULA:-FALSE}"
+      MEMORY: "${MEMORY:-4G}"
+      TZ: "${TZ:-Asia/Tokyo}"
+      ENABLE_RCON: "true"
+      RCON_PASSWORD: "${RCON_PASSWORD:?.env に RCON_PASSWORD を設定してください}"
+    volumes:
+      - ./data:/data
+    healthcheck:
+      test: ["CMD", "mc-health"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 2m
+
+  backup:
+    image: itzg/mc-backup:latest
+    container_name: mc-backup
+    restart: unless-stopped
+    depends_on:
+      minecraft:
+        condition: service_healthy
+    environment:
+      RCON_HOST: minecraft
+      RCON_PASSWORD: "${RCON_PASSWORD}"
+      BACKUP_INTERVAL: "${BACKUP_INTERVAL:-6h}"
+      PRUNE_BACKUPS_DAYS: "${PRUNE_BACKUPS_DAYS:-7}"
+      INITIAL_DELAY: "5m"
+      TZ: "${TZ:-Asia/Tokyo}"
+    volumes:
+      - ./data:/data:ro
+      - ./backups:/backups
