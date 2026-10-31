@@ -209,7 +209,8 @@ def predicates():
         it = {"items": items}
         if data:
             it["predicates"] = {"minecraft:custom_data": data}
-        return {"condition": "minecraft:entity_properties", "entity": "this", "predicate": {"equipment": {"mainhand": it}}}
+        # 26.3 format: "type" instead of "condition", entity predicate is a sub-predicate map
+        return {"type": "minecraft:entity_properties", "entity": "this", "predicate": {"minecraft:equipment": {"mainhand": it}}}
     P = {
         "hold_next": hold("minecraft:carrot_on_a_stick", {"rufu_remote": "next"}),
         "hold_again": hold("minecraft:carrot_on_a_stick", {"rufu_remote": "again"}),

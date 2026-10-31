@@ -799,7 +799,13 @@ def main():
     for p in predicates:
         ns, name = p.split(":")
         j = json.load(open(os.path.join(fdir, ns, "predicate", name + ".json")))
-        it = j["predicate"]["equipment"]["mainhand"]["items"]
+        if "condition" in j or "type" not in j:
+            errors.append(f"predicate {p}: 26.3 needs 'type' (not 'condition')")
+            continue
+        if "minecraft:equipment" not in j["predicate"]:
+            errors.append(f"predicate {p}: 26.3 entity predicate needs 'minecraft:equipment' key")
+            continue
+        it = j["predicate"]["minecraft:equipment"]["mainhand"]["items"]
         for x in (it if isinstance(it, list) else [it]):
             if x.startswith("#"):
                 if strip_ns(x[1:]) not in ITEM_TAGS:
